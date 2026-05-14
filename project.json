@@ -1886,7 +1886,7 @@
                 "title": "<unique><name>",
                 "subtitle": "Informationsarchiv",
                 "traits": "Avatar.",
-                "text": "<free> W\u00e4hle 3 Karten von deiner Hand und lege sie ab: L\u00f6se dich von jedem Gegner, der mit dir in einen Kampf verwickelt ist, und bewege dich an einen verbundenen Ort. Ermittler an jedem Ort k\u00f6nnen diese F\u00e4higkeit ausl\u00f6sen.\n",
+                "text": "<free> W\u00e4hle 3 Karten von deiner Hand und lege sie ab: L\u00f6se dich von jedem Gegner, der mit dir in einen Kampf verwickelt ist, und bewege dich an einen verbundenen Ort. Ermittler an jedem Ort k\u00f6nnen diese F\u00e4higkeit ausl\u00f6sen.",
                 "cost": "<dash>",
                 "flavor_text": "",
                 "classes": [
@@ -2641,7 +2641,7 @@
             "name": "Der Quantenstrudel",
             "front": {
                 "type": "agenda",
-                "text": "<act>: <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das Symbol deines Ortes besitzt, und ziehe sie. Falls du dabei einen Ort ziehst, bringe ihn ins Spiel und bewege dich dorthin. Mische das Scan-Deck.",
+                "text": "Test <act>: <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das Symbol deines Ortes besitzt, und ziehe sie. Falls du dabei einen Ort ziehst, bringe ihn ins Spiel und bewege dich dorthin. Mische das Scan-Deck.",
                 "flavor_text": "<center>\u201eIch denke, man kann sicher sagen, dass niemand die Quantenmechanik verstanden hat.\u201c\n<right>-Richard Feynman",
                 "illustration": "./images/quantum mark garlick.jpg",
                 "doom": "3",
