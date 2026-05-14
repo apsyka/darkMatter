@@ -1244,7 +1244,7 @@
                 "title": "<unique><name>",
                 "subtitle": "K\u00fcnstlicher Co-Pilot",
                 "traits": "KI. Maschine.",
-                "text": "Zur\u00fcckhaltend. Alarmiert.\n<act>: <b>Verhandeln.</b> Lege eine <wil>-Probe (3) ab. Wenn die Probe misslingt, greift JV-7 \u201eHyaden\u201c dich an. Wenn die Probe gelingt, w\u00e4hle eines der unten stehenden Symbole. <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das gew\u00e4hlte Symbol besitzt, und ziehe sie. Mische das Scan-Deck.\n<center><image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationClover.png\" 0.23in> <image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationT.png\" 0.23in>",
+                "text": "Zur\u00fcckhaltend. Alarmiert.\n<act>: <b>Verhandlung.</b> Lege eine <wil>-Probe (3) ab. Wenn die Probe misslingt, greift JV-7 \u201eHyaden\u201c dich an. Wenn die Probe gelingt, w\u00e4hle eines der unten stehenden Symbole. <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das gew\u00e4hlte Symbol besitzt, und ziehe sie. Mische das Scan-Deck.\n<center><image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationClover.png\" 0.23in> <image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationT.png\" 0.23in>",
                 "health": "3",
                 "evade": "2",
                 "combat": "2",
@@ -1916,7 +1916,7 @@
                 "name": "Alma",
                 "subtitle": "Umweltkontrollen",
                 "traits": "Avatar.",
-                "text": "<act> Falls sich der Butzemann an einem Ort befindet, der direkt \u00fcber oder unter Almas Ort liegt: <b>Verhandeln.</b> Lege eine <wil>-Probe (2) ab. Falls die Probe gelingt, drehe diese Karte um und handle den Text auf der R\u00fcckseite ab.",
+                "text": "<act> Falls sich der Butzemann an einem Ort befindet, der direkt \u00fcber oder unter Almas Ort liegt: <b>Verhandlung.</b> Lege eine <wil>-Probe (2) ab. Falls die Probe gelingt, drehe diese Karte um und handle den Text auf der R\u00fcckseite ab.",
                 "title": "<unique><name>",
                 "classes": [
                     "neutral"
@@ -1942,7 +1942,7 @@
                 "name": "David",
                 "subtitle": "Antrieb und Energieversorgung",
                 "traits": "Avatar.",
-                "text": "<act> Falls sich der Butzemann an einem Ort befindet, der direkt \u00fcber oder unter Davids Ort liegt: <b>Verhandeln.</b> Lege eine <com>-Probe (2) ab. Falls die Probe gelingt, drehe diese Karte um und handle den Text auf der R\u00fcckseite ab.",
+                "text": "<act> Falls sich der Butzemann an einem Ort befindet, der direkt \u00fcber oder unter Davids Ort liegt: <b>Verhandlung.</b> Lege eine <com>-Probe (2) ab. Falls die Probe gelingt, drehe diese Karte um und handle den Text auf der R\u00fcckseite ab.",
                 "title": "<unique><name>",
                 "cost": "<dash>",
                 "classes": [
@@ -1969,7 +1969,7 @@
                 "name": "Tilde",
                 "subtitle": "Hauptserver",
                 "traits": "Avatar.",
-                "text": "<act> Falls sich der Butzemann an einem Ort befindet, der direkt \u00fcber oder unter Tildes Ort liegt: <b>Verhandeln.</b> Lege eine <int>-Probe (2) ab. Falls die Probe gelingt, drehe diese Karte um und handle den Text auf der R\u00fcckseite ab.",
+                "text": "<act> Falls sich der Butzemann an einem Ort befindet, der direkt \u00fcber oder unter Tildes Ort liegt: <b>Verhandlung.</b> Lege eine <int>-Probe (2) ab. Falls die Probe gelingt, drehe diese Karte um und handle den Text auf der R\u00fcckseite ab.",
                 "title": "<unique><name>",
                 "cost": "<dash>",
                 "classes": [
@@ -1995,7 +1995,7 @@
                 "name": "William",
                 "subtitle": "Intrasolare Navigation",
                 "traits": "Avatar.",
-                "text": "<act> Falls sich der Butzemann an einem Ort befindet, der direkt \u00fcber oder unter Williams Ort liegt: <b>Verhandeln.</b> Lege eine <agi>-Probe (2) ab. Falls die Probe gelingt, drehe diese Karte um und handle den Text auf der R\u00fcckseite ab.",
+                "text": "<act> Falls sich der Butzemann an einem Ort befindet, der direkt \u00fcber oder unter Williams Ort liegt: <b>Verhandlung.</b> Lege eine <agi>-Probe (2) ab. Falls die Probe gelingt, drehe diese Karte um und handle den Text auf der R\u00fcckseite ab.",
                 "title": "<unique><name>",
                 "cost": "<dash>",
                 "classes": [
@@ -3690,7 +3690,7 @@
             "front": {
                 "type": "location",
                 "traits": "Nostalgia II.",
-                "text": "<act> Ermittler an diesem Ort geben als Gruppe 1<per_large> Hinweise aus: <b>Verhandeln.</b> Ziehe die oberste Karte des \u201eBeweise\u201c-Decks und lies sie.",
+                "text": "<act> Ermittler an diesem Ort geben als Gruppe 1<per_large> Hinweise aus: <b>Verhandlung.</b> Ziehe die oberste Karte des \u201eBeweise\u201c-Decks und lies sie.",
                 "flavor_text": "Laut 2C-OES187s Berechnungen hat jedes Crewmitglied der Nostalgia II, \u00fcber das du keine genaueren Informationen besitzt, nur mit einer Wahrscheinlichkeit von etwa 15% \u00fcberlebt. Ob du die ganze Mission f\u00fcr sie riskieren willst, ist deine Entscheidung.",
                 "illustration": "./images/59f2eff22dfd53d9303f34512fccc3bc.jpg",
                 "clues": "2<per>",
@@ -4061,7 +4061,7 @@
             "front": {
                 "type": "enemy",
                 "traits": "Maschine.",
-                "text": "<spawn> Ort mit den meisten Hinweisen.\n<act>: <b>Verhandeln.</b> Lege eine <wil>-Probe (3) ab. Falls die Probe gelingt, lege <name> ab. Falls die Probe misslingt, greift <name> dich an.",
+                "text": "<spawn> Ort mit den meisten Hinweisen.\n<act>: <b>Verhandlung.</b> Lege eine <wil>-Probe (3) ab. Falls die Probe gelingt, lege <name> ab. Falls die Probe misslingt, greift <name> dich an.",
                 "health": "2",
                 "evade": "2",
                 "combat": "4",
@@ -4516,7 +4516,7 @@
             "front": {
                 "type": "enemy",
                 "traits": "Au\u00dferirdisch. Humanoid.",
-                "text": "Zur\u00fcckhaltend.\n<act>: <b>Verhandeln.</b> Lege eine <wil>+<int>-Probe (3) ab. Enth\u00fclle einen zus\u00e4tzlichen Chaosmarker f\u00fcr diese Probe. Falls die Probe gelingt, platziere 1 Hinweis aus dem Markervorrat auf die aktuelle Szene.",
+                "text": "Zur\u00fcckhaltend.\n<act>: <b>Verhandlung.</b> Lege eine <wil>+<int>-Probe (3) ab. Enth\u00fclle einen zus\u00e4tzlichen Chaosmarker f\u00fcr diese Probe. Falls die Probe gelingt, platziere 1 Hinweis aus dem Markervorrat auf die aktuelle Szene.",
                 "health": "1",
                 "evade": "4",
                 "combat": "4",
@@ -6638,7 +6638,7 @@
             "name": "Tassildas Erwachen",
             "front": {
                 "type": "act",
-                "text": "<act>: <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das Symbol deines Ortes besitzt, und ziehe sie. Mische das Scan-Deck.\n<act> Platziere 1 deiner Hinweise auf den Ort mit den meisten Hinweisen: <b>Verhandeln.</b> Du bittest die Kolonien um Hilfe. F\u00fcge Tassilda X Schaden zu. X ist die Anzahl der Storyvorteilskarten im Siegpunktestapel.\n<obj> Wenn Tassilda besiegt wurde, r\u00fccke vor.",
+                "text": "<act>: <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das Symbol deines Ortes besitzt, und ziehe sie. Mische das Scan-Deck.\n<act> Platziere 1 deiner Hinweise auf den Ort mit den meisten Hinweisen: <b>Verhandlung.</b> Du bittest die Kolonien um Hilfe. F\u00fcge Tassilda X Schaden zu. X ist die Anzahl der Storyvorteilskarten im Siegpunktestapel.\n<obj> Wenn Tassilda besiegt wurde, r\u00fccke vor.",
                 "flavor_text": "Wahnsinn und Chaos breiten sich im Weltraum aus. Du musst Tassilda um jeden Preis aufhalten.",
                 "illustration": "./images/1_space.jpg",
                 "clues": "<dash>",
@@ -7596,7 +7596,7 @@
             "front": {
                 "type": "enemy",
                 "traits": "Humanoid. Krimineller.",
-                "text": "<spawn> N\u00e4chstgelegener <b><i>Raumschiff</i></b>-Ort.\n<act> Gib Ressourcen in H\u00f6he der verbliebenen Ausdauer der Raumpiraten aus: <b>Verhandeln.</b> Lege die Raumpiraten ab.",
+                "text": "<spawn> N\u00e4chstgelegener <b><i>Raumschiff</i></b>-Ort.\n<act> Gib Ressourcen in H\u00f6he der verbliebenen Ausdauer der Raumpiraten aus: <b>Verhandlung.</b> Lege die Raumpiraten ab.",
                 "health": "4",
                 "evade": "3",
                 "combat": "3",
