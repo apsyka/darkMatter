@@ -2641,7 +2641,7 @@
             "name": "Der Quantenstrudel",
             "front": {
                 "type": "agenda",
-                "text": "Test <act>: <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das Symbol deines Ortes besitzt, und ziehe sie. Falls du dabei einen Ort ziehst, bringe ihn ins Spiel und bewege dich dorthin. Mische das Scan-Deck.",
+                "text": "<act>: <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das Symbol deines Ortes besitzt, und ziehe sie. Falls du dabei einen Ort ziehst, bringe ihn ins Spiel und bewege dich dorthin. Mische das Scan-Deck.",
                 "flavor_text": "<center>\u201eIch denke, man kann sicher sagen, dass niemand die Quantenmechanik verstanden hat.\u201c\n<right>-Richard Feynman",
                 "illustration": "./images/quantum mark garlick.jpg",
                 "doom": "3",
