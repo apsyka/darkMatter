@@ -120,6 +120,10 @@
                     "a52e37aa-d60d-49e3-b512-e9cfabfdda7e_front": {
                         "x": 600.0,
                         "y": 684.0
+                    },
+                    "9f2b42b3-ec64-4639-93a3-aff2e52e25c4_front": {
+                        "x": 200.0,
+                        "y": 0.0
                     }
                 }
             },
@@ -895,7 +899,7 @@
                 "text": "<reaction> Sobald dir Horror zugef\u00fcgt wird, ersch\u00f6pfe den virtuellen Zugangsschl\u00fcssel: Hebe 1 Horror davon auf.",
                 "cost": "2",
                 "slot": "Accessory",
-                "flavor_text": "\u201eIm Inneren lag in ein vergilbtes Pergament eingewickelt ein gro\u00dfer mit r\u00e4tselhaften Arabesken bedeckter Schl\u00fcssel aus angelaufenem Silber. Eine weitere Erkl\u00e4rung war jedoch nicht beigef\u00fcgt.\u201c\n<right>-H.P. Lovecraft,</i> Der silberne Schl\u00fcssel",
+                "flavor_text": "\u201eIm Inneren lag in ein vergilbtes Pergament eingewickelt ein gro\u00dfer mit r\u00e4tselhaften Arabesken bedeckter Schl\u00fcssel aus angelaufenem Silber. Eine weitere Erkl\u00e4rung war jedoch nicht beigef\u00fcgt.\u201c\n<center>-H.P. Lovecraft, Der silberne Schl\u00fcssel</i> ",
                 "classes": [
                     "neutral"
                 ],
@@ -1379,14 +1383,15 @@
             "front": {
                 "type": "asset",
                 "traits": "Ger\u00e4t.",
-                "text": "<rev> Du darfst diese Karte unter der Kontrolle eines beliebigen Ermittlers ins Spiel bringen.\n<act> Die Ermittler geben als Gruppe 2<per_large> Hinweise aus: <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das unten stehende Symbol besitzt, und ziehe sie. Mische das Scan-Deck.\n<center><image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationClover.png\" 0.23in>",
+                "text": "<rev> Du darfst diese Karte unter der Kontrolle eines beliebigen Ermittlers ins Spiel bringen.\n<act> Die Ermittler geben als Gruppe 2<per_large> Hinweise aus: <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das unten stehende Symbol besitzt, und ziehe sie. Mische das Scan-Deck.\n<center> bild einf\u00fcgen",
                 "cost": "<dash>",
                 "flavor_text": "",
                 "classes": [
                     "neutral"
                 ],
                 "illustration": "./images/mind-machine-interface omen2501.jpg",
-                "illustrator": "Illus. omen2501"
+                "illustrator": "Illus. omen2501",
+                "level": "3"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -2697,8 +2702,8 @@
             "name": "Der Quantenstrudel",
             "front": {
                 "type": "agenda",
-                "text": "<act>: <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das Symbol deines Ortes besitzt, und ziehe sie. Falls du dabei einen Ort ziehst, bringe ihn ins Spiel und bewege dich dorthin. Mische das Scan-Deck.",
-                "flavor_text": "<center>\u201eIch denke, man kann sicher sagen, dass niemand die Quantenmechanik verstanden hat.\u201c\n<right>-Richard Feynman",
+                "text": "<left><act>: <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das Symbol deines Ortes besitzt, und ziehe sie. Falls du dabei einen Ort ziehst, bringe ihn ins Spiel und bewege dich dorthin. Mische das Scan-Deck.",
+                "flavor_text": "<center>\u201eIch denke, man kann sicher sagen, dass <br>niemand die Quantenmechanik <center>verstanden hat.\u201c</center> \n</center><right>-Richard Feynman",
                 "illustration": "./images/quantum mark garlick.jpg",
                 "doom": "3",
                 "index": "1a",
@@ -2719,8 +2724,8 @@
             "name": "Der Quantenstrudel",
             "front": {
                 "type": "agenda",
-                "text": "<act>: <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das Symbol deines Ortes besitzt, und ziehe sie. Falls du dabei einen Ort ziehst, bringe ihn ins Spiel und bewege dich dorthin. Mische das Scan-Deck.\n",
-                "flavor_text": "<center>\u201eIch denke, man kann sicher sagen, dass niemand die Quantenmechanik verstanden hat.\u201c\n<right>-Richard Feynman",
+                "text": "<left><act>: <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das Symbol deines Ortes besitzt, und ziehe sie. Falls du dabei einen Ort ziehst, bringe ihn ins Spiel und bewege dich dorthin. Mische das Scan-Deck.\n",
+                "flavor_text": "<center>\u201eIch denke, man kann sicher sagen, dass <br>niemand die Quantenmechanik <center>verstanden hat.\u201c</center> \n</center><right>-Richard Feynman",
                 "illustration": "./images/quantum mark garlick.jpg",
                 "doom": "3",
                 "index": "1a",
@@ -2741,8 +2746,8 @@
             "name": "Der Quantenstrudel",
             "front": {
                 "type": "agenda",
-                "text": "<act>: <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das Symbol deines Ortes besitzt, und ziehe sie. Falls du dabei einen Ort ziehst, bringe ihn ins Spiel und bewege dich dorthin. Mische das Scan-Deck.",
-                "flavor_text": "<center>\u201eIch denke, man kann sicher sagen, dass niemand die Quantenmechanik verstanden hat.\u201c\n<right>-Richard Feynman",
+                "text": "<left><act>: <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das Symbol deines Ortes besitzt, und ziehe sie. Falls du dabei einen Ort ziehst, bringe ihn ins Spiel und bewege dich dorthin. Mische das Scan-Deck.",
+                "flavor_text": "<center>\u201eIch denke, man kann sicher sagen, dass <br>niemand die Quantenmechanik <center>verstanden hat.\u201c</center> \n</center><right>-Richard Feynman",
                 "illustration": "./images/quantum mark garlick.jpg",
                 "doom": "3",
                 "index": "1a",
@@ -3490,7 +3495,7 @@
             "id": "e1a7a5a5-0441-4cfc-a1f3-8b110c99e26e"
         },
         {
-            "name": "<unique> Weltraum-Artillerie",
+            "name": "Weltraum-Artillerie",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -3503,7 +3508,8 @@
                 ],
                 "icons": "CCC",
                 "illustration": "./images/03b9a7f6a3881c2465afea65aac33716.jpg",
-                "illustrator": "Illus. LeonovichDmitriy"
+                "illustrator": "Illus. LeonovichDmitriy",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "player"
@@ -3514,7 +3520,7 @@
             "id": "775c0cd1-7034-4bac-a3ff-a18c3cd1df2c"
         },
         {
-            "name": "<unique> Das Wesen",
+            "name": "Das Wesen",
             "front": {
                 "type": "enemy",
                 "title": "<unique><name>",
@@ -3529,7 +3535,8 @@
                 "victory": "Sieg 2.",
                 "illustration": "./images/francesco-lorenzetti-the-thing-02.jpg",
                 "illustrator": "Illus. Francesco Lorenzetti",
-                "attack": "4"
+                "attack": "4",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "encounter"
@@ -3808,7 +3815,7 @@
             "id": "23819e5c-03a9-4ea8-b050-2c87f43d781d"
         },
         {
-            "name": "<unique> Adam Tanner",
+            "name": "Adam Tanner",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -3823,7 +3830,8 @@
                     "neutral"
                 ],
                 "illustration": "./images/Reversion_Scientist_CostumeStudy_130611.jpg-nggid03268-ngg0dyn-0x0x100-00f0w010c010r110f110r010t010.jpg",
-                "illustrator": "Illus. Deiv Calviz"
+                "illustrator": "Illus. Deiv Calviz",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -3838,7 +3846,7 @@
             "id": "95916b27-97d4-4c65-815c-cf8402aa11af"
         },
         {
-            "name": "<unique> Captain Burr",
+            "name": "Captain Burr",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -3853,7 +3861,8 @@
                     "neutral"
                 ],
                 "illustration": "./images/burr_by_sharpwriter_d6b2hck-fullview.jpg",
-                "illustrator": "Illus. Sharpwriter"
+                "illustrator": "Illus. Sharpwriter",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -3868,7 +3877,7 @@
             "id": "de282fb0-f434-4d3b-80b3-3c258328bb5e"
         },
         {
-            "name": "<unique> Doktor Feng",
+            "name": "Doktor Feng",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -3883,7 +3892,8 @@
                     "neutral"
                 ],
                 "illustration": "./images/01Untitled.png",
-                "illustrator": "Illus. Carolane Bruneau"
+                "illustrator": "Illus. Carolane Bruneau",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -3898,7 +3908,7 @@
             "id": "10a57c95-d9eb-4fe7-b774-98a35ad92ced"
         },
         {
-            "name": "<unique> Lt. \"Archer\" Michaels",
+            "name": "Lt. \"Archer\" Michaels",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -3913,7 +3923,8 @@
                     "neutral"
                 ],
                 "illustration": "./images/Reversion_Lilith_CostumeStudy_130611.jpg-nggid03263-ngg0dyn-0x0x100-00f0w010c010r110f110r010t010.jpg",
-                "illustrator": "Illus. Deiv Calviz"
+                "illustrator": "Illus. Deiv Calviz",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -3928,7 +3939,7 @@
             "id": "7759baba-8c3a-4dfb-9e56-0c47ee8a1064"
         },
         {
-            "name": "<unique> MR-D12 \u201eMarder\u201c",
+            "name": "MR-D12 \u201eMarder\u201c",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -3942,7 +3953,8 @@
                 "classes": [
                     "neutral"
                 ],
-                "illustration": "./images/192eded67c3b9087c3b85b5b575d3b00.jpg"
+                "illustration": "./images/192eded67c3b9087c3b85b5b575d3b00.jpg",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -3957,7 +3969,7 @@
             "id": "4ff56a9e-2ed3-4f61-8ee2-b293aafd50c2"
         },
         {
-            "name": "<unique> Sophie",
+            "name": "Sophie",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -3972,7 +3984,8 @@
                     "neutral"
                 ],
                 "illustration": "./images/Reversion_Cannibal_CostumeStudy_130611.jpg-nggid03247-ngg0dyn-0x0x100-00f0w010c010r110f110r010t010.jpg",
-                "illustrator": "Illus. Deiv Calviz"
+                "illustrator": "Illus. Deiv Calviz",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -5491,7 +5504,8 @@
                 "flavor_text": "Der D\u00e4mon des Tales wei\u00df nicht, warum die Wasser rot sind, noch wohin sie flie\u00dfen.",
                 "victory": "Sieg 1.",
                 "illustration": "./images/Wallpaper-house-abandoned-dramatic-eerie-creepy-.jpg",
-                "attack": "3"
+                "attack": "3",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "encounter"
@@ -5500,7 +5514,7 @@
             "project_number": "198",
             "encounter_set": "fbc550be-6fef-4010-9152-48a0742abd09",
             "id": "11e55968-2801-4436-a6b2-c0e9dcd0f363",
-            "name": "<unique> D\u00e4mon von Nis"
+            "name": "D\u00e4mon von Nis"
         },
         {
             "name": "Dunkles Spiegelbild (Simulant)",
@@ -5663,7 +5677,7 @@
             "id": "3937674e-84a1-47ea-9401-5d44ca155d37"
         },
         {
-            "name": "<unique> Geist vom Than",
+            "name": "Geist vom Than",
             "front": {
                 "type": "enemy",
                 "title": "<unique><name>",
@@ -5678,7 +5692,8 @@
                 "flavor_text": "Wer bist du?",
                 "victory": "Sieg 1.",
                 "illustration": "./images/d077bd7ef2ab9eb6b9b7a3e9ab988b89.jpg",
-                "attack": "2"
+                "attack": "2",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "encounter"
@@ -6835,7 +6850,7 @@
             "id": "0b06f865-b76d-40e1-a4a0-535c6590df76"
         },
         {
-            "name": "<unique> Tassilda",
+            "name": "Tassilda",
             "front": {
                 "type": "enemy",
                 "title": "<unique><name>",
@@ -6850,7 +6865,8 @@
                 "flavor_text": "Mein Vater wird nicht so h\u00f6flich und gn\u00e4dig zu euch sein.",
                 "illustration": "./images/the_king_in_yellow_by_grivetart_d7iuaog-pre.jpg",
                 "illustrator": "Illus. GrivetArt",
-                "attack": "6"
+                "attack": "6",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "encounter"
@@ -6937,7 +6953,7 @@
             "id": "9d8db9cb-b33e-4198-a5cc-da0df577d724"
         },
         {
-            "name": "<unique> Domaag T\u2019eel",
+            "name": "Domaag T\u2019eel",
             "front": {
                 "type": "enemy",
                 "title": "<unique><name>",
@@ -6952,7 +6968,8 @@
                 "flavor_text": "Ein gigantisches au\u00dferirdisches Wesen, das die Mi-Go \u00fcber Jahrhunderte auf dem Mond gez\u00fcchtet hatten, um die R\u00fcckkehr der Gro\u00dfen Alten zu verz\u00f6gern. Als die irdischen Kultisten es befreiten, ver\u00e4nderten sie die Umlaufbahn des Mondes \u2013 und erweckten so die Gro\u00dfen Alten.",
                 "victory": "Sieg 1.",
                 "illustration": "./images/monster.jpg",
-                "attack": "5"
+                "attack": "5",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "encounter"
@@ -7277,7 +7294,7 @@
             "id": "e179a550-a373-4ef6-a6db-f229a8528705"
         },
         {
-            "name": "<unique> Direktor Cixin",
+            "name": "Direktor Cixin",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -7289,7 +7306,8 @@
                 "classes": [
                     "neutral"
                 ],
-                "illustration": "./images/bf47b3bdbd99b5923a84894f092ee495.jpg"
+                "illustration": "./images/bf47b3bdbd99b5923a84894f092ee495.jpg",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -7406,7 +7424,7 @@
             "id": "4b2077d8-23f0-4d1b-abe5-dacc10ae41b0"
         },
         {
-            "name": "<unique> Die Bleiche Maske",
+            "name": "Die Bleiche Maske",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -7417,7 +7435,8 @@
                 "classes": [
                     "neutral"
                 ],
-                "illustration": "./images/palid mask.png"
+                "illustration": "./images/palid mask.png",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -7488,7 +7507,7 @@
             "id": "35bcd77e-081a-4e5a-b417-d225483eb184"
         },
         {
-            "name": "<unique> Schildgenerator",
+            "name": "Schildgenerator",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -7500,7 +7519,8 @@
                 "classes": [
                     "neutral"
                 ],
-                "illustration": "./images/forcefield.jpg"
+                "illustration": "./images/forcefield.jpg",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -7515,7 +7535,7 @@
             "id": "5cb25879-de73-4840-b038-f91ce86fad09"
         },
         {
-            "name": "<unique> Stasisw\u00fcrfel",
+            "name": "Stasisw\u00fcrfel",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -7527,7 +7547,8 @@
                 "classes": [
                     "neutral"
                 ],
-                "illustration": "./images/stasis cube.jpg"
+                "illustration": "./images/stasis cube.jpg",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -7542,7 +7563,7 @@
             "id": "2ffd06b5-2581-4167-b640-15a254b57b7f"
         },
         {
-            "name": "<unique> Universalarchiv",
+            "name": "Universalarchiv",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -7554,7 +7575,8 @@
                 "classes": [
                     "neutral"
                 ],
-                "illustration": "./images/Alienartefact yoogyart.jpg"
+                "illustration": "./images/Alienartefact yoogyart.jpg",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -8061,7 +8083,7 @@
             "encounter_set": "ac1147f3-f651-4436-b2e1-830ad8fe2d91"
         },
         {
-            "name": "<unique> Spezielle Relativit\u00e4tstheorie",
+            "name": "Spezielle Relativit\u00e4tstheorie",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -8078,7 +8100,8 @@
                 "illustration": "C:/Users/cdpog/Desktop/Dark Matter Final Release PnP/Dark Matter SE/shoggoth_export/images/xx/Purchasable Science Cards/10_Special_Relativity-1.png",
                 "illustration_pan_x": 26.0,
                 "illustration_pan_y": 33.0,
-                "illustration_scale": 2.14
+                "illustration_scale": 2.14,
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "player"
@@ -8362,7 +8385,7 @@
             "encounter_set": "33387e63-1376-4315-90ca-b3480de1dce4"
         },
         {
-            "name": "<unique> Laika",
+            "name": "Laika",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -8378,7 +8401,8 @@
                 ],
                 "illustration": "C:/Users/cdpog/Desktop/Dark Matter Final Release PnP/Dark Matter SE/shoggoth_export/images/xx/Starfall Extra Scanning Cards/15_Laika-1.png",
                 "illustration_pan_x": 51.0,
-                "illustration_pan_y": 42.0
+                "illustration_pan_y": 42.0,
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -8442,7 +8466,7 @@
             "id": "55297c2f-fdf4-4d4f-989f-6afd793a4c67"
         },
         {
-            "name": "<unique> Gro\u00dfe vereinheitlichte Theorie",
+            "name": "Gro\u00dfe vereinheitlichte Theorie",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -8460,7 +8484,8 @@
                 "illustration_pan_y": 39.0,
                 "classes": [
                     "story"
-                ]
+                ],
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "player"
@@ -8471,7 +8496,7 @@
             "id": "5ef56cfe-2c3e-47ae-b4c7-9321a56c8f2a"
         },
         {
-            "name": "<unique> Laika",
+            "name": "Laika",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -8487,7 +8512,8 @@
                 ],
                 "illustration": "C:/Users/cdpog/Desktop/Dark Matter Final Release PnP/Dark Matter SE/shoggoth_export/images/xx/Starfall Extra Scanning Cards/15_Laika-1.png",
                 "illustration_pan_x": 51.0,
-                "illustration_pan_y": 42.0
+                "illustration_pan_y": 42.0,
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "fullart_scanning",
