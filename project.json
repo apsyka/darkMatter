@@ -2,7 +2,47 @@
     "name": "Dunkle Materie",
     "encounter_sets": [
         {
-            "name": "1 - Szenario 1 - Die Tatterdemalion",
+            "name": "Anachronismus",
+            "icon": "./images/Anachronism.png",
+            "id": "9b4b5918-b5ce-449a-907f-59d21f9527fa",
+            "card_amount": 1,
+            "meta": {
+                "tts": {}
+            },
+            "order": 1
+        },
+        {
+            "name": "Dunkle Vergangenheit",
+            "icon": "./images/Dark Past.png",
+            "id": "1652fe8f-adea-440c-b803-041012e776f9",
+            "card_amount": 4,
+            "meta": {
+                "tts": {}
+            },
+            "order": 2
+        },
+        {
+            "name": "Weltall",
+            "icon": "./images/Deep Space.png",
+            "id": "9ffe2e63-acc1-48c9-ad12-6fe41489a87c",
+            "card_amount": 5,
+            "meta": {
+                "tts": {}
+            },
+            "order": 3
+        },
+        {
+            "name": "Endzeit",
+            "icon": "./images/Endtimes.png",
+            "id": "e262f9fc-6ea1-4f35-b745-3c895e76d1b7",
+            "card_amount": 2,
+            "meta": {
+                "tts": {}
+            },
+            "order": 4
+        },
+        {
+            "name": "Die Tatterdemalion",
             "icon": "./images/The Tatterdemalion.png",
             "id": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "card_amount": 35,
@@ -82,10 +122,21 @@
                         "y": 684.0
                     }
                 }
-            }
+            },
+            "order": 5
         },
         {
-            "name": "2 - Szenario 2 - Elektrischer Albtraum",
+            "name": "KI",
+            "icon": "./images/Artificial Intelligence.png",
+            "id": "b69ef0b1-85ab-4a2a-9112-49abc03ea938",
+            "card_amount": 5,
+            "meta": {
+                "tts": {}
+            },
+            "order": 6
+        },
+        {
+            "name": "Elektrischer Albtraum",
             "icon": "./images/Electric Nightmare.png",
             "id": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "card_amount": 33,
@@ -117,7 +168,18 @@
                         "y": 456.0
                     }
                 }
-            }
+            },
+            "order": 7
+        },
+        {
+            "name": "Der Butzemann",
+            "icon": "./images/The Boogeyman.png",
+            "id": "3b1b9f85-9e36-4509-b838-955642e5bc0a",
+            "card_amount": 5,
+            "meta": {
+                "tts": {}
+            },
+            "order": 8
         },
         {
             "name": "3a - Szenario 3a - Verlorene Quanten",
@@ -160,7 +222,8 @@
                         "y": 0.0
                     }
                 }
-            }
+            },
+            "order": 9
         },
         {
             "name": "3b - Szenario 3b - Im Schatten der Erde",
@@ -223,7 +286,8 @@
                         "y": 684.0
                     }
                 }
-            }
+            },
+            "order": 9
         },
         {
             "name": "3c - Szenario 3c - Fremdartige Monde",
@@ -290,7 +354,8 @@
                         "y": 684.0
                     }
                 }
-            }
+            },
+            "order": 9
         },
         {
             "name": "4 - Szenario 4 - Die Maschine in Gelb",
@@ -299,7 +364,8 @@
             "card_amount": 19,
             "meta": {
                 "tts": {}
-            }
+            },
+            "order": 10
         },
         {
             "name": "5 - Szenario 5 - Bruchst\u00fcck von Carcosa",
@@ -308,7 +374,8 @@
             "card_amount": 34,
             "meta": {
                 "tts": {}
-            }
+            },
+            "order": 11
         },
         {
             "name": "6 - Szenario 6 - Sternenschauer",
@@ -317,70 +384,18 @@
             "card_amount": 46,
             "meta": {
                 "tts": {}
-            }
-        },
-        {
-            "name": "B1 - Anachronismus",
-            "icon": "./images/Anachronism.png",
-            "id": "9b4b5918-b5ce-449a-907f-59d21f9527fa",
-            "card_amount": 1,
-            "meta": {
-                "tts": {}
-            }
-        },
-        {
-            "name": "B2 - KI",
-            "icon": "./images/Artificial Intelligence.png",
-            "id": "b69ef0b1-85ab-4a2a-9112-49abc03ea938",
-            "card_amount": 5,
-            "meta": {
-                "tts": {}
-            }
-        },
-        {
-            "name": "B3 - Dunkle Vergangenheit",
-            "icon": "./images/Dark Past.png",
-            "id": "1652fe8f-adea-440c-b803-041012e776f9",
-            "card_amount": 4,
-            "meta": {
-                "tts": {}
-            }
-        },
-        {
-            "name": "B4 - Weltall",
-            "icon": "./images/Deep Space.png",
-            "id": "9ffe2e63-acc1-48c9-ad12-6fe41489a87c",
-            "card_amount": 5,
-            "meta": {
-                "tts": {}
-            }
-        },
-        {
-            "name": "B5 - Endzeit",
-            "icon": "./images/Endtimes.png",
-            "id": "e262f9fc-6ea1-4f35-b745-3c895e76d1b7",
-            "card_amount": 2,
-            "meta": {
-                "tts": {}
-            }
-        },
-        {
-            "name": "B6 - Der Butzemann",
-            "icon": "./images/The Boogeyman.png",
-            "id": "3b1b9f85-9e36-4509-b838-955642e5bc0a",
-            "card_amount": 5,
-            "meta": {
-                "tts": {}
-            }
+            },
+            "order": 12
         },
         {
             "name": "B7 - Hasturs Blick",
-            "icon": "./images/Hastur's Gaze.png",
+            "icon": "/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/Hastur_s Gaze.png",
             "id": "2c9d053c-fd28-4a1f-bc7e-9256d7075507",
             "card_amount": 2,
             "meta": {
                 "tts": {}
-            }
+            },
+            "order": 15
         },
         {
             "name": "B8 - Interstellare J\u00e4ger",
@@ -389,7 +404,8 @@
             "card_amount": 3,
             "meta": {
                 "tts": {}
-            }
+            },
+            "order": 16
         },
         {
             "name": "Erweiterung 1 - Erforscht-Karten",
@@ -463,7 +479,8 @@
             "encounter_number": "1-2",
             "project_number": "1",
             "encounter_set": "9b4b5918-b5ce-449a-907f-59d21f9527fa",
-            "id": "99f73b33-db6d-4b2d-b548-1f57e4916ec2"
+            "id": "99f73b33-db6d-4b2d-b548-1f57e4916ec2",
+            "amount": 2
         },
         {
             "name": "Von der Vergangenheit verfolgt",
@@ -481,7 +498,8 @@
             "encounter_number": "1-2",
             "project_number": "2",
             "encounter_set": "1652fe8f-adea-440c-b803-041012e776f9",
-            "id": "854595db-dc94-4a2c-9d29-30c4bf9fbeb2"
+            "id": "854595db-dc94-4a2c-9d29-30c4bf9fbeb2",
+            "amount": 2
         },
         {
             "name": "Erinnerung (Schwur",
@@ -541,7 +559,7 @@
             "id": "eec16db5-8021-4191-a743-12dda3729107"
         },
         {
-            "name": "<unique> Der Verschlinger aus der Ferne",
+            "name": "Der Verschlinger aus der Ferne",
             "front": {
                 "type": "enemy",
                 "title": "<unique><name>",
@@ -556,7 +574,8 @@
                 "victory": "Sieg 1.",
                 "illustration": "./images/hastur2 chase norton.jpg",
                 "illustrator": "Illus. Chase Norton",
-                "attack": "3"
+                "attack": "3",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -607,7 +626,8 @@
             "encounter_number": "3-4",
             "project_number": "9",
             "encounter_set": "9ffe2e63-acc1-48c9-ad12-6fe41489a87c",
-            "id": "2dbb9537-a1e9-48d9-b568-e1323576d5c9"
+            "id": "2dbb9537-a1e9-48d9-b568-e1323576d5c9",
+            "amount": 2
         },
         {
             "name": "Mikrometeorit",
@@ -624,7 +644,8 @@
             "encounter_number": "5-6",
             "project_number": "10",
             "encounter_set": "9ffe2e63-acc1-48c9-ad12-6fe41489a87c",
-            "id": "1966b427-d8ff-46ac-a2b9-b6e7f83c7117"
+            "id": "1966b427-d8ff-46ac-a2b9-b6e7f83c7117",
+            "amount": 2
         },
         {
             "name": "Die Farben des Alls",
@@ -642,7 +663,8 @@
             "encounter_number": "7-8",
             "project_number": "11",
             "encounter_set": "9ffe2e63-acc1-48c9-ad12-6fe41489a87c",
-            "id": "34a1682d-8565-491c-9f1d-14ec239a7e47"
+            "id": "34a1682d-8565-491c-9f1d-14ec239a7e47",
+            "amount": 2
         },
         {
             "name": "D\u00fcstere Zukunft",
@@ -659,7 +681,8 @@
             "encounter_number": "1-2",
             "project_number": "12",
             "encounter_set": "e262f9fc-6ea1-4f35-b745-3c895e76d1b7",
-            "id": "e645a746-7b5e-4597-90c9-6e9a5c417f88"
+            "id": "e645a746-7b5e-4597-90c9-6e9a5c417f88",
+            "amount": 2
         },
         {
             "name": "B\u00f6ses aus ferner Zukunft",
@@ -677,7 +700,8 @@
             "encounter_number": "3-5",
             "project_number": "13",
             "encounter_set": "e262f9fc-6ea1-4f35-b745-3c895e76d1b7",
-            "id": "7ef19021-a78b-453c-8bf3-b0f6cd6f35cf"
+            "id": "7ef19021-a78b-453c-8bf3-b0f6cd6f35cf",
+            "amount": 3
         },
         {
             "name": "Die Tatterdemalion",
@@ -688,7 +712,7 @@
                         "token": [
                             "skull"
                         ],
-                        "text": "-X. X ist die Anzahl der <b><i>KI</i></b>-<br>Karten in deiner Bedrohungs-<br>zone."
+                        "text": "-X. X ist die Anzahl der <t>KI</t>-<br>Karten in deiner Bedrohungs-<br>zone."
                     },
                     {
                         "token": [
@@ -697,7 +721,8 @@
                         "text": "-2. Falls die Probe misslingt, platziere 1 deiner Hinweise auf deinen Ort."
                     }
                 ],
-                "difficulty": "EINFACH / NORMAL"
+                "difficulty": "EINFACH / NORMAL",
+                "collection": "<esn>/<est>        <exi> <exn>"
             },
             "back": {
                 "type": "chaos",
@@ -706,7 +731,7 @@
                         "token": [
                             "skull"
                         ],
-                        "text": "-X. X ist die Anzahl der <b><i>KI</i></b>-<br>Karten im Spiel."
+                        "text": "-X. X ist die Anzahl der <t>KI</t>-<br>Karten im Spiel."
                     },
                     {
                         "token": [
@@ -727,7 +752,7 @@
             "front": {
                 "type": "agenda",
                 "text": "<left>Du kannst nicht aufgeben.\n<i>(Achtung: Wenn diese Agenda vorr\u00fcckt, explodiert das Schiff und alle an Bord sterben.)</i>",
-                "flavor_text": "Du versuchst noch, die Situation, in der du dich befindest, ganz zu verstehen, als ein dr\u00f6hnender Alarm deine Gedanken unterbricht:\n<center><family \"Agency FB\"><i>WARNUNG.\n<vs>\nANTRIEBSSTABILIT\u00c4T BEI 7%.\n<vs>\nENERGIEVERSORGUNG SCHWER BESCH\u00c4DIGT.\n<vs>\nSOFORTIGE MA\u00dfNAHMEN ERFORDERLICH.</family></i>",
+                "flavor_text": "Du versuchst noch, die Situation, in der du dich befindest, ganz zu verstehen, als ein dr\u00f6hnender Alarm deine Gedanken unterbricht:\n<font \"/run/media/felix/D0D6C116D6C0FE2A/darkMatter/fonts/AgencyFB.ttf\"><center><i WARNUNG.\nANTRIEBSSTABILIT\u00c4T BEI 7%.\nENERGIEVERSORGUNG SCHWER BESCH\u00c4DIGT.\nSOFORTIGE MA\u00dfNAHMEN ERFORDERLICH.</i>",
                 "illustration": "./images/0_space.jpg",
                 "index": "1a",
                 "doom": "7"
@@ -761,7 +786,7 @@
                 "name": "<unique> ULR-A21 \u201eDemhe\u201c",
                 "subtitle": "Unbemannter Laderoboter",
                 "traits": "KI. Maschine. Elite.",
-                "text": "<spawn> Frachtraum.\nJ\u00e4ger.\nSolange ULR-A21 \u201eDemhe\u201c sich bewegt oder Ermittler in einen Kampf verwickelt, ignoriert er alle Ermittler, in deren Bedrohungszone sich keine <b><i>KI</i></b>-Karte befindet.\n",
+                "text": "<spawn> Frachtraum.\nJ\u00e4ger.\nSolange ULR-A21 \u201eDemhe\u201c sich bewegt oder Ermittler in einen Kampf verwickelt, ignoriert er alle Ermittler, in deren Bedrohungszone sich keine <t>KI</t>-Karte befindet.\n",
                 "title": "<unique><name>",
                 "health": "3<per>",
                 "combat": "5<per>",
@@ -810,7 +835,7 @@
             "back": {
                 "type": "act_back",
                 "name": "Systeme online",
-                "text": "Mische das beiseitegelegte Begegnungsset <i>K\u00fcnstliche Intelligenz</i> zusammen mit dem Begegnungs-Ablagestapel in das Begegnungs-<br>deck. Dieses Begegnungsset kann an folgendem Symbol erkannt werden:\n<center><image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Begegnungsset-Symbole\\KI.png\" 0.25in>\n<left>R\u00fccke zu Agenda 2a und Szene 2a vor. Entferne dabei kein Verderben aus dem Spiel. Bewege alle Verderbensmarker von Agenda 1a auf Agenda 2a.\n\n\n",
+                "text": "Mische das beiseitegelegte Begegnungsset <i>K\u00fcnstliche Intelligenz</i> zusammen mit dem Begegnungs-Ablagestapel in das Begegnungs-<br>deck. Dieses Begegnungsset kann an folgendem Symbol erkannt werden:\n<center><image src\"./images/Artifical Intelligence.png\"></center>\n<left>R\u00fccke zu Agenda 2a und Szene 2a vor. Entferne dabei kein Verderben aus dem Spiel. Bewege alle Verderbensmarker von Agenda 1a auf Agenda 2a.\n\n\n",
                 "flavor_text": "Als das Ionentriebwerk seinen Neustart beginnt, geht die Not-<br>beleuchtung aus. Alles wird dunkel. Vor dir blitzt ein Bild auf \u2013 eine Erinnerung. Du stehst vor einem gro\u00dfen goldenen Palast, der \u00e4lter ist als die Zeit selbst. Ein Thron f\u00fcr eine K\u00f6nigin, die \u00fcber die unendliche Leere eines sonnenlosen Weltalls herrscht. Als die glimmende Haupt-<br>beleuchtung wieder angeht, hallt ein spitzer Schrei aus dem Kommunikationssystem. Es ist der Klang mehrerer robotischer Kinderstimmen, die im Gleichklang schreien: \u201eEindringlinge entdeckt! Geht weg! Bitte lasst uns in Ruhe!\u201c"
             },
             "encounter_number": "5",
@@ -850,11 +875,10 @@
                 "index": "3a"
             },
             "back": {
-                "type": "act_back",
+                "type": "act_agenda_full_back",
                 "illustration": "./images/gate - unknown.jpg",
                 "name": "<size 75> Durch die Tore der virtuellen Traumlande",
-                "flavor_text": "<i>Indem du die K\u00e4lteschlafkapseln mit dem Hauptcomputer verbindest, kannst du dein bald wieder tr\u00e4umendes Selbst in die gemeinsamen Tr\u00e4ume von 2C-OES187 hochladen.\n",
-                "text": "Du legst dich erneut in deinen Sarg und aktivierst die Schlafsequenz der Maschine\u2026(<resolution><b>A2</b>)"
+                "flavor_text": "Indem du die K\u00e4lteschlafkapseln mit dem Hauptcomputer verbindest, kannst du dein bald wieder tr\u00e4umendes Selbst in die gemeinsamen Tr\u00e4ume von 2C-OES187 hochladen. Du legst dich erneut in deinen Sarg und aktivierst die Schlafsequenz der Maschine\u2026</i>(<resolution><b>A2</b>)"
             },
             "encounter_number": "7",
             "project_number": "20",
@@ -862,7 +886,7 @@
             "id": "7b2ad99b-9090-4fb6-9881-f019ceab8399"
         },
         {
-            "name": "<unique>Virtueller Zugangsschl\u00fcssel",
+            "name": "Virtueller Zugangsschl\u00fcssel",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -876,7 +900,8 @@
                     "neutral"
                 ],
                 "icons": "WQQ",
-                "illustration": "./images/key - unknown.jpg"
+                "illustration": "./images/key - unknown.jpg",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "player"
@@ -1149,7 +1174,7 @@
             "front": {
                 "type": "asset",
                 "traits": "Gegenstand. R\u00fcstung.",
-                "text": "<rev> Du darfst diese Karte unter der Kontrolle eines beliebigen Ermittlers ins Spiel bringen.\n<act><act> Falls du dich an einem <b><i>Zugangspunkt</i></b>-Ort befindest: Bewege dich an einen anderen <b><i>Zugangspunkt</i></b>-Ort. <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das unten stehende Symbol besitzt, und ziehe sie. Mische das Scan-Deck.\n<center><image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationStar.png\" 0.23in>",
+                "text": "<rev> Du darfst diese Karte unter der Kontrolle eines beliebigen Ermittlers ins Spiel bringen.\n<act><act> Falls du dich an einem <t>Zugangspunkt</t>-Ort befindest: Bewege dich an einen anderen <t>Zugangspunkt</t>-Ort. <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das unten stehende Symbol besitzt, und ziehe sie. Mische das Scan-Deck.\n<center><image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationStar.png\" 0.23in>",
                 "cost": "<dash>",
                 "slot": "Body",
                 "health": "2",
@@ -1193,7 +1218,7 @@
             "id": "339f64de-8f89-44eb-b44c-3c65e81c81d6"
         },
         {
-            "name": "<unique> Carcosas Erbin",
+            "name": "Carcosas Erbin",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -1205,7 +1230,8 @@
                 "illustration": "./images/language - unknown.jpg",
                 "classes": [
                     "story weakness"
-                ]
+                ],
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -1238,7 +1264,7 @@
             "id": "ed1e7595-27db-4c01-9c86-57ff179cb62d"
         },
         {
-            "name": "<unique> JV-7 \u201eHyaden\u201c",
+            "name": "JV-7 \u201eHyaden\u201c",
             "front": {
                 "type": "enemy",
                 "title": "<unique><name>",
@@ -1254,7 +1280,8 @@
                 "victory": "Sieg 0.",
                 "illustration": "./images/603802f42316f5542ca2608ed8552f8d.jpg",
                 "illustrator": "Illus. GG-arts",
-                "attack": "2"
+                "attack": "2",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -1288,7 +1315,7 @@
             "id": "c57b247d-a3fd-43f9-a3aa-fd23a191f92d"
         },
         {
-            "name": "<unique> LR-02 \u201eHali\u201c",
+            "name": "LR-02 \u201eHali\u201c",
             "front": {
                 "type": "enemy",
                 "title": "<unique><name>",
@@ -1303,7 +1330,8 @@
                 "victory": "Sieg 1.",
                 "illustration": "./images/robot - frankie perez.jpg",
                 "illustrator": "Illus. Frankie Perez",
-                "attack": "3"
+                "attack": "3",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -1502,7 +1530,8 @@
             "encounter_number": "31-32",
             "project_number": "44",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
-            "id": "de758b88-4e1c-4a7e-9ae3-35908b80740d"
+            "id": "de758b88-4e1c-4a7e-9ae3-35908b80740d",
+            "amount": 2
         },
         {
             "name": "Kabinendruck",
@@ -1520,7 +1549,8 @@
             "encounter_number": "33-34",
             "project_number": "45",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
-            "id": "3e19a352-a71c-4fa9-a7e0-d7911db533bf"
+            "id": "3e19a352-a71c-4fa9-a7e0-d7911db533bf",
+            "amount": 2
         },
         {
             "name": "K\u00fchlmittel-Leck",
@@ -1538,14 +1568,15 @@
             "encounter_number": "35-36",
             "project_number": "46",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
-            "id": "f69152ef-2b0d-4d13-b419-4e56b0af7c84"
+            "id": "f69152ef-2b0d-4d13-b419-4e56b0af7c84",
+            "amount": 2
         },
         {
             "name": "Dekompression",
             "front": {
                 "type": "treachery",
                 "traits": "Gefahr.",
-                "text": "<rev> H\u00e4nge diese Karte an den n\u00e4chstgelegenen <b><i>Zugangspunkt</i></b>-Ort an.\n<for> Am Ende der Runde: Jeder Ermittler am Ort mit dieser Verst\u00e4rkung, der keinen Raumanzug kontrolliert, nimmt 3 direkte Schaden. Lege Dekompression ab",
+                "text": "<rev> H\u00e4nge diese Karte an den n\u00e4chstgelegenen <t>Zugangspunkt</t>-Ort an.\n<for> Am Ende der Runde: Jeder Ermittler am Ort mit dieser Verst\u00e4rkung, der keinen Raumanzug kontrolliert, nimmt 3 direkte Schaden. Lege Dekompression ab",
                 "flavor_text": "\u201eFlatsch.\u201c",
                 "illustration": "./images/decompression - mesozord.jpg",
                 "illustrator": "Illus. Mesozord"
@@ -1556,14 +1587,15 @@
             "encounter_number": "37-38",
             "project_number": "47",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
-            "id": "00611aac-7426-4bba-878a-9e0d0d62ce05"
+            "id": "00611aac-7426-4bba-878a-9e0d0d62ce05",
+            "amount": 2
         },
         {
             "name": "Hohe Strahlenbelastung",
             "front": {
                 "type": "treachery",
                 "traits": "Gefahr.",
-                "text": "<rev> Lege eine <agi>- oder <com>-Probe (3) ab. Wenn die Probe misslingt, nehmen du und jede <b><i>Verb\u00fcndeter</i></b>-Vorteilskarte, die du kontrollierst, 1 direkten Schaden. Falls du Strahlentabletten kontrollierst, gelingt diese Probe automatisch.",
+                "text": "<rev> Lege eine <agi>- oder <com>-Probe (3) ab. Wenn die Probe misslingt, nehmen du und jede <t>Verb\u00fcndeter</t>-Vorteilskarte, die du kontrollierst, 1 direkten Schaden. Falls du Strahlentabletten kontrollierst, gelingt diese Probe automatisch.",
                 "flavor_text": "Die gr\u00f6\u00dfte Quelle ionisierender Strahlung sind solare Partikelereignisse \u2013 das ist der Nachteil einer Sonne.",
                 "illustration": "./images/radiation - Dean Triolo.jpg",
                 "illustrator": "Illus. Dean Triolo"
@@ -1574,7 +1606,8 @@
             "encounter_number": "39-40",
             "project_number": "48",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
-            "id": "4f2c9b3d-aa24-4333-81f4-d16fad37ad41"
+            "id": "4f2c9b3d-aa24-4333-81f4-d16fad37ad41",
+            "amount": 2
         },
         {
             "name": "Das allsehende Auge",
@@ -1595,14 +1628,15 @@
             "encounter_number": "1-3",
             "project_number": "49",
             "encounter_set": "b69ef0b1-85ab-4a2a-9112-49abc03ea938",
-            "id": "21235b47-c5e4-44dd-99e4-3f777f7a07b9"
+            "id": "21235b47-c5e4-44dd-99e4-3f777f7a07b9",
+            "amount": 3
         },
         {
             "name": "Elektrische Entladung",
             "front": {
                 "type": "treachery",
                 "traits": "Gefahr.",
-                "text": "<rev> Lege eine <agi>-Probe (2) ab. Diese Probe bekommt +1 Schwierigkeit f\u00fcr jede <b><i>KI</i></b>-Karte in deiner Bedrohungszone. Falls die Probe miss-<br>lingt, nimmt jeder Ermittler an deinem Ort 1 Schaden, und Elektrische Entladung erh\u00e4lt <br>Nachr\u00fcsten.",
+                "text": "<rev> Lege eine <agi>-Probe (2) ab. Diese Probe bekommt +1 Schwierigkeit f\u00fcr jede <t>KI</t>-Karte in deiner Bedrohungszone. Falls die Probe miss-<br>lingt, nimmt jeder Ermittler an deinem Ort 1 Schaden, und Elektrische Entladung erh\u00e4lt <br>Nachr\u00fcsten.",
                 "flavor_text": "Elektrische Blitze entladen sich aus den nahe gelegenen Ger\u00e4ten genau in deine Richtung.",
                 "illustration": "./images/electricity - Bruce Rolff.jpg",
                 "illustrator": "Illus. Bruce Rolff"
@@ -1613,14 +1647,15 @@
             "encounter_number": "4-5",
             "project_number": "50",
             "encounter_set": "b69ef0b1-85ab-4a2a-9112-49abc03ea938",
-            "id": "10fec7f7-10f9-4e49-812f-15f9c1066beb"
+            "id": "10fec7f7-10f9-4e49-812f-15f9c1066beb",
+            "amount": 2
         },
         {
             "name": "Halluzinatorische Hologramme",
             "front": {
                 "type": "treachery",
                 "traits": "Schrecken.",
-                "text": "Wagnis. Verborgen.\n<rev> F\u00fcge diese Karte geheim deiner Hand hinzu.\n<for> Am Ende deines Zuges, falls sich mindestens 1 <b><i>KI</i></b>-Karte in deiner Bedrohungszone befindet: Nimm 2 Horror und lege <name> ab.\n<act><act>: Lege <name> ab.",
+                "text": "Wagnis. Verborgen.\n<rev> F\u00fcge diese Karte geheim deiner Hand hinzu.\n<for> Am Ende deines Zuges, falls sich mindestens 1 <t>KI</t>-Karte in deiner Bedrohungszone befindet: Nimm 2 Horror und lege <name> ab.\n<act><act>: Lege <name> ab.",
                 "flavor_text": "",
                 "illustration": "./images/ghost - unknown.jpg",
                 "illustrator": "Illus. Unknown"
@@ -1631,14 +1666,15 @@
             "encounter_number": "6-7",
             "project_number": "51",
             "encounter_set": "b69ef0b1-85ab-4a2a-9112-49abc03ea938",
-            "id": "25e07e17-7653-42e2-8209-e2e497dd2c98"
+            "id": "25e07e17-7653-42e2-8209-e2e497dd2c98",
+            "amount": 2
         },
         {
             "name": "Prognostischer Algorithmus",
             "front": {
                 "type": "treachery",
                 "traits": "KI. Komplott.",
-                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\nSolange du einen <b><i>KI</i></b>-Gegner angreifst oder versuchst, einem <b><i>KI</i></b>-Gegner zu entkommen, bekommst du -1 auf jede deiner Fertigkeiten.\n<act> W\u00e4hle 2 Karten von deiner Hand und lege sie ab: Lege <name> ab.",
+                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\nSolange du einen <t>KI</t>-Gegner angreifst oder versuchst, einem <t>KI</t>-Gegner zu entkommen, bekommst du -1 auf jede deiner Fertigkeiten.\n<act> W\u00e4hle 2 Karten von deiner Hand und lege sie ab: Lege <name> ab.",
                 "flavor_text": "",
                 "illustration": "./images/deep_dream - Rein Bijlsma.jpg",
                 "illustrator": "Illus. Rein Bijlsma"
@@ -1649,7 +1685,8 @@
             "encounter_number": "8-9",
             "project_number": "52",
             "encounter_set": "b69ef0b1-85ab-4a2a-9112-49abc03ea938",
-            "id": "2ba11b43-5f45-4deb-bfb5-c8f57fd565c5"
+            "id": "2ba11b43-5f45-4deb-bfb5-c8f57fd565c5",
+            "amount": 2
         },
         {
             "name": "Spinnenbot",
@@ -1673,7 +1710,8 @@
             "encounter_number": "10-12",
             "project_number": "53",
             "encounter_set": "b69ef0b1-85ab-4a2a-9112-49abc03ea938",
-            "id": "8ca9af5f-bfcb-4464-b3d2-353527379722"
+            "id": "8ca9af5f-bfcb-4464-b3d2-353527379722",
+            "amount": 3
         },
         {
             "name": "Elektrischer Albtraum",
@@ -1755,7 +1793,7 @@
             "name": "<family \"Chiller\"><b><size 15.0>ES</size></b></family>",
             "front": {
                 "type": "agenda",
-                "text": "<center><family \"Chiller\"><size 15.0>Ha-HA! Ha-HA! Ha-HA!\nWollt ihr nicht mit mir spielen?</size>\n<left>Jeder Ort ist mit jedem benachbarten Ort verbunden.\n<for> Zu Beginn der Gegnerphase: Platziere 1 Verderben auf jede <b><i>Avatar</i></b>-Storyvorteilskarte, die sich am selben Ort wie der Butzemann befindet.",
+                "text": "<center><family \"Chiller\"><size 15.0>Ha-HA! Ha-HA! Ha-HA!\nWollt ihr nicht mit mir spielen?</size>\n<left>Jeder Ort ist mit jedem benachbarten Ort verbunden.\n<for> Zu Beginn der Gegnerphase: Platziere 1 Verderben auf jede <t>Avatar</t>-Storyvorteilskarte, die sich am selben Ort wie der Butzemann befindet.",
                 "flavor_text": "",
                 "illustration": "./images/glitch art - unknown.jpg",
                 "doom": "10",
@@ -1839,7 +1877,7 @@
             "name": "Psychoanalyse",
             "front": {
                 "type": "act",
-                "text": "<free>Die Ermittler geben als Gruppe 1<per_large> Hinweise aus: Tausche zwei benachbarte Orte miteinander.\n<obj> Wenn die <b><i>Schule</i></b>-Orte am Ende der Runde nach folgendem Muster angeordnet sind, r\u00fccke vor.\n                  <image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationCircle.png\" 0.22in> <image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationSquare.png\" 0.22in> <image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationTriangle.png\" 0.22in>\n                  <image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationCross.png\" 0.22in> <image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationSlash.png\" 0.22in> <image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationMoon.png\" 0.22in>",
+                "text": "<free>Die Ermittler geben als Gruppe 1<per_large> Hinweise aus: Tausche zwei benachbarte Orte miteinander.\n<obj> Wenn die <t>Schule</t>-Orte am Ende der Runde nach folgendem Muster angeordnet sind, r\u00fccke vor.\n                  <image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationCircle.png\" 0.22in> <image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationSquare.png\" 0.22in> <image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationTriangle.png\" 0.22in>\n                  <image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationCross.png\" 0.22in> <image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationSlash.png\" 0.22in> <image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationMoon.png\" 0.22in>",
                 "flavor_text": "Der Aufbau des Geb\u00e4udes wurde v\u00f6llig durcheinandergebracht und bildet ein unm\u00f6gliches Labyrinth. Du musst das ehemalige Selbst der Schule wiederherstellen, bevor du die Kinder finden kannst.",
                 "illustration": "./images/apple - robert huckestein.jpg",
                 "clues": "<dash>",
@@ -1850,7 +1888,7 @@
                 "type": "act_back",
                 "name": "Nur ein schlechter Traum",
                 "flavor_text": "Als die Simulation der Schule endlich wiederhergestellt ist, schreit ein Chor aus Kinderstimmen wahnsinnig vor Angst \u00fcber das Funksystem: \u201eWas hast du getan? Wir haben die Schule durcheinandergebracht, damit der Butzemann uns nicht findet! Jetzt wird er uns fressen!\u201c Dir wird klar, dass der Schaden an der Simulation und der Butzemann nicht durch \u00e4u\u00dfere Einfl\u00fcsse entstanden sind \u2013 sie sind Manifestationen des Wahnsinns der Kinder, die Verk\u00f6rperung ihrer \u00c4ngste. Was kann sie derart an den Rand der Verzweiflung getrieben haben? Egal. Wenn du sie davon \u00fcberzeugst, dass das Monster nur aus ihrer eigenen simulierten Fantasie entstanden ist, kannst du sie vielleicht retten, bevor ihre Panik sie komplett verschlingt.",
-                "text": "Falls der Butzemann nicht im Spiel ist, erscheint der beiseitegelegte Gegner Der Butzemann in der Eingangshalle. Enth\u00fclle alle verh\u00fcllten Orte.\nBringe jeweils eine zuf\u00e4llig bestimmte der beiseitegelegten <i><b>Avatar</b></i>-Storyvorteilskarten an jedem der folgenden Orte ins Spiel: Klassenzimmer der 2C, B\u00fccherei, Sporthalle und Biologie-Labor.\nFalls sich der Butzemann jetzt am selben Ort wie eine <b><i>Avatar</i></b>-Storyvorteilskarte befindet, bewege jene <b><i>Avatar</i></b>-Storyvorteilskarte in die Cafeteria."
+                "text": "Falls der Butzemann nicht im Spiel ist, erscheint der beiseitegelegte Gegner Der Butzemann in der Eingangshalle. Enth\u00fclle alle verh\u00fcllten Orte.\nBringe jeweils eine zuf\u00e4llig bestimmte der beiseitegelegten <i><b>Avatar</b></i>-Storyvorteilskarten an jedem der folgenden Orte ins Spiel: Klassenzimmer der 2C, B\u00fccherei, Sporthalle und Biologie-Labor.\nFalls sich der Butzemann jetzt am selben Ort wie eine <t>Avatar</t>-Storyvorteilskarte befindet, bewege jene <t>Avatar</t>-Storyvorteilskarte in die Cafeteria."
             },
             "encounter_number": "7",
             "project_number": "60",
@@ -1880,7 +1918,7 @@
             "id": "3b88496a-aa26-45a6-9b99-e1151477e689"
         },
         {
-            "name": "<unique> Maja",
+            "name": "Maja",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -1893,7 +1931,8 @@
                     "neutral"
                 ],
                 "illustration": "./images/Louis Carr.jpg",
-                "illustrator": "Illus. Louis Carr"
+                "illustrator": "Illus. Louis Carr",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "player"
@@ -2027,10 +2066,11 @@
             "encounter_number": "14-17",
             "project_number": "64",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
-            "id": "820e2354-7383-4846-821b-5aa3354b1b64"
+            "id": "820e2354-7383-4846-821b-5aa3354b1b64",
+            "amount": 4
         },
         {
-            "name": "<unique> 2C-OES187",
+            "name": "2C-OES187",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -2039,10 +2079,11 @@
                 "text": "<reaction> Zu Beginn der Runde: W\u00e4hle einen Ermittler. Der gew\u00e4hlte Ermittler darf in seinem Zug in dieser Runde eine zus\u00e4tzliche Aktion nehmen, die nur f\u00fcr <b>Scannen</b>-F\u00e4higkeiten verwendet werden kann.",
                 "cost": "<dash>",
                 "flavor_text": "",
+                "illustration": "./images/hal2 - unknown.jpg",
+                "name": "<unique><name>",
                 "classes": [
-                    "neutral"
-                ],
-                "illustration": "./images/hal2 - unknown.jpg"
+                    "story"
+                ]
             },
             "back": {
                 "type": "player"
@@ -2053,7 +2094,7 @@
             "id": "e502359b-db2f-4d14-9462-01cc7ed44848"
         },
         {
-            "name": "<unique> 2C-OES187",
+            "name": "2C-OES187",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -2063,9 +2104,10 @@
                 "cost": "<dash>",
                 "flavor_text": "",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
-                "illustration": "./images/hal2 - unknown.jpg"
+                "illustration": "./images/hal2 - unknown.jpg",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "player"
@@ -2076,7 +2118,7 @@
             "id": "bea1e552-7f92-484b-b645-61e953d863c0"
         },
         {
-            "name": "<unique> 2C-OES187",
+            "name": "2C-OES187",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -2086,9 +2128,10 @@
                 "cost": "<dash>",
                 "flavor_text": "",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
-                "illustration": "./images/hal2 - unknown.jpg"
+                "illustration": "./images/hal2 - unknown.jpg",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "player"
@@ -2099,7 +2142,7 @@
             "id": "3674dc31-5957-4bea-97bf-6c8fd1a36863"
         },
         {
-            "name": "<unique> 2C-OES187",
+            "name": "2C-OES187",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -2109,9 +2152,10 @@
                 "cost": "<dash>",
                 "flavor_text": "",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
-                "illustration": "./images/hal2 - unknown.jpg"
+                "illustration": "./images/hal2 - unknown.jpg",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "player"
@@ -2270,7 +2314,7 @@
             "front": {
                 "type": "location",
                 "traits": "Schule.",
-                "text": "X ist die Anzahl der verbundenen Orte.\n<act> Falls sich keine Hinweise an diesem Ort befinden: Tausche die <name> mit einem beliebigen anderen <b><i>Schule</i></b>-Ort und platziere 1<per_large> Hinweise aus dem Markervorrat auf die <name>.",
+                "text": "X ist die Anzahl der verbundenen Orte.\n<act> Falls sich keine Hinweise an diesem Ort befinden: Tausche die <name> mit einem beliebigen anderen <t>Schule</t>-Ort und platziere 1<per_large> Hinweise aus dem Markervorrat auf die <name>.",
                 "flavor_text": "",
                 "victory": "Sieg 1.",
                 "illustration": "./images/library.jpg",
@@ -2338,10 +2382,11 @@
             "encounter_number": "29-30",
             "project_number": "76",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
-            "id": "a638ec27-5b9d-47f0-a085-098f1c359706"
+            "id": "a638ec27-5b9d-47f0-a085-098f1c359706",
+            "amount": 2
         },
         {
-            "name": "<unique> Gedankenschatten",
+            "name": "Gedankenschatten",
             "front": {
                 "type": "enemy",
                 "title": "<unique><name>",
@@ -2356,7 +2401,8 @@
                 "victory": "Sieg 1.",
                 "illustration": "./images/g Thomas Barron.jpg",
                 "illustrator": "Illus. Thomas Barron",
-                "attack": "X"
+                "attack": "X",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "encounter"
@@ -2382,14 +2428,15 @@
             "encounter_number": "32-33",
             "project_number": "78",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
-            "id": "f2054446-1b5f-45eb-848e-a4206c6b1e80"
+            "id": "f2054446-1b5f-45eb-848e-a4206c6b1e80",
+            "amount": 2
         },
         {
             "name": "Verdopplung",
             "front": {
                 "type": "treachery",
                 "traits": "Komplott.",
-                "text": "<rev> Lege Karten oben vom Begegnungsdeck ab, bis 2 <b><i>Virtuell</i></b>-Karten abgelegt wurden. W\u00e4hle eine der durch diesen Effekt abgelegten <b><i>Virtuell</i></b>-Karten und ziehe sie. Falls es eine Verratskarte ist, handle ihren Enth\u00fcllungseffekt ein zus\u00e4tzliches Mal ab. Falls es eine Gegnerkarte ist, platziere diese Karte als Schwarmkarte unter jenen Gegner.",
+                "text": "<rev> Lege Karten oben vom Begegnungsdeck ab, bis 2 <t>Virtuell</t>-Karten abgelegt wurden. W\u00e4hle eine der durch diesen Effekt abgelegten <t>Virtuell</t>-Karten und ziehe sie. Falls es eine Verratskarte ist, handle ihren Enth\u00fcllungseffekt ein zus\u00e4tzliches Mal ab. Falls es eine Gegnerkarte ist, platziere diese Karte als Schwarmkarte unter jenen Gegner.",
                 "flavor_text": "",
                 "illustration": "./images/twin suns - roshiel.jpg",
                 "illustrator": "Illus. Roshiel"
@@ -2400,7 +2447,8 @@
             "encounter_number": "34-35",
             "project_number": "79",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
-            "id": "9098bebf-82d9-4528-85cc-b2e6d4efefaf"
+            "id": "9098bebf-82d9-4528-85cc-b2e6d4efefaf",
+            "amount": 2
         },
         {
             "name": "Fehler im System",
@@ -2423,7 +2471,8 @@
             "encounter_number": "36-38",
             "project_number": "80",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
-            "id": "2e178b32-6c6f-49af-a17b-ac7cbbbdec60"
+            "id": "2e178b32-6c6f-49af-a17b-ac7cbbbdec60",
+            "amount": 3
         },
         {
             "name": "Manifestiertes Fl\u00fcstern",
@@ -2447,7 +2496,8 @@
             "encounter_number": "39-40",
             "project_number": "82",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
-            "id": "ea5903e9-df6e-4278-a6af-68490366e9b6"
+            "id": "ea5903e9-df6e-4278-a6af-68490366e9b6",
+            "amount": 2
         },
         {
             "name": "Nichteuklidische Geometrie",
@@ -2465,7 +2515,8 @@
             "encounter_number": "41-42",
             "project_number": "83",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
-            "id": "6222bba5-a6c1-4460-8eb7-b5b67f1a78d1"
+            "id": "6222bba5-a6c1-4460-8eb7-b5b67f1a78d1",
+            "amount": 2
         },
         {
             "name": "Virtuelles Byakhee",
@@ -2488,10 +2539,11 @@
             "encounter_number": "43-44",
             "project_number": "84",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
-            "id": "5d885043-5625-4c92-8bd8-46440caed2f3"
+            "id": "5d885043-5625-4c92-8bd8-46440caed2f3",
+            "amount": 2
         },
         {
-            "name": "<unique><family \"Chiller\"><b>DER BUTZEMANN</b></family>",
+            "name": "<family \"Chiller\"><b>DER BUTZEMANN</b></family>",
             "front": {
                 "type": "enemy",
                 "title": "<unique><name>",
@@ -2506,7 +2558,8 @@
                 "flavor_text": "Eine Kombination der gr\u00f6\u00dften \u00c4ngste der Kinder. Der Butzemann f\u00fcllt die virtuellen Traumlande mit finsterem Lachen.",
                 "illustration": "./images/clown - ali9044.jpg",
                 "illustrator": "Illus. ali9044",
-                "attack": "?"
+                "attack": "?",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "encounter"
@@ -2532,7 +2585,8 @@
             "encounter_number": "2-3",
             "project_number": "86",
             "encounter_set": "3b1b9f85-9e36-4509-b838-955642e5bc0a",
-            "id": "6f206aab-5765-4c9c-b012-48a3745e5d3a"
+            "id": "6f206aab-5765-4c9c-b012-48a3745e5d3a",
+            "amount": 2
         },
         {
             "name": "<family \"Chiller\"><b>ERINNERST DU DICH?</b></family>",
@@ -2550,7 +2604,8 @@
             "encounter_number": "4-5",
             "project_number": "87",
             "encounter_set": "3b1b9f85-9e36-4509-b838-955642e5bc0a",
-            "id": "a7ed5ea6-769c-4cdc-951c-ffa19bf7bd04"
+            "id": "a7ed5ea6-769c-4cdc-951c-ffa19bf7bd04",
+            "amount": 2
         },
         {
             "name": "<family \"Chiller\"><b>\u00dcBERRASCHUNG!</b></family>",
@@ -2568,7 +2623,8 @@
             "encounter_number": "6-7",
             "project_number": "88",
             "encounter_set": "3b1b9f85-9e36-4509-b838-955642e5bc0a",
-            "id": "58b59fb2-bb65-409a-af9a-f6b41aff0762"
+            "id": "58b59fb2-bb65-409a-af9a-f6b41aff0762",
+            "amount": 2
         },
         {
             "name": "Verlorene Quanten",
@@ -2673,7 +2729,7 @@
             "back": {
                 "type": "agenda_back",
                 "name": "Tunneleffekt",
-                "text": "Falls das Scan-Deck nicht leer ist, sieh dir die oberste Karte des Scan-Decks an. Wenn es ein Ort ist, bringe ihn ins Spiel und bewege jeden Ermittler und jeden Nicht-<b><i>Schwellenwesen</i></b>-Gegner dorthin.\nMische alle leeren Orte, auf denen kein Ressourcenmarker liegt, in das Scan-Deck.\nFalls unter dieser Agenda noch eine weitere Agendakarte liegt, lege diese Agenda beiseite und r\u00fccke zur n\u00e4chsten Agenda vor. Ansonsten notiere im Kampagnenlogbuch einen Z\u00e4hlstrich unter \u201eDrohendes Unheil\u201c und mische diese Agenda mit allen beiseitegelegten Agendakarten zusammen, um ein neues Agendadeck zu bilden.\n\n",
+                "text": "Falls das Scan-Deck nicht leer ist, sieh dir die oberste Karte des Scan-Decks an. Wenn es ein Ort ist, bringe ihn ins Spiel und bewege jeden Ermittler und jeden Nicht-<t>Schwellenwesen</t>-Gegner dorthin.\nMische alle leeren Orte, auf denen kein Ressourcenmarker liegt, in das Scan-Deck.\nFalls unter dieser Agenda noch eine weitere Agendakarte liegt, lege diese Agenda beiseite und r\u00fccke zur n\u00e4chsten Agenda vor. Ansonsten notiere im Kampagnenlogbuch einen Z\u00e4hlstrich unter \u201eDrohendes Unheil\u201c und mische diese Agenda mit allen beiseitegelegten Agendakarten zusammen, um ein neues Agendadeck zu bilden.\n\n",
                 "flavor_text": "Du bemerkst erst jetzt, dass sich jedes Mal, wenn du blinzelst, etwas \u00e4ndert. Manchmal bewegen sich nur ein paar Steine ein paar Zentimeter weit. Manchmal findest du dich aber auch an einem v\u00f6llig anderen Ort wieder."
             },
             "encounter_number": "3",
@@ -2728,7 +2784,7 @@
             "name": "Quantenzenon",
             "front": {
                 "type": "act",
-                "text": "<free> Die Ermittler geben als Gruppe 1<per_large> Hinweise aus: Platziere einen Ressourcen-marker aus dem Markervorrat auf deinen Ort.\n<obj> Wenn sich 8 <b><i>Elbrus</i></b>-Orte im Spiel befinden und auf jedem von ihnen ein Ressourcenmarker liegt, darfst du vorr\u00fccken.",
+                "text": "<free> Die Ermittler geben als Gruppe 1<per_large> Hinweise aus: Platziere einen Ressourcen-marker aus dem Markervorrat auf deinen Ort.\n<obj> Wenn sich 8 <t>Elbrus</t>-Orte im Spiel befinden und auf jedem von ihnen ein Ressourcenmarker liegt, darfst du vorr\u00fccken.",
                 "flavor_text": "Um das Gleichgewicht der Materie wiederherzustellen und die Einrichtung zu retten, musst du Erwin dabei helfen, die Q-Kristalle auf dem ganzen Asteroiden anzubringen. Nur dann wird die Instabilit\u00e4t kollabieren.",
                 "illustration": "./images/asteroid base - artem-khorchev.jpg",
                 "clues": "<dash>",
@@ -3185,7 +3241,7 @@
             "front": {
                 "type": "enemy",
                 "traits": "Quanten. Spuk..",
-                "text": "<for> Sobald du den <name> durch Schaden besiegst (au\u00dfer durch Schaden von einer <b><i>Zauber</i></b>- oder <b><i>Relikt</i></b>-Karte): Anstatt den <name> abzulegen, lege diese Karte verdeckt in deine Bedrohungszone.",
+                "text": "<for> Sobald du den <name> durch Schaden besiegst (au\u00dfer durch Schaden von einer <t>Zauber</t>- oder <t>Relikt</t>-Karte): Anstatt den <name> abzulegen, lege diese Karte verdeckt in deine Bedrohungszone.",
                 "health": "1",
                 "evade": "3",
                 "combat": "2",
@@ -3236,7 +3292,7 @@
                         "token": [
                             "cultist"
                         ],
-                        "text": "-2. Falls die Probe misslingt, f\u00fcge einer <b><i>Verb\u00fcndeter</i></b>-Vorteilskarte, die du kontrollierst, 1 Schaden oder 1 Horror zu."
+                        "text": "-2. Falls die Probe misslingt, f\u00fcge einer <t>Verb\u00fcndeter</t>-Vorteilskarte, die du kontrollierst, 1 Schaden oder 1 Horror zu."
                     },
                     {
                         "token": [
@@ -3266,7 +3322,7 @@
                         "token": [
                             "cultist"
                         ],
-                        "text": "-3. Falls die Probe misslingt, f\u00fcge einer <b><i>Verb\u00fcndeter</i></b>-Vorteilskarte, die du kontrollierst, 1 Schaden oder 1 Horror zu."
+                        "text": "-3. Falls die Probe misslingt, f\u00fcge einer <t>Verb\u00fcndeter</t>-Vorteilskarte, die du kontrollierst, 1 Schaden oder 1 Horror zu."
                     },
                     {
                         "token": [
@@ -3292,7 +3348,7 @@
             "name": "Die Nostalgia II",
             "front": {
                 "type": "agenda",
-                "text": "<act> Falls die oberste Karte des Scan-Decks das Symbol deines Ortes besitzt, geben die Ermittler als Gruppe 1<per_large> Hinweise aus: <b>Scannen.</b> Ziehe die oberste Karte des Scan-Decks.\n<for> Sobald eine <b><i>Crew</i></b>-Storyvorteilskarte besiegt oder aus dem Spiel abgelegt werden w\u00fcrde: Entferne jene Karte stattdessen aus dem Spiel.",
+                "text": "<act> Falls die oberste Karte des Scan-Decks das Symbol deines Ortes besitzt, geben die Ermittler als Gruppe 1<per_large> Hinweise aus: <b>Scannen.</b> Ziehe die oberste Karte des Scan-Decks.\n<for> Sobald eine <t>Crew</t>-Storyvorteilskarte besiegt oder aus dem Spiel abgelegt werden w\u00fcrde: Entferne jene Karte stattdessen aus dem Spiel.",
                 "flavor_text": "Du betrittst die Nostalgia II vorsichtig \u00fcber eine der Luftschleusen. Die unheimliche Stille wird nur vom regelm\u00e4\u00dfigen Klappern und Zischen der Bel\u00fcftungsanlage unterbrochen.",
                 "illustration": "./images/5bab10b229a467df86882fb5083420fa7.jpg",
                 "doom": "3",
@@ -3313,7 +3369,7 @@
             "name": "Das Ding von der Erde",
             "front": {
                 "type": "agenda",
-                "text": "<act> Falls die oberste Karte des Scan-Decks das Symbol deines Ortes besitzt, geben die Ermittler als Gruppe 1<per_large> Hinweise aus: <b>Scannen.</b> Ziehe die oberste Karte des Scan-Decks.\n<for> Sobald eine <b><i>Crew</i></b>-Storyvorteilskarte besiegt oder aus dem Spiel abgelegt werden w\u00fcrde: Entferne jene Karte stattdessen aus dem Spiel.",
+                "text": "<act> Falls die oberste Karte des Scan-Decks das Symbol deines Ortes besitzt, geben die Ermittler als Gruppe 1<per_large> Hinweise aus: <b>Scannen.</b> Ziehe die oberste Karte des Scan-Decks.\n<for> Sobald eine <t>Crew</t>-Storyvorteilskarte besiegt oder aus dem Spiel abgelegt werden w\u00fcrde: Entferne jene Karte stattdessen aus dem Spiel.",
                 "flavor_text": "Irgendeine Abscheulichkeit kriecht \u00fcber das Schiff, verschlingt alle biologischen und mechanischen Lebensformen, die es findet, und erschafft korrumpierte Nachbildungen davon.",
                 "illustration": "./images/5bab10b229a467df86882fb5083420fa7.jpg",
                 "doom": "4",
@@ -3334,7 +3390,7 @@
             "name": "Schreie der Toten",
             "front": {
                 "type": "agenda",
-                "text": "<act> Falls die oberste Karte des Scan-Decks das Symbol deines Ortes besitzt, geben die Ermittler als Gruppe 1<per_large> Hinweise aus: <b>Scannen.</b> Ziehe die oberste Karte des Scan-Decks.\n<for> Sobald eine <b><i>Crew</i></b>-Storyvorteilskarte besiegt oder aus dem Spiel abgelegt werden w\u00fcrde: Entferne jene Karte stattdessen aus dem Spiel.",
+                "text": "<act> Falls die oberste Karte des Scan-Decks das Symbol deines Ortes besitzt, geben die Ermittler als Gruppe 1<per_large> Hinweise aus: <b>Scannen.</b> Ziehe die oberste Karte des Scan-Decks.\n<for> Sobald eine <t>Crew</t>-Storyvorteilskarte besiegt oder aus dem Spiel abgelegt werden w\u00fcrde: Entferne jene Karte stattdessen aus dem Spiel.",
                 "flavor_text": "Wenn du zu lange auf diesem Schiff bleibst, wird die Abscheulichkeit dich zweifellos fr\u00fcher oder sp\u00e4ter ebenfalls erwischen.",
                 "illustration": "./images/5bab10b229a467df86882fb5083420fa7.jpg",
                 "doom": "3",
@@ -3384,7 +3440,7 @@
             "back": {
                 "type": "act_back",
                 "name": "Quarant\u00e4ne",
-                "text": "<b>Falls du durch den Kartentext von Agenda 3b vorger\u00fcckt bist (das ist die einzige M\u00f6glichkeit, hierher zu kommen):</b>\n<blockquote>Du hast so viele Crewmitglieder wie m\u00f6glich isoliert und in Sicherheit gebracht. Einige fehlen dir allerdings noch.\nBevor du dir \u00fcberlegen kannst, wie du mit den \u00fcbrigen Crewmitgliedern verf\u00e4hrst, offenbart sich die Abscheulichkeit in einem Schwarm aus Fleisch und Metall, bereit, mit seiner gesammelten Masse deine Existenz zu ersticken.</blockquote>\nSieh dir die Titel der Handlungskarten unter der Szenario-\u00dcbersichtskarte an (lies aber nicht den restlichen Text auf diesen Karten). Enth\u00fclle f\u00fcr jede dieser Karten einen zuf\u00e4lligen Marker aus dem Chaosbeutel. Jeder enth\u00fcllte Marker, der <b>kein</b> <elder_sign>-, <blessing>-, +1- oder 0-Marker ist, bedeutet, dass die <b><i>Crew</i></b>-Storyvorteilskarte, die zu dieser Handlungskarte geh\u00f6rt, in Wahrheit eine Nachbildung des Wesens ist! Falls mindestens eine Nachbildung im Siegpunktestapel liegt, gehe direkt zu (<resolution><b>A2</b>). \nAnsonsten fahre hier fort:\nDer beiseitegelegte Gegner Das Wesen erscheint am Hauptcomputer des Schiffs.\nH\u00e4nge alle <b><i>Crew</i></b>-Storyvorteilskarten, die aus dem Spiel entfernt wurden, verdeckt an das Wesen an.\nH\u00e4nge alle <b><i>Crew</i></b>-Storyvorteilskarten im Spiel, die Nachbildungen des Wesens sind, verdeckt an das Wesen an."
+                "text": "<b>Falls du durch den Kartentext von Agenda 3b vorger\u00fcckt bist (das ist die einzige M\u00f6glichkeit, hierher zu kommen):</b>\n<blockquote>Du hast so viele Crewmitglieder wie m\u00f6glich isoliert und in Sicherheit gebracht. Einige fehlen dir allerdings noch.\nBevor du dir \u00fcberlegen kannst, wie du mit den \u00fcbrigen Crewmitgliedern verf\u00e4hrst, offenbart sich die Abscheulichkeit in einem Schwarm aus Fleisch und Metall, bereit, mit seiner gesammelten Masse deine Existenz zu ersticken.</blockquote>\nSieh dir die Titel der Handlungskarten unter der Szenario-\u00dcbersichtskarte an (lies aber nicht den restlichen Text auf diesen Karten). Enth\u00fclle f\u00fcr jede dieser Karten einen zuf\u00e4lligen Marker aus dem Chaosbeutel. Jeder enth\u00fcllte Marker, der <b>kein</b> <elder_sign>-, <blessing>-, +1- oder 0-Marker ist, bedeutet, dass die <t>Crew</t>-Storyvorteilskarte, die zu dieser Handlungskarte geh\u00f6rt, in Wahrheit eine Nachbildung des Wesens ist! Falls mindestens eine Nachbildung im Siegpunktestapel liegt, gehe direkt zu (<resolution><b>A2</b>). \nAnsonsten fahre hier fort:\nDer beiseitegelegte Gegner Das Wesen erscheint am Hauptcomputer des Schiffs.\nH\u00e4nge alle <t>Crew</t>-Storyvorteilskarten, die aus dem Spiel entfernt wurden, verdeckt an das Wesen an.\nH\u00e4nge alle <t>Crew</t>-Storyvorteilskarten im Spiel, die Nachbildungen des Wesens sind, verdeckt an das Wesen an."
             },
             "encounter_number": "6",
             "project_number": "117",
@@ -3404,7 +3460,7 @@
             "back": {
                 "type": "act_back",
                 "name": "Der letzte Abschied",
-                "text": "Im Kampagnenlogbuch wird notiert: <i>Die Ermittler haben die Verk\u00f6rperung des Wahnsinns gesehen.</i>\nF\u00fcge alle <b><i>Crew</i></b>-Storyvorteilskarten, die von einem Ermittler kontrolliert werden oder sich im Scan-Deck befinden, dem Siegpunktestapel hinzu.\n(<resolution><b>A4</b>)\n\n",
+                "text": "Im Kampagnenlogbuch wird notiert: <i>Die Ermittler haben die Verk\u00f6rperung des Wahnsinns gesehen.</i>\nF\u00fcge alle <t>Crew</t>-Storyvorteilskarten, die von einem Ermittler kontrolliert werden oder sich im Scan-Deck befinden, dem Siegpunktestapel hinzu.\n(<resolution><b>A4</b>)\n\n",
                 "flavor_text": "Du h\u00f6rst die Schreie tausender Toter. Als du dich zu ihrem Kern vorgek\u00e4mpft hast, zerflie\u00dfen die verschmolzenen K\u00f6rperteile, Gewebest\u00fccke und elektronischen Kabel durch die Bodengitter. Der Wahnsinn wurde endlich bezwungen."
             },
             "encounter_number": "7",
@@ -3416,7 +3472,7 @@
             "name": "Ein f\u00fcrchterliches Vieh",
             "front": {
                 "type": "agenda",
-                "text": "<act> Falls die oberste Karte des Scan-Decks das Symbol deines Ortes besitzt, geben die Ermittler als Gruppe 1<per_large> Hinweise aus: <b>Scannen.</b> Ziehe die oberste Karte des Scan-Decks.\n<for> Sobald eine <b><i>Crew</i></b>-Storyvorteilskarte besiegt oder aus dem Spiel abgelegt werden w\u00fcrde: H\u00e4nge jene Karte stattdessen verdeckt an Das Wesen an.\n<i>(Tipp: Das Spiel endet nicht, sobald diese Agenda vorr\u00fcckt.)</i>",
+                "text": "<act> Falls die oberste Karte des Scan-Decks das Symbol deines Ortes besitzt, geben die Ermittler als Gruppe 1<per_large> Hinweise aus: <b>Scannen.</b> Ziehe die oberste Karte des Scan-Decks.\n<for> Sobald eine <t>Crew</t>-Storyvorteilskarte besiegt oder aus dem Spiel abgelegt werden w\u00fcrde: H\u00e4nge jene Karte stattdessen verdeckt an Das Wesen an.\n<i>(Tipp: Das Spiel endet nicht, sobald diese Agenda vorr\u00fcckt.)</i>",
                 "flavor_text": "Das wilde und gefr\u00e4\u00dfige Wesen versucht, dich zu assimilieren.",
                 "illustration": "./images/5bab10b229a467df86882fb5083420fa7.jpg",
                 "doom": "2",
@@ -3463,7 +3519,7 @@
                 "type": "enemy",
                 "title": "<unique><name>",
                 "traits": "Abscheulichkeit. Elite.",
-                "text": "Das Wesen bekommt +2<per_large> Ausdauer f\u00fcr jede daran angeh\u00e4ngte verdeckte Karte.\nSchaden und Horror, der durch die Angriffe dieses Gegners zugef\u00fcgt wird, muss <b><i>Verb\u00fcndeter</i></b>-Vorteilskarten zugewiesen werden, falls m\u00f6glich.",
+                "text": "Das Wesen bekommt +2<per_large> Ausdauer f\u00fcr jede daran angeh\u00e4ngte verdeckte Karte.\nSchaden und Horror, der durch die Angriffe dieses Gegners zugef\u00fcgt wird, muss <t>Verb\u00fcndeter</t>-Vorteilskarten zugewiesen werden, falls m\u00f6glich.",
                 "health": "3",
                 "evade": "3",
                 "combat": "4",
@@ -3488,7 +3544,7 @@
             "front": {
                 "type": "location",
                 "traits": "Nostalgia II.",
-                "text": "<free> \u201eGeh auf die Tatterdemalion!\u201c: F\u00fcge eine <b><i>Crew</i></b>-Storyvorteilskarte, die du kontrollierst, dem Siegpunktestapel hinzu.\n<act>: <b>Aufgeben.</b> Du h\u00e4ttest niemals hierherkommen sollen. Entferne alle <b><i>Crew</i></b>-Storyvorteilskarten, die du kontrollierst, aus dem Spiel.",
+                "text": "<free> \u201eGeh auf die Tatterdemalion!\u201c: F\u00fcge eine <t>Crew</t>-Storyvorteilskarte, die du kontrollierst, dem Siegpunktestapel hinzu.\n<act>: <b>Aufgeben.</b> Du h\u00e4ttest niemals hierherkommen sollen. Entferne alle <t>Crew</t>-Storyvorteilskarten, die du kontrollierst, aus dem Spiel.",
                 "flavor_text": "Der Gang ist voll vom Geruch verdorbenen Fleisches, der die ozongetr\u00e4nkte Luft durchdringt.",
                 "illustration": "./images/shaun-davies-fronton.jpg",
                 "clues": "2",
@@ -3653,7 +3709,7 @@
             "front": {
                 "type": "location",
                 "traits": "Nostalgia II.",
-                "text": "<act>: Lege eine <int>-Probe (2) ab. Falls die Probe gelingt, lege eine Kopie von Kontamination ab, die an eine <b><i>Verb\u00fcndeter</i></b>-Vorteilskarte an diesem Ort angeh\u00e4ngt ist.",
+                "text": "<act>: Lege eine <int>-Probe (2) ab. Falls die Probe gelingt, lege eine Kopie von Kontamination ab, die an eine <t>Verb\u00fcndeter</t>-Vorteilskarte an diesem Ort angeh\u00e4ngt ist.",
                 "flavor_text": "Der Stuhl in diesem Operationssaal ist \u00fcber und \u00fcber mit Blut bedeckt, aber eine Leiche siehst du nirgendwo.",
                 "illustration": "./images/36713880.jpg",
                 "clues": "1<per>",
@@ -3787,7 +3843,7 @@
                 "type": "asset",
                 "title": "<unique><name>",
                 "traits": "Verb\u00fcndeter. Crew.",
-                "text": "<rev> Bringe diese Karte unter deiner Kontrolle ins Spiel.\nCaptain Burr darf Schaden und Horror zugewiesen werden, der Ermittlern und anderen <b><i>Verb\u00fcndeter</i></b>-Vorteilskarten an deinem Ort zugef\u00fcgt wird. Das gilt auch f\u00fcr direkten Schaden und direkten Horror.\n<center><b>Sieg 1.</b>",
+                "text": "<rev> Bringe diese Karte unter deiner Kontrolle ins Spiel.\nCaptain Burr darf Schaden und Horror zugewiesen werden, der Ermittlern und anderen <t>Verb\u00fcndeter</t>-Vorteilskarten an deinem Ort zugef\u00fcgt wird. Das gilt auch f\u00fcr direkten Schaden und direkten Horror.\n<center><b>Sieg 1.</b>",
                 "cost": "<dash>",
                 "health": "2",
                 "sanity": "2",
@@ -3817,7 +3873,7 @@
                 "type": "asset",
                 "title": "<unique><name>",
                 "traits": "Verb\u00fcndeter. Crew.",
-                "text": "<rev> Bringe diese Karte unter deiner Kontrolle ins Spiel.\n<act><act>: Heile 1 Schaden von jedem Ermittler und jeder <b><i>Verb\u00fcndeter</i></b>-Vorteilskarte an deinem Ort. (Nur einmal pro Spiel f\u00fcr die ganze Gruppe.)\n<center><b>Sieg 1.</b>",
+                "text": "<rev> Bringe diese Karte unter deiner Kontrolle ins Spiel.\n<act><act>: Heile 1 Schaden von jedem Ermittler und jeder <t>Verb\u00fcndeter</t>-Vorteilskarte an deinem Ort. (Nur einmal pro Spiel f\u00fcr die ganze Gruppe.)\n<center><b>Sieg 1.</b>",
                 "cost": "<dash>",
                 "health": "2",
                 "sanity": "2",
@@ -3877,7 +3933,7 @@
                 "type": "asset",
                 "title": "<unique><name>",
                 "traits": "Verb\u00fcndeter. Crew.",
-                "text": "<rev> Bringe diese Karte unter deiner Kontrolle ins Spiel.\n<act>: Bewege 2 Schaden zwischen Ermittlern, <b><i>Verb\u00fcndeter</i></b>-Vorteilskarten und Gegnern an deinem Ort. (Nur einmal pro Spiel f\u00fcr die ganze Gruppe.)\n<center><b>Sieg 1.</b>",
+                "text": "<rev> Bringe diese Karte unter deiner Kontrolle ins Spiel.\n<act>: Bewege 2 Schaden zwischen Ermittlern, <t>Verb\u00fcndeter</t>-Vorteilskarten und Gegnern an deinem Ort. (Nur einmal pro Spiel f\u00fcr die ganze Gruppe.)\n<center><b>Sieg 1.</b>",
                 "cost": "<dash>",
                 "health": "3",
                 "sanity": "<dash>",
@@ -4025,7 +4081,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Omen.",
-                "text": "<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<for> Nachdem eine <b><i>Verb\u00fcndeter</i></b>-Vorteilskarte das Spiel verlassen hat: Platziere 1 Verderben auf <name>.\n<act>: Lege eine <wil>- oder <agi>-Probe (3) ab. Falls die Probe gelingt, lege <name> ab.",
+                "text": "<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<for> Nachdem eine <t>Verb\u00fcndeter</t>-Vorteilskarte das Spiel verlassen hat: Platziere 1 Verderben auf <name>.\n<act>: Lege eine <wil>- oder <agi>-Probe (3) ab. Falls die Probe gelingt, lege <name> ab.",
                 "flavor_text": "",
                 "illustration": "./images/bezdna-kosmonavt-fantaziia-nevesomost.jpg",
                 "illustrator": "Illus. bezdna"
@@ -4043,7 +4099,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Verletzung. Wahnsinn.",
-                "text": "<rev> H\u00e4nge <name> an eine <i><b>Verb\u00fcndeter</b></i>-Vorteilskarte an deinem Ort an (falls m\u00f6glich an eine einzigartige Karte).\n<for> Am Ende der Runde: Lege entweder die <b><i>Verb\u00fcndeter</i></b>-Vorteilskarte, an die Kontamination angeh\u00e4ngt ist, ab, oder platziere 1 Verderben auf jene Karte.",
+                "text": "<rev> H\u00e4nge <name> an eine <i><b>Verb\u00fcndeter</b></i>-Vorteilskarte an deinem Ort an (falls m\u00f6glich an eine einzigartige Karte).\n<for> Am Ende der Runde: Lege entweder die <t>Verb\u00fcndeter</t>-Vorteilskarte, an die Kontamination angeh\u00e4ngt ist, ab, oder platziere 1 Verderben auf jene Karte.",
                 "flavor_text": "",
                 "illustration": "./images/bogna-gawronska-parasite.jpg",
                 "illustrator": "Illus. Bogna Gawronska"
@@ -4102,7 +4158,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Schrecken.",
-                "text": "<rev> Bringe diese Karte in deiner Bedrohungszone ins Spiel.\n<for> Wenn die Agenda vorr\u00fcckt: Lege Hoffnungslos ab und lege eine <wil>-Probe (3) ab. Falls die Probe misslingt, nimmst du 1 Horror f\u00fcr jede <b><i>Crew</i></b>-Storyvorteilskarte an deinem Ort.",
+                "text": "<rev> Bringe diese Karte in deiner Bedrohungszone ins Spiel.\n<for> Wenn die Agenda vorr\u00fcckt: Lege Hoffnungslos ab und lege eine <wil>-Probe (3) ab. Falls die Probe misslingt, nimmst du 1 Horror f\u00fcr jede <t>Crew</t>-Storyvorteilskarte an deinem Ort.",
                 "flavor_text": "Wer keine Hoffnung besitzt, ist kein Teil der Zukunft mehr.\n",
                 "illustration": "./images/alexander-dudar-jjmentorship-15.jpg",
                 "illustrator": "Illus. Alexander Dudar"
@@ -4138,7 +4194,7 @@
             "front": {
                 "type": "enemy",
                 "traits": "Monster.",
-                "text": "Der <name> hat alle Merkmale der obersten <b><i>Verb\u00fcndeter</i></b>-Vorteilskarte in deinem Ablagestapel.\nAngriffe des <name>s f\u00fcgen zus\u00e4tzlich Horror in H\u00f6he der geistigen Gesundheit der obersten <b><i>Verb\u00fcndeter</i></b>-Vorteilskarte in deinem Ablagestapel zu.",
+                "text": "Der <name> hat alle Merkmale der obersten <t>Verb\u00fcndeter</t>-Vorteilskarte in deinem Ablagestapel.\nAngriffe des <name>s f\u00fcgen zus\u00e4tzlich Horror in H\u00f6he der geistigen Gesundheit der obersten <t>Verb\u00fcndeter</t>-Vorteilskarte in deinem Ablagestapel zu.",
                 "health": "4",
                 "evade": "3",
                 "combat": "3",
@@ -4179,7 +4235,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Falle.",
-                "text": "<rev> Bringe diese Karte in deiner Bedrohungszone ins Spiel.\n<for> Wenn du eine Kopie von Formwandler ziehst, w\u00e4hrend du eine <b><i>Verb\u00fcndeter</i></b>-Vorteilskarte kontrollierst: Lege eine <wil>-Probe (4) ab. Falls die Probe misslingt, lege <name> und eine <b><i>Verb\u00fcndeter</i></b>-Vorteilskarte, die du kontrollierst, ab.",
+                "text": "<rev> Bringe diese Karte in deiner Bedrohungszone ins Spiel.\n<for> Wenn du eine Kopie von Formwandler ziehst, w\u00e4hrend du eine <t>Verb\u00fcndeter</t>-Vorteilskarte kontrollierst: Lege eine <wil>-Probe (4) ab. Falls die Probe misslingt, lege <name> und eine <t>Verb\u00fcndeter</t>-Vorteilskarte, die du kontrollierst, ab.",
                 "flavor_text": "\u201eWenn ich eine Nachbildung w\u00e4re, eine perfekte Nachbildung, wie k\u00f6nntest du dann sicher sein, dass ich wirklich ich bin?\u201c",
                 "illustration": "./images/sketchbook_page__invasion_of_the_body_snatchers_by_tomexton_da3cmnd-fullview.jpg",
                 "illustrator": "Illus. Tom Exton"
@@ -4243,7 +4299,7 @@
                         "token": [
                             "skull"
                         ],
-                        "text": "-2. Falls die Probe misslingt, f\u00fcge einer <b><i>Gehirn</i></b>-Storyvorteilskarte 1 Schaden zu."
+                        "text": "-2. Falls die Probe misslingt, f\u00fcge einer <t>Gehirn</t>-Storyvorteilskarte 1 Schaden zu."
                     },
                     {
                         "token": [
@@ -4273,7 +4329,7 @@
                         "token": [
                             "skull"
                         ],
-                        "text": "-3. Falls die Probe misslingt, f\u00fcge\nder n\u00e4chstgelegenen <b><i>Gehirn</i></b>-\nStoryvorteilskarte 1 Schaden zu."
+                        "text": "-3. Falls die Probe misslingt, f\u00fcge\nder n\u00e4chstgelegenen <t>Gehirn</t>-\nStoryvorteilskarte 1 Schaden zu."
                     },
                     {
                         "token": [
@@ -4327,7 +4383,7 @@
             "name": "Signale von Aldebaran",
             "front": {
                 "type": "agenda",
-                "text": "<for> Nachdem eine <b><i>Gehirn</i></b>-Storyvorteilskarte besiegt wurde: Entferne jene Karte aus dem Spiel und notiere im Kampagnenlogbuch 1 Z\u00e4hlstrich unter \u201eDrohendes Unheil\u201c.",
+                "text": "<for> Nachdem eine <t>Gehirn</t>-Storyvorteilskarte besiegt wurde: Entferne jene Karte aus dem Spiel und notiere im Kampagnenlogbuch 1 Z\u00e4hlstrich unter \u201eDrohendes Unheil\u201c.",
                 "flavor_text": "Die Sonne steht nun als kr\u00e4ftiger wei\u00dfer Fleck am Himmel. Ihre Strahlen ertr\u00e4nken die \u00fcbrigen Sterne, lassen sie erblassen und verschwinden. Die raue Atmosph\u00e4re breitet sich in der ganzen Anlage der Mi-Go aus.",
                 "illustration": "./images/titan julian baum.jpg",
                 "doom": "8",
@@ -4337,7 +4393,7 @@
             "back": {
                 "type": "agenda_back",
                 "name": "Sie kommen von oben!",
-                "text": "Mische das beiseitegelegte Begegnungsset <i>Interstellare J\u00e4ger</i> zusammen mit dem Begegnungs-Ablagestapel in das Begegnungsdeck. Dieses Begegnungsset kann an folgendem Symbol erkannt werden:\n<center><image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Begegnungsset-Symbole\\Interstellare J\u00e4ger.png\" 0.25in>\n<left>Lege Karten oben vom Begegnungsdeck ab, bis ein <b><i>Byakhee</i></b>-Gegner abgelegt wurde. Jener Gegner erscheint am Eingangstunnel.",
+                "text": "Mische das beiseitegelegte Begegnungsset <i>Interstellare J\u00e4ger</i> zusammen mit dem Begegnungs-Ablagestapel in das Begegnungsdeck. Dieses Begegnungsset kann an folgendem Symbol erkannt werden:\n<center><image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Begegnungsset-Symbole\\Interstellare J\u00e4ger.png\" 0.25in>\n<left>Lege Karten oben vom Begegnungsdeck ab, bis ein <t>Byakhee</t>-Gegner abgelegt wurde. Jener Gegner erscheint am Eingangstunnel.",
                 "flavor_text": "Ein Schrei wie ihn kein Wesen der Erde von sich geben k\u00f6nnte schallt durch die Kammern. Unz\u00e4hlige Fl\u00fcgel verdunkeln die Sonne und st\u00fcrzen sich auf die Anlage. Die Lichter in den R\u00e4umen werden dunkler und nehmen eine bl\u00e4uliche Farbe an \u2013 du vermutest, dass das die Mi-Go-Version eines Alarms ist. Erst jetzt wird dir klar, dass du dich mitten in einem interstellaren \u00dcberfall befindest."
             },
             "encounter_number": "3",
@@ -4349,7 +4405,7 @@
             "name": "Der Flug der Byakhees",
             "front": {
                 "type": "agenda",
-                "text": "<for> Nachdem eine <b><i>Gehirn</i></b>-Storyvorteilskarte besiegt wurde: Entferne jene Karte aus dem Spiel und notiere im Kampagnenlogbuch 1 Z\u00e4hlstrich unter \u201eDrohendes Unheil\u201c.",
+                "text": "<for> Nachdem eine <t>Gehirn</t>-Storyvorteilskarte besiegt wurde: Entferne jene Karte aus dem Spiel und notiere im Kampagnenlogbuch 1 Z\u00e4hlstrich unter \u201eDrohendes Unheil\u201c.",
                 "flavor_text": "Die gro\u00dfen Kreaturen mit den hautartigen Fl\u00fcgeln und Schwimmh\u00e4uten an den F\u00fc\u00dfen kreisen immer tiefer um die Anlage \u2013 jederzeit bereit zum Angriff\u2026",
                 "illustration": "./images/computer-artwork-of-titans-surface-and-saturn-julian-baum.jpg",
                 "doom": "5",
@@ -4364,7 +4420,7 @@
                 "name": "<unique> Ha\u00efta",
                 "subtitle": "Der Hirtengott",
                 "traits": "Abscheulichkeit. Humanoid. Elite.",
-                "text": "<spawn> Eingangstunnel.\nZur\u00fcckhaltend. Zur\u00fcckschlagen. J\u00e4ger.\n<for> Sobald du einem <b><i>Byakhee</i></b>-Gegner an Ha\u00eftas Ort entkommen w\u00fcrdest: F\u00fcge Ha\u00efta stattdessen 2 Schaden zu.",
+                "text": "<spawn> Eingangstunnel.\nZur\u00fcckhaltend. Zur\u00fcckschlagen. J\u00e4ger.\n<for> Sobald du einem <t>Byakhee</t>-Gegner an Ha\u00eftas Ort entkommen w\u00fcrdest: F\u00fcge Ha\u00efta stattdessen 2 Schaden zu.",
                 "flavor_text": "\u201eIn diesen Zeiten kauerte sich Ha\u00efta in seine H\u00f6hle und verbarg sein Gesicht hinter seinen H\u00e4nden, und er betete, dass er allein f\u00fcr seine S\u00fcnden bestraft werden m\u00f6ge und die Welt vor der Zerst\u00f6rung bewahrt bleibe.\u201c",
                 "title": "<unique><name>",
                 "health": "3<per>",
@@ -4383,7 +4439,7 @@
             "name": "Gegen die Sonne",
             "front": {
                 "type": "agenda",
-                "text": "<for> Nachdem eine <b><i>Gehirn</i></b>-Storyvorteilskarte besiegt wurde: Entferne jene Karte aus dem Spiel und notiere im Kampagnenlogbuch 1 Z\u00e4hlstrich unter \u201eDrohendes Unheil\u201c.\n<i>(Tipp: Das Spiel endet nicht, sobald diese Agenda vorr\u00fcckt.)</i>",
+                "text": "<for> Nachdem eine <t>Gehirn</t>-Storyvorteilskarte besiegt wurde: Entferne jene Karte aus dem Spiel und notiere im Kampagnenlogbuch 1 Z\u00e4hlstrich unter \u201eDrohendes Unheil\u201c.\n<i>(Tipp: Das Spiel endet nicht, sobald diese Agenda vorr\u00fcckt.)</i>",
                 "flavor_text": "Mehr und mehr gefl\u00fcgelte Monster folgen den Sonnenstrahlen auf ihrem Weg zur Oberfl\u00e4che. Die Anzahl der Angreifer steigt mit jeder Minute. Es bleibt nicht viel Zeit, bis du v\u00f6llig \u00fcberw\u00e4ltigt wirst.",
                 "illustration": "./images/titan julian baum.jpg",
                 "doom": "3",
@@ -4393,7 +4449,7 @@
             "back": {
                 "type": "agenda_back",
                 "name": "Sie sind \u00fcberall!",
-                "text": "Mische den Begegnungs-Ablagestapel in das Begegnungsdeck. \nLege Karten oben vom Begegnungsdeck ab, bis ein <b><i>Byakhee</i></b>-Gegner abgelegt wurde. Jener Gegner erscheint am Eingangstunnel.\nDrehe diese Agenda zur\u00fcck auf ihre andere Seite.\n\n\n",
+                "text": "Mische den Begegnungs-Ablagestapel in das Begegnungsdeck. \nLege Karten oben vom Begegnungsdeck ab, bis ein <t>Byakhee</t>-Gegner abgelegt wurde. Jener Gegner erscheint am Eingangstunnel.\nDrehe diese Agenda zur\u00fcck auf ihre andere Seite.\n\n\n",
                 "flavor_text": "Die au\u00dferirdischen Angriffe brechen nicht ab. Immer mehr Angreifer landen, und du h\u00f6rst nichts anderes mehr als das Schlagen ihrer scheu\u00dflichen Fl\u00fcgel und das schrille Kreischen ihrer Kehlen. Immer, wenn du einen von ihnen besiegst, scheinen schon zwei neue gelandet zu sein."
             },
             "encounter_number": "5",
@@ -4426,7 +4482,7 @@
             "name": "Geheimnisse des Geistes",
             "front": {
                 "type": "act",
-                "text": "<for> Wenn auf einem <b><i>Simulation</i></b>-Ort keine Hinweise liegen: F\u00fcge jenen Ort dem Siegpunktestapel hinzu.\n<obj> Nutze die Gehirnzylinder in dieser Anlage, um an so viele Informationen wie m\u00f6glich zu gelangen. Wenn jeder unbesiegte Ermittler aufgegeben hat, r\u00fccke vor.\n",
+                "text": "<for> Wenn auf einem <t>Simulation</t>-Ort keine Hinweise liegen: F\u00fcge jenen Ort dem Siegpunktestapel hinzu.\n<obj> Nutze die Gehirnzylinder in dieser Anlage, um an so viele Informationen wie m\u00f6glich zu gelangen. Wenn jeder unbesiegte Ermittler aufgegeben hat, r\u00fccke vor.\n",
                 "flavor_text": "Dieser Au\u00dfenposten scheint eine Art Lager f\u00fcr menschliche Gehirne zu sein. Wenn du die Ger\u00e4te der Mi-Go benutzt, um die Gehirne zu scannen, die von den Kultisten hergebracht wurden, gelangst du vielleicht an Informationen, die dir helfen, das Bruchst\u00fcck zu finden.",
                 "illustration": "./images/greys.jpg",
                 "clues": "<dash>",
@@ -4550,7 +4606,7 @@
             "front": {
                 "type": "location",
                 "traits": "Schnittstelle.",
-                "text": "<for> Nachdem das <name> enth\u00fcllt wurde: H\u00e4nge alle beiseitegelegten <b><i>Gehirn</i></b>-Storyvorteilskarten an diesen Ort an.\n<act>: H\u00e4nge eine <b><i>Gehirn</i></b>-Storyvorteilskarte im Spiel an einen beliebigen <b><i>Schnittstelle</i></b>-Ort an.",
+                "text": "<for> Nachdem das <name> enth\u00fcllt wurde: H\u00e4nge alle beiseitegelegten <t>Gehirn</t>-Storyvorteilskarten an diesen Ort an.\n<act>: H\u00e4nge eine <t>Gehirn</t>-Storyvorteilskarte im Spiel an einen beliebigen <t>Schnittstelle</t>-Ort an.",
                 "flavor_text": "",
                 "illustration": "./images/alien interior dan mycka.jpg",
                 "clues": "0",
@@ -4584,7 +4640,7 @@
             "front": {
                 "type": "location",
                 "traits": "Schnittstelle.",
-                "text": "An diesen Ort k\u00f6nnen h\u00f6chstens 2 <b><i>Gehirn</i></b>-Storyvorteilskarten gleichzeitig angeh\u00e4ngt sein.\n<act>: <b>Scannen.</b> Durchsuche das Scan-Deck nach einer beliebigen Karte, die das Symbol dieses Ortes und das Symbol einer <b><i>Gehirn</i></b>-Storyvorteilskarte an diesem Ort besitzt, und ziehe sie.",
+                "text": "An diesen Ort k\u00f6nnen h\u00f6chstens 2 <t>Gehirn</t>-Storyvorteilskarten gleichzeitig angeh\u00e4ngt sein.\n<act>: <b>Scannen.</b> Durchsuche das Scan-Deck nach einer beliebigen Karte, die das Symbol dieses Ortes und das Symbol einer <t>Gehirn</t>-Storyvorteilskarte an diesem Ort besitzt, und ziehe sie.",
                 "flavor_text": "",
                 "illustration": "./images/franklin young.jpeg",
                 "clues": "0",
@@ -4614,7 +4670,7 @@
             "front": {
                 "type": "location",
                 "traits": "Schnittstelle.",
-                "text": "An diesen Ort k\u00f6nnen h\u00f6chstens 2 <b><i>Gehirn</i></b>-Storyvorteilskarten gleichzeitig angeh\u00e4ngt sein.\n<act> Falls sich der Ort Realit\u00e4tssimulator im Spiel befindet: <b>Scannen.</b> Durchsuche das Scan-Deck nach einer beliebigen Karte, die das Symbol dieses Ortes und das Symbol einer <b><i>Gehirn</i></b>-Storyvorteilskarte an diesem Ort besitzt, und ziehe sie. Falls du durch diesen Effekt einen Ort ziehst, lege ihn auf den Realit\u00e4tssimulator.",
+                "text": "An diesen Ort k\u00f6nnen h\u00f6chstens 2 <t>Gehirn</t>-Storyvorteilskarten gleichzeitig angeh\u00e4ngt sein.\n<act> Falls sich der Ort Realit\u00e4tssimulator im Spiel befindet: <b>Scannen.</b> Durchsuche das Scan-Deck nach einer beliebigen Karte, die das Symbol dieses Ortes und das Symbol einer <t>Gehirn</t>-Storyvorteilskarte an diesem Ort besitzt, und ziehe sie. Falls du durch diesen Effekt einen Ort ziehst, lege ihn auf den Realit\u00e4tssimulator.",
                 "flavor_text": "",
                 "illustration": "./images/interior dan mycka.jpg",
                 "clues": "0",
@@ -4672,7 +4728,7 @@
             "front": {
                 "type": "location",
                 "traits": "Schnittstelle.",
-                "text": "An diesen Ort k\u00f6nnen h\u00f6chstens 2 <b><i>Gehirn</i></b>-Storyvorteilskarten gleichzeitig angeh\u00e4ngt sein.\n<act> Falls sich der Ort Realit\u00e4tssimulator im Spiel befindet: <b>Scannen.</b> Durchsuche das Scan-Deck nach einer beliebigen Karte, die das Symbol dieses Ortes und das Symbol einer <b><i>Gehirn</i></b>-Storyvorteilskarte an diesem Ort besitzt, und ziehe sie. Falls du durch diesen Effekt einen Ort ziehst, lege ihn auf den Realit\u00e4tssimulator.",
+                "text": "An diesen Ort k\u00f6nnen h\u00f6chstens 2 <t>Gehirn</t>-Storyvorteilskarten gleichzeitig angeh\u00e4ngt sein.\n<act> Falls sich der Ort Realit\u00e4tssimulator im Spiel befindet: <b>Scannen.</b> Durchsuche das Scan-Deck nach einer beliebigen Karte, die das Symbol dieses Ortes und das Symbol einer <t>Gehirn</t>-Storyvorteilskarte an diesem Ort besitzt, und ziehe sie. Falls du durch diesen Effekt einen Ort ziehst, lege ihn auf den Realit\u00e4tssimulator.",
                 "flavor_text": "",
                 "illustration": "./images/room unknown.jpg",
                 "clues": "0",
@@ -5018,7 +5074,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Patzer.",
-                "text": "Wagnis.\n<rev> Du musst entweder (w\u00e4hle eins):\n<bullet> F\u00fcge der n\u00e4chstgelegenen <b><i>Gehirn</i></b>-Storyvorteilskarte 1 Schaden zu.\n<bullet> F\u00fcge dem Mi-Go-Wissenschaftler 2 Schaden zu.\n<bullet> Du nimmst 2 direkte Schaden.",
+                "text": "Wagnis.\n<rev> Du musst entweder (w\u00e4hle eins):\n<bullet> F\u00fcge der n\u00e4chstgelegenen <t>Gehirn</t>-Storyvorteilskarte 1 Schaden zu.\n<bullet> F\u00fcge dem Mi-Go-Wissenschaftler 2 Schaden zu.\n<bullet> Du nimmst 2 direkte Schaden.",
                 "flavor_text": "",
                 "illustration": "./images/11.jpg"
             },
@@ -5172,7 +5228,7 @@
             "front": {
                 "type": "enemy",
                 "traits": "Monster. Byakhee.",
-                "text": "<spawn> Eingangstunnel.\nPatrouille (n\u00e4chstgelegener Ort, an den eine <i><b>Gehirn</b></i>-Storyvorteilskarte angeh\u00e4ngt ist).\n<for> Zu Beginn der Gegnerphase, falls <name> spielbereit ist: Es f\u00fcgt jedem <b><i>Mi-Go</i></b>-Gegner und jeder <b><i>Gehirn</i></b>-Storyvorteilskarte an seinem Ort 2 Schaden zu.",
+                "text": "<spawn> Eingangstunnel.\nPatrouille (n\u00e4chstgelegener Ort, an den eine <i><b>Gehirn</b></i>-Storyvorteilskarte angeh\u00e4ngt ist).\n<for> Zu Beginn der Gegnerphase, falls <name> spielbereit ist: Es f\u00fcgt jedem <t>Mi-Go</t>-Gegner und jeder <t>Gehirn</t>-Storyvorteilskarte an seinem Ort 2 Schaden zu.",
                 "health": "4",
                 "evade": "2",
                 "combat": "4",
@@ -5469,7 +5525,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Wahnsinn.",
-                "text": "Wagnis. Verborgen.\n<rev> F\u00fcge diese Karte geheim deiner Hand hinzu.\n<for> Nachdem du dein Ermittlerdeck neu gemischt hast, weil es leer war: Lege diese Karte ab und nimm 3 Horror.\n<act> Lege eine <b><i>Verb\u00fcndeter</i></b>-Vorteilskarte ab, die von einem Ermittler an deinem Ort kontrolliert wird: Lege diese Karte ab.\n",
+                "text": "Wagnis. Verborgen.\n<rev> F\u00fcge diese Karte geheim deiner Hand hinzu.\n<for> Nachdem du dein Ermittlerdeck neu gemischt hast, weil es leer war: Lege diese Karte ab und nimm 3 Horror.\n<act> Lege eine <t>Verb\u00fcndeter</t>-Vorteilskarte ab, die von einem Ermittler an deinem Ort kontrolliert wird: Lege diese Karte ab.\n",
                 "flavor_text": "",
                 "illustration": "./images/nature_of_good_and_evil_by_young_wolf_d201wts-fullview2.jpg",
                 "illustrator": "Illus. Young Wolf"
@@ -5753,7 +5809,7 @@
             "back": {
                 "type": "act_back",
                 "name": "Wo alles verloren ist",
-                "text": "<hr>\n<b>\u00dcberpr\u00fcfe das Kampagnenlogbuch. Falls <i>du die Auff\u00fchrung von Carcosas Erbin angesehen hast</i>:</b>\n<blockquote>Die Palastr\u00e4ume, die auf der Karte eingezeichnet sind\u2026 es sind dieselben, die auch im virtuellen Theaterst\u00fcck vorkamen. Du nimmst die Karte mit und machst dich auf den Weg zum H\u00f6hleneingang \u2013 dem Eingang ins Reich Carcosa.</blockquote>\nJeder Ermittler erh\u00e4lt 1 Hinweis aus dem Markervorrat.\nBringe alle beiseitegelegten Orte mit der <b><i>H\u00f6hle</i></b>-Seite nach oben ins Spiel.\n<hr>\n<b>Ansonsten:</b>\n<blockquote>Die Untersuchung der Karte weckt keine Erinnerungen in dir. Du nimmst die Karte mit und beginnst, die H\u00f6hlen zu durchsuchen \u2013 irgendwo hier muss der Eingang ins Reich Carcosa sein.</blockquote>\nBringe alle beiseitegelegten Orte mit der <i><b>H\u00f6hle</b></i>-Seite nach oben ins Spiel.\nDer beiseitegelegte Gegner Bestie von Aldebaran erscheint in der Zyklopischen H\u00f6hle.",
+                "text": "<hr>\n<b>\u00dcberpr\u00fcfe das Kampagnenlogbuch. Falls <i>du die Auff\u00fchrung von Carcosas Erbin angesehen hast</i>:</b>\n<blockquote>Die Palastr\u00e4ume, die auf der Karte eingezeichnet sind\u2026 es sind dieselben, die auch im virtuellen Theaterst\u00fcck vorkamen. Du nimmst die Karte mit und machst dich auf den Weg zum H\u00f6hleneingang \u2013 dem Eingang ins Reich Carcosa.</blockquote>\nJeder Ermittler erh\u00e4lt 1 Hinweis aus dem Markervorrat.\nBringe alle beiseitegelegten Orte mit der <t>H\u00f6hle</t>-Seite nach oben ins Spiel.\n<hr>\n<b>Ansonsten:</b>\n<blockquote>Die Untersuchung der Karte weckt keine Erinnerungen in dir. Du nimmst die Karte mit und beginnst, die H\u00f6hlen zu durchsuchen \u2013 irgendwo hier muss der Eingang ins Reich Carcosa sein.</blockquote>\nBringe alle beiseitegelegten Orte mit der <i><b>H\u00f6hle</b></i>-Seite nach oben ins Spiel.\nDer beiseitegelegte Gegner Bestie von Aldebaran erscheint in der Zyklopischen H\u00f6hle.",
                 "flavor_text": "Verborgen in einem Fach des verlassenen Shuttles liegt eine beidseitig beschriftete Karte des Asteroiden, die von den Kultisten w\u00e4hrend ihrer Erkundungen angefertigt wurde. Auf die eine Seite der Karte wurde ein weitl\u00e4ufiges Netz aus H\u00f6hlen und Tunneln gezeichnet, das sich durch das ganze Bruchst\u00fcck zieht. Als du die Karte umdrehst, siehst du auf ihrer R\u00fcckseite etwas ganz anderes \u2013 einen gro\u00dfen Palast, der anstelle der Tunnel prunkvolle Flure besitzt, und majest\u00e4tische Kammern, wo vorher unterirdische H\u00f6hlen waren. Scheinbar gibt es d\u00fcnne Stellen im Schleier der Realit\u00e4t, durch die die Entdecker zeitweise in die Paralleldimension Carcosa reisen konnten."
             },
             "encounter_number": "4",
@@ -5765,7 +5821,7 @@
             "name": "Carcosas Erbin",
             "front": {
                 "type": "act",
-                "text": "<free> Falls du dich an einem <b><i>H\u00f6hle</i></b>-Ort oder einem <b><i>Carcosa</i></b>-Ort befindest, geben die Ermittler als Gruppe 1<per_large> Hinweise aus: Drehe deinen Ort und alle verbundenen Orte auf ihre andere Seite.\n<obj> Finde die Kronprinzessin von Carcosa.\n(Du wirst angewiesen, wann du vorr\u00fccken sollst.)",
+                "text": "<free> Falls du dich an einem <t>H\u00f6hle</t>-Ort oder einem <t>Carcosa</t>-Ort befindest, geben die Ermittler als Gruppe 1<per_large> Hinweise aus: Drehe deinen Ort und alle verbundenen Orte auf ihre andere Seite.\n<obj> Finde die Kronprinzessin von Carcosa.\n(Du wirst angewiesen, wann du vorr\u00fccken sollst.)",
                 "flavor_text": "Du musst Tassilda in diesem irrealen Asteroiden finden und ihr gegen\u00fcbertreten, bevor sie die Macht ihres Vaters erbt und Carcosas Wahnsinn in den Kolonien verbreitet.",
                 "illustration": "./images/shutterstock_93256645-1024x612-1.jpg",
                 "clues": "<dash>",
@@ -5786,7 +5842,7 @@
             "name": "Die unaussprechliche Wahrheit",
             "front": {
                 "type": "act",
-                "text": "<free> Falls du dich an einem <b><i>H\u00f6hle</i></b>-Ort oder einem <b><i>Carcosa</i></b>-Ort befindest, geben die Ermittler als Gruppe 1<per_large> Hinweise aus: Drehe deinen Ort und alle verbundenen Orte auf ihre andere Seite.\n<obj> Wenn jeder unbesiegte Ermittler aufgegeben hat, r\u00fccke vor.\n",
+                "text": "<free> Falls du dich an einem <t>H\u00f6hle</t>-Ort oder einem <t>Carcosa</t>-Ort befindest, geben die Ermittler als Gruppe 1<per_large> Hinweise aus: Drehe deinen Ort und alle verbundenen Orte auf ihre andere Seite.\n<obj> Wenn jeder unbesiegte Ermittler aufgegeben hat, r\u00fccke vor.\n",
                 "flavor_text": "Du wirst niemanden vor dem drohenden Untergang warnen k\u00f6nnen, wenn du es nicht lebendig hier herausschaffst. Du musst den Asteroiden so schnell wie m\u00f6glich verlassen!",
                 "illustration": "./images/shutterstock_93256645-1024x612-1.jpg",
                 "clues": "<dash>",
@@ -5890,7 +5946,7 @@
             "front": {
                 "type": "location",
                 "traits": "H\u00f6hle.",
-                "text": "<for> Nachdem du die <name> betreten hast: Bewege dich an einen beliebigen anderen Nicht-<b><i>Oberfl\u00e4che</i></b>-Ort und nimm 3 direkten Schaden. Du verlierst alle verbliebenen Aktionen in dieser Runde.",
+                "text": "<for> Nachdem du die <name> betreten hast: Bewege dich an einen beliebigen anderen Nicht-<t>Oberfl\u00e4che</t>-Ort und nimm 3 direkten Schaden. Du verlierst alle verbliebenen Aktionen in dieser Runde.",
                 "flavor_text": "Also, wie kommen wir da runter?",
                 "illustration": "./images/deep-grave-cave-2139338.jpg",
                 "clues": "0",
@@ -5926,7 +5982,7 @@
             "front": {
                 "type": "location",
                 "traits": "H\u00f6hle.",
-                "text": "<free> Die Ermittler an diesem Ort streichen als Gruppe 1<per_large> ihrer \u201eErinnerungen\u201c durch: Drehe einen beliebigen <b><i>H\u00f6hle</i></b>- oder <b><i>Carcosa</i></b>-Ort auf seine andere Seite.",
+                "text": "<free> Die Ermittler an diesem Ort streichen als Gruppe 1<per_large> ihrer \u201eErinnerungen\u201c durch: Drehe einen beliebigen <t>H\u00f6hle</t>- oder <t>Carcosa</t>-Ort auf seine andere Seite.",
                 "flavor_text": "",
                 "illustration": "./images/cave2 - unknown.jpg",
                 "clues": "2<per>",
@@ -5946,7 +6002,7 @@
                 "illustrator": "Illus. Rado Javor",
                 "name": "Gro\u00dfer Ballsaal",
                 "traits": "Carcosa.",
-                "text": "<free> Falls dieser Ort der einzige <b><i>Carcosa</i></b>-Ort im Spiel ist: Lies die beiseitegelegte Handlungs-karte \u201eDie Ankunft des K\u00f6nigs\u201c. (Max. einmal pro Spiel.)",
+                "text": "<free> Falls dieser Ort der einzige <t>Carcosa</t>-Ort im Spiel ist: Lies die beiseitegelegte Handlungs-karte \u201eDie Ankunft des K\u00f6nigs\u201c. (Max. einmal pro Spiel.)",
                 "flavor_text": "Hier ist niemand. Nur die Statuen und Gem\u00e4lde begr\u00fc\u00dfen dich.",
                 "shroud": "4",
                 "clues": "2<per>",
@@ -5997,7 +6053,7 @@
             "front": {
                 "type": "location",
                 "traits": "H\u00f6hle.",
-                "text": "Der Schleierwert des Gefrorenen Hohlraums wird f\u00fcr jeden verbundenen <b><i>H\u00f6hle</i></b>-Ort um 1 gesenkt.",
+                "text": "Der Schleierwert des Gefrorenen Hohlraums wird f\u00fcr jeden verbundenen <t>H\u00f6hle</t>-Ort um 1 gesenkt.",
                 "flavor_text": "Unnat\u00fcrlich kalte Luft zieht durch den Hohlraum und l\u00e4sst dich bis auf die Knochen frieren.",
                 "illustration": "./images/cave3 - unknown.jpg",
                 "clues": "1<per>",
@@ -6016,7 +6072,7 @@
                 "illustrator": "Illus. Rado Javor",
                 "name": "Thothuts Garten",
                 "traits": "Carcosa.",
-                "text": "Der Schleierwert von Thothuts Garten wird f\u00fcr jeden verbundenen <b><i>Carcosa</i></b>-Ort um 1 erh\u00f6ht.\n<free> Falls dieser Ort der einzige <b><i>Carcosa</i></b>-Ort im Spiel ist: Lies die beiseitegelegte Handlungskarte \u201eFreuden\u201c. (Max. einmal pro Spiel.)",
+                "text": "Der Schleierwert von Thothuts Garten wird f\u00fcr jeden verbundenen <t>Carcosa</t>-Ort um 1 erh\u00f6ht.\n<free> Falls dieser Ort der einzige <t>Carcosa</t>-Ort im Spiel ist: Lies die beiseitegelegte Handlungskarte \u201eFreuden\u201c. (Max. einmal pro Spiel.)",
                 "shroud": "3",
                 "clues": "1<per>",
                 "connection": "<copy>",
@@ -6033,7 +6089,7 @@
                 "type": "location",
                 "subtitle": "Wo die Kultisten verschwanden",
                 "traits": "H\u00f6hle.",
-                "text": "Du kannst die <name> nicht von verbundenen Orten aus betreten.\n<free> Falls sich keine <b><i>Carcosa</i></b>-Orte im Spiel befinden und jeder unbesiegte Ermittler in der Unzug\u00e4nglichen Schlucht ist: Lies die beiseitegelegte Handlungskarte \u201eDie verlorene Expedition\u201c. (Max. einmal pro Spiel.)",
+                "text": "Du kannst die <name> nicht von verbundenen Orten aus betreten.\n<free> Falls sich keine <t>Carcosa</t>-Orte im Spiel befinden und jeder unbesiegte Ermittler in der Unzug\u00e4nglichen Schlucht ist: Lies die beiseitegelegte Handlungskarte \u201eDie verlorene Expedition\u201c. (Max. einmal pro Spiel.)",
                 "flavor_text": "",
                 "victory": "Sieg 1.",
                 "illustration": "./images/5a3424a239492871714b7bd6136b57ad.jpg",
@@ -6055,7 +6111,7 @@
                 "name": "Der Gelbe Thron",
                 "subtitle": "Wo Tassilda herrscht",
                 "traits": "Carcosa.",
-                "text": "<free> Falls sich 6 <b><i>Carcosa</i></b>-Orte im Spiel befinden und jeder unbesiegte Ermittler am Gelben Thron ist: Lies die beiseitegelegte Handlungskarte \u201eDie verlorene Expedition\u201c. (Max. einmal pro Spiel.)",
+                "text": "<free> Falls sich 6 <t>Carcosa</t>-Orte im Spiel befinden und jeder unbesiegte Ermittler am Gelben Thron ist: Lies die beiseitegelegte Handlungskarte \u201eDie verlorene Expedition\u201c. (Max. einmal pro Spiel.)",
                 "shroud": "2",
                 "clues": "1<per>",
                 "connection": "<copy>",
@@ -6090,7 +6146,7 @@
                 "illustrator": "Illus. Zdzis?aw Beksi?ski",
                 "name": "Tasylocks Labyrinth",
                 "traits": "Carcosa.",
-                "text": "<for> Am Ende deines Zuges, falls du dich an diesem Ort befindest: Nimm 1 Horror.\n<free> Falls dieser Ort der einzige <b><i>Carcosa</i></b>-Ort im Spiel ist: Lies die beiseitegelegte Handlungskarte \u201eNur f\u00fcr dich\u201c. (Max. einmal pro Spiel.)",
+                "text": "<for> Am Ende deines Zuges, falls du dich an diesem Ort befindest: Nimm 1 Horror.\n<free> Falls dieser Ort der einzige <t>Carcosa</t>-Ort im Spiel ist: Lies die beiseitegelegte Handlungskarte \u201eNur f\u00fcr dich\u201c. (Max. einmal pro Spiel.)",
                 "shroud": "2",
                 "clues": "1<per>",
                 "connection": "<copy>",
@@ -6166,7 +6222,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Gefahr.",
-                "text": "<rev> H\u00e4nge diese Karte an den <b><i>H\u00f6hle</i></b>- oder <b><i>Carcosa</i></b>-Ort mit den wenigsten Hinweisen an, an den noch keine Kopie von <name> angeh\u00e4ngt ist.\n<for> Nachdem der Ort mit dieser Verst\u00e4rkung umgedreht wurde: Drehe ihn wieder zur\u00fcck auf die andere Seite und lege <name> ab.\n<act> Gib 1 Hinweis aus: Lege Gespaltene Realit\u00e4t ab.",
+                "text": "<rev> H\u00e4nge diese Karte an den <t>H\u00f6hle</t>- oder <t>Carcosa</t>-Ort mit den wenigsten Hinweisen an, an den noch keine Kopie von <name> angeh\u00e4ngt ist.\n<for> Nachdem der Ort mit dieser Verst\u00e4rkung umgedreht wurde: Drehe ihn wieder zur\u00fcck auf die andere Seite und lege <name> ab.\n<act> Gib 1 Hinweis aus: Lege Gespaltene Realit\u00e4t ab.",
                 "flavor_text": "",
                 "illustration": "./images/395c8e528a15fb6aa11dacb036f181be.jpg"
             },
@@ -6183,7 +6239,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Gefahr.",
-                "text": "<rev> Jeder Ermittler an einem <b><i>H\u00f6hle</i></b>-Ort legt eine <agi>-Probe (3) ab. Jeder Ermittler, dem die Probe misslingt, nimmt 1 Schaden und verliert 1 Aktion.",
+                "text": "<rev> Jeder Ermittler an einem <t>H\u00f6hle</t>-Ort legt eine <agi>-Probe (3) ab. Jeder Ermittler, dem die Probe misslingt, nimmt 1 Schaden und verliert 1 Aktion.",
                 "flavor_text": "\u201eSie st\u00fcrzt ein! Lauf!\u201c",
                 "illustration": "./images/jonathan_guzi_01.jpg",
                 "illustrator": "Illus. Jonathan Guzi"
@@ -6227,7 +6283,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Verw\u00fcnschung.",
-                "text": "<rev> H\u00e4nge diese Karte an eine <b><i>Gegenstand</i></b>-, <b><i>Zauber</i></b>- oder <b><i>Verb\u00fcndeter</i></b>-Vorteilskarte an, die du kontrollierst und die das Spiel verlassen kann.\n<for> Am Ende deines Zuges: Nimm 2 direkte Schaden und mische die Vorteilskarte, an die <name> angeh\u00e4ngt ist, in dein Deck.\n<act>: Entferne die Vorteilskarte, an die <name> angeh\u00e4ngt ist, aus dem Spiel.",
+                "text": "<rev> H\u00e4nge diese Karte an eine <t>Gegenstand</t>-, <t>Zauber</t>- oder <t>Verb\u00fcndeter</t>-Vorteilskarte an, die du kontrollierst und die das Spiel verlassen kann.\n<for> Am Ende deines Zuges: Nimm 2 direkte Schaden und mische die Vorteilskarte, an die <name> angeh\u00e4ngt ist, in dein Deck.\n<act>: Entferne die Vorteilskarte, an die <name> angeh\u00e4ngt ist, aus dem Spiel.",
                 "flavor_text": "",
                 "illustration": "./images/TheKingInYellow.jpg",
                 "illustrator": "Illus. Jon Weber"
@@ -6301,7 +6357,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Verw\u00fcnschung.",
-                "text": "<rev> Lege eine <int>-Probe (3) ab. Falls du dich an einem <b><i>Carcosa</i></b>-Ort befindest, musst du zu dieser Probe alle Fertigkeitskarten beitragen, die du beitragen kannst. Falls die Probe misslingt, nimmst du 2 Horror.",
+                "text": "<rev> Lege eine <int>-Probe (3) ab. Falls du dich an einem <t>Carcosa</t>-Ort befindest, musst du zu dieser Probe alle Fertigkeitskarten beitragen, die du beitragen kannst. Falls die Probe misslingt, nimmst du 2 Horror.",
                 "flavor_text": "Sie spricht dich an.",
                 "illustration": "./images/unnamed (1).jpg",
                 "illustrator": "Illus. Ford Gallery"
@@ -6373,7 +6429,7 @@
             "front": {
                 "type": "enemy",
                 "traits": "Hindernis.",
-                "text": "<spawn> N\u00e4chstgelegener <b><i>Carcosa</i></b>-Ort.\nGewaltig.\nDieser Gegner greift w\u00e4hrend der Gegnerphase nicht an.",
+                "text": "<spawn> N\u00e4chstgelegener <t>Carcosa</t>-Ort.\nGewaltig.\nDieser Gegner greift w\u00e4hrend der Gegnerphase nicht an.",
                 "health": "5",
                 "evade": "5",
                 "combat": "2",
@@ -6396,7 +6452,7 @@
             "front": {
                 "type": "enemy",
                 "traits": "Hindernis.",
-                "text": "<spawn> N\u00e4chstgelegener <b><i>Carcosa</i></b>-Ort.\nDieser Gegner greift w\u00e4hrend der Gegnerphase nicht an.\n<for> Nachdem der Ort dieses Gegners umgedreht wurde: Dieser Gegner bewegt sich 1 Ort auf den aktiven Ermittler zu.",
+                "text": "<spawn> N\u00e4chstgelegener <t>Carcosa</t>-Ort.\nDieser Gegner greift w\u00e4hrend der Gegnerphase nicht an.\n<for> Nachdem der Ort dieses Gegners umgedreht wurde: Dieser Gegner bewegt sich 1 Ort auf den aktiven Ermittler zu.",
                 "health": "4",
                 "evade": "2",
                 "combat": "4",
@@ -6437,7 +6493,7 @@
             "front": {
                 "type": "enemy",
                 "traits": "Hindernis.",
-                "text": "Zur\u00fcckhaltend. J\u00e4ger.\nDer Ort des Gelben Nebels erh\u00e4lt das Merkmal <b><i>Carcosa</i></b>.",
+                "text": "Zur\u00fcckhaltend. J\u00e4ger.\nDer Ort des Gelben Nebels erh\u00e4lt das Merkmal <t>Carcosa</t>.",
                 "health": "3<per>",
                 "evade": "1",
                 "combat": "4",
@@ -6751,7 +6807,7 @@
                 "type": "location",
                 "subtitle": "Bev\u00f6lkerung: 23615 Mi-Go",
                 "traits": "Kolonie. Pluto.",
-                "text": "<for> Nachdem Yuggoth enth\u00fcllt wurde: Der beiseitegelegte Gegner Mi-Go-Wache erscheint an diesem Ort.\nSolange sich ein Ermittler an einem <b><i>Pluto</i></b>-Ort oder einem daran angeh\u00e4ngten <b><i>Raumschiff</i></b>-Ort befindet, muss er w\u00e4hrend seines Zuges bei jeder Fertigkeitsprobe einen zus\u00e4tzlichen Chaosmarker enth\u00fcllen.",
+                "text": "<for> Nachdem Yuggoth enth\u00fcllt wurde: Der beiseitegelegte Gegner Mi-Go-Wache erscheint an diesem Ort.\nSolange sich ein Ermittler an einem <t>Pluto</t>-Ort oder einem daran angeh\u00e4ngten <t>Raumschiff</t>-Ort befindet, muss er w\u00e4hrend seines Zuges bei jeder Fertigkeitsprobe einen zus\u00e4tzlichen Chaosmarker enth\u00fcllen.",
                 "flavor_text": " Die Sonne scheint hier nicht heller als die anderen Sterne, aber die seltsamen pilzartigen Mi-Go brauchen kein Licht.",
                 "victory": "Sieg 1.",
                 "illustration": "./images/alien-city-simpli.jpg",
@@ -7051,7 +7107,7 @@
             "front": {
                 "type": "location",
                 "traits": "Kolonie. Mond.",
-                "text": "<rev> Bringe diesen Ort ins Spiel.\nSolange sich ein Hinweis an diesem Ort befindet, kannst du an diesem Ort nicht scannen.\n<for> Am Ende der Runde, falls ein <b><i>Raumschiff</i></b> an diesen Ort angeh\u00e4ngt ist: Lege einen Ressourcenmarker aus dem Markervorrat auf diesen Ort (bis zu einem Maximum von 3). Falls danach 3 Ressourcen auf diesem Ort liegen, erscheint der beiseitegelegte Gegner Domaag T'eel an diesem Ort.",
+                "text": "<rev> Bringe diesen Ort ins Spiel.\nSolange sich ein Hinweis an diesem Ort befindet, kannst du an diesem Ort nicht scannen.\n<for> Am Ende der Runde, falls ein <t>Raumschiff</t> an diesen Ort angeh\u00e4ngt ist: Lege einen Ressourcenmarker aus dem Markervorrat auf diesen Ort (bis zu einem Maximum von 3). Falls danach 3 Ressourcen auf diesem Ort liegen, erscheint der beiseitegelegte Gegner Domaag T'eel an diesem Ort.",
                 "flavor_text": "",
                 "victory": "Sieg 1.",
                 "illustration": "./images/moonbase tuchong.jpg",
@@ -7308,7 +7364,7 @@
             "front": {
                 "type": "enemy",
                 "traits": "Monster.",
-                "text": "<spawn> Beliebiger <b><i>Asteroideng\u00fcrtel</i></b>-Ort.\nJ\u00e4ger. Zur\u00fcckschlagen.\n<for> Nachdem du diesen Gegner besiegt hast: Mische diesen Gegner in das Scan-Deck.",
+                "text": "<spawn> Beliebiger <t>Asteroideng\u00fcrtel</t>-Ort.\nJ\u00e4ger. Zur\u00fcckschlagen.\n<for> Nachdem du diesen Gegner besiegt hast: Mische diesen Gegner in das Scan-Deck.",
                 "health": "2<per>",
                 "evade": "4",
                 "combat": "2",
@@ -7380,7 +7436,7 @@
             "front": {
                 "type": "enemy",
                 "traits": "Kreatur.",
-                "text": "<spawn> Beliebiger <b><i>Mars</i></b>-Ort.\nGewaltig.\n<reaction> Sobald du der Marsianischen Krabbe erfolgreich entkommst, gib 1 Hinweis aus: F\u00fcge der Marsianischen Krabbe 2 Schaden zu, anstatt sie zu ersch\u00f6pfen.",
+                "text": "<spawn> Beliebiger <t>Mars</t>-Ort.\nGewaltig.\n<reaction> Sobald du der Marsianischen Krabbe erfolgreich entkommst, gib 1 Hinweis aus: F\u00fcge der Marsianischen Krabbe 2 Schaden zu, anstatt sie zu ersch\u00f6pfen.",
                 "health": "3<per>",
                 "evade": "2",
                 "combat": "5",
@@ -7536,7 +7592,7 @@
             "front": {
                 "type": "enemy",
                 "traits": "Humanoid. Kultist.",
-                "text": "<spawn> Beliebiger <b><i>Kolonie</i></b>-Ort.\n<for> Nachdem ein Ermittler erfolgreich gescannt hat: Platziere 1 Verderben auf den Cyberkultisten.",
+                "text": "<spawn> Beliebiger <t>Kolonie</t>-Ort.\n<for> Nachdem ein Ermittler erfolgreich gescannt hat: Platziere 1 Verderben auf den Cyberkultisten.",
                 "health": "1",
                 "evade": "1",
                 "combat": "3",
@@ -7596,7 +7652,7 @@
             "front": {
                 "type": "enemy",
                 "traits": "Humanoid. Krimineller.",
-                "text": "<spawn> N\u00e4chstgelegener <b><i>Raumschiff</i></b>-Ort.\n<act> Gib Ressourcen in H\u00f6he der verbliebenen Ausdauer der Raumpiraten aus: <b>Verhandlung.</b> Lege die Raumpiraten ab.",
+                "text": "<spawn> N\u00e4chstgelegener <t>Raumschiff</t>-Ort.\n<act> Gib Ressourcen in H\u00f6he der verbliebenen Ausdauer der Raumpiraten aus: <b>Verhandlung.</b> Lege die Raumpiraten ab.",
                 "health": "4",
                 "evade": "3",
                 "combat": "3",
@@ -7984,7 +8040,7 @@
             "front": {
                 "type": "asset",
                 "traits": "Wissenschaft.",
-                "text": "Erforscht (3 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<reaction> Sobald du eine <b><i>Wissenschaft</i></b>-Karte ausspielst: Platziere 1 Ressource aus dem Markervorrat als Beweis auf diese Karte.\nSolange <name>\u2026\n<bullet> \u20261 oder mehr Beweise hat, bekommst du +1 <willpower>.\n<bullet> \u20262 oder mehr Beweise hat, bekommst du +1 <intellect>.\n<bullet> \u20263 oder mehr Beweise hat, bekommst du +1 geisitge Gesundheit.",
+                "text": "Erforscht (3 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<reaction> Sobald du eine <t>Wissenschaft</t>-Karte ausspielst: Platziere 1 Ressource aus dem Markervorrat als Beweis auf diese Karte.\nSolange <name>\u2026\n<bullet> \u20261 oder mehr Beweise hat, bekommst du +1 <willpower>.\n<bullet> \u20262 oder mehr Beweise hat, bekommst du +1 <intellect>.\n<bullet> \u20263 oder mehr Beweise hat, bekommst du +1 geisitge Gesundheit.",
                 "cost": "0",
                 "flavor_text": "",
                 "classes": [
@@ -8037,7 +8093,7 @@
             "front": {
                 "type": "asset",
                 "traits": "Talent. Wissenschaft.",
-                "text": "Erforscht (3 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<action> Lege eine <b><i>Zauber</i></b>- oder <b><i>Ritual</i></b>-Karte aus deinem Spielbereich oder von deiner Hand ab: Ziehe 1 Karte und erhalte X Ressourcen. X sind die Ressourcen-<br>kosten der abgelegten Karte.",
+                "text": "Erforscht (3 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<action> Lege eine <t>Zauber</t>- oder <t>Ritual</t>-Karte aus deinem Spielbereich oder von deiner Hand ab: Ziehe 1 Karte und erhalte X Ressourcen. X sind die Ressourcen-<br>kosten der abgelegten Karte.",
                 "cost": "1",
                 "flavor_text": "",
                 "classes": [
@@ -8110,7 +8166,7 @@
             "front": {
                 "type": "event",
                 "traits": "Erkenntnis. Forschung.",
-                "text": "Nur f\u00fcr das Deck von Kate Winthrop.\n<reaction> Sobald du dein Deck durchsuchst und sich Dimensions-forschung unter den durchsuchten Karten befindet: Ziehe diese Karte. (Max. 1 <b><i>Forschung</i></b>-F\u00e4higkeit pro Suche.)\nW\u00e4hle einen Nicht-<b><i>Elite</i></b>-Gegner an deinem Ort und lege eine <intellect>-Probe (X) ab. X ist der Kampfwert des Gegners. Falls die Probe gelingt, besiege den Gegner entweder, oder du entkommst ihm automatisch und bewegst dich an einen verbundenen Ort. Diese Aktion provoziert keine <br>Gelegenheitsangriffe.",
+                "text": "Nur f\u00fcr das Deck von Kate Winthrop.\n<reaction> Sobald du dein Deck durchsuchst und sich Dimensions-forschung unter den durchsuchten Karten befindet: Ziehe diese Karte. (Max. 1 <t>Forschung</t>-F\u00e4higkeit pro Suche.)\nW\u00e4hle einen Nicht-<t>Elite</t>-Gegner an deinem Ort und lege eine <intellect>-Probe (X) ab. X ist der Kampfwert des Gegners. Falls die Probe gelingt, besiege den Gegner entweder, oder du entkommst ihm automatisch und bewegst dich an einen verbundenen Ort. Diese Aktion provoziert keine <br>Gelegenheitsangriffe.",
                 "cost": "2",
                 "level": "None",
                 "flavor_text": "",
@@ -8187,7 +8243,7 @@
                     ],
                     [
                         "<b>Deckbau-Optionen:</b>",
-                        "Sucherkarten (<seeker>) Stufe 0-5, Karten mit dem Wort \u201eermitteln\u201c im Kartentext Stufe 0-5, Neutrale Karten Stufe 0-5, <b><i>Wissenschaft</i></b>-Karten Stufe 0-3."
+                        "Sucherkarten (<seeker>) Stufe 0-5, Karten mit dem Wort \u201eermitteln\u201c im Kartentext Stufe 0-5, Neutrale Karten Stufe 0-5, <t>Wissenschaft</t>-Karten Stufe 0-3."
                     ],
                     [
                         "<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe)<b>:</b>",
@@ -8198,7 +8254,7 @@
                         ""
                     ]
                 ],
-                "text": "<b>Deckgr\u00f6\u00dfe:</b> 30\n<b>Deckbau-Optionen:</b> Sucherkarten (<seeker>) Stufe 0-5, Karten mit dem Wort \u201eermitteln\u201c im Kartentext Stufe 0-5, Neutrale Karten Stufe 0-5, <b><i>Wissenschaft</i></b>-Karten Stufe 0-3.\n<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe)<b>:</b> Fluxstabilisator, Dimensions-<br>forschung, Dimensionsspalt, 1 zuf\u00e4llige <br> Grundschw\u00e4che.",
+                "text": "<b>Deckgr\u00f6\u00dfe:</b> 30\n<b>Deckbau-Optionen:</b> Sucherkarten (<seeker>) Stufe 0-5, Karten mit dem Wort \u201eermitteln\u201c im Kartentext Stufe 0-5, Neutrale Karten Stufe 0-5, <t>Wissenschaft</t>-Karten Stufe 0-3.\n<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe)<b>:</b> Fluxstabilisator, Dimensions-<br>forschung, Dimensionsspalt, 1 zuf\u00e4llige <br> Grundschw\u00e4che.",
                 "flavor_text": "\nDie ruhige und findige Kate arbeitete als Forscherin in der Miskatonic-Universit\u00e4t. Sie und ihr Kollege Professor Young waren Pioniere auf dem Gebiet der Dimensions-<br>forschung. Eines Tages \u00f6ffneten sie jedoch bei einem Laborunfall ein Portal in eine andere Dimension. Das Wesen, das durch dieses Portal kam, riss Professor Young in St\u00fccke. Kate \u00fcberlebte, aber die Erinnerungen an diesen Tag verfolgen sie bis heute. Deswegen ist sie fest entschlossen, zu verhindern, dass so etwas jemals wieder geschieht.",
                 "illustration_pan_x": 22.0,
                 "illustration_pan_y": 72.0,
@@ -8212,7 +8268,7 @@
             "name": "Der Blick in die Unendlichkeit",
             "front": {
                 "type": "story",
-                "text": "<blockquote>Du findest ein Objekt, das aus mehreren makellos gl\u00e4nzenden Sechsecken besteht. Es ist ein altes Teleskop, mit dem die Grenzen des bekannten Universums beobachtet wurden.\n\u201eDas James Webb-Weltraumteleskop (JWST) ist ein Weltraumteleskop, das haupts\u00e4chlich f\u00fcr die Infrarotastronomie entwickelt wurde. Es ist das gr\u00f6\u00dfte optische Teleskop im Weltraum, und seine hohe Infrarotaufl\u00f6sung und Empfindlichkeit machen es m\u00f6glich, Objekte zu sehen, die zu alt, zu weit entfernt oder zu blass f\u00fcr das Hubble-Weltraum-<br>teleskop sind. Dadurch erm\u00f6glicht es eine gro\u00dfe Bandbreite an Untersuchungen auf den Gebieten der Astronomie und Kosmologie, wie z.B. die Beobachtung der ersten Sterne und der Entstehung der ersten Galaxien, und die genaue Beschreibung der Atmosph\u00e4ren potenziell bewohnbarer Exo-<br>planeten.\u201c\n<right>-Maja, Informationsarchiv</blockquote>\n\n<left>Falls ein Ermittler an deinem Ort eine <b><i>Wissenschaft</i></b>-Karte im Spiel kontrolliert oder besitzt, h\u00e4nge <name> an einen beliebigen Ort an. Entferne diese Karte ansonsten aus dem Spiel. Ermittler d\u00fcrfen den Ort mit dieser Verst\u00e4rkung behandeln, als ob sein aufge-<br>drucktes Textfeld leer w\u00e4re."
+                "text": "<blockquote>Du findest ein Objekt, das aus mehreren makellos gl\u00e4nzenden Sechsecken besteht. Es ist ein altes Teleskop, mit dem die Grenzen des bekannten Universums beobachtet wurden.\n\u201eDas James Webb-Weltraumteleskop (JWST) ist ein Weltraumteleskop, das haupts\u00e4chlich f\u00fcr die Infrarotastronomie entwickelt wurde. Es ist das gr\u00f6\u00dfte optische Teleskop im Weltraum, und seine hohe Infrarotaufl\u00f6sung und Empfindlichkeit machen es m\u00f6glich, Objekte zu sehen, die zu alt, zu weit entfernt oder zu blass f\u00fcr das Hubble-Weltraum-<br>teleskop sind. Dadurch erm\u00f6glicht es eine gro\u00dfe Bandbreite an Untersuchungen auf den Gebieten der Astronomie und Kosmologie, wie z.B. die Beobachtung der ersten Sterne und der Entstehung der ersten Galaxien, und die genaue Beschreibung der Atmosph\u00e4ren potenziell bewohnbarer Exo-<br>planeten.\u201c\n<right>-Maja, Informationsarchiv</blockquote>\n\n<left>Falls ein Ermittler an deinem Ort eine <t>Wissenschaft</t>-Karte im Spiel kontrolliert oder besitzt, h\u00e4nge <name> an einen beliebigen Ort an. Entferne diese Karte ansonsten aus dem Spiel. Ermittler d\u00fcrfen den Ort mit dieser Verst\u00e4rkung behandeln, als ob sein aufge-<br>drucktes Textfeld leer w\u00e4re."
             },
             "back": {
                 "type": "fullart_scanning",
@@ -8251,7 +8307,7 @@
             "name": "Ein Reisender im All",
             "front": {
                 "type": "story",
-                "text": "<blockquote>Du kannst ein leises piependes Ger\u00e4usch aus den Weiten des Alls h\u00f6ren.\n\u201eVoyager 1 ist eine Raumsonde, die am 5. September 1977 als Teil des Voyager-Programms der NASA gestartet wurde, um das \u00e4u\u00dfere Sonnensystem und den interstellaren Raum jenseits der Heliosph\u00e4re der Sonne zu erforschen. Voyager 1 entdeckte einen schwach ausgepr\u00e4gten Planetenring um den Jupiter und zwei neue Jupitermonde: Thebe und Metis. Am Saturn entdeckte Voyager 1 f\u00fcnf neue Monde und einen neuen Ring, der als G-Ring bezeichnet wurde. Voyager 1 ist das erste von Menschen gebaute Objekt, das in den interstellaren Raum eintrat, und ist auch heute noch das menschen-gemachte Objekt, das am weitesten von der Erde entfernt ist.\u201c\n<right>-Maja, Informationsarchiv</blockquote>\n\n<left>Jeder Ermittler erh\u00e4lt f\u00fcr jede <b><i>Wissenschaft</i></b>-Karte im Spiel, die er kontrolliert oder besitzt, 1 Ressource. Entferne <name> aus dem Spiel."
+                "text": "<blockquote>Du kannst ein leises piependes Ger\u00e4usch aus den Weiten des Alls h\u00f6ren.\n\u201eVoyager 1 ist eine Raumsonde, die am 5. September 1977 als Teil des Voyager-Programms der NASA gestartet wurde, um das \u00e4u\u00dfere Sonnensystem und den interstellaren Raum jenseits der Heliosph\u00e4re der Sonne zu erforschen. Voyager 1 entdeckte einen schwach ausgepr\u00e4gten Planetenring um den Jupiter und zwei neue Jupitermonde: Thebe und Metis. Am Saturn entdeckte Voyager 1 f\u00fcnf neue Monde und einen neuen Ring, der als G-Ring bezeichnet wurde. Voyager 1 ist das erste von Menschen gebaute Objekt, das in den interstellaren Raum eintrat, und ist auch heute noch das menschen-gemachte Objekt, das am weitesten von der Erde entfernt ist.\u201c\n<right>-Maja, Informationsarchiv</blockquote>\n\n<left>Jeder Ermittler erh\u00e4lt f\u00fcr jede <t>Wissenschaft</t>-Karte im Spiel, die er kontrolliert oder besitzt, 1 Ressource. Entferne <name> aus dem Spiel."
             },
             "back": {
                 "type": "fullart_scanning",
@@ -8271,7 +8327,7 @@
             "name": "Neugieriger Entdecker",
             "front": {
                 "type": "story",
-                "text": "<blockquote>Du findest eine gl\u00e4serne Vitrine, die eines der wertvollsten Relikte der Mars-Kolonien enth\u00e4lt - einen alten Marsrover.\n\u201eCuriosity ist ein automobilgro\u00dfer Marsrover, der entwickelt wurde, um als Teil der Mars Science Laboratoty (MSL)-Mission der NASA den Gale-Krater auf dem Mars zu erkunden. Curiosity wurde im Jahr 2011 von der CCAFS am Cape Canaveral ins All geschossen und landete 2012 im Aeolis Palus innerhalb des Gale-Kraters auf dem Mars. Zu seinen Missionszielen z\u00e4hlen die Untersuchung des Klimas und der Geologie auf dem Mars, die Pr\u00fcfung, ob Gale jemals g\u00fcnstige Bedingungen f\u00fcr mikrobielles Leben bot (und welche Rolle Wasser bei der Enstehung solchen Lebens spielt) und die Einsch\u00e4tzung der Bewohnbarkeit des Planeten zur Vorbereitung sp\u00e4terer bemannter Missionen.\u201c\n<right>-Maja, Informationsarchiv</blockquote>\n\n<left>Jeder Ermittler zieht f\u00fcr jede <b><i>Wissenschaft</i></b>-Karte im Spiel, die er kontrolliert oder besitzt, 1 Karte. (Max. 3 Karten f\u00fcr jeden Ermittler.)\nEntferne <name> aus dem Spiel."
+                "text": "<blockquote>Du findest eine gl\u00e4serne Vitrine, die eines der wertvollsten Relikte der Mars-Kolonien enth\u00e4lt - einen alten Marsrover.\n\u201eCuriosity ist ein automobilgro\u00dfer Marsrover, der entwickelt wurde, um als Teil der Mars Science Laboratoty (MSL)-Mission der NASA den Gale-Krater auf dem Mars zu erkunden. Curiosity wurde im Jahr 2011 von der CCAFS am Cape Canaveral ins All geschossen und landete 2012 im Aeolis Palus innerhalb des Gale-Kraters auf dem Mars. Zu seinen Missionszielen z\u00e4hlen die Untersuchung des Klimas und der Geologie auf dem Mars, die Pr\u00fcfung, ob Gale jemals g\u00fcnstige Bedingungen f\u00fcr mikrobielles Leben bot (und welche Rolle Wasser bei der Enstehung solchen Lebens spielt) und die Einsch\u00e4tzung der Bewohnbarkeit des Planeten zur Vorbereitung sp\u00e4terer bemannter Missionen.\u201c\n<right>-Maja, Informationsarchiv</blockquote>\n\n<left>Jeder Ermittler zieht f\u00fcr jede <t>Wissenschaft</t>-Karte im Spiel, die er kontrolliert oder besitzt, 1 Karte. (Max. 3 Karten f\u00fcr jeden Ermittler.)\nEntferne <name> aus dem Spiel."
             },
             "back": {
                 "type": "fullart_scanning",
@@ -8291,7 +8347,7 @@
             "name": "Verborgene Signale",
             "front": {
                 "type": "story",
-                "text": "<blockquote>Die Oberfl\u00e4che der Erde ist nur noch ein zerst\u00f6rtes \u00d6dland voller abscheulicher Wesen und unaus-sprechlicher Sch\u00f6pfungen. Dein Sensor empf\u00e4ngt jedoch ein leises Hoffnungsfl\u00fcstern aus den Tr\u00fcmmern.\nW\u00e4hrend der vielen Jahre des Wohlstands, die die Menschheit vor dem Erscheinen der Gro\u00dfen Alten durchlebte, haben die Menschen zusammen-gearbeitet und gemeinsam mehrere unterirdische Labore gebaut, um die Wahrheiten des Universums zu ergr\u00fcnden. Was sind Neutrinos? K\u00f6nnen wir die ungreifbare Dunkle Materie finden? Was sind die grundlegenden Kr\u00e4fte, die das Universum zusammenhalten?\nDiese gemeinsamen Forschungsprojekte f\u00fchrten zu neuen Entdeckungen und haben das Wissen der ganzen Menschheit erweitert. Trotz der Schrecken, die \u00fcber ihnen lauern, senden die Labore dieses Wissen immer noch ins All.</blockquote>\nJeder Ermittler erh\u00e4lt f\u00fcr jede <b><i>Wissenschaft</i></b>-Karte im Spiel, die er kontrolliert oder besitzt, 1 Hinweis aus dem Markervorrat. (Max. 2 Hinweise f\u00fcr jeden Ermittler.)\nEntferne <name> aus dem Spiel."
+                "text": "<blockquote>Die Oberfl\u00e4che der Erde ist nur noch ein zerst\u00f6rtes \u00d6dland voller abscheulicher Wesen und unaus-sprechlicher Sch\u00f6pfungen. Dein Sensor empf\u00e4ngt jedoch ein leises Hoffnungsfl\u00fcstern aus den Tr\u00fcmmern.\nW\u00e4hrend der vielen Jahre des Wohlstands, die die Menschheit vor dem Erscheinen der Gro\u00dfen Alten durchlebte, haben die Menschen zusammen-gearbeitet und gemeinsam mehrere unterirdische Labore gebaut, um die Wahrheiten des Universums zu ergr\u00fcnden. Was sind Neutrinos? K\u00f6nnen wir die ungreifbare Dunkle Materie finden? Was sind die grundlegenden Kr\u00e4fte, die das Universum zusammenhalten?\nDiese gemeinsamen Forschungsprojekte f\u00fchrten zu neuen Entdeckungen und haben das Wissen der ganzen Menschheit erweitert. Trotz der Schrecken, die \u00fcber ihnen lauern, senden die Labore dieses Wissen immer noch ins All.</blockquote>\nJeder Ermittler erh\u00e4lt f\u00fcr jede <t>Wissenschaft</t>-Karte im Spiel, die er kontrolliert oder besitzt, 1 Hinweis aus dem Markervorrat. (Max. 2 Hinweise f\u00fcr jeden Ermittler.)\nEntferne <name> aus dem Spiel."
             },
             "back": {
                 "type": "fullart_scanning",
