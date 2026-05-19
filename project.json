@@ -809,7 +809,7 @@
             "amount": 3
         },
         {
-            "name": "Die Tatterdemalion",
+            "name": "<dbl>Die Tatterdemalion</dbl>",
             "front": {
                 "type": "chaos",
                 "entries": [
@@ -863,7 +863,8 @@
                 "doom": "7",
                 "illustration_scale": 1.0,
                 "illustration_pan_x": -1792.0,
-                "illustration_pan_y": -1087.0
+                "illustration_pan_y": -1087.0,
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "act_agenda_full",
@@ -888,7 +889,8 @@
                 "index": "2a",
                 "illustration_pan_y": -1087.0,
                 "illustration_pan_x": -1792.0,
-                "illustration_scale": 1.0
+                "illustration_scale": 1.0,
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "enemy",
@@ -923,7 +925,8 @@
                 "index": "3a",
                 "illustration_pan_y": -1087.0,
                 "illustration_pan_x": -1792.0,
-                "illustration_scale": 1.0
+                "illustration_scale": 1.0,
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "agenda_back",
@@ -944,7 +947,8 @@
                 "flavor_text": "Durch den langen K\u00e4lteschlaf schmerzt dein K\u00f6rper und deine Muskeln sind ver-<br>krampft. Wie lange warst du in deinem eisigen Grab gefangen? Wo ist der Rest der Besatzung? Diese Fragen m\u00fcssen warten; erstmal musst du das Schiff wieder funktionst\u00fcchtig machen, bevor der Reaktor \u00fcberhitzt.",
                 "illustration": "./images/space ship 4.png",
                 "clues": "2<per>",
-                "index": "1a"
+                "index": "1a",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "act_back",
@@ -965,7 +969,8 @@
                 "flavor_text": "Du hast die Energieversorgung der Tatterdemalion wiederhergestellt, aber daraus ergibt sich ein neues Problem. Die defekte KI des Schiffs ist jetzt aktiv und versucht, dich auszul\u00f6schen. Du musst einen Weg finden, sie zu reparieren oder auszuschalten, bevor sie dich aus dem Schiff wirft.",
                 "illustration": "./images/space ship 4.png",
                 "clues": "<dash>",
-                "index": "2a"
+                "index": "2a",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "act_back",
@@ -986,7 +991,8 @@
                 "flavor_text": "Du musst eine M\u00f6glichkeit finden, die K\u00e4lteschlaf-<br>kapseln so umzuprogrammieren, dass sie sich mit 2C-OES187s virtueller Traumwelt verbinden und du die kybernetische KI beruhigen kannst.",
                 "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/space ship 4.png",
                 "clues": "<dash>",
-                "index": "3a"
+                "index": "3a",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "act_agenda_full_back",
@@ -1638,7 +1644,7 @@
                 "flavor_text": "",
                 "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/0_gravity - Tim Warnock.jpg",
                 "illustrator": "Illus. Tim Warnock",
-                "illustration_pan_x": -314.0,
+                "illustration_pan_x": -300.0,
                 "illustration_pan_y": -1.0,
                 "illustration_scale": 1.06
             },
@@ -1835,7 +1841,7 @@
             "amount": 3
         },
         {
-            "name": "Elektrischer Albtraum",
+            "name": "<dbl>Elektrischer Albtraum</dbl>",
             "front": {
                 "type": "chaos",
                 "entries": [
@@ -1897,7 +1903,8 @@
                 "flavor_text": "2C-OES187s virtuelle Traumlandschaft ist erstaunlich realistisch. Du sp\u00fcrst das Kitzeln deiner Haare und riechst die W\u00fcrmer in der Erde unter dir. Alle Wahrnehmungen sind besonders intensiv, weil sie direkt an deinen sensomotorischen Cortex geschickt werden. In dieser Welt ist es schwer, zwischen Simulation und Halluzination zu unterscheiden.",
                 "illustration": "./images/glitch art - unknown.jpg",
                 "doom": "4",
-                "index": "1a"
+                "index": "1a",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "agenda_back",
@@ -1918,7 +1925,8 @@
                 "flavor_text": "",
                 "illustration": "./images/glitch art - unknown.jpg",
                 "doom": "10",
-                "index": "2a"
+                "index": "2a",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "agenda_back",
@@ -1939,7 +1947,8 @@
                 "illustration": "./images/apple - robert huckestein.jpg",
                 "clues": "<dash>",
                 "index": "1a",
-                "illustrator": "Illus. Robert Huckestein"
+                "illustrator": "Illus. Robert Huckestein",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "act_back",
@@ -2003,7 +2012,8 @@
                 "illustration": "./images/apple - robert huckestein.jpg",
                 "clues": "<dash>",
                 "index": "2a",
-                "illustrator": "Illus. Robert Huckestein"
+                "illustrator": "Illus. Robert Huckestein",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "act_back",
@@ -2025,7 +2035,8 @@
                 "illustration": "./images/apple - robert huckestein.jpg",
                 "clues": "<dash>",
                 "index": "3a",
-                "illustrator": "Illus. Robert Huckestein"
+                "illustrator": "Illus. Robert Huckestein",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "act_back",
@@ -2748,7 +2759,7 @@
             "amount": 2
         },
         {
-            "name": "Verlorene Quanten",
+            "name": "<dbl>Verlorene Quanten</dbl>",
             "front": {
                 "type": "chaos",
                 "entries": [
@@ -2823,7 +2834,8 @@
                 "illustration": "./images/quantum mark garlick.jpg",
                 "doom": "3",
                 "index": "1a",
-                "illustrator": "Illus. Mark Garlick"
+                "illustrator": "Illus. Mark Garlick",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "agenda_back",
@@ -2845,7 +2857,8 @@
                 "illustration": "./images/quantum mark garlick.jpg",
                 "doom": "3",
                 "index": "1a",
-                "illustrator": "Illus. Mark Garlick"
+                "illustrator": "Illus. Mark Garlick",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "agenda_back",
@@ -2867,7 +2880,8 @@
                 "illustration": "./images/quantum mark garlick.jpg",
                 "doom": "3",
                 "index": "1a",
-                "illustrator": "Illus. Mark Garlick"
+                "illustrator": "Illus. Mark Garlick",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "agenda_back",
@@ -2888,7 +2902,8 @@
                 "illustration": "./images/asteroid base - artem-khorchev.jpg",
                 "clues": "3<per>",
                 "index": "1a",
-                "illustrator": "Illus. Artem Khorchev"
+                "illustrator": "Illus. Artem Khorchev",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "act_back",
@@ -2910,7 +2925,8 @@
                 "illustration": "./images/asteroid base - artem-khorchev.jpg",
                 "clues": "<dash>",
                 "index": "2a",
-                "illustrator": "Illus. Artem Khorchev"
+                "illustrator": "Illus. Artem Khorchev",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "act_back",
@@ -2932,7 +2948,8 @@
                 "illustration": "./images/asteroid base - artem-khorchev.jpg",
                 "clues": "<dash>",
                 "index": "2a",
-                "illustrator": "Illus. Artem Khorchev"
+                "illustrator": "Illus. Artem Khorchev",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "act_back",
@@ -3402,7 +3419,7 @@
             "id": "36ab17df-da83-4d67-ad89-50f8046b0788"
         },
         {
-            "name": "Im Schatten der Erde",
+            "name": "<dbl>Im Schatten der Erde</dbl>",
             "front": {
                 "type": "chaos",
                 "entries": [
@@ -3479,7 +3496,8 @@
                 "index": "1a",
                 "illustration_pan_x": -621.0,
                 "illustration_pan_y": -51.0,
-                "illustration_scale": 0.68
+                "illustration_scale": 0.68,
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "agenda_back",
@@ -3503,7 +3521,8 @@
                 "index": "2a",
                 "illustration_pan_y": -51.0,
                 "illustration_pan_x": -621.0,
-                "illustration_scale": 0.68
+                "illustration_scale": 0.68,
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "agenda_back",
@@ -3527,7 +3546,8 @@
                 "index": "3a",
                 "illustration_pan_y": -51.0,
                 "illustration_pan_x": -621.0,
-                "illustration_scale": 0.68
+                "illustration_scale": 0.68,
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "agenda_back",
@@ -3547,7 +3567,8 @@
                 "flavor_text": "Hier ist niemand, der dich begr\u00fc\u00dft. Niemand antwortet auf deine Rufe. Aber trotz der Stille zeigt dein Bewegungssensor mehrere Signale an, die sich auf diesem Schiff bewegen.",
                 "illustration": "./images/time-universe-6.jpg",
                 "clues": "<dash>",
-                "index": "1a"
+                "index": "1a",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "act_back",
@@ -3568,7 +3589,8 @@
                 "flavor_text": "Es verstecken sich noch mehr Menschen (und Anderes) an Bord. Du m\u00f6chtest so viele Crewmitglieder der Nostalgia II wie m\u00f6glich retten \u2013 aber sei vorsichtig. Nicht jeder ist, wer er zu sein vorgibt.",
                 "illustration": "./images/time-universe-6.jpg",
                 "clues": "<dash>",
-                "index": "2a"
+                "index": "2a",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "act_back",
@@ -3588,7 +3610,8 @@
                 "flavor_text": "Die wahre Gestalt des Wesens kreischt und schleudert dir vor Wut ihre massigen Tentakel entgegen. Du musst entweder fliehen, solange du noch kannst, oder deine Kr\u00e4fte sammeln, um die Abscheulichkeit ein f\u00fcr alle Mal auszul\u00f6schen!",
                 "illustration": "./images/time-universe-6.jpg",
                 "clues": "<dash>",
-                "index": "3a"
+                "index": "3a",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "act_back",
@@ -3612,7 +3635,8 @@
                 "index": "4a",
                 "illustration_pan_y": -51.0,
                 "illustration_pan_x": -621.0,
-                "illustration_scale": 0.68
+                "illustration_scale": 0.68,
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "agenda_back",
@@ -4471,7 +4495,7 @@
             "id": "36fe7af6-376c-4636-9b7b-acb0b2edac4a"
         },
         {
-            "name": "Fremdartige Monde",
+            "name": "<dbl>Fremdartige Monde</dbl>",
             "front": {
                 "type": "chaos",
                 "entries": [
@@ -4546,7 +4570,8 @@
                 "doom": "3",
                 "index": "1a",
                 "illustrator": "Illus. Julian Baum",
-                "flavor_text": "<center><i>\u201eTitan, unsterblicher! Dir ging\nes auf: Was ist Realit\u00e4t?\nErtragen, trist, von fr\u00fch bis sp\u00e4t;\ndie G\u00f6tter achten es gering\u2026\u201c\n<right>-Lord Byron, </i>Prometheus\n"
+                "flavor_text": "<center><i>\u201eTitan, unsterblicher! Dir ging\nes auf: Was ist Realit\u00e4t?\nErtragen, trist, von fr\u00fch bis sp\u00e4t;\ndie G\u00f6tter achten es gering\u2026\u201c\n<right>-Lord Byron, </i>Prometheus\n",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "agenda_back",
@@ -4568,7 +4593,8 @@
                 "illustration": "./images/titan julian baum.jpg",
                 "doom": "8",
                 "index": "2a",
-                "illustrator": "Illus. Julian Baum"
+                "illustrator": "Illus. Julian Baum",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "agenda_back",
@@ -4590,7 +4616,8 @@
                 "illustration": "./images/computer-artwork-of-titans-surface-and-saturn-julian-baum.jpg",
                 "doom": "5",
                 "index": "3a",
-                "illustrator": "Illus. Julian Baum"
+                "illustrator": "Illus. Julian Baum",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "enemy",
@@ -4624,7 +4651,8 @@
                 "illustration": "./images/titan julian baum.jpg",
                 "doom": "3",
                 "index": "4a",
-                "illustrator": "Illus. Julian Baum"
+                "illustrator": "Illus. Julian Baum",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "agenda_back",
@@ -4645,7 +4673,8 @@
                 "flavor_text": "Ein kleines, schlankes, friedlich wirkendes humanoides Wesen mit gro\u00dfen Augen und einem kahlen runden Kopf bewacht den Eingang zur Anlage. Es spricht nicht, sondern beobachtet dich nur aus der Ferne.",
                 "illustration": "./images/greys.jpg",
                 "clues": "<dash>",
-                "index": "1a"
+                "index": "1a",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "act_back",
@@ -4666,7 +4695,8 @@
                 "flavor_text": "Dieser Au\u00dfenposten scheint eine Art Lager f\u00fcr menschliche Gehirne zu sein. Wenn du die Ger\u00e4te der Mi-Go benutzt, um die Gehirne zu scannen, die von den Kultisten hergebracht wurden, gelangst du vielleicht an Informationen, die dir helfen, das Bruchst\u00fcck zu finden.",
                 "illustration": "./images/greys.jpg",
                 "clues": "<dash>",
-                "index": "2a"
+                "index": "2a",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "act_back",
@@ -5431,7 +5461,7 @@
             "id": "1b883fd4-39d8-40ac-8889-f9e170bbe63c"
         },
         {
-            "name": "Die Maschine in Gelb",
+            "name": "<dbl>Die Maschine in Gelb</dbl>",
             "front": {
                 "type": "chaos",
                 "entries": [
@@ -5506,7 +5536,8 @@
                 "illustration": "./images/nick-sadek-the-king-in-yellow-lowres.jpg",
                 "doom": "4",
                 "index": "1a",
-                "illustrator": "Illus. Nick Sadek"
+                "illustrator": "Illus. Nick Sadek",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "agenda_back",
@@ -5528,7 +5559,8 @@
                 "illustration": "./images/nick-sadek-the-king-in-yellow-lowres.jpg",
                 "doom": "5",
                 "index": "2a",
-                "illustrator": "Illus. Nick Sadek"
+                "illustrator": "Illus. Nick Sadek",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "agenda_back",
@@ -5549,7 +5581,8 @@
                 "illustration": "./images/nick-sadek-the-king-in-yellow-lowres.jpg",
                 "doom": "<dash>",
                 "index": "3a",
-                "illustrator": "Illus. Nick Sadek"
+                "illustrator": "Illus. Nick Sadek",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "agenda_back",
@@ -5572,7 +5605,8 @@
                 "index": "1a",
                 "illustration_pan_y": -108.0,
                 "illustration_pan_x": -329.0,
-                "illustration_scale": 2.88
+                "illustration_scale": 2.88,
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "enemy",
@@ -5606,7 +5640,8 @@
                 "index": "2a",
                 "illustration_scale": 2.88,
                 "illustration_pan_y": -108.0,
-                "illustration_pan_x": -329.0
+                "illustration_pan_x": -329.0,
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "act_back",
@@ -5630,7 +5665,8 @@
                 "index": "3a",
                 "illustration_pan_y": -108.0,
                 "illustration_pan_x": -329.0,
-                "illustration_scale": 2.88
+                "illustration_scale": 2.88,
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "act_back",
@@ -5889,7 +5925,7 @@
             "id": "c13c3269-cca9-4b20-857c-d0d5fd14043f"
         },
         {
-            "name": "Bruchst\u00fcck von Carcosa",
+            "name": "<dbl>Bruchst\u00fcck von Carcosa</dbl>",
             "front": {
                 "type": "chaos",
                 "entries": [
@@ -5963,7 +5999,8 @@
                 "flavor_text": "Obwohl deine Scanner keine Anomalien innerhalb des Bruchst\u00fccks entdeckt haben, f\u00fcrchtest du dich wie nie zuvor, als du die Oberfl\u00e4che betrittst. Du kannst das Gef\u00fchl nicht absch\u00fctteln, dass etwas sehr Schreckliches passieren wird, wenn du hier zu lange herumtr\u00f6delst.",
                 "illustration": "./images/tumblr_naf77e20T61rtj3g0o1_400.jpg",
                 "doom": "<dash>",
-                "index": "1a"
+                "index": "1a",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "agenda_back",
@@ -5983,7 +6020,8 @@
                 "flavor_text": "Deine Landung muss die Taschen-<br>realit\u00e4t innerhalb des Bruchst\u00fccks gest\u00f6rt haben. Der ganze Asteroid beginnt einzust\u00fcrzen und wird dich bald begraben haben. Flieh von hier, solange du noch kannst!",
                 "illustration": "./images/tumblr_naf77e20T61rtj3g0o1_400.jpg",
                 "doom": "19",
-                "index": "2a"
+                "index": "2a",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "agenda_back",
@@ -6004,7 +6042,8 @@
                 "flavor_text": "W\u00e4hrend der Landung siehst du eine menschengemachte Struktur in der Ferne schimmern \u2013 die Reste der letzten Expedition der Kultisten. Dort muss es Hinweise darauf geben, wie der gro\u00dfe Palast betreten werden kann.",
                 "illustration": "./images/shutterstock_93256645-1024x612-1.jpg",
                 "clues": "<dash>",
-                "index": "1a"
+                "index": "1a",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "act_back",
@@ -6025,7 +6064,8 @@
                 "flavor_text": "Du musst Tassilda in diesem irrealen Asteroiden finden und ihr gegen\u00fcbertreten, bevor sie die Macht ihres Vaters erbt und Carcosas Wahnsinn in den Kolonien verbreitet.",
                 "illustration": "./images/shutterstock_93256645-1024x612-1.jpg",
                 "clues": "<dash>",
-                "index": "2a"
+                "index": "2a",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "act_back",
@@ -6046,7 +6086,8 @@
                 "flavor_text": "Du wirst niemanden vor dem drohenden Untergang warnen k\u00f6nnen, wenn du es nicht lebendig hier herausschaffst. Du musst den Asteroiden so schnell wie m\u00f6glich verlassen!",
                 "illustration": "./images/shutterstock_93256645-1024x612-1.jpg",
                 "clues": "<dash>",
-                "index": "3a"
+                "index": "3a",
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "act_back",
@@ -6716,7 +6757,7 @@
             "id": "af39c5fa-3e5d-4f9b-b547-cf3576160b71"
         },
         {
-            "name": "Sternenschauer",
+            "name": "<dbl>Sternenschauer</dbl>",
             "front": {
                 "type": "chaos",
                 "entries": [
@@ -6791,7 +6832,8 @@
                 "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/0_sun.jpg",
                 "doom": "12",
                 "index": "1a",
-                "illustration_pan_x": -500.0
+                "illustration_pan_x": -500.0,
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "location",
@@ -6818,7 +6860,8 @@
                 "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/0_sun.jpg",
                 "doom": "5",
                 "index": "2a",
-                "illustration_pan_x": -500.0
+                "illustration_pan_x": -500.0,
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "agenda_back",
@@ -6840,7 +6883,8 @@
                 "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/0_sun.jpg",
                 "doom": "6",
                 "index": "3a",
-                "illustration_pan_x": -500.0
+                "illustration_pan_x": -500.0,
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "act_agenda_full_back",
@@ -6863,7 +6907,8 @@
                 "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/0_sun.jpg",
                 "doom": "<dash>",
                 "index": "1c",
-                "illustration_pan_x": -500.0
+                "illustration_pan_x": -500.0,
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "agenda_back",
@@ -6887,7 +6932,8 @@
                 "index": "1a",
                 "illustration_pan_x": 341.0,
                 "illustration_pan_y": -5.0,
-                "illustration_scale": 1.76
+                "illustration_scale": 1.76,
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "act_back",
@@ -6911,7 +6957,8 @@
                 "index": "1c",
                 "illustration_pan_y": -5.0,
                 "illustration_pan_x": 341.0,
-                "illustration_scale": 1.76
+                "illustration_scale": 1.76,
+                "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "act_back",
