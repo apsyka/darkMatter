@@ -1017,10 +1017,11 @@
                 "slot": "Accessory",
                 "flavor_text": "\u201eIm Inneren lag in ein vergilbtes Pergament eingewickelt ein gro\u00dfer mit r\u00e4tselhaften Arabesken bedeckter Schl\u00fcssel aus angelaufenem Silber. Eine weitere Erkl\u00e4rung war jedoch nicht beigef\u00fcgt.\u201c\n<center>-H.P. Lovecraft, Der silberne Schl\u00fcssel</i> ",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
                 "icons": "WQQ",
                 "illustration": "./images/key - unknown.jpg",
+                "level": "None",
                 "name": "<unique><name>"
             },
             "back": {
@@ -1301,8 +1302,9 @@
                 "sanity": "<dash>",
                 "flavor_text": "",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
+                "level": "None",
                 "illustration": "./images/space suit - jeff miller.jpg",
                 "illustrator": "Illus. Jeff Miller"
             },
@@ -1477,8 +1479,9 @@
                 "slot": "1 Hand",
                 "flavor_text": "",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
+                "level": "None",
                 "illustration": "./images/foam - ivan robert vasquez.jpg",
                 "illustrator": "Illus. Ivan Robert Vasquez"
             },
@@ -1503,7 +1506,7 @@
                 "cost": "<dash>",
                 "flavor_text": "",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
                 "illustration": "./images/mind-machine-interface omen2501.jpg",
                 "illustrator": "Illus. omen2501",
@@ -1533,8 +1536,9 @@
                 "cost": "<dash>",
                 "flavor_text": "",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
+                "level": "None",
                 "illustration": "./images/tablet - Margaret Owen.jpg",
                 "illustrator": "Illus. Margaret Owen"
             },
@@ -2067,6 +2071,7 @@
                 "classes": [
                     "story"
                 ],
+                "level": "None",
                 "illustration_pan_y": -150.0
             },
             "back": {
@@ -2256,6 +2261,7 @@
                 "classes": [
                     "story"
                 ],
+                "level": "None",
                 "illustration": "./images/hal2 - unknown.jpg",
                 "name": "<unique><name>"
             },
@@ -2280,6 +2286,7 @@
                 "classes": [
                     "story"
                 ],
+                "level": "None",
                 "illustration": "./images/hal2 - unknown.jpg",
                 "name": "<unique><name>"
             },
@@ -2304,6 +2311,7 @@
                 "classes": [
                     "story"
                 ],
+                "level": "None",
                 "illustration": "./images/hal2 - unknown.jpg",
                 "name": "<unique><name>"
             },
@@ -2993,8 +3001,9 @@
                 "cost": "<dash>",
                 "flavor_text": "",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
+                "level": "None",
                 "illustration": "./images/scientist ben-olson.jpg",
                 "illustrator": "Illus. Ben Olson"
             },
@@ -3020,8 +3029,9 @@
                 "sanity": "1",
                 "flavor_text": "",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
+                "level": "None",
                 "icons": "QQ",
                 "illustration": "./images/scientist ben-olson.jpg",
                 "illustrator": "Illus. Ben Olson"
@@ -3680,8 +3690,9 @@
                 "cost": "4",
                 "flavor_text": "",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
+                "level": "None",
                 "icons": "CCC",
                 "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/03b9a7f6a3881c2465afea65aac33716.jpg",
                 "illustrator": "Illus. LeonovichDmitriy",
@@ -4036,8 +4047,9 @@
                 "flavor_text": "",
                 "victory": "Sieg 1.",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
+                "level": "None",
                 "illustration": "./images/Reversion_Scientist_CostumeStudy_130611.jpg-nggid03268-ngg0dyn-0x0x100-00f0w010c010r110f110r010t010.jpg",
                 "illustrator": "Illus. Deiv Calviz",
                 "name": "<unique><name>"
@@ -4067,8 +4079,9 @@
                 "flavor_text": "",
                 "victory": "Sieg 1.",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
+                "level": "None",
                 "illustration": "./images/burr_by_sharpwriter_d6b2hck-fullview.jpg",
                 "illustrator": "Illus. Sharpwriter",
                 "name": "<unique><name>"
@@ -4098,8 +4111,9 @@
                 "flavor_text": "",
                 "victory": "Sieg 1.",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
+                "level": "None",
                 "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/01Untitled.jpg",
                 "illustrator": "Illus. Carolane Bruneau",
                 "name": "<unique><name>",
@@ -4132,8 +4146,9 @@
                 "flavor_text": "",
                 "victory": "Sieg 1.",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
+                "level": "None",
                 "illustration": "./images/Reversion_Lilith_CostumeStudy_130611.jpg-nggid03263-ngg0dyn-0x0x100-00f0w010c010r110f110r010t010.jpg",
                 "illustrator": "Illus. Deiv Calviz",
                 "name": "<unique><name>"
@@ -4163,8 +4178,9 @@
                 "flavor_text": "",
                 "victory": "Sieg 1.",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
+                "level": "None",
                 "illustration": "./images/192eded67c3b9087c3b85b5b575d3b00.jpg",
                 "name": "<unique><name>"
             },
@@ -4193,8 +4209,9 @@
                 "flavor_text": "",
                 "victory": "Sieg 1.",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
+                "level": "None",
                 "illustration": "./images/Reversion_Cannibal_CostumeStudy_130611.jpg-nggid03247-ngg0dyn-0x0x100-00f0w010c010r110f110r010t010.jpg",
                 "illustrator": "Illus. Deiv Calviz",
                 "name": "<unique><name>"
@@ -4740,8 +4757,9 @@
                 "sanity": "<dash>",
                 "flavor_text": "Die au\u00dferirdische Beschriftung dieses Zylinders ist bis zur Unleserlichkeit verblasst \u2013 er muss schon Jahrzehnte alt sein.",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
+                "level": "None",
                 "illustration": "./images/brain in a jar.jpg"
             },
             "back": {
@@ -4763,8 +4781,9 @@
                 "sanity": "<dash>",
                 "flavor_text": "Wenn deine grobe \u00dcbersetzung der au\u00dferirdischen Beschriftung richtig ist, ist dieses Gehirn \u201eunbrauchbar\u201c. Du fragst dich, was damit gemeint ist.",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
+                "level": "None",
                 "illustration": "./images/brain in a jar.jpg"
             },
             "back": {
@@ -4786,8 +4805,9 @@
                 "sanity": "<dash>",
                 "flavor_text": "In das Glas dieses Zylinders ist ein eindeutig menschliches Symbol eingeritzt. Du kennst es als das Gelbe Zeichen.",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
+                "level": "None",
                 "illustration": "./images/brain in a jar.jpg"
             },
             "back": {
@@ -7468,8 +7488,9 @@
                 "cost": "<dash>",
                 "flavor_text": "Die n\u00f6tigen Daten sollen irgendwo am Rand des Sonnensystems entdeckt worden sein.",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
+                "level": "None",
                 "illustration": "./images/wormhole-harald-ritschscience-photo-library.jpg"
             },
             "back": {
@@ -7492,8 +7513,9 @@
                 "cost": "<dash>",
                 "flavor_text": "Ger\u00fcchten zufolge hat die Menschheit bereits in irgendeinem Geheimlabor einen elektromagnetischen Schildgenerator entwickelt.",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
+                "level": "None",
                 "illustration": "./images/hope life ROBERT MURRAY.jpg",
                 "illustrator": "Illus. Robert Murray"
             },
@@ -7518,8 +7540,9 @@
                 "cost": "<dash>",
                 "flavor_text": "Die seltsamen Mi-Go berichten, dass sie Mitglieder der Gro\u00dfen Rasse von Yith regelm\u00e4\u00dfig in der N\u00e4he des Mars beobachtet haben.",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
+                "level": "None",
                 "illustration": "./images/mi_go_swarm_by_jarling_art.jpg",
                 "illustrator": "Illus. Jarling Art"
             },
@@ -7544,8 +7567,9 @@
                 "cost": "<dash>",
                 "flavor_text": "Das verlorene Forschungsschiff muss immer noch durch das Sonnensystem treiben \u2013 vielleicht k\u00f6nnen die Sensoren der Tatterdemalion es aufsp\u00fcren.",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
+                "level": "None",
                 "illustration": "./images/HPU_2.0_1260x539.png"
             },
             "back": {
@@ -7570,8 +7594,9 @@
                 "cost": "<dash>",
                 "flavor_text": "Da er nur noch wenige Soldaten hat, bittet Direktor Cixin dich, ihm bei der Verteidigung gegen die marsianischen Angreifer zu helfen.",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
+                "level": "None",
                 "illustration": "./images/bf47b3bdbd99b5923a84894f092ee495.jpg",
                 "name": "<unique><name>"
             },
@@ -7597,8 +7622,9 @@
                 "cost": "<dash>",
                 "flavor_text": "Nach dem, was du auf Titan getan hast, misstrauen die Mi-Go dir \u2013 um sie zu \u00fcberzeugen, wieder mit dir zusammenzuarbeiten, sollst du ihnen \u201eInformationen\u201c von ihrer verlorenen Station auf dem Mond besorgen.",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
+                "level": "None",
                 "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/8bf02232faefee8e85ec7404cafb0248.jpg",
                 "illustrator": "Illus. Berulieu",
                 "illustration_pan_x": -16.0,
@@ -7702,8 +7728,9 @@
                 "cost": "<dash>",
                 "flavor_text": "",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
+                "level": "None",
                 "illustration": "./images/palid mask.png",
                 "name": "<unique><name>"
             },
@@ -7758,8 +7785,9 @@
                 "cost": "<dash>",
                 "flavor_text": "",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
+                "level": "None",
                 "illustration": "./images/k9 soft-h.jpg",
                 "illustrator": "Illus. Soft-h"
             },
@@ -7786,8 +7814,9 @@
                 "cost": "<dash>",
                 "flavor_text": "",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
+                "level": "None",
                 "illustration": "./images/forcefield.jpg",
                 "name": "<unique><name>"
             },
@@ -7814,8 +7843,9 @@
                 "cost": "<dash>",
                 "flavor_text": "",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
+                "level": "None",
                 "illustration": "./images/stasis cube.jpg",
                 "name": "<unique><name>"
             },
@@ -7842,8 +7872,9 @@
                 "cost": "<dash>",
                 "flavor_text": "",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
+                "level": "None",
                 "illustration": "./images/Alienartefact yoogyart.jpg",
                 "name": "<unique><name>"
             },
@@ -8105,6 +8136,7 @@
                 "classes": [
                     "story"
                 ],
+                "level": "None",
                 "icons": "Q",
                 "illustration": "./images/internationalCollaboration.jpeg",
                 "illustration_pan_x": -214.0,
@@ -8130,6 +8162,7 @@
                 "classes": [
                     "story"
                 ],
+                "level": "None",
                 "icons": "CC",
                 "illustration": "./images/nuclearPowerBank.jpg"
             },
@@ -8153,6 +8186,7 @@
                 "classes": [
                     "story"
                 ],
+                "level": "None",
                 "icons": "Q",
                 "illustration": "./images/machineLearningAlgorithm.webp"
             },
@@ -8175,6 +8209,7 @@
                 "classes": [
                     "story"
                 ],
+                "level": "None",
                 "icons": "Q",
                 "illustration": "./images/rationalMind.png",
                 "illustration_scale": 1.4,
@@ -8203,6 +8238,7 @@
                 "classes": [
                     "story"
                 ],
+                "level": "None",
                 "icons": "QQ",
                 "illustration": "./images/specialRelativity.png",
                 "name": "<unique><name>"
@@ -8226,6 +8262,7 @@
                 "classes": [
                     "story"
                 ],
+                "level": "None",
                 "icons": "WW",
                 "illustration": "./images/scienceOverMysticism.png",
                 "illustration_pan_x": 0.0
@@ -8249,6 +8286,7 @@
                 "classes": [
                     "story"
                 ],
+                "level": "None",
                 "illustration": "./images/particleAccelerator.jpeg",
                 "illustration_pan_x": -230.0,
                 "illustration_pan_y": 146.0,
@@ -8274,6 +8312,7 @@
                 "classes": [
                     "story"
                 ],
+                "level": "None",
                 "icons": "AA",
                 "illustration": "./images/xx/Purchasable Science Cards/4_Sub-Electron_Noise_Sensor-1.png",
                 "illustration_pan_x": 6.0,
@@ -8301,7 +8340,7 @@
                 ],
                 "icons": "II",
                 "illustration": "./images/MarcSimonetti.png",
-                "collection": "<image src=\"/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/Flask.png\">   3",
+                "collection": "<image src=\"/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/Flask.png\"> <exn>",
                 "illustrator": "Illus. Marc Simonetti",
                 "illustration_pan_x": -210.0,
                 "illustration_pan_y": -1.0,
@@ -8331,7 +8370,7 @@
                 "illustration": "./images/xx/Kate Winthrop/Flux-Stabilizer-Front-Face.jpg",
                 "illustration_pan_x": -27.0,
                 "illustration_pan_y": 15.0,
-                "collection": "<image src=\"/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/Flask.png\">   2",
+                "collection": "<image src=\"/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/Flask.png\"> <exn>",
                 "illustrator": "Illus. Micah Epstein"
             },
             "back": {
@@ -8360,7 +8399,7 @@
                 "illustration_pan_x": 60.0,
                 "illustration_pan_y": 288.0,
                 "illustration_scale": 1.16,
-                "collection": "<image src=\"/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/Flask.png\">   1             ",
+                "collection": "<image src=\"/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/Flask.png\"> <exn>",
                 "illustrator": "Illus. Cristi Balanescu"
             },
             "back": {
@@ -8494,7 +8533,7 @@
                     "weakness"
                 ],
                 "attack": "2",
-                "collection": "<image src=\"/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/Flask.png\">   5",
+                "collection": "<image src=\"/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/Flask.png\"> <exn>",
                 "illustrator": "Illus. Borja Pindado",
                 "illustration_pan_y": 900.0,
                 "subtitle": "SCHW\u00c4CHE"
@@ -8518,7 +8557,7 @@
                     "weakness"
                 ],
                 "illustration": "/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/nele-diel-dreamworld.jpg",
-                "collection": "<image src=\"/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/Flask.png\">   4",
+                "collection": "<image src=\"/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/Flask.png\"> <exn>",
                 "illustration_pan_x": -200.0,
                 "illustrator": "Illus. Nele Diel"
             },
@@ -8543,7 +8582,7 @@
                 "icons": "Q",
                 "illustration": "./images/xx/Purchasable Science Cards/1_Grand_Unified_Theory-1.png",
                 "cost": "3",
-                "level": "0",
+                "level": "None",
                 "illustration_scale": 2.26,
                 "illustration_pan_x": -43.0,
                 "illustration_pan_y": 39.0,
