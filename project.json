@@ -186,7 +186,7 @@
             "order": 8
         },
         {
-            "name": "3a - Szenario 3a - Verlorene Quanten",
+            "name": "Verlorene Quanten",
             "icon": "./images/Lost Quantum.png",
             "id": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
             "card_amount": 25,
@@ -291,7 +291,17 @@
                     }
                 }
             },
-            "order": 9
+            "order": 10
+        },
+        {
+            "name": "4 - Szenario 4 - Die Maschine in Gelb",
+            "icon": "./images/The Machine in Yellow.png",
+            "id": "fbc550be-6fef-4010-9152-48a0742abd09",
+            "card_amount": 19,
+            "meta": {
+                "tts": {}
+            },
+            "order": 10
         },
         {
             "name": "3c - Szenario 3c - Fremdartige Monde",
@@ -359,17 +369,7 @@
                     }
                 }
             },
-            "order": 9
-        },
-        {
-            "name": "4 - Szenario 4 - Die Maschine in Gelb",
-            "icon": "./images/The Machine in Yellow.png",
-            "id": "fbc550be-6fef-4010-9152-48a0742abd09",
-            "card_amount": 19,
-            "meta": {
-                "tts": {}
-            },
-            "order": 10
+            "order": 11
         },
         {
             "name": "5 - Szenario 5 - Bruchst\u00fcck von Carcosa",
@@ -1942,7 +1942,7 @@
             "name": "\u00d6ffentliche Schule 187 (v. 1.0)",
             "front": {
                 "type": "act",
-                "text": "\nOrte k\u00f6nnen nicht miteinander getauscht werden.\n<obj> Nachdem die Eingangshalle enth\u00fcllt wurde, r\u00fccke vor.",
+                "text": "Orte k\u00f6nnen nicht miteinander getauscht werden.\n<obj> Nachdem die Eingangshalle enth\u00fcllt wurde, r\u00fccke vor.",
                 "flavor_text": "Du gehst zur Doppelt\u00fcr und \u00f6ffnest sie, findest dahinter aber nur eine massive Steinwand. Scheinbar wurde die Simulation manipuliert. Du musst einen anderen Weg hinein finden.",
                 "illustration": "./images/apple - robert huckestein.jpg",
                 "clues": "<dash>",
@@ -1962,11 +1962,11 @@
             "id": "d6dd0081-1fc1-4405-8c39-1be4f18cc48d"
         },
         {
-            "name": "???? Gleicher Text wie v.1.0 ---Public School 187 (v. 2.0)",
+            "name": "\u00d6ffentliche Schule 187 (v. 2.0)",
             "front": {
                 "type": "act",
-                "text": "Locations cannot be switched with each other.\n<b>Objective --</b> After an investigator reveals the Entrance Hall, immediately advance.",
-                "flavor_text": "You approach the virtual school and pull open the double doors, only to reveal a solid brick wall behind it. The simulation appears to have been tinkered with. You will need to find another way inside. ",
+                "text": "Orte k\u00f6nnen nicht miteinander getauscht werden.\n<obj> Nachdem die Eingangshalle enth\u00fcllt wurde, r\u00fccke vor.",
+                "flavor_text": "Du gehst zur Doppelt\u00fcr und \u00f6ffnest sie, findest dahinter aber nur eine massive Steinwand. Scheinbar wurde die Simulation manipuliert. Du musst einen anderen Weg hinein finden.",
                 "illustration": "./images/apple - robert huckestein.jpg",
                 "clues": "<dash>",
                 "index": "1a",
@@ -1974,8 +1974,9 @@
             },
             "back": {
                 "type": "act_back",
-                "name": "Scrambled Minds",
-                "text": "It doesn't take long for you to realize that something is horribly wrong. The interior is tangled in an impossible maze of hallways, spurting off into every direction.The school's simulation has been completely corrupted. It will be impossible to find the children without first restoring the layout, one segment of code at a time. \nPut the set aside Undefined Room locations into play in the area around the Entrance Hall, according to the following schematic of icons:\n<center><image \"project://Images/Cross.png\" 0.59cm> <image \"project://Images/Square.png\" 0.59cm> <image \"project://Images/Circle.png\" 0.59cm> \n<image \"project://Images/Moon.png\" 0.59cm> <image \"project://Images/Slash.png\" 0.59cm> <image \"project://Images/Triangle.png\" 0.59cm> \n<left><i>(Where  <image \"project://Images/Slash.png\" 0.3cm center>  is the Entrance Hall.)</i>\n\n\n"
+                "name": "Zerstreute Geister",
+                "text": "Bringe alle beiseitegelegten Kopien von Undefinierter Raum ins Spiel. Ordne sie dabei nach folgendem Muster um die Eingangshalle herum an:\n<center><image \"project://Images/Cross.png\" 0.59cm> <image \"project://Images/Square.png\" 0.59cm> <image \"project://Images/Circle.png\" 0.59cm> \n<image \"project://Images/Moon.png\" 0.59cm> <image \"project://Images/Slash.png\" 0.59cm> <image \"project://Images/Triangle.png\" 0.59cm> \n<left><i>(Where  <image \"project://Images/Slash.png\" 0.3cm center>  is the Entrance Hall.)</i>\n\n\n",
+                "flavor_text": "Du merkst schnell, dass hier etwas v\u00f6llig falsch ist. Die Flure sind zu einem unm\u00f6glichen Labyrinth verflochten und f\u00fchren in alle m\u00f6glichen und unm\u00f6glichen Richtungen. Die Simulation der Schule ist vollkommen fehlerhaft. Du wirst die Kinder erst finden k\u00f6nnen, wenn du den Aufbau der Schule wiederhergestellt hast, ein Codest\u00fcck nach dem anderen."
             },
             "encounter_number": "5",
             "project_number": "58",
@@ -1983,11 +1984,11 @@
             "id": "8517d65a-d573-439b-9751-5d8b356289ec"
         },
         {
-            "name": "???? Gleicher Text wie v.1.0 ---Public School 187 (v. 3.0)",
+            "name": "\u00d6ffentliche Schule 187 (v. 3.0)",
             "front": {
                 "type": "act",
-                "text": "Locations cannot be switched with each other.\n<b>Objective --</b> After an investigator reveals the Entrance Hall, immediately advance.",
-                "flavor_text": "You approach the virtual school and pull open the double doors, only to reveal a solid brick wall behind it. The simulation appears to have been tinkered with. You will need to find another way inside. ",
+                "text": "Orte k\u00f6nnen nicht miteinander getauscht werden.\n<obj> Nachdem die Eingangshalle enth\u00fcllt wurde, r\u00fccke vor.",
+                "flavor_text": "Du gehst zur Doppelt\u00fcr und \u00f6ffnest sie, findest dahinter aber nur eine massive Steinwand. Scheinbar wurde die Simulation manipuliert. Du musst einen anderen Weg hinein finden.",
                 "illustration": "./images/apple - robert huckestein.jpg",
                 "clues": "<dash>",
                 "index": "1a",
@@ -1995,8 +1996,9 @@
             },
             "back": {
                 "type": "act_back",
-                "name": "Scrambled Minds",
-                "text": "It doesn't take long for you to realize that something is horribly wrong. The interior is tangled in an impossible maze of hallways, spurting off into every direction.The school's simulation has been completely corrupted. It will be impossible to find the children without first restoring the layout, one segment of code at a time. \nPut the set aside Undefined Room locations into play in the area around the Entrance Hall, according to the following schematic of icons:\n<center><image \"project://Images/Triangle.png\" 0.59cm> <image \"project://Images/Cross.png\" 0.59cm> <image \"project://Images/Moon.png\" 0.59cm> \n<image \"project://Images/Square.png\" 0.59cm> <image \"project://Images/Slash.png\" 0.59cm> <image \"project://Images/Circle.png\" 0.59cm> \n<left><i>(Where  <image \"project://Images/slash.png\" 0.3cm center>  is the Entrance Hall.)</i>\n<image \"C:\\Users\\cdpog\\Desktop\\clover.jpg\">\n\n\n"
+                "name": "Zerstreute Geister",
+                "text": "Bringe alle beiseitegelegten Kopien von Undefinierter Raum ins Spiel. Ordne sie dabei nach folgendem Muster um die Eingangshalle herum an:\n<center><image \"project://Images/Triangle.png\" 0.59cm> <image \"project://Images/Cross.png\" 0.59cm> <image \"project://Images/Moon.png\" 0.59cm> \n<image \"project://Images/Square.png\" 0.59cm> <image \"project://Images/Slash.png\" 0.59cm> <image \"project://Images/Circle.png\" 0.59cm> \n<left><i>(Where  <image \"project://Images/slash.png\" 0.3cm center>  is the Entrance Hall.)</i>\n<image \"C:\\Users\\cdpog\\Desktop\\clover.jpg\">\n\n\n",
+                "flavor_text": "Du merkst schnell, dass hier etwas v\u00f6llig falsch ist. Die Flure sind zu einem unm\u00f6glichen Labyrinth verflochten und f\u00fchren in alle m\u00f6glichen und unm\u00f6glichen Richtungen. Die Simulation der Schule ist vollkommen fehlerhaft. Du wirst die Kinder erst finden k\u00f6nnen, wenn du den Aufbau der Schule wiederhergestellt hast, ein Codest\u00fcck nach dem anderen."
             },
             "encounter_number": "6",
             "project_number": "59",
@@ -2059,12 +2061,13 @@
                 "text": "<free> W\u00e4hle 3 Karten von deiner Hand und lege sie ab: L\u00f6se dich von jedem Gegner, der mit dir in einen Kampf verwickelt ist, und bewege dich an einen verbundenen Ort. Ermittler an jedem Ort k\u00f6nnen diese F\u00e4higkeit ausl\u00f6sen.",
                 "cost": "<dash>",
                 "flavor_text": "",
-                "classes": [
-                    "neutral"
-                ],
                 "illustration": "./images/Louis Carr.jpg",
                 "illustrator": "Illus. Louis Carr",
-                "name": "<unique><name>"
+                "name": "<unique><name>",
+                "classes": [
+                    "story"
+                ],
+                "illustration_pan_y": -150.0
             },
             "back": {
                 "type": "player"
@@ -2075,12 +2078,14 @@
             "id": "4eebcf4b-01e4-43cc-aff2-0a0b5fa2338d"
         },
         {
-            "name": "Reintegriert",
-            "front": {
-                "type": "story",
-                "text": "<blockquote>Mit Geduld und Umsicht beruhigst du Alma und \u00fcberzeugst sie, ihre Augen zu \u00f6ffnen und den simulierten Albtraum genau zu untersuchen. Durch ihre Finger ersp\u00e4ht sie irgendwann winzige Fehler, die nur aus bestimmten Winkeln sichtbar sind, und durchbricht so die Illusion des furchterregenden Monsters. Ohne die Kraft aus Almas Angst fallen die tausend gelben Z\u00e4hne aus dem klaffenden Maul des Butzemanns und zerbrechen auf dem Keramikboden.\n\u201eDanke, dass du uns hilfst! Ich bin Alma und ich bin f\u00fcr die Umweltkontrollen auf dem Schiff verantwortlich. Es ist so kalt hier\u2026 ich muss mir eine Jacke holen.\u201c Das kleine M\u00e4dchen schlendert ganz ohne Angst aus der Schule.</blockquote>\nF\u00fcge diese Karte dem Siegpunktestapel hinzu und platziere 1 Horror aus dem Markervorrat auf den Butzemann.\nWenn 4 Horror auf dem Butzemann liegen, ist er besiegt.\n<center><b>Sieg 1.</b>"
-            },
+            "name": "Alma",
             "back": {
+                "name": "Reintegriert",
+                "type": "story",
+                "text": "<blockquote>Mit Geduld und Umsicht beruhigst du Alma und \u00fcberzeugst sie, ihre Augen zu \u00f6ffnen und den simulierten Albtraum genau zu untersuchen. Durch ihre Finger ersp\u00e4ht sie irgendwann winzige Fehler, die nur aus bestimmten Winkeln sichtbar sind, und durchbricht so die Illusion des furchterregenden Monsters. Ohne die Kraft aus Almas Angst fallen die tausend gelben Z\u00e4hne aus dem klaffenden Maul des Butzemanns und zerbrechen auf dem Keramikboden.\n\u201eDanke, dass du uns hilfst! Ich bin Alma und ich bin f\u00fcr die Umweltkontrollen auf dem Schiff verantwortlich. Es ist so kalt hier\u2026 ich muss mir eine Jacke holen.\u201c Das kleine M\u00e4dchen schlendert ganz ohne Angst aus der Schule.</blockquote>\nF\u00fcge diese Karte dem Siegpunktestapel hinzu und platziere 1 Horror aus dem Markervorrat auf den Butzemann.\nWenn 4 Horror auf dem Butzemann liegen, ist er besiegt.\n<center><b>Sieg 1.</b>",
+                "collection": "<esn>/<est>        <exi>   <exn>b"
+            },
+            "front": {
                 "type": "asset",
                 "illustration": "./images/girl1 Damian Lechoszest.jpg",
                 "illustrator": "Illus. Damian Lechoszest",
@@ -2090,10 +2095,13 @@
                 "text": "<act> Falls sich der Butzemann an einem Ort befindet, der direkt \u00fcber oder unter Almas Ort liegt: <b>Verhandlung.</b> Lege eine <wil>-Probe (2) ab. Falls die Probe gelingt, drehe diese Karte um und handle den Text auf der R\u00fcckseite ab.",
                 "title": "<unique><name>",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
                 "slot": "None",
-                "cost": "<dash>"
+                "cost": "<dash>",
+                "level": "None",
+                "illustration_pan_y": -50.0,
+                "collection": "<esn>/<est>        <exi> <exn>a"
             },
             "encounter_number": "10",
             "project_number": "63",
@@ -2101,26 +2109,29 @@
             "id": "ed3ece81-8630-4b9e-97a6-c9fdb5638411"
         },
         {
-            "name": "Reintegriert",
-            "front": {
-                "type": "story",
-                "text": "<blockquote>Du beruhigst den Jungen, der sich unter dem Tisch versteckt, und \u00fcberzeugst ihn, dass der Butzemann gegen eure gemeinsame St\u00e4rke und Selbstsicherheit keine Chance hat. Er steht auf und br\u00fcllt das teuflische Monstrum an: \u201eWir haben keine Angst vor dir. Du bist doch nur ein Clown!\u201c Die Abscheulichkeit schreit vor Schmerz und seine Spritzenklauen schrumpfen und werden zu labbrigen roten Handschuhen.\nDer Junge stellt sich als David vor. \u201eIch bin f\u00fcr den Antrieb und die Energieversorgung verantwortlich. In letzter Zeit war ich sehr krank, aber jetzt habe ich zum Gl\u00fcck keine Bauchschmerzen mehr.\u201c Du sagst David, dass er vor der Schule warten soll, und er rennt rasch davon.</blockquote>\nF\u00fcge diese Karte dem Siegpunktestapel hinzu und platziere 1 Horror aus dem Markervorrat auf den Butzemann. \nWenn 4 Horror auf dem Butzemann liegen, ist er besiegt.\n<center><b>Sieg 1.</b>"
-            },
+            "name": "David",
             "back": {
+                "name": "Reintegriert",
+                "type": "story",
+                "text": "<blockquote>Du beruhigst den Jungen, der sich unter dem Tisch versteckt, und \u00fcberzeugst ihn, dass der Butzemann gegen eure gemeinsame St\u00e4rke und Selbstsicherheit keine Chance hat. Er steht auf und br\u00fcllt das teuflische Monstrum an: \u201eWir haben keine Angst vor dir. Du bist doch nur ein Clown!\u201c Die Abscheulichkeit schreit vor Schmerz und seine Spritzenklauen schrumpfen und werden zu labbrigen roten Handschuhen.\nDer Junge stellt sich als David vor. \u201eIch bin f\u00fcr den Antrieb und die Energieversorgung verantwortlich. In letzter Zeit war ich sehr krank, aber jetzt habe ich zum Gl\u00fcck keine Bauchschmerzen mehr.\u201c Du sagst David, dass er vor der Schule warten soll, und er rennt rasch davon.</blockquote>\nF\u00fcge diese Karte dem Siegpunktestapel hinzu und platziere 1 Horror aus dem Markervorrat auf den Butzemann. \nWenn 4 Horror auf dem Butzemann liegen, ist er besiegt.\n<center><b>Sieg 1.</b>",
+                "collection": "<esn>/<est>        <exi>   <exn>b"
+            },
+            "front": {
                 "type": "asset",
                 "illustration": "./images/Greuze Jean-Baptiste.png",
                 "illustrator": "Illus. Greuze Jean-Baptiste",
-                "name": "David",
                 "subtitle": "Antrieb und Energieversorgung",
                 "traits": "Avatar.",
                 "text": "<act> Falls sich der Butzemann an einem Ort befindet, der direkt \u00fcber oder unter Davids Ort liegt: <b>Verhandlung.</b> Lege eine <com>-Probe (2) ab. Falls die Probe gelingt, drehe diese Karte um und handle den Text auf der R\u00fcckseite ab.",
                 "title": "<unique><name>",
                 "cost": "<dash>",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
                 "slot": "None",
-                "level": "0"
+                "level": "None",
+                "illustration_pan_y": -50.0,
+                "collection": "<esn>/<est>        <exi> <exn>a"
             },
             "encounter_number": "11",
             "project_number": "63",
@@ -2128,25 +2139,29 @@
             "id": "3dcb4d8e-55ef-40d6-8174-92d644b96570"
         },
         {
-            "name": "Reintegriert",
-            "front": {
-                "type": "story",
-                "text": "<blockquote>Du \u00fcberzeugst das \u00e4ngstliche M\u00e4dchen davon, dass man die schwache k\u00fcnstliche Intelligenz des Monsters leicht \u00fcberlisten kann. Sie beobachtet die Bewegungen des Butzemanns und nickt dir dann zu. Gemeinsam seht ihr, wie der Kopf des Butzemanns schlaff wie ein Ballon wird und er nur noch unverst\u00e4ndliche Worte babbeln kann.\nDas M\u00e4dchen dankt dir f\u00fcr deine Hilfe. \u201eMein Name ist Tilde. Ich bin f\u00fcr den Hauptserver und die Cybersicherheit des Schiffs verantwortlich. Ich hatte lange Kopfschmerzen, aber jetzt geht es mir viel besser.\u201c Gewissenhaft umgeht sie den Butzemann und verl\u00e4sst die Schule.</blockquote>\nF\u00fcge diese Karte dem Siegpunktestapel hinzu und platziere 1 Horror aus dem Markervorrat auf den Butzemann. \nWenn 4 Horror auf dem Butzemann liegen, ist er besiegt.\n<center><b>Sieg 1.</b>"
-            },
+            "name": "Tilde",
             "back": {
+                "name": "Reintegriert",
+                "type": "story",
+                "text": "<blockquote>Du \u00fcberzeugst das \u00e4ngstliche M\u00e4dchen davon, dass man die schwache k\u00fcnstliche Intelligenz des Monsters leicht \u00fcberlisten kann. Sie beobachtet die Bewegungen des Butzemanns und nickt dir dann zu. Gemeinsam seht ihr, wie der Kopf des Butzemanns schlaff wie ein Ballon wird und er nur noch unverst\u00e4ndliche Worte babbeln kann.\nDas M\u00e4dchen dankt dir f\u00fcr deine Hilfe. \u201eMein Name ist Tilde. Ich bin f\u00fcr den Hauptserver und die Cybersicherheit des Schiffs verantwortlich. Ich hatte lange Kopfschmerzen, aber jetzt geht es mir viel besser.\u201c Gewissenhaft umgeht sie den Butzemann und verl\u00e4sst die Schule.</blockquote>\nF\u00fcge diese Karte dem Siegpunktestapel hinzu und platziere 1 Horror aus dem Markervorrat auf den Butzemann. \nWenn 4 Horror auf dem Butzemann liegen, ist er besiegt.\n<center><b>Sieg 1.</b>",
+                "collection": "<esn>/<est>        <exi>   <exn>b"
+            },
+            "front": {
                 "type": "asset",
                 "illustration": "./images/Mark Lovett.png",
                 "illustrator": "Illus. Mark Lovett",
-                "name": "Tilde",
                 "subtitle": "Hauptserver",
                 "traits": "Avatar.",
                 "text": "<act> Falls sich der Butzemann an einem Ort befindet, der direkt \u00fcber oder unter Tildes Ort liegt: <b>Verhandlung.</b> Lege eine <int>-Probe (2) ab. Falls die Probe gelingt, drehe diese Karte um und handle den Text auf der R\u00fcckseite ab.",
                 "title": "<unique><name>",
                 "cost": "<dash>",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
-                "slot": "None"
+                "slot": "None",
+                "level": "None",
+                "illustration_pan_y": -100.0,
+                "collection": "<esn>/<est>        <exi> <exn>a"
             },
             "encounter_number": "12",
             "project_number": "63",
@@ -2154,25 +2169,28 @@
             "id": "235c7589-5418-454a-81d1-1cfa68ccef05"
         },
         {
-            "name": "Reintegriert",
-            "front": {
-                "type": "story",
-                "text": "<blockquote>Du holst den Jungen ein, der panisch umherrennt, und beruhigst ihn, indem du ihm sagst, dass der Butzemann ihn nie verletzen wird, weil er ihm nur Angst machen will. Als der Albtraum genau vor euch einfach stehen bleibt, atmet der Junge erleichtert auf. Ohne die Kraft aus der Angst des Kindes schrumpfen die abartig gro\u00dfen Arme und Beine der Kreatur auf eine sehr viel normalere Gr\u00f6\u00dfe.\n\u201eNenn\u2018 mich Will. Ich bin f\u00fcr die Navigationssysteme und die Andockprozeduren des Schiffs verantwortlich.\u201c Du sagst ihm, dass er drau\u00dfen warten soll, und er h\u00f6rt ohne zu z\u00f6gern auf dich.</blockquote>\nF\u00fcge diese Karte dem Siegpunktestapel hinzu und platziere 1 Horror aus dem Markervorrat auf den Butzemann. \nWenn 4 Horror auf dem Butzemann liegen, ist er besiegt.\n<center><b>Sieg 1.</b>"
-            },
+            "name": "William",
             "back": {
+                "name": "Reintegriert",
+                "type": "story",
+                "text": "<blockquote>Du holst den Jungen ein, der panisch umherrennt, und beruhigst ihn, indem du ihm sagst, dass der Butzemann ihn nie verletzen wird, weil er ihm nur Angst machen will. Als der Albtraum genau vor euch einfach stehen bleibt, atmet der Junge erleichtert auf. Ohne die Kraft aus der Angst des Kindes schrumpfen die abartig gro\u00dfen Arme und Beine der Kreatur auf eine sehr viel normalere Gr\u00f6\u00dfe.\n\u201eNenn\u2018 mich Will. Ich bin f\u00fcr die Navigationssysteme und die Andockprozeduren des Schiffs verantwortlich.\u201c Du sagst ihm, dass er drau\u00dfen warten soll, und er h\u00f6rt ohne zu z\u00f6gern auf dich.</blockquote>\nF\u00fcge diese Karte dem Siegpunktestapel hinzu und platziere 1 Horror aus dem Markervorrat auf den Butzemann. \nWenn 4 Horror auf dem Butzemann liegen, ist er besiegt.\n<center><b>Sieg 1.</b>",
+                "collection": "<esn>/<est>        <exi>   <exn>b"
+            },
+            "front": {
                 "type": "asset",
                 "illustration": "./images/candlelight2_by_rainbowgrumpy.jpg",
                 "illustrator": "Illus. rainbowgrumpy",
-                "name": "William",
                 "subtitle": "Intrasolare Navigation",
                 "traits": "Avatar.",
                 "text": "<act> Falls sich der Butzemann an einem Ort befindet, der direkt \u00fcber oder unter Williams Ort liegt: <b>Verhandlung.</b> Lege eine <agi>-Probe (2) ab. Falls die Probe gelingt, drehe diese Karte um und handle den Text auf der R\u00fcckseite ab.",
                 "title": "<unique><name>",
                 "cost": "<dash>",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
-                "slot": "None"
+                "slot": "None",
+                "level": "None",
+                "collection": "<esn>/<est>        <exi> <exn>a"
             },
             "encounter_number": "13",
             "project_number": "63",
@@ -2835,7 +2853,8 @@
                 "doom": "3",
                 "index": "1a",
                 "illustrator": "Illus. Mark Garlick",
-                "name": "<dbl><name></dbl>"
+                "name": "<dbl><name></dbl>",
+                "collection": "2-4/<est>        <exi> <exn>"
             },
             "back": {
                 "type": "agenda_back",
@@ -2843,10 +2862,10 @@
                 "text": "Jeder Ermittler, der sich an einem Ort befindet, auf dem kein Ressourcenmarker liegt, legt die oberste Karte des Begegnungsdecks verdeckt in seine Bedrohungszone. Mische alle leeren Orte, auf denen kein Ressourcenmarker liegt, in das Scan-Deck. Falls unter dieser Agenda noch eine weitere Agendakarte liegt, lege diese Agenda beiseite und r\u00fccke zur n\u00e4chsten Agenda vor. Ansonsten notiere im Kampagnenlogbuch einen Z\u00e4hlstrich unter \u201eDrohendes Unheil\u201c und mische diese Agenda mit allen beiseitegelegten Agendakarten zusammen, um ein neues Agendadeck zu bilden.\n",
                 "flavor_text": "Du merkst schnell, dass es keine Orientierung gibt, wenn alles gleichzeitig \u00fcberall sein kann. Nur die Orientierungs-punkte, die du ganz bewusst beobachtest, bleiben da, wo sie sind."
             },
-            "encounter_number": "2",
             "project_number": "90",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
-            "id": "8522c04d-a100-4cba-b7c4-504e0022848c"
+            "id": "8522c04d-a100-4cba-b7c4-504e0022848c",
+            "encounter_number": "?"
         },
         {
             "name": "Der Quantenstrudel",
@@ -2858,7 +2877,8 @@
                 "doom": "3",
                 "index": "1a",
                 "illustrator": "Illus. Mark Garlick",
-                "name": "<dbl><name></dbl>"
+                "name": "<dbl><name></dbl>",
+                "collection": "2-4/<est>        <exi> <exn>"
             },
             "back": {
                 "type": "agenda_back",
@@ -2866,7 +2886,7 @@
                 "text": "Falls das Scan-Deck nicht leer ist, sieh dir die oberste Karte des Scan-Decks an. Wenn es ein Ort ist, bringe ihn ins Spiel und bewege jeden Ermittler und jeden Nicht-<t>Schwellenwesen</t>-Gegner dorthin.\nMische alle leeren Orte, auf denen kein Ressourcenmarker liegt, in das Scan-Deck.\nFalls unter dieser Agenda noch eine weitere Agendakarte liegt, lege diese Agenda beiseite und r\u00fccke zur n\u00e4chsten Agenda vor. Ansonsten notiere im Kampagnenlogbuch einen Z\u00e4hlstrich unter \u201eDrohendes Unheil\u201c und mische diese Agenda mit allen beiseitegelegten Agendakarten zusammen, um ein neues Agendadeck zu bilden.\n\n",
                 "flavor_text": "Du bemerkst erst jetzt, dass sich jedes Mal, wenn du blinzelst, etwas \u00e4ndert. Manchmal bewegen sich nur ein paar Steine ein paar Zentimeter weit. Manchmal findest du dich aber auch an einem v\u00f6llig anderen Ort wieder."
             },
-            "encounter_number": "3",
+            "encounter_number": "2-4",
             "project_number": "90",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
             "id": "a8471874-5a11-4b58-ae06-59f23760e428"
@@ -2881,7 +2901,8 @@
                 "doom": "3",
                 "index": "1a",
                 "illustrator": "Illus. Mark Garlick",
-                "name": "<dbl><name></dbl>"
+                "name": "<dbl><name></dbl>",
+                "collection": "2-4/<est>        <exi> <exn>"
             },
             "back": {
                 "type": "agenda_back",
@@ -2889,7 +2910,7 @@
                 "text": "Mische den Begegnungs-Ablagestapel in das Begegnungs-<br>deck.\nIn Spielreihenfolge legt jeder Ermittler die oberste Karte des Begegnungsdecks verdeckt in seine Bedrohungszone.\nFalls unter dieser Agenda noch eine weitere Agendakarte liegt, lege diese Agenda beiseite und r\u00fccke zur n\u00e4chsten Agenda vor. Ansonsten notiere im Kampagnenlogbuch einen Z\u00e4hlstrich unter \u201eDrohendes Unheil\u201c und mische diese Agenda mit allen beiseitegelegten Agendakarten zusammen, um ein neues Agendadeck zu bilden.",
                 "flavor_text": "Die grundlegenden Eigenschaften von Quantenwerkstoffen lassen sich mit dem Welle-Teilchen-Dualismus vergleichen. Man wei\u00df nie, mit was man es genau zu tun hat, bis man es beobachtet."
             },
-            "encounter_number": "4",
+            "encounter_number": "2-4",
             "project_number": "90",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
             "id": "32db5053-0fdc-41ac-b28c-eac0f28c9c64"
