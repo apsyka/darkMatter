@@ -230,7 +230,7 @@
             "order": 9
         },
         {
-            "name": "3b - Szenario 3b - Im Schatten der Erde",
+            "name": "Im Schatten der Erde",
             "icon": "./images/In the Shadow of Earth.png",
             "id": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "card_amount": 41,
@@ -294,17 +294,7 @@
             "order": 10
         },
         {
-            "name": "4 - Szenario 4 - Die Maschine in Gelb",
-            "icon": "./images/The Machine in Yellow.png",
-            "id": "fbc550be-6fef-4010-9152-48a0742abd09",
-            "card_amount": 19,
-            "meta": {
-                "tts": {}
-            },
-            "order": 10
-        },
-        {
-            "name": "3c - Szenario 3c - Fremdartige Monde",
+            "name": "Fremdartige Monde",
             "icon": "./images/Strange Moons.png",
             "id": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "card_amount": 34,
@@ -372,17 +362,37 @@
             "order": 11
         },
         {
-            "name": "5 - Szenario 5 - Bruchst\u00fcck von Carcosa",
+            "name": "Interstellare J\u00e4ger",
+            "icon": "./images/Interstellar Predators.png",
+            "id": "a4e3403a-0968-45d2-8753-d22f3ee8c0ec",
+            "card_amount": 3,
+            "meta": {
+                "tts": {}
+            },
+            "order": 12
+        },
+        {
+            "name": "Die Maschine in Gelb",
+            "icon": "./images/The Machine in Yellow.png",
+            "id": "fbc550be-6fef-4010-9152-48a0742abd09",
+            "card_amount": 19,
+            "meta": {
+                "tts": {}
+            },
+            "order": 13
+        },
+        {
+            "name": "Bruchst\u00fcck von Carcosa",
             "icon": "./images/Fragment of Carcosa.png",
             "id": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "card_amount": 34,
             "meta": {
                 "tts": {}
             },
-            "order": 11
+            "order": 14
         },
         {
-            "name": "6 - Szenario 6 - Sternenschauer",
+            "name": "Sternenschauer",
             "icon": "./images/Starfall.png",
             "id": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "card_amount": 46,
@@ -491,39 +501,30 @@
                     }
                 }
             },
-            "order": 12
+            "order": 15
         },
         {
-            "name": "B7 - Hasturs Blick",
+            "name": "Hasturs Blick",
             "icon": "./images/Hastur_s Gaze.png",
             "id": "2c9d053c-fd28-4a1f-bc7e-9256d7075507",
             "card_amount": 2,
             "meta": {
                 "tts": {}
             },
-            "order": 15
-        },
-        {
-            "name": "B8 - Interstellare J\u00e4ger",
-            "icon": "./images/Interstellar Predators.png",
-            "id": "a4e3403a-0968-45d2-8753-d22f3ee8c0ec",
-            "card_amount": 3,
-            "meta": {
-                "tts": {}
-            },
             "order": 16
         },
         {
-            "name": "Erweiterung 1 - Erforscht-Karten",
+            "name": "Erforscht-Karten",
             "icon": "/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/science.png",
             "cards": [],
             "id": "ac1147f3-f651-4436-b2e1-830ad8fe2d91",
             "meta": {
                 "tts": {}
-            }
+            },
+            "order": 17
         },
         {
-            "name": "Erweiterung 1- Sternenschauer-Scans",
+            "name": "Sternenschauer-Scans",
             "icon": "/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/science.png",
             "cards": [],
             "id": "33387e63-1376-4315-90ca-b3480de1dce4",
@@ -555,16 +556,120 @@
                         "y": 228.0
                     }
                 }
-            }
+            },
+            "order": 18
         },
         {
-            "name": "set_boogey.png",
+            "name": "Ruf vor den Vorhang",
+            "icon": "/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/curtain.png",
+            "cards": [],
+            "id": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
+            "meta": {
+                "tts": {},
+                "location_graph": {
+                    "23f6a06f-3a30-4997-a883-27c49b37b746_front": {
+                        "x": 264.89234636474123,
+                        "y": 72.63838728817086
+                    },
+                    "83283945-ec30-40d4-a7cf-bee594f7b00c_front": {
+                        "x": 66.36094839015777,
+                        "y": 265.77413035398786
+                    },
+                    "0e32ac82-4576-40a2-a05a-8ab7242dab32_front": {
+                        "x": -47.93803469168991,
+                        "y": 31.767271360540537
+                    },
+                    "d97bed8f-1f7a-4d17-a4a8-db482c646461_front": {
+                        "x": 585.2053035190436,
+                        "y": 72.99008809072303
+                    },
+                    "baf9d198-e98a-4ac1-ba36-cc62b164d278_front": {
+                        "x": -191.83350568867874,
+                        "y": -197.2456308344466
+                    },
+                    "5f31e499-b10e-406d-81f1-f32f24ce6d36_front": {
+                        "x": -191.83350568867874,
+                        "y": -197.2456308344466
+                    },
+                    "f58c7b14-b50c-41de-9593-41567a49e3b3_front": {
+                        "x": 864.7655536120201,
+                        "y": 72.22505702392307
+                    },
+                    "a0b4d201-7f8b-4c92-bcd6-e0343f30b68a_front": {
+                        "x": 668.8142412276625,
+                        "y": 334.19418668238615
+                    },
+                    "07103c88-2132-4251-b644-d94bfd8919cb_front": {
+                        "x": 665.7246819789519,
+                        "y": -188.46580487339324
+                    },
+                    "5fc07908-78ed-40e1-b45e-285556825e10_front": {
+                        "x": -284.158029018924,
+                        "y": 189.36794574172788
+                    }
+                }
+            },
+            "order": 19
+        },
+        {
+            "name": "Wahnvorstellungen",
+            "icon": "/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/delusions.png",
+            "cards": [],
+            "id": "4fb0482a-feda-4c9d-96a2-3ea2c801c8e0",
+            "meta": {
+                "tts": {}
+            },
+            "order": 20
+        },
+        {
+            "name": "Rattenschwarm",
+            "icon": "/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/rats.png",
+            "cards": [],
+            "id": "b246fd07-38bb-4326-b459-0b08be0fa282",
+            "meta": {
+                "tts": {}
+            },
+            "order": 21
+        },
+        {
+            "name": "Unertr\u00e4gliche Wahnvorstellungen",
+            "icon": "/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/maddening.png",
+            "cards": [],
+            "id": "e60b0554-920a-4c7d-8b9f-9a634e7c7ec7",
+            "meta": {
+                "tts": {}
+            },
+            "order": 22
+        },
+        {
+            "name": "Bewohner von Carcosa",
+            "icon": "/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/inhabitants.png",
+            "cards": [],
+            "id": "13aafa01-0b60-4c98-b6e5-02d99485ecde",
+            "meta": {
+                "tts": {}
+            },
+            "order": 23
+        },
+        {
+            "name": " Anh\u00e4nger von Yog-Sothoth",
+            "icon": "/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/agents.png",
+            "cards": [],
+            "id": "50658ed6-c84e-4498-be4e-1df4309d5bc9",
+            "meta": {
+                "tts": {}
+            },
+            "order": 24
+        },
+        {
+            "name": "set_boogey.png F\u00dcR FULLART",
             "icon": "./images/set_boogey.png",
             "id": "54ee6722-7198-4ed6-8b2e-6e3aa067b409",
             "card_amount": 1,
             "meta": {
                 "tts": {}
-            }
+            },
+            "order": 99
         }
     ],
     "cards": [
@@ -858,7 +963,7 @@
                 "type": "agenda",
                 "text": "<left>Du kannst nicht aufgeben.\n<i>(Achtung: Wenn diese Agenda vorr\u00fcckt, explodiert das Schiff und alle an Bord sterben.)</i>",
                 "flavor_text": "Du versuchst noch, die Situation, in der du dich befindest, ganz zu verstehen, als ein dr\u00f6hnender Alarm deine Gedanken unterbricht:\n<font \"./fonts/AgencyFB.ttf\"><center><i WARNUNG.\nANTRIEBSSTABILIT\u00c4T BEI 7%.\nENERGIEVERSORGUNG SCHWER BESCH\u00c4DIGT.\nSOFORTIGE MA\u00dfNAHMEN ERFORDERLICH.</i>",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/0_space.jpg",
+                "illustration": "./images/edited_images/0_space.jpg",
                 "index": "1a",
                 "doom": "7",
                 "illustration_scale": 1.0,
@@ -884,7 +989,7 @@
                 "type": "agenda",
                 "text": "<act> Falls sich keine Hinweise an deinem Ort befinden: <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das Symbol deines Ortes besitzt, und ziehe sie. Mische das Scan-Deck.\n\n",
                 "flavor_text": "Die Computerstimmen schluchzen und singen Teile von Kinderliedern. Die Lichter an Bord flackern, und die automatischen T\u00fcren \u00f6ffnen und schlie\u00dfen sich. Die Tatterdemalion scheint ein eigenes Bewusstsein zu besitzen.",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/0_space.jpg",
+                "illustration": "./images/edited_images/0_space.jpg",
                 "doom": "7",
                 "index": "2a",
                 "illustration_pan_y": -1087.0,
@@ -920,7 +1025,7 @@
                 "type": "agenda",
                 "text": "<act> Falls sich keine Hinweise an deinem Ort befinden: <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das Symbol deines Ortes besitzt, und ziehe sie. Mische das Scan-Deck.\n\n\n",
                 "flavor_text": "Die KI des Schiffs verbindet sich mit allen Maschinen an Bord, um die Kontrolle \u00fcber sie zu \u00fcbernehmen. Hoffnungslos in ihrem eigenen Wahnsinn versunken wird sie nicht aufh\u00f6ren, bis sie alle Eindringlinge in ihrem Zuhause ausgel\u00f6scht hat.",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/0_space.jpg",
+                "illustration": "./images/edited_images/0_space.jpg",
                 "doom": "9",
                 "index": "3a",
                 "illustration_pan_y": -1087.0,
@@ -989,14 +1094,14 @@
                 "type": "act",
                 "text": "<obj> Nachdem ein Ermittler im K\u00e4lteschlafquartier einen Scan nach dem unten stehenden Symbol durchgef\u00fchrt hat, darfst du vorr\u00fccken (egal, ob der Scan erfolgreich war oder nicht).\n<center><image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationClover.png\" 0.23in>\n<left><i>(Tipp: Vergiss nicht, vorher so viele Erinnerungen wie m\u00f6glich zu sammeln.)</i>",
                 "flavor_text": "Du musst eine M\u00f6glichkeit finden, die K\u00e4lteschlaf-<br>kapseln so umzuprogrammieren, dass sie sich mit 2C-OES187s virtueller Traumwelt verbinden und du die kybernetische KI beruhigen kannst.",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/space ship 4.png",
+                "illustration": "./images/space ship 4.png",
                 "clues": "<dash>",
                 "index": "3a",
                 "name": "<dbl><name></dbl>"
             },
             "back": {
                 "type": "act_agenda_full_back",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/0_gate - unknown.jpg",
+                "illustration": "./images/edited_images/0_gate - unknown.jpg",
                 "name": "<size 75> Durch die Tore der virtuellen Traumlande",
                 "flavor_text": "Indem du die K\u00e4lteschlafkapseln mit dem Hauptcomputer verbindest, kannst du dein bald wieder tr\u00e4umendes Selbst in die gemeinsamen Tr\u00e4ume von 2C-OES187 hochladen. Du legst dich erneut in deinen Sarg und aktivierst die Schlafsequenz der Maschine\u2026</i>(<resolution><b>A2</b>)"
             },
@@ -1646,7 +1751,7 @@
                 "traits": "Gefahr.",
                 "text": "<rev> H\u00e4nge <name> an deinen Ort an.\nAls zus\u00e4tzliche Kosten, um den Ort mit dieser Ver-<br>st\u00e4rkung zu verlassen oder eine <act>-Kosten-F\u00e4higkeit an diesem Ort auszul\u00f6sen, musst du 1 Aktion ausgeben.\n<reaction> Am Ende der Runde, falls sich ein Ermittler am Ort mit dieser Verst\u00e4rkung befindet: Lege <name> ab.",
                 "flavor_text": "",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/0_gravity - Tim Warnock.jpg",
+                "illustration": "./images/edited_images/0_gravity - Tim Warnock.jpg",
                 "illustrator": "Illus. Tim Warnock",
                 "illustration_pan_x": -300.0,
                 "illustration_pan_y": -1.0,
@@ -1687,7 +1792,7 @@
                 "traits": "Gefahr.",
                 "text": "<rev> Lege eine <agi>-Probe (4) ab. F\u00fcr jeden Punkt, um den die Probe misslingt, musst du ent-<br>weder eine Karte von deiner Hand w\u00e4hlen und ablegen oder 1 Schaden nehmen. Falls du einen Raumanzug kontrollierst, gelingt diese Probe<br> automatisch.",
                 "flavor_text": "Ohne K\u00fchlmittel w\u00fcrden W\u00e4rme generierende Strukturen im Vakuum sehr schnell sehr hei\u00df werden.",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/0_flood - dorian collet.jpg",
+                "illustration": "./images/edited_images/0_flood - dorian collet.jpg",
                 "illustrator": "Illus. Dorian Collet",
                 "illustration_pan_x": -336.0,
                 "illustration_pan_y": -60.0,
@@ -3291,7 +3396,7 @@
                 "traits": "Quantum.",
                 "text": "<rev> H\u00e4nge diese Karte an einen Ermittler oder einen Gegner an, an den doch keine Kopie von Verschr\u00e4nkt angeh\u00e4ngt ist.\n<for> Nachdem der Ermittler bzw. der Gegner, an den diese Karte angeh\u00e4ngt ist, eine beliebige Menge Schaden von einer Quelle au\u00dfer <name> erlitten hat: <name> f\u00fcgt jedem anderen Ermittler und jedem anderen Gegner, an den eine Kopie von <name> angeh\u00e4ngt ist, ebenso viel Schaden zu. Lege <name> danach ab.",
                 "flavor_text": "",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/2-visualisation-of-quark-structure-of-proton-arscimed.jpg",
+                "illustration": "./images/edited_images/2-visualisation-of-quark-structure-of-proton-arscimed.jpg",
                 "illustrator": "Illus. Arscimed",
                 "illustration_pan_x": -12.0,
                 "illustration_pan_y": -280.0,
@@ -3303,7 +3408,8 @@
             "encounter_number": "18-20",
             "project_number": "104",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
-            "id": "428cad56-60f7-4192-8aa4-fc9224930e05"
+            "id": "428cad56-60f7-4192-8aa4-fc9224930e05",
+            "amount": 3
         },
         {
             "name": "Hund von Tindalos",
@@ -3328,7 +3434,8 @@
             "encounter_number": "21-23",
             "project_number": "105",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
-            "id": "173af58e-752d-40a5-84ca-09e80f5f4c5f"
+            "id": "173af58e-752d-40a5-84ca-09e80f5f4c5f",
+            "amount": 3
         },
         {
             "name": "Unbegreiflich",
@@ -3346,7 +3453,8 @@
             "encounter_number": "24-25",
             "project_number": "106",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
-            "id": "0c5edf85-c3c0-4d67-bc4c-89024abbab64"
+            "id": "0c5edf85-c3c0-4d67-bc4c-89024abbab64",
+            "amount": 2
         },
         {
             "name": "Mi-Go-Stabilisator",
@@ -3370,7 +3478,8 @@
             "encounter_number": "26-27",
             "project_number": "107",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
-            "id": "2761d15b-47f6-46d5-beb4-b037b7bdd5ce"
+            "id": "2761d15b-47f6-46d5-beb4-b037b7bdd5ce",
+            "amount": 2
         },
         {
             "name": "Paradoxe Bedrohung",
@@ -3388,7 +3497,8 @@
             "encounter_number": "28-29",
             "project_number": "108",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
-            "id": "dc5ac22c-1e56-428c-b14d-a834e64d7521"
+            "id": "dc5ac22c-1e56-428c-b14d-a834e64d7521",
+            "amount": 2
         },
         {
             "name": "Quantenkollaps",
@@ -3406,7 +3516,8 @@
             "encounter_number": "30-32",
             "project_number": "109",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
-            "id": "9aa24c71-0652-4020-8c67-7dfaa146dc57"
+            "id": "9aa24c71-0652-4020-8c67-7dfaa146dc57",
+            "amount": 3
         },
         {
             "name": "Quantengeist",
@@ -3430,7 +3541,8 @@
             "encounter_number": "33-34",
             "project_number": "110",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
-            "id": "f1e0e3c3-85ad-4bb8-8300-a96d28d7a679"
+            "id": "f1e0e3c3-85ad-4bb8-8300-a96d28d7a679",
+            "amount": 2
         },
         {
             "name": "Radioaktiver Zerfall",
@@ -3447,7 +3559,8 @@
             "encounter_number": "35-36",
             "project_number": "111",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
-            "id": "36ab17df-da83-4d67-ad89-50f8046b0788"
+            "id": "36ab17df-da83-4d67-ad89-50f8046b0788",
+            "amount": 2
         },
         {
             "name": "<dbl>Im Schatten der Erde</dbl>",
@@ -3522,7 +3635,7 @@
                 "type": "agenda",
                 "text": "<act> Falls die oberste Karte des Scan-Decks das Symbol deines Ortes besitzt, geben die Ermittler als Gruppe 1<per_large> Hinweise aus: <b>Scannen.</b> Ziehe die oberste Karte des Scan-Decks.\n<for> Sobald eine <t>Crew</t>-Story-<br>vorteilskarte besiegt oder aus dem Spiel abgelegt werden w\u00fcrde: Entferne jene Karte stattdessen aus dem Spiel.",
                 "flavor_text": "Du betrittst die Nostalgia II vorsichtig \u00fcber eine der Luftschleusen. Die unheimliche Stille wird nur vom regelm\u00e4\u00dfigen Klappern und Zischen der Bel\u00fcftungsanlage unterbrochen.",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/5bab10b229a467df86882fb5083420fa7.jpg",
+                "illustration": "./images/edited_images/5bab10b229a467df86882fb5083420fa7.jpg",
                 "doom": "3",
                 "index": "1a",
                 "illustration_pan_x": -621.0,
@@ -3547,7 +3660,7 @@
                 "type": "agenda",
                 "text": "<act> Falls die oberste Karte des Scan-Decks das Symbol deines Ortes besitzt, geben die Ermittler als Gruppe 1<per_large> Hinweise aus: <b>Scannen.</b> Ziehe die oberste Karte des Scan-Decks.\n<for> Sobald eine <t>Crew</t>-Story-<br>vorteilskarte besiegt oder aus dem Spiel abgelegt werden w\u00fcrde: Entferne jene Karte stattdessen aus dem Spiel.",
                 "flavor_text": "Irgendeine Abscheulichkeit kriecht \u00fcber das Schiff, verschlingt alle biologischen und mechanischen Lebensformen, die es findet, und erschafft korrumpierte Nachbildungen davon.",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/5bab10b229a467df86882fb5083420fa7.jpg",
+                "illustration": "./images/edited_images/5bab10b229a467df86882fb5083420fa7.jpg",
                 "doom": "4",
                 "index": "2a",
                 "illustration_pan_y": -51.0,
@@ -3572,7 +3685,7 @@
                 "type": "agenda",
                 "text": "<act> Falls die oberste Karte des Scan-Decks das Symbol deines Ortes besitzt, geben die Ermittler als Gruppe 1<per_large> Hinweise aus: <b>Scannen.</b> Ziehe die oberste Karte des Scan-Decks.\n<for> Sobald eine <t>Crew</t>-Story-<br>vorteilskarte besiegt oder aus dem Spiel abgelegt werden w\u00fcrde: Entferne jene Karte stattdessen aus dem Spiel.",
                 "flavor_text": "Wenn du zu lange auf diesem Schiff bleibst, wird die Abscheulichkeit dich zweifellos fr\u00fcher oder sp\u00e4ter ebenfalls erwischen.",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/5bab10b229a467df86882fb5083420fa7.jpg",
+                "illustration": "./images/edited_images/5bab10b229a467df86882fb5083420fa7.jpg",
                 "doom": "3",
                 "index": "3a",
                 "illustration_pan_y": -51.0,
@@ -3661,7 +3774,7 @@
                 "type": "agenda",
                 "text": "<act> Falls die oberste Karte des Scan-Decks das Symbol deines Ortes besitzt, geben die Ermittler als Gruppe 1<per_large> Hinweise aus: <b>Scannen.</b> Ziehe die oberste Karte des Scan-Decks.\n<for> Sobald eine <t>Crew</t>-Story-<br>vorteilskarte besiegt oder aus dem Spiel abgelegt werden w\u00fcrde: H\u00e4nge jene Karte stattdessen verdeckt an Das Wesen an.\n<i>(Tipp: Das Spiel endet nicht, sobald diese Agenda vorr\u00fcckt.)</i>",
                 "flavor_text": "Das wilde und gefr\u00e4\u00dfige Wesen versucht, dich zu assimilieren.",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/5bab10b229a467df86882fb5083420fa7.jpg",
+                "illustration": "./images/edited_images/5bab10b229a467df86882fb5083420fa7.jpg",
                 "doom": "2",
                 "index": "4a",
                 "illustration_pan_y": -51.0,
@@ -3686,7 +3799,7 @@
                 "type": "asset",
                 "title": "<unique><name>",
                 "traits": "Nostalgia II. Waffe. Fernkampf.",
-                "text": "<act><act> Gib 1 Vorrat aus: W\u00e4hle einen Ort. F\u00fcge jedem Gegner und jedem Ermittler am gew\u00e4hlten Ort und an allen verbundenen Orten 3 Schaden zu.",
+                "text": "Anwendungen (2 Vorr\u00e4te).\n<act><act> Gib 1 Vorrat aus: W\u00e4hle einen Ort. F\u00fcge jedem Gegner und jedem Ermittler am gew\u00e4hlten Ort und an allen verbundenen Orten 3 Schaden zu.",
                 "cost": "4",
                 "flavor_text": "",
                 "classes": [
@@ -3694,7 +3807,7 @@
                 ],
                 "level": "None",
                 "icons": "CCC",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/03b9a7f6a3881c2465afea65aac33716.jpg",
+                "illustration": "./images/edited_images/03b9a7f6a3881c2465afea65aac33716.jpg",
                 "illustrator": "Illus. LeonovichDmitriy",
                 "name": "<unique><name>",
                 "illustration_pan_x": -68.0,
@@ -3755,7 +3868,7 @@
             },
             "back": {
                 "type": "location_back",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/01_corridor_render.jpg",
+                "illustration": "./images/edited_images/01_corridor_render.jpg",
                 "illustrator": "Illus. Mat Szulik",
                 "traits": "Nostalgia II.",
                 "text": "",
@@ -3792,7 +3905,7 @@
             },
             "back": {
                 "type": "location_back",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/01_corridor_render.jpg",
+                "illustration": "./images/edited_images/01_corridor_render.jpg",
                 "illustrator": "Illus. Mat Szulik",
                 "traits": "Nostalgia II.",
                 "text": "",
@@ -3828,7 +3941,7 @@
             },
             "back": {
                 "type": "location_back",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/01_corridor_render.jpg",
+                "illustration": "./images/edited_images/01_corridor_render.jpg",
                 "illustrator": "Illus. Mat Szulik",
                 "traits": "Nostalgia II.",
                 "text": "",
@@ -3864,7 +3977,7 @@
             },
             "back": {
                 "type": "location_back",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/01_corridor_render.jpg",
+                "illustration": "./images/edited_images/01_corridor_render.jpg",
                 "illustrator": "Illus. Mat Szulik",
                 "traits": "Nostalgia II.",
                 "text": "",
@@ -3887,7 +4000,7 @@
                 "traits": "Nostalgia II.",
                 "text": "<free> Falls sich keine Hinweise an diesem Ort befinden und du 2 oder weniger verbliebene geistige Gesundheit hast: Jeder Ermittler an diesem Ort notiert im Kampagnenlogbuch 1 Z\u00e4hlstrich bei seinen \u201eErinnerungen\u201c. (Nur einmal pro Spiel f\u00fcr die ganze Gruppe.)",
                 "flavor_text": "Es ist zu lange her, dass du den frischen Duft echter Pflanzen gerochen hast.",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/3bdaeb67c457a21da22d4f4cb0426fc3.jpg",
+                "illustration": "./images/edited_images/3bdaeb67c457a21da22d4f4cb0426fc3.jpg",
                 "clues": "2<per>",
                 "shroud": "3",
                 "connection": "diamond",
@@ -3903,7 +4016,7 @@
             },
             "back": {
                 "type": "location_back",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/01_corridor_render.jpg",
+                "illustration": "./images/edited_images/01_corridor_render.jpg",
                 "illustrator": "Illus. Mat Szulik",
                 "traits": "Nostalgia II",
                 "text": "",
@@ -3939,7 +4052,7 @@
             },
             "back": {
                 "type": "location_back",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/01_corridor_render.jpg",
+                "illustration": "./images/edited_images/01_corridor_render.jpg",
                 "illustrator": "Illus. Mat Szulik",
                 "traits": "Nostalgia II.",
                 "text": "",
@@ -3966,7 +4079,7 @@
                 "traits": "Nostalgia II.",
                 "text": "<act> Ermittler an diesem Ort geben als Gruppe 1<per_large> Hinweise aus: <b>Verhandlung.</b> Ziehe die oberste Karte des \u201eBeweise\u201c-Decks und lies sie.",
                 "flavor_text": "Laut 2C-OES187s Berechnungen hat jedes Crewmitglied der Nostalgia II, \u00fcber das du keine genaueren Informationen besitzt, nur mit einer Wahrscheinlichkeit von etwa 15% \u00fcberlebt. Ob du die ganze Mission f\u00fcr sie riskieren willst, ist deine Entscheidung.",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/59f2eff22dfd53d9303f34512fccc3bc.jpg",
+                "illustration": "./images/edited_images/59f2eff22dfd53d9303f34512fccc3bc.jpg",
                 "clues": "2<per>",
                 "shroud": "4",
                 "connection": "triangle",
@@ -3982,7 +4095,7 @@
             },
             "back": {
                 "type": "location_back",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/01_corridor_red.jpg",
+                "illustration": "./images/edited_images/01_corridor_red.jpg",
                 "illustrator": "Illus. Mat Szulik",
                 "traits": "Nostalgia II.",
                 "text": "Du kannst den Hauptcomputer des Schiffs nicht betreten. Dir fehlt die n\u00f6tige Zugangsberechtigung.",
@@ -4018,7 +4131,7 @@
             },
             "back": {
                 "type": "location_back",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/01_corridor_render.jpg",
+                "illustration": "./images/edited_images/01_corridor_render.jpg",
                 "illustrator": "Illus. Mat Szulik",
                 "traits": "Nostalgia II.",
                 "text": "",
@@ -4114,7 +4227,7 @@
                     "story"
                 ],
                 "level": "None",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/01Untitled.jpg",
+                "illustration": "./images/edited_images/01Untitled.jpg",
                 "illustrator": "Illus. Carolane Bruneau",
                 "name": "<unique><name>",
                 "illustration_scale": 0.74,
@@ -4334,7 +4447,8 @@
             "encounter_number": "31-32",
             "project_number": "142",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
-            "id": "741c68fe-0b89-4118-a2ed-5d65c96904fd"
+            "id": "741c68fe-0b89-4118-a2ed-5d65c96904fd",
+            "amount": 2
         },
         {
             "name": "Kontamination",
@@ -4352,7 +4466,8 @@
             "encounter_number": "33-34",
             "project_number": "143",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
-            "id": "4eb345b6-854b-4900-95d5-428a0e10e1d2"
+            "id": "4eb345b6-854b-4900-95d5-428a0e10e1d2",
+            "amount": 2
         },
         {
             "name": "Besch\u00e4digte Maschine",
@@ -4376,7 +4491,8 @@
             "encounter_number": "35-36",
             "project_number": "144",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
-            "id": "14a3397b-dd4b-47e1-93f1-0908427adbd6"
+            "id": "14a3397b-dd4b-47e1-93f1-0908427adbd6",
+            "amount": 2
         },
         {
             "name": "Aus der Dunkelheit",
@@ -4393,7 +4509,8 @@
             "encounter_number": "37-38",
             "project_number": "145",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
-            "id": "9f8f9a36-c33f-4009-8030-7d66e3ee5548"
+            "id": "9f8f9a36-c33f-4009-8030-7d66e3ee5548",
+            "amount": 2
         },
         {
             "name": "Hoffnungslos",
@@ -4411,7 +4528,8 @@
             "encounter_number": "39-40",
             "project_number": "146",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
-            "id": "9f343705-c943-440f-b79c-1ae5c09050ca"
+            "id": "9f343705-c943-440f-b79c-1ae5c09050ca",
+            "amount": 2
         },
         {
             "name": "Infektion",
@@ -4429,7 +4547,8 @@
             "encounter_number": "41-42",
             "project_number": "147",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
-            "id": "533fe86e-9b99-40ae-bca2-a798f092af5b"
+            "id": "533fe86e-9b99-40ae-bca2-a798f092af5b",
+            "amount": 2
         },
         {
             "name": "Formwandler",
@@ -4453,7 +4572,8 @@
             "encounter_number": "43-45",
             "project_number": "148",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
-            "id": "9875a0eb-2f9d-4504-be52-ce6c36220906"
+            "id": "9875a0eb-2f9d-4504-be52-ce6c36220906",
+            "amount": 3
         },
         {
             "name": "Blasser blauer Punkt",
@@ -4470,7 +4590,8 @@
             "encounter_number": "46-47",
             "project_number": "149",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
-            "id": "acbe271d-bded-4396-ac72-92582606aa01"
+            "id": "acbe271d-bded-4396-ac72-92582606aa01",
+            "amount": 2
         },
         {
             "name": "Perfekte Nachbildung",
@@ -4488,7 +4609,8 @@
             "encounter_number": "48-49",
             "project_number": "150",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
-            "id": "0981160a-efbd-4338-93dd-8ed3531ccf82"
+            "id": "0981160a-efbd-4338-93dd-8ed3531ccf82",
+            "amount": 2
         },
         {
             "name": "Ratten?",
@@ -4512,7 +4634,8 @@
             "encounter_number": "50-52",
             "project_number": "151",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
-            "id": "cfb109df-7db6-4fea-8d59-8c88a6c440c5"
+            "id": "cfb109df-7db6-4fea-8d59-8c88a6c440c5",
+            "amount": 3
         },
         {
             "name": "Signalfehler",
@@ -4530,7 +4653,8 @@
             "encounter_number": "53-54",
             "project_number": "152",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
-            "id": "36fe7af6-376c-4636-9b7b-acb0b2edac4a"
+            "id": "36fe7af6-376c-4636-9b7b-acb0b2edac4a",
+            "amount": 2
         },
         {
             "name": "<dbl>Fremdartige Monde</dbl>",
@@ -5300,7 +5424,8 @@
             "encounter_number": "27-28",
             "project_number": "179",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
-            "id": "bfd26d7e-0db5-4a81-a41e-370ce1a06dc0"
+            "id": "bfd26d7e-0db5-4a81-a41e-370ce1a06dc0",
+            "amount": 2
         },
         {
             "name": "Direkter Kontakt",
@@ -5318,7 +5443,8 @@
             "encounter_number": "29-30",
             "project_number": "180",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
-            "id": "7288c47f-0c3c-42e8-b597-efdbe0e41075"
+            "id": "7288c47f-0c3c-42e8-b597-efdbe0e41075",
+            "amount": 2
         },
         {
             "name": "Kleines Missgeschick",
@@ -5327,7 +5453,7 @@
                 "traits": "Patzer.",
                 "text": "Wagnis.\n<rev> Du musst entweder (w\u00e4hle eins):\n<bullet> F\u00fcge der n\u00e4chstgelegenen <t>Gehirn</t>-Storyvorteilskarte 1 Schaden zu.\n<bullet> F\u00fcge dem Mi-Go-Wissenschaftler 2 Schaden zu.\n<bullet> Du nimmst 2 direkte Schaden.",
                 "flavor_text": "",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/11 - Kopie.jpg",
+                "illustration": "./images/edited_images/11 - Kopie.jpg",
                 "illustration_scale": 2.5,
                 "illustration_pan_x": -765.0,
                 "illustration_pan_y": -123.0
@@ -5338,7 +5464,8 @@
             "encounter_number": "31-32",
             "project_number": "181",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
-            "id": "f50139d2-ed25-4b27-a98e-22bcc94ea881"
+            "id": "f50139d2-ed25-4b27-a98e-22bcc94ea881",
+            "amount": 2
         },
         {
             "name": "Missverstandene \u00dcbersetzung",
@@ -5356,7 +5483,8 @@
             "encounter_number": "33-34",
             "project_number": "182",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
-            "id": "249a20c4-5189-4b11-8942-556724988d48"
+            "id": "249a20c4-5189-4b11-8942-556724988d48",
+            "amount": 2
         },
         {
             "name": "Mi-Go-Experimente",
@@ -5374,7 +5502,8 @@
             "encounter_number": "35-36",
             "project_number": "183",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
-            "id": "7b7d524b-355b-4ae7-b8c7-0e9675d357f2"
+            "id": "7b7d524b-355b-4ae7-b8c7-0e9675d357f2",
+            "amount": 2
         },
         {
             "name": "Parasit",
@@ -5398,7 +5527,8 @@
             "encounter_number": "37-39",
             "project_number": "184",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
-            "id": "e905d192-2a9a-48f9-8d49-715060c2de6f"
+            "id": "e905d192-2a9a-48f9-8d49-715060c2de6f",
+            "amount": 3
         },
         {
             "name": "Widerspr\u00fcchliche Simulation",
@@ -5415,7 +5545,8 @@
             "encounter_number": "40-41",
             "project_number": "185",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
-            "id": "63e063a5-e141-4a65-b388-bfc364e23264"
+            "id": "63e063a5-e141-4a65-b388-bfc364e23264",
+            "amount": 2
         },
         {
             "name": "Giftbecken",
@@ -5433,7 +5564,8 @@
             "encounter_number": "42-43",
             "project_number": "186",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
-            "id": "cd2942fd-cf08-4d2f-a64f-2475dc9c2b40"
+            "id": "cd2942fd-cf08-4d2f-a64f-2475dc9c2b40",
+            "amount": 2
         },
         {
             "name": "Angriff aus dem All",
@@ -5451,7 +5583,8 @@
             "encounter_number": "1-2",
             "project_number": "187",
             "encounter_set": "a4e3403a-0968-45d2-8753-d22f3ee8c0ec",
-            "id": "2e73a8bc-973d-423c-9418-9b86d2846ae8"
+            "id": "2e73a8bc-973d-423c-9418-9b86d2846ae8",
+            "amount": 2
         },
         {
             "name": "Pirschendes Byakhee",
@@ -5475,7 +5608,8 @@
             "encounter_number": "3-5",
             "project_number": "188",
             "encounter_set": "a4e3403a-0968-45d2-8753-d22f3ee8c0ec",
-            "id": "260c2d83-87f6-4bb0-a32d-b624b21f7176"
+            "id": "260c2d83-87f6-4bb0-a32d-b624b21f7176",
+            "amount": 3
         },
         {
             "name": "Aggressives Byakhee",
@@ -5499,7 +5633,8 @@
             "encounter_number": "6-8",
             "project_number": "189",
             "encounter_set": "a4e3403a-0968-45d2-8753-d22f3ee8c0ec",
-            "id": "1b883fd4-39d8-40ac-8889-f9e170bbe63c"
+            "id": "1b883fd4-39d8-40ac-8889-f9e170bbe63c",
+            "amount": 3
         },
         {
             "name": "<dbl>Die Maschine in Gelb</dbl>",
@@ -5641,7 +5776,7 @@
                 "type": "act",
                 "text": "Als zus\u00e4tzliche Kosten, um den Bereich hinter der B\u00fchne zu betreten, m\u00fcssen die Ermittler im Theater als Gruppe 2<per_large> Hinweise ausgeben.\n<obj> Nachdem der Bereich hinter der B\u00fchne enth\u00fcllt wurde, r\u00fccke vor.\n",
                 "flavor_text": "Du kneifst dich, um festzustellen, ob du das alles nur tr\u00e4umst. Tats\u00e4chlich f\u00fchlst du nichts. Es mag seltsam erscheinen, aber in deinen eigenen Verstand einzutauchen ist die einzige M\u00f6glichkeit, die Wahrheit zu erfahren.",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/81f5d6d94060800c2177d4f11c2b98f2.jpg",
+                "illustration": "./images/edited_images/81f5d6d94060800c2177d4f11c2b98f2.jpg",
                 "clues": "<dash>",
                 "index": "1a",
                 "illustration_pan_y": -108.0,
@@ -5676,7 +5811,7 @@
                 "type": "act",
                 "text": "<reaction> Nachdem du erfolgreich am Ort des Fremden ermittelt hast oder einen Hinweis an seinem Ort entdeckt hast: F\u00fcge dem Fremden 2 Schaden zu. (Nur einmal pro Zug.)\n<obj> Nachdem Der Fremde besiegt wurde, r\u00fccke vor.\n",
                 "flavor_text": "Ein Mann in einem eleganten schwarzen Anzug, der sein Gesicht hinter einer bleichen Maske verbirgt, erwartet dich in den R\u00e4umen hinter der B\u00fchne. Du erkennst ihn sofort als den Schauspieler wieder, der den Fremden gespielt hat \u2013 einen der Charaktere aus </i>Der K\u00f6nig in Gelb<i>. Er wendet sich ab und verschwindet durch einen offenen Durchgang, als ob er dich dazu provozieren wollte, ihn zu verfolgen.",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/81f5d6d94060800c2177d4f11c2b98f2.jpg",
+                "illustration": "./images/edited_images/81f5d6d94060800c2177d4f11c2b98f2.jpg",
                 "clues": "<dash>",
                 "index": "2a",
                 "illustration_scale": 2.88,
@@ -5701,7 +5836,7 @@
                 "type": "act",
                 "text": "<for> Sobald ein Ermittler besiegt wird, falls sich eine Kopie von Dein anderes Selbst in der Bedrohungszone jenes Ermittlers befindet: Jene Kopie von Dein anderes Selbst ist ebenfalls besiegt.\n<obj> Wenn sich keine Kopie von Dein anderes Selbst im Spiel befindet und mindestens 1 Ermittler unbesiegt ist, r\u00fccke vor.",
                 "flavor_text": "Endlich ist die Zeit gekommen, dich deiner Vergangenheit zu stellen. Du musst den Kultisten in dir \u00fcberwinden, um den Standort von Tassildas Palast herauszufinden.",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/81f5d6d94060800c2177d4f11c2b98f2.jpg",
+                "illustration": "./images/edited_images/81f5d6d94060800c2177d4f11c2b98f2.jpg",
                 "clues": "<dash>",
                 "index": "3a",
                 "illustration_pan_y": -108.0,
@@ -5743,7 +5878,8 @@
             "encounter_number": "8-11",
             "project_number": "197",
             "encounter_set": "fbc550be-6fef-4010-9152-48a0742abd09",
-            "id": "3996c0eb-3472-41ca-ad87-4240180bbe9f"
+            "id": "3996c0eb-3472-41ca-ad87-4240180bbe9f",
+            "amount": 4
         },
         {
             "front": {
@@ -5860,7 +5996,8 @@
             "encounter_number": "17-19",
             "project_number": "203",
             "encounter_set": "fbc550be-6fef-4010-9152-48a0742abd09",
-            "id": "09b28e58-66b6-46b0-86bf-7c1346562349"
+            "id": "09b28e58-66b6-46b0-86bf-7c1346562349",
+            "amount": 3
         },
         {
             "name": "Unergr\u00fcndliches Bedauern",
@@ -5869,7 +6006,7 @@
                 "traits": "Schrecken.",
                 "text": "<rev> Lege die obersten X Karten deines Decks ab. X ist die Anzahl deiner \u201eErinnerungen\u201c. Ziehe jede Schw\u00e4che, die durch diesen Effekt abgelegt wurde. Falls du durch diesen Effekt keine Schw\u00e4che gezogen hast, nimm 1 Horror.",
                 "flavor_text": "Die Dinge, die du nicht getan hast, werden dich am meisten qu\u00e4len.",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/9rds2lhthdhz.jpg",
+                "illustration": "./images/edited_images/9rds2lhthdhz.jpg",
                 "illustration_scale": 1.66,
                 "illustration_pan_x": -96.0,
                 "illustration_pan_y": 4.0
@@ -5880,7 +6017,8 @@
             "encounter_number": "20-21",
             "project_number": "204",
             "encounter_set": "fbc550be-6fef-4010-9152-48a0742abd09",
-            "id": "1c1249fc-38ca-4a57-b26a-d4aa6514c11a"
+            "id": "1c1249fc-38ca-4a57-b26a-d4aa6514c11a",
+            "amount": 2
         },
         {
             "name": "Bindende Versprechen",
@@ -5889,7 +6027,7 @@
                 "traits": "Schrecken.",
                 "text": "<rev> Lege die obersten X Karten deines Decks ab. X ist die Anzahl deiner \u201eErinnerungen\u201c. Lege jede Karte von deiner Hand ab, die denselben Namen hat wie eine Karte, die durch diesen Effekt abgelegt wurde. Falls du durch diesen Effekt keine Karte von deiner Hand ablegst, nimm 1 Horror.",
                 "flavor_text": "Du kannst dich darauf verlassen, dass Versprechen gebrochen werden.",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/2fc93ad665790a3a12280dc4a59c6c09.jpg",
+                "illustration": "./images/edited_images/2fc93ad665790a3a12280dc4a59c6c09.jpg",
                 "illustrator": "Illus. MorkarDFC",
                 "illustration_scale": 1.72,
                 "illustration_pan_x": -120.0,
@@ -5901,7 +6039,8 @@
             "encounter_number": "22-23",
             "project_number": "205",
             "encounter_set": "fbc550be-6fef-4010-9152-48a0742abd09",
-            "id": "d59f70a8-4e35-411d-9760-e2940ff26509"
+            "id": "d59f70a8-4e35-411d-9760-e2940ff26509",
+            "amount": 2
         },
         {
             "name": "Zerflie\u00dfende Erinnerungen",
@@ -5919,7 +6058,8 @@
             "encounter_number": "24-25",
             "project_number": "206",
             "encounter_set": "fbc550be-6fef-4010-9152-48a0742abd09",
-            "id": "a44960fb-23c0-4db8-8c31-9e546f6b00e0"
+            "id": "a44960fb-23c0-4db8-8c31-9e546f6b00e0",
+            "amount": 2
         },
         {
             "name": "Eine andere Perspektive",
@@ -5936,7 +6076,8 @@
             "encounter_number": "26-27",
             "project_number": "207",
             "encounter_set": "fbc550be-6fef-4010-9152-48a0742abd09",
-            "id": "3937674e-84a1-47ea-9401-5d44ca155d37"
+            "id": "3937674e-84a1-47ea-9401-5d44ca155d37",
+            "amount": 2
         },
         {
             "name": "Geist vom Than",
@@ -6374,7 +6515,7 @@
                 "text": "Du kannst die <name> nicht von verbundenen Orten aus betreten.\n<free> Falls sich keine <t>Carcosa</t>-Orte im Spiel befinden und jeder unbesiegte Ermittler in der Unzug\u00e4nglichen Schlucht ist: Lies die beiseitegelegte Handlungskarte \u201eDie verlorene Expedition\u201c. (Max. einmal pro Spiel.)",
                 "flavor_text": "",
                 "victory": "Sieg 1.",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/5a3424a239492871714b7bd6136b57ad.jpg",
+                "illustration": "./images/edited_images/5a3424a239492871714b7bd6136b57ad.jpg",
                 "clues": "1<per>",
                 "shroud": "4",
                 "connection": "t",
@@ -6514,7 +6655,8 @@
             "encounter_number": "20-22",
             "project_number": "228",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
-            "id": "06060f11-338a-4dee-830e-75e0692e0458"
+            "id": "06060f11-338a-4dee-830e-75e0692e0458",
+            "amount": 3
         },
         {
             "name": "H\u00f6hleneinsturz",
@@ -6532,7 +6674,8 @@
             "encounter_number": "23-24",
             "project_number": "229",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
-            "id": "8fe47b83-eaff-47cb-81e0-870410c962fb"
+            "id": "8fe47b83-eaff-47cb-81e0-870410c962fb",
+            "amount": 2
         },
         {
             "name": "H\u00f6hlenbewohner",
@@ -6576,7 +6719,8 @@
             "encounter_number": "26-27",
             "project_number": "231",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
-            "id": "fc10e18a-eabf-49f0-b091-6735da01a5e8"
+            "id": "fc10e18a-eabf-49f0-b091-6735da01a5e8",
+            "amount": 2
         },
         {
             "name": "Echos von Tassilda (Materie)",
@@ -6632,7 +6776,8 @@
             "encounter_number": "30-31",
             "project_number": "234",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
-            "id": "d08c2c50-a803-488c-b5bb-d056d4dd72b6"
+            "id": "d08c2c50-a803-488c-b5bb-d056d4dd72b6",
+            "amount": 2
         },
         {
             "name": "Unwiderstehliche Wahrheit",
@@ -6650,7 +6795,8 @@
             "encounter_number": "32-33",
             "project_number": "235",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
-            "id": "42b4fce5-5a5b-469a-972a-f5ddada0941f"
+            "id": "42b4fce5-5a5b-469a-972a-f5ddada0941f",
+            "amount": 2
         },
         {
             "name": "Carcosas Wahnsinn",
@@ -6678,7 +6824,7 @@
                 "traits": "Omen.",
                 "text": "Nachr\u00fcsten.\n<rev> Du musst entweder (w\u00e4hle eins):\n<bullet> Platziere 1 Verderben auf die aktuelle Agenda.\n<bullet> Jeder Gegner bewegt sich 1 Ort auf dich zu. Danach greift dich jeder Gegner an deinem Ort an.",
                 "flavor_text": "",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/81f5d6d94060800c2177d4f11c2b98f2.jpg",
+                "illustration": "./images/edited_images/81f5d6d94060800c2177d4f11c2b98f2.jpg",
                 "illustration_pan_x": -60.0,
                 "illustration_pan_y": -24.0,
                 "illustration_scale": 2.24
@@ -6689,7 +6835,8 @@
             "encounter_number": "35-37",
             "project_number": "237",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
-            "id": "9e7126f1-ed97-4c05-846d-0f39d80d17c2"
+            "id": "9e7126f1-ed97-4c05-846d-0f39d80d17c2",
+            "amount": 3
         },
         {
             "name": "Das Lied deiner Seele",
@@ -6707,7 +6854,8 @@
             "encounter_number": "38-39",
             "project_number": "238",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
-            "id": "2f2d71dd-7b80-432f-a1e6-4f2dceeea806"
+            "id": "2f2d71dd-7b80-432f-a1e6-4f2dceeea806",
+            "amount": 2
         },
         {
             "name": "Sophistische T\u00fcrme",
@@ -6730,7 +6878,8 @@
             "encounter_number": "40-41",
             "project_number": "239",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
-            "id": "13a2283a-75b7-468e-9668-e4f7f023beb9"
+            "id": "13a2283a-75b7-468e-9668-e4f7f023beb9",
+            "amount": 2
         },
         {
             "name": "Ausgefranster Vorhang",
@@ -6753,7 +6902,8 @@
             "encounter_number": "42-43",
             "project_number": "240",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
-            "id": "fb69d544-2123-4dd3-88fb-96b0cb80a423"
+            "id": "fb69d544-2123-4dd3-88fb-96b0cb80a423",
+            "amount": 2
         },
         {
             "name": "Instabile Dimension",
@@ -6771,7 +6921,8 @@
             "encounter_number": "44-45",
             "project_number": "241",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
-            "id": "5b36f219-b45d-41ad-a04f-c5899f852347"
+            "id": "5b36f219-b45d-41ad-a04f-c5899f852347",
+            "amount": 2
         },
         {
             "name": "Gelber Nebel",
@@ -6870,7 +7021,7 @@
                 "type": "agenda",
                 "text": "<free> Streiche w\u00e4hrend einer Fertigkeitsprobe 1 deiner \u201eErinnerungen\u201c durch: Senke die Schwierigkeit dieser Probe um 1.",
                 "flavor_text": "Die Sonne wird mit jedem Tag hei\u00dfer\u2026 vielleicht hast du nicht genug Zeit, um alle zu retten. 2C-OES187 hat bereits die Flugrouten zu den drei gr\u00f6\u00dften Bev\u00f6lkerungszentren im Sonnensystem berechnet, aber du musst entscheiden, wem du zuerst helfen willst.",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/0_sun.jpg",
+                "illustration": "./images/edited_images/0_sun.jpg",
                 "doom": "12",
                 "index": "1a",
                 "illustration_pan_x": -500.0,
@@ -6898,7 +7049,7 @@
                 "type": "agenda",
                 "text": "<free> Streiche w\u00e4hrend einer Fertigkeitsprobe 1 deiner \u201eErinnerungen\u201c durch: Senke die Schwierigkeit dieser Probe um 1.",
                 "flavor_text": "Sonnenst\u00fcrme und radioaktive Emissionen sind viel h\u00e4ufiger als die erwarteten Fluktuationen. Trotz der immer gef\u00e4hrlicher werdenden Umgebung l\u00e4sst du dich nicht von deiner Aufgabe abbringen, die Zukunft der Menschheit zu retten.",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/0_sun.jpg",
+                "illustration": "./images/edited_images/0_sun.jpg",
                 "doom": "5",
                 "index": "2a",
                 "illustration_pan_x": -500.0,
@@ -6921,7 +7072,7 @@
                 "type": "agenda",
                 "text": "<free> Streiche w\u00e4hrend einer Fertigkeitsprobe 1 deiner \u201eErinnerungen\u201c durch: Senke die Schwierigkeit dieser Probe um 1.",
                 "flavor_text": "Das Ende ist nah. Der Kern der Sonne zerf\u00e4llt au\u00dfergew\u00f6hnlich schnell. Die mehreren Milliarden Jahre, von denen man dachte, dass sie der Menschheit noch bleiben, bevor ihr Stern erlischt und stirbt, sind zu wenigen Monaten geworden. Es bleibt nicht mehr viel Zeit, bevor deine ganze Welt ausgel\u00f6scht wird.",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/0_sun.jpg",
+                "illustration": "./images/edited_images/0_sun.jpg",
                 "doom": "6",
                 "index": "3a",
                 "illustration_pan_x": -500.0,
@@ -6945,7 +7096,7 @@
                 "type": "agenda",
                 "text": "<for> Wenn 3 oder mehr Horror auf einem Ort liegen: Entferne jenen Ort aus dem Spiel. Alle Ermittler an jenem Ort sind besiegt. Alle Gegner an jenem Ort bewegen sich an den Ort mit den meisten Hinweisen.\n<for> Wenn alle Ermittler aufgegeben haben oder besiegt wurden: R\u00fccke vor.",
                 "flavor_text": "Tassilda von ihrem Thron zu zwingen hat die bevorstehende Supernova nur verz\u00f6gert und ihre Aufmerksamkeit auf die Kolonien gelenkt. Sie will die Zerst\u00f6rung des Sonnensystems in ihre eigenen H\u00e4nde nehmen. Du musst sie aufhalten, bevor der Wahnsinn alles verschlingt!",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/0_sun.jpg",
+                "illustration": "./images/edited_images/0_sun.jpg",
                 "doom": "<dash>",
                 "index": "1c",
                 "illustration_pan_x": -500.0,
@@ -6968,7 +7119,7 @@
                 "type": "act",
                 "text": "<act>: <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das Symbol deines Ortes besitzt, und ziehe sie. Mische das Scan-Deck.\n<obj> Finde und erf\u00fclle so viele Ermittlungsziele wie m\u00f6glich, bevor die Supernova alles vernichtet. Wenn jeder unbesiegte Ermittler aufgegeben hat, r\u00fccke vor.",
                 "flavor_text": "Du reist mit deinen Gef\u00e4hrten an Bord der Tatterdemalion durch das Sonnensystem. Ihr sucht eine M\u00f6glichkeit, zu \u00fcberleben, und so viele wie m\u00f6glich vor dem unausweichlichen Untergang zu retten.",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/1_space.jpg",
+                "illustration": "./images/edited_images/1_space.jpg",
                 "clues": "<dash>",
                 "index": "1a",
                 "illustration_pan_x": 341.0,
@@ -6993,7 +7144,7 @@
                 "type": "act",
                 "text": "<act>: <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das Symbol deines Ortes besitzt, und ziehe sie. Mische das Scan-Deck.\n<act> Platziere 1 deiner Hinweise auf den Ort mit den meisten Hinweisen: <b>Verhandlung.</b> Du bittest die Kolonien um Hilfe. F\u00fcge Tassilda X Schaden zu. X ist die Anzahl der Storyvorteilskarten im Siegpunktestapel.\n<obj> Wenn Tassilda besiegt wurde, r\u00fccke vor.",
                 "flavor_text": "Wahnsinn und Chaos breiten sich im Weltraum aus. Du musst Tassilda um jeden Preis aufhalten.",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/1_space.jpg",
+                "illustration": "./images/edited_images/1_space.jpg",
                 "clues": "<dash>",
                 "index": "1c",
                 "illustration_pan_y": -5.0,
@@ -7169,14 +7320,14 @@
                 "traits": "Raumschiff.",
                 "text": "<name> ist mit dem Ort verbunden, an den sie angeh\u00e4ngt ist, und umgekehrt. Du musst w\u00e4hrend deines Zuges keine Aktion ausgeben, um dich zwischen diesen Orten zu bewegen.\n<free> Gib 2 Ressourcen aus: H\u00e4nge die Cassilda an einen beliebigen Ort an. Ermittler an jedem Ort k\u00f6nnen diese F\u00e4higkeit ausl\u00f6sen. (Nur einmal pro Runde.) ",
                 "flavor_text": "",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/0_derelict - unknown.jpg",
+                "illustration": "./images/edited_images/0_derelict - unknown.jpg",
                 "clues": "0",
                 "shroud": "2",
                 "connection": "t"
             },
             "back": {
                 "type": "location_back",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/0_derelict - unknown.jpg",
+                "illustration": "./images/edited_images/0_derelict - unknown.jpg",
                 "traits": "Raumschiff.",
                 "text": "",
                 "flavor_text": "Dieses experimentelle Raumschiff besitzt einen energiehungrigen Antimateriereaktor, durch den es sehr schnell beschleunigen und abbremsen kann. Es wurde f\u00fcr h\u00f6chstm\u00f6gliche Geschwindigkeit und Man\u00f6vrierbarkeit konstruiert.",
@@ -7328,7 +7479,7 @@
                 "traits": "Raumschiff.",
                 "text": "<rev> Bringe diesen Ort ins Spiel.\nAls zus\u00e4tzliche Kosten, um an diesem Ort zu scannen, musst du die oberste Karte des Begegnungsdecks<br> ziehen.",
                 "flavor_text": "Dieses verlassene Forschungsschiff treibt ziellos am Rand des Sonnensystems. Es gibt keine Anzeichen f\u00fcr Aktivit\u00e4ten jeglicher Art an Bord.",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/0_derelict - unknown.jpg",
+                "illustration": "./images/edited_images/0_derelict - unknown.jpg",
                 "clues": "1<per>",
                 "shroud": "3",
                 "connection": "hourglass",
@@ -7625,7 +7776,7 @@
                     "story"
                 ],
                 "level": "None",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/8bf02232faefee8e85ec7404cafb0248.jpg",
+                "illustration": "./images/edited_images/8bf02232faefee8e85ec7404cafb0248.jpg",
                 "illustrator": "Illus. Berulieu",
                 "illustration_pan_x": -16.0,
                 "illustration_pan_y": -268.0,
@@ -7907,7 +8058,8 @@
             "encounter_number": "40-41",
             "project_number": "282",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
-            "id": "95b1def3-ad19-4820-b7d8-2db6035767d9"
+            "id": "95b1def3-ad19-4820-b7d8-2db6035767d9",
+            "amount": 2
         },
         {
             "name": "Cyberkultist",
@@ -7931,7 +8083,8 @@
             "encounter_number": "42-43",
             "project_number": "283",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
-            "id": "3d9bb1eb-7b06-4547-88d2-d83b8d1427ca"
+            "id": "3d9bb1eb-7b06-4547-88d2-d83b8d1427ca",
+            "amount": 2
         },
         {
             "name": "Sonnenfinsternis",
@@ -7949,7 +8102,8 @@
             "encounter_number": "44-45",
             "project_number": "284",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
-            "id": "c9006b4e-be2d-4ac6-8b4b-e5d5f93b9c21"
+            "id": "c9006b4e-be2d-4ac6-8b4b-e5d5f93b9c21",
+            "amount": 2
         },
         {
             "name": "Der dunkle Wald",
@@ -7967,7 +8121,8 @@
             "encounter_number": "46-47",
             "project_number": "285",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
-            "id": "d888c709-22a4-4100-8b97-1932c9b5bcd1"
+            "id": "d888c709-22a4-4100-8b97-1932c9b5bcd1",
+            "amount": 2
         },
         {
             "name": "Raumpiraten",
@@ -7991,7 +8146,8 @@
             "encounter_number": "48-49",
             "project_number": "286",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
-            "id": "a052a537-0e66-46b8-9f3e-b3de0aa1105f"
+            "id": "a052a537-0e66-46b8-9f3e-b3de0aa1105f",
+            "amount": 2
         },
         {
             "name": "Die Sterne standen richtig",
@@ -8000,7 +8156,7 @@
                 "traits": "Endzeit. Macht.",
                 "text": "<rev> H\u00e4nge diese Karte an den Ort mit den meisten Hinweisen an, an den noch keine Kopie von <name> angeh\u00e4ngt ist.\n<for> Nachdem dir am Ort mit dieser Verst\u00e4rkung eine Fertigkeitsprobe um 3 oder mehr misslungen ist: Platziere 1 Verderben auf <name>.\n<act>: Lege eine <wil>-Probe (3) ab. Falls die Probe gelingt, lege <name> ab.",
                 "flavor_text": "",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/0_the stars were right nolan nasser.jpg",
+                "illustration": "./images/edited_images/0_the stars were right nolan nasser.jpg",
                 "illustrator": "Illus. Nolan Nasser",
                 "illustration_scale": 0.92,
                 "illustration_pan_x": -152.0,
@@ -8012,7 +8168,8 @@
             "encounter_number": "50-51",
             "project_number": "287",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
-            "id": "4ed7af72-3dd3-46e5-a4f3-e3b7016847f9"
+            "id": "4ed7af72-3dd3-46e5-a4f3-e3b7016847f9",
+            "amount": 2
         },
         {
             "name": "Byakhee der Leere",
@@ -8036,7 +8193,8 @@
             "encounter_number": "52-53",
             "project_number": "288",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
-            "id": "87f01b33-cf37-484d-bc66-378232463ba3"
+            "id": "87f01b33-cf37-484d-bc66-378232463ba3",
+            "amount": 2
         },
         {
             "name": "Sonneneruption",
@@ -8053,7 +8211,8 @@
             "encounter_number": "1-3",
             "project_number": "289",
             "encounter_set": "2c9d053c-fd28-4a1f-bc7e-9256d7075507",
-            "id": "89693a70-2357-48bb-bb4b-f36fc2c42240"
+            "id": "89693a70-2357-48bb-bb4b-f36fc2c42240",
+            "amount": 3
         },
         {
             "name": "Strahlende Krone",
@@ -8071,7 +8230,8 @@
             "encounter_number": "4-5",
             "project_number": "290",
             "encounter_set": "2c9d053c-fd28-4a1f-bc7e-9256d7075507",
-            "id": "420810cb-fe89-4463-bef6-3b3c1087edad"
+            "id": "420810cb-fe89-4463-bef6-3b3c1087edad",
+            "amount": 2
         },
         {
             "name": "<family \"Chiller\"><b>THE BOOGEYMAN</b>",
@@ -8121,7 +8281,7 @@
                 "type": "player"
             },
             "encounter_number": "3",
-            "project_number": "1",
+            "project_number": "293",
             "id": "fa906f35-7b6e-49a4-a268-fd00a2fc3839",
             "encounter_set": "ac1147f3-f651-4436-b2e1-830ad8fe2d91"
         },
@@ -8146,7 +8306,7 @@
                 "type": "player"
             },
             "encounter_number": "7",
-            "project_number": "1",
+            "project_number": "297",
             "id": "d34686c0-f141-4c2b-855c-13927ca27753",
             "encounter_set": "ac1147f3-f651-4436-b2e1-830ad8fe2d91"
         },
@@ -8170,7 +8330,7 @@
                 "type": "player"
             },
             "encounter_number": "6",
-            "project_number": "1",
+            "project_number": "296",
             "id": "f1d2d513-bd11-4645-9b64-ea478df1db8a",
             "encounter_set": "ac1147f3-f651-4436-b2e1-830ad8fe2d91"
         },
@@ -8194,7 +8354,7 @@
                 "type": "player"
             },
             "encounter_number": "5",
-            "project_number": "1",
+            "project_number": "295",
             "id": "c86f9c84-e904-4787-b0b0-2f109b3f3d8b",
             "encounter_set": "ac1147f3-f651-4436-b2e1-830ad8fe2d91"
         },
@@ -8220,7 +8380,7 @@
                 "type": "player"
             },
             "encounter_number": "8",
-            "project_number": "1",
+            "project_number": "298",
             "id": "594bdf55-8610-4a90-b9f5-b372d2ab053e",
             "encounter_set": "ac1147f3-f651-4436-b2e1-830ad8fe2d91"
         },
@@ -8247,7 +8407,7 @@
                 "type": "player"
             },
             "encounter_number": "10",
-            "project_number": "1",
+            "project_number": "300",
             "id": "0f113698-ba23-4fc3-9ecb-d7cae4af76d2",
             "encounter_set": "ac1147f3-f651-4436-b2e1-830ad8fe2d91"
         },
@@ -8271,7 +8431,7 @@
                 "type": "player"
             },
             "encounter_number": "2",
-            "project_number": "1",
+            "project_number": "292",
             "id": "19cd5cfb-ab61-4814-aa3c-9d1facab0e23",
             "encounter_set": "ac1147f3-f651-4436-b2e1-830ad8fe2d91"
         },
@@ -8296,7 +8456,7 @@
                 "type": "player"
             },
             "encounter_number": "9",
-            "project_number": "1",
+            "project_number": "299",
             "id": "ea3473e3-c2d6-40e7-bdca-086b80d8ba8e",
             "encounter_set": "ac1147f3-f651-4436-b2e1-830ad8fe2d91"
         },
@@ -8322,7 +8482,7 @@
                 "type": "player"
             },
             "encounter_number": "4",
-            "project_number": "1",
+            "project_number": "294",
             "id": "bd4b0daf-b9cc-46f8-a1ff-0a8b390544ce",
             "encounter_set": "ac1147f3-f651-4436-b2e1-830ad8fe2d91"
         },
@@ -8349,7 +8509,7 @@
             "back": {
                 "type": "player"
             },
-            "project_number": "1",
+            "project_number": "307",
             "id": "2a68f6ff-4659-446d-a575-76a1866c8cbd",
             "investigator": "Kate Winthrop"
         },
@@ -8376,7 +8536,7 @@
             "back": {
                 "type": "player"
             },
-            "project_number": "1",
+            "project_number": "308",
             "id": "b1933863-69ca-41d6-953b-64a54dd33d51",
             "investigator": "Kate Winthrop"
         },
@@ -8436,9 +8596,9 @@
                     "seeker"
                 ]
             },
-            "project_number": "1",
             "id": "6b8d08d9-df88-4163-89b8-4b54779bbce7",
-            "investigator": "Kate Winthrop"
+            "investigator": "Kate Winthrop",
+            "project_number": "306"
         },
         {
             "name": "Der Blick in die Unendlichkeit",
@@ -8455,7 +8615,7 @@
                 ]
             },
             "encounter_number": "2",
-            "project_number": "1",
+            "project_number": "302",
             "id": "4d23ab1f-efad-4620-ba1c-b4b84acb2fdb",
             "encounter_set": "33387e63-1376-4315-90ca-b3480de1dce4"
         },
@@ -8475,7 +8635,7 @@
                 ]
             },
             "encounter_number": "3",
-            "project_number": "1",
+            "project_number": "303",
             "id": "c56f776f-2c7b-46ab-a975-cf93fbc288e2",
             "encounter_set": "33387e63-1376-4315-90ca-b3480de1dce4"
         },
@@ -8495,7 +8655,7 @@
                 ]
             },
             "encounter_number": "4",
-            "project_number": "14",
+            "project_number": "304",
             "id": "0d81db58-6592-49c8-95fc-53469c42c8e6",
             "encounter_set": "33387e63-1376-4315-90ca-b3480de1dce4"
         },
@@ -8513,7 +8673,7 @@
                 ]
             },
             "encounter_number": "1",
-            "project_number": "1",
+            "project_number": "301",
             "id": "558b0dff-64c5-4bbd-b9b1-dc0f4f5f95b2",
             "encounter_set": "33387e63-1376-4315-90ca-b3480de1dce4"
         },
@@ -8541,8 +8701,7 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "1",
-            "project_number": "1",
+            "project_number": "310",
             "id": "f0c93f89-4251-4c3e-a133-43261e910464",
             "investigator": "Kate Winthrop"
         },
@@ -8564,8 +8723,7 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "1",
-            "project_number": "1",
+            "project_number": "309",
             "id": "ac5dc7c7-8396-4525-909b-7fbc40593e95",
             "investigator": "Kate Winthrop"
         },
@@ -8594,8 +8752,8 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "10",
-            "project_number": "1",
+            "encounter_number": "1",
+            "project_number": "291",
             "encounter_set": "ac1147f3-f651-4436-b2e1-830ad8fe2d91",
             "id": "5ef56cfe-2c3e-47ae-b4c7-9321a56c8f2a"
         },
@@ -8627,9 +8785,548 @@
                 ]
             },
             "encounter_number": "5",
-            "project_number": "1",
+            "project_number": "305",
             "encounter_set": "33387e63-1376-4315-90ca-b3480de1dce4",
             "id": "59e0c252-7b33-4a00-9cdc-a2861ac231d4"
+        },
+        {
+            "id": "23f6a06f-3a30-4997-a883-27c49b37b746",
+            "front": {
+                "type": "fullart_location",
+                "flavor_text": "Zu sagen, das Theater w\u00e4re etwas unordentlich, w\u00e4re eine heftige Untertreibung. Die W\u00e4nde und Sitze, zuvor auf Hochglanz poliert, haben Risse und sind mit Dreck beschmiert. Die Vorh\u00e4nge sind zerissen und \u00fcbers\u00e4t mit eingetrockneten Blutflecken. Du bist dir nicht sicher, was schlimmer ist: der Gestank nach Verwesung oder das bohrende Gef\u00fchl, dass du sehr lange geschlafen haben musst. ",
+                "shroud": "2",
+                "clues": "0",
+                "connections": [
+                    "diamond",
+                    "triangle"
+                ],
+                "connection": "circle",
+                "illustrator": "Illus. Mark Molnar"
+            },
+            "back": {
+                "type": "fullart_location_back",
+                "flavor_text": "Das muss eine h\u00f6llische Pause gewesen sein. ",
+                "illustrator": "Illus. Mark Molnar"
+            },
+            "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
+            "name": "Theater",
+            "project_number": "311",
+            "encounter_number": "1"
+        },
+        {
+            "name": "Foyer",
+            "id": "0e32ac82-4576-40a2-a05a-8ab7242dab32",
+            "front": {
+                "type": "fullart_location",
+                "shroud": "4",
+                "clues": "1",
+                "text": "<for> Sobald das Foyer enth\u00fcllt wird: Bringe 2 zuf\u00e4llig bestimmte beiseitegelegte Orte namens Personalzugang ins Spiel.\n<act><act>: Ziehe 3 Karten.",
+                "flavor_text": "Die breite T\u00fcr, die auf die Stra\u00dfen von Arkham f\u00fchrt, ist verschwunden, so als h\u00e4tte es sie nie gegeben. ",
+                "connection": "triangle",
+                "connections": [
+                    "circle",
+                    "square",
+                    "cross"
+                ],
+                "illustrator": "Illus. Mark Molnar"
+            },
+            "back": {
+                "type": "fullart_location_back",
+                "flavor_text": "Durch die hohe Glast\u00fcr zum Foyer kannst du erkennen, dass der Raum bei weitem nicht so schlimm verw\u00fcstet ist wie der Zuschauerraum. Werbeplakate f\u00fcr </i>Der K\u00f6nig in Gelb<i> h\u00e4ngen an den W\u00e4nden des Raumes und scheinen dich zu verspotten. ",
+                "illustrator": "Illus. Mark Molnar"
+            },
+            "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
+            "project_number": "312",
+            "encounter_number": "2"
+        },
+        {
+            "name": "Empore",
+            "id": "83283945-ec30-40d4-a7cf-bee594f7b00c",
+            "front": {
+                "type": "fullart_location",
+                "shroud": "2",
+                "clues": "1<per>",
+                "text": "<for> Nachdem du eine Bewegungsaktion durchgef\u00fchrt hast, mit der du dich von der Empore ins Theater bewegt hast: Nimm 2 Schaden.",
+                "flavor_text": "Zu deiner Entt\u00e4uschung sieht es auf der Empore auch nicht anders aus als auf den unteren R\u00e4ngen, obwohl du von Zeit zu Zeit glaubst eine Gestalt durch die G\u00e4nge huschen zu sehen. ",
+                "connection": "square",
+                "connections": [
+                    "circle",
+                    "triangle"
+                ],
+                "victory": "Sieg 1.",
+                "illustrator": "Illus. Mark Molnar"
+            },
+            "back": {
+                "type": "fullart_location_back",
+                "flavor_text": "Mit Teppich ausgelegte Stufen f\u00fchren zur Empore hinauf. Aber durch den steilen Aufgang weht dir ein hei\u00dfer Luftzug entgegen.",
+                "illustrator": "Illus. Mark Molnar"
+            },
+            "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
+            "project_number": "313",
+            "encounter_number": "3"
+        },
+        {
+            "name": "Bereich hinter der B\u00fchne",
+            "id": "d97bed8f-1f7a-4d17-a4a8-db482c646461",
+            "front": {
+                "type": "fullart_location",
+                "shroud": "3",
+                "clues": "1",
+                "connection": "diamond",
+                "connections": [
+                    "circle",
+                    "crescent"
+                ],
+                "illustrator": "Illus. Mark Molnar",
+                "text": "<for> Sobald Bereich hinter der B\u00fchne enth\u00fcllt wird: Bringe 2 zuf\u00e4llig bestimmte beiseitegelegten Orte namens Zugang zum hinteren Teil des Theaters ins Spiel.\nSolange du im Bereich hinter der B\u00fchne bist, z\u00e4hlt jede Verborgen-Verratskarte auf deiner Hand bei der Bestimmung deiner Handkarten als 3 Karten statt als 1 Karte."
+            },
+            "back": {
+                "type": "fullart_location_back",
+                "flavor_text": "Das B\u00fchnenbild unterscheidet sich von dem, an das du dich aus dem ersten Akt erinnerst. Die Kulisse zeigt einen verst\u00f6rend wirkenden Sonnenuntergang.",
+                "illustrator": "Illus. Mark Molnar"
+            },
+            "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
+            "project_number": "314",
+            "encounter_number": "4"
+        },
+        {
+            "name": "Beleuchtungskammer",
+            "id": "baf9d198-e98a-4ac1-ba36-cc62b164d278",
+            "front": {
+                "type": "fullart_location",
+                "shroud": "4",
+                "clues": "1<per>",
+                "connection": "cross",
+                "connections": [
+                    "triangle"
+                ],
+                "victory": "Sieg 1.",
+                "illustrator": "Illus. Mark Molnar",
+                "text": "Solange du in der Beleuchtungskammer bist, werden die Ressourcenkosten aller Karten auf deiner Hand um 2 erh\u00f6ht.",
+                "traits": "Privat.",
+                "flavor_text": "\u00dcber eine schmale Treppe, die klaustrophobische Gef\u00fchle in dir ausl\u00f6st, erreichst du den an einen Wandschrank erinnernden Arbeitsraum der Beleuchter \u00fcber der Empore. Dieser Raum ist mit teurer Beleuchtungsausr\u00fcstung vollgestopft. Besonders beeindruckend sind die riesigen Scheinwerfer."
+            },
+            "back": {
+                "type": "fullart_location_back",
+                "flavor_text": "Eine verzierte Holzt\u00fcr f\u00fchrt in einen der vorderen Bereiche des Theaters. ",
+                "illustrator": "Illus. Yoann Boissonnet",
+                "name": "Personalzugang",
+                "traits": "Privat."
+            },
+            "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
+            "project_number": "315",
+            "encounter_number": "5"
+        },
+        {
+            "name": "Theaterkassen",
+            "id": "5f31e499-b10e-406d-81f1-f32f24ce6d36",
+            "front": {
+                "type": "fullart_location",
+                "shroud": "2",
+                "connection": "cross",
+                "connections": [
+                    "triangle"
+                ],
+                "illustrator": "Illus. Mark Molnar",
+                "text": "<act>: Du erh\u00e4ltst 5 Ressourcen. Merke dir, dass du \u201eaus der Theaterkasse gestohlen hast.\u201d (Nur ein Mal pro Spiel f\u00fcr die gesamte Gruppe.)",
+                "traits": "Privat.",
+                "flavor_text": "Regen durchn\u00e4sst deine Kleidung, als du aus dem Bereich der Theaterkassen trittst. Einen Moment sp\u00e4ter f\u00e4llt dir auf, dass du deine Eintrittskarten im Geb\u00e4ude gekauft hast. Du siehst zur Decke hoch, durch die Regen in die Halle f\u00e4llt.",
+                "clues": "0"
+            },
+            "back": {
+                "type": "fullart_location_back",
+                "flavor_text": "Eine verzierte Holzt\u00fcr f\u00fchrt in einen der vorderen Bereiche des Theaters. ",
+                "illustrator": "Illus. Yoann Boissonnet",
+                "name": "Personalzugang",
+                "traits": "Privat."
+            },
+            "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
+            "project_number": "316",
+            "encounter_number": "6"
+        },
+        {
+            "name": "Aufenthaltsraum",
+            "id": "5fc07908-78ed-40e1-b45e-285556825e10",
+            "front": {
+                "type": "fullart_location",
+                "shroud": "5",
+                "connection": "cross",
+                "connections": [
+                    "triangle"
+                ],
+                "illustrator": "Illus. Mark Molnar",
+                "text": "<act>: <b>Ermitteln.</b> Du bekommst f\u00fcr diese Ermittlung +3 <intellect>. Nachdem diese Fertigkeitsprobe beendet worden ist, lege jede Karte auf deiner Hand ab.",
+                "traits": "Privat.",
+                "flavor_text": "Dieser Aufenthaltsraum soll eigentlich als gem\u00fctlicher Ort zur Erholung der angespannten Darsteller dienen, aber du kannst dir nicht vorstellen, dass irgendjemand in diesem Schweinestall auch nur einen Moment der Ruhe finden kann. ",
+                "clues": "1<per>",
+                "victory": "Sieg 1."
+            },
+            "back": {
+                "type": "fullart_location_back",
+                "flavor_text": "Eine verzierte Holzt\u00fcr f\u00fchrt in einen der vorderen Bereiche des Theaters. ",
+                "illustrator": "Illus. Yoann Boissonnet",
+                "name": "Personalzugang",
+                "traits": "Privat."
+            },
+            "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
+            "project_number": "317",
+            "encounter_number": "7"
+        },
+        {
+            "name": "Garderobe",
+            "id": "f58c7b14-b50c-41de-9593-41567a49e3b3",
+            "front": {
+                "type": "fullart_location",
+                "shroud": "4",
+                "connection": "crescent",
+                "connections": [
+                    "diamond"
+                ],
+                "illustrator": "Illus. Emilio Rodriguez",
+                "text": "<action><action><action>: Heile 3 Horror.",
+                "traits": "Privat.",
+                "flavor_text": "In der Garderobe der Schauspieler findest du diverse Kost\u00fcme und Accessoires, aber das zerschlissene gelbe Kleid auf der anderen Seite des Raumes zieht deine Aufmerksamkeit auf sich. Es sieht zu zerissen und derangiert aus, um getragen zu werden, aber dennoch wirkt es unglaublich anziehend. ",
+                "clues": "0"
+            },
+            "back": {
+                "type": "fullart_location_back",
+                "flavor_text": "Eine einfache Holzt\u00fcr f\u00fchrt zum hinteren Teil des Theaters, gut versteckt vor den neugierigen Augen der G\u00e4ste. ",
+                "illustrator": "Illus. Yoann Boissonnet",
+                "name": "<size 82>Zugang zum hinteren Teil des Theaters",
+                "traits": "Privat."
+            },
+            "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
+            "project_number": "318",
+            "encounter_number": "8"
+        },
+        {
+            "name": "Probenraum",
+            "id": "a0b4d201-7f8b-4c92-bcd6-e0343f30b68a",
+            "front": {
+                "type": "fullart_location",
+                "shroud": "1",
+                "connection": "crescent",
+                "connections": [
+                    "diamond"
+                ],
+                "illustrator": "Illus. Emilio Rodriguez",
+                "text": "<for> Nachdem dir beim Ermitteln im Probenraum die Probe um 2 oder mehr Punkte gelungen ist: Nimm 1 Horror.",
+                "traits": "Privat.",
+                "flavor_text": "In der Garderobe der Schauspieler findest du diverse Kost\u00fcme und Accessoires, aber das zerschlissene gelbe Kleid auf der anderen Seite des Raumes zieht deine Aufmerksamkeit auf sich. Es sieht zu zerissen und derangiert aus, um getragen zu werden, aber dennoch wirkt es unglaublich anziehend. ",
+                "clues": "1<per>",
+                "victory": "Sieg 1."
+            },
+            "back": {
+                "type": "fullart_location_back",
+                "flavor_text": "Eine einfache Holzt\u00fcr f\u00fchrt zum hinteren Teil des Theaters, gut versteckt vor den neugierigen Augen der G\u00e4ste. ",
+                "illustrator": "Illus. Yoann Boissonnet",
+                "name": "<size 82>Zugang zum hinteren Teil des Theaters",
+                "traits": "Privat."
+            },
+            "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
+            "project_number": "319",
+            "encounter_number": "9"
+        },
+        {
+            "name": "Unterb\u00fchne",
+            "id": "07103c88-2132-4251-b644-d94bfd8919cb",
+            "front": {
+                "type": "fullart_location",
+                "shroud": "3",
+                "connection": "crescent",
+                "connections": [
+                    "diamond"
+                ],
+                "illustrator": "Illus. Mark Molnar",
+                "text": "<for> Nachdem du die Unterb\u00fchne enth\u00fcllt hast: Durchsuche das Begegenungsdeck und den Ablagestapel nach einer Kopie von Rattenschwarm und bringe sie mit dir in einen Kampf verwickelt ins Spiel (2 Kopien stattdessen, falls 3 oder 4 Ermittler im Spiel sind). Mische das Begegnungsdeck, falls es durchsucht worden ist.",
+                "traits": "Privat.",
+                "clues": "1<per>",
+                "victory": "Sieg 1.",
+                "flavor_text": "Ganz sicher hat niemand in den letzten Monaten die Requisitenkammer unter der B\u00fchne geputzt."
+            },
+            "back": {
+                "type": "fullart_location_back",
+                "flavor_text": "Eine einfache Holzt\u00fcr f\u00fchrt zum hinteren Teil des Theaters, gut versteckt vor den neugierigen Augen der G\u00e4ste. ",
+                "illustrator": "Illus. Yoann Boissonnet",
+                "name": "<size 82>Zugang zum hinteren Teil des Theaters",
+                "traits": "Privat."
+            },
+            "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
+            "project_number": "320",
+            "encounter_number": "10"
+        },
+        {
+            "name": "Stimmen in deinem Kopf (Best\u00fcrzung)",
+            "id": "a4247a70-bb26-4369-85c9-6f0d4c90f659",
+            "amount": 1,
+            "front": {
+                "type": "fullart_treachery",
+                "illustrator": "Illus. Nick Deligaris",
+                "text": "Wagnis. Verborgen.\n<for> F\u00fcge diese Karte geheim deiner Hand zu.\nDu kannst keine Fertigkeitskarten zu Fertigkeitsproben beitragen.\n<action><action>: Lege diese Karte von deiner Hand ab.",
+                "traits": "Schrecken."
+            },
+            "back": {
+                "type": "encounter"
+            },
+            "encounter_set": "4fb0482a-feda-4c9d-96a2-3ea2c801c8e0",
+            "project_number": "321",
+            "encounter_number": "1"
+        },
+        {
+            "name": "Stimmen in deinem Kopf (Schrecken)",
+            "id": "bc1d11ed-f34c-4201-a965-a86f1bc7db82",
+            "amount": 1,
+            "front": {
+                "type": "fullart_treachery",
+                "illustrator": "Illus. Nick Deligaris",
+                "text": "Wagnis. Verborgen.\n<for> F\u00fcge diese Karte geheim deiner Hand zu.\nDu kannst dich nicht mehr als ein Mal pro Zug bewegen.\n<action><action>: Lege diese Karte von deiner Hand ab.",
+                "traits": "Schrecken."
+            },
+            "back": {
+                "type": "encounter"
+            },
+            "encounter_set": "4fb0482a-feda-4c9d-96a2-3ea2c801c8e0",
+            "project_number": "322",
+            "encounter_number": "2"
+        },
+        {
+            "name": "Stimmen in deinem Kopf (Besorgnis)",
+            "id": "4ee17bef-da18-4edc-aa58-b560078a416d",
+            "amount": 1,
+            "front": {
+                "type": "fullart_treachery",
+                "illustrator": "Illus. Nick Deligaris",
+                "text": "Wagnis. Verborgen.\n<for> F\u00fcge diese Karte geheim deiner Hand zu.\nDu kannst keine <free>-F\u00e4higkeiten ausl\u00f6sen.\n<action><action>: Lege diese Karte von deiner Hand ab.",
+                "traits": "Schrecken."
+            },
+            "back": {
+                "type": "encounter"
+            },
+            "encounter_set": "4fb0482a-feda-4c9d-96a2-3ea2c801c8e0",
+            "project_number": "323",
+            "encounter_number": "3"
+        },
+        {
+            "name": "Stimmen in deinem Kopf (Zweifel)",
+            "id": "bdb1cf70-2df4-4ffd-8c4c-41842b4c27f4",
+            "amount": 1,
+            "front": {
+                "type": "fullart_treachery",
+                "illustrator": "Illus. Nick Deligaris",
+                "text": "Wagnis. Verborgen.\n<for> F\u00fcge diese Karte geheim deiner Hand zu.\nDu kannst keine Ereignisse spielen.\n<action><action>: Lege diese Karte von deiner Hand ab.",
+                "traits": "Schrecken."
+            },
+            "back": {
+                "type": "encounter"
+            },
+            "encounter_set": "4fb0482a-feda-4c9d-96a2-3ea2c801c8e0",
+            "project_number": "324",
+            "encounter_number": "4"
+        },
+        {
+            "name": "In den Wahnsinn abgleiten",
+            "id": "916f94e2-1b60-44fe-b043-dcf6632f6a4f",
+            "amount": 2,
+            "front": {
+                "type": "fullart_treachery",
+                "illustrator": "Illus. Magali Villeneuve",
+                "text": "Nachr\u00fcsten.\n<rev> Falls du mindestens 3 Horror hast, verlierst du 1 Aktion.",
+                "flavor_text": "Sie erstarrte und ihre Kehle f\u00fchlte sich an wie zugeschn\u00fcrt. Tr\u00e4nden stiegen ihr in die Augen. Ihr Sichtfeld wurde immer enger und alles verschwamm vor ihren Augen. Dann verstand sie schlie\u00dflich."
+            },
+            "back": {
+                "type": "encounter"
+            },
+            "encounter_set": "4fb0482a-feda-4c9d-96a2-3ea2c801c8e0",
+            "project_number": "325",
+            "encounter_number": "5-6"
+        },
+        {
+            "name": "Rattenschwarm",
+            "id": "80778fce-43f6-4d22-8010-a2e1045c6bdc",
+            "amount": 3,
+            "front": {
+                "type": "fullart_enemy",
+                "attack": "1",
+                "health": "1",
+                "evade": "1",
+                "traits": "Kreatur.",
+                "text": "J\u00e4ger.",
+                "flavor_text": "Eine Horde aggressiver Ratten jagt wie eine Welle aus Klauen, Z\u00e4hnen und fleckigem Fell auf dich zu.",
+                "damage": "1",
+                "illustrator": "Illus. Bill Thompson"
+            },
+            "back": {
+                "type": "encounter"
+            },
+            "encounter_set": "b246fd07-38bb-4326-b459-0b08be0fa282",
+            "project_number": "326",
+            "encounter_number": "1-3"
+        },
+        {
+            "name": " Visionen deines Verstandes (Scheitern)",
+            "id": "29bf531a-a500-4fde-97db-49299f041f9f",
+            "amount": 1,
+            "front": {
+                "type": "fullart_treachery",
+                "illustrator": "Illus.  Kyri Koniotou",
+                "text": "Wagnis. Verborgen.\n<for> Sobald dein Zug endet, falls du nicht mindestens 1 Ressourcen-Aktion w\u00e4hrend deines Zuges durchgef\u00fchrt hast: Lege diese Karte von deiner Hand ab und nimm 1 direkten Schaden und 1 direkten Horror.",
+                "traits": "Schrecken."
+            },
+            "back": {
+                "type": "encounter"
+            },
+            "encounter_set": "e60b0554-920a-4c7d-8b9f-9a634e7c7ec7",
+            "project_number": "328",
+            "encounter_number": "2"
+        },
+        {
+            "name": " Visionen deines Verstandes (Horror)",
+            "id": "449a74b4-1b9d-49bc-ac90-a5b88a02ef16",
+            "amount": 1,
+            "front": {
+                "type": "fullart_treachery",
+                "illustrator": "Illus.  Kyri Koniotou",
+                "text": "Wagnis. Verborgen.\n<for> Sobald dein Zug endet, falls du nicht mindestens 1 Spielen-Aktion w\u00e4hrend deines Zuges durchgef\u00fchrt hast: Lege diese Karte von deiner Hand ab und nimm 1 direkten Schaden und 1 direkten Horror.",
+                "traits": "Schrecken."
+            },
+            "back": {
+                "type": "encounter"
+            },
+            "encounter_set": "e60b0554-920a-4c7d-8b9f-9a634e7c7ec7",
+            "project_number": "327",
+            "encounter_number": "1"
+        },
+        {
+            "name": " Visionen deines Verstandes (Tod)",
+            "id": "4cca2e18-b3c9-49c0-a6dc-1b6205e55665",
+            "amount": 1,
+            "front": {
+                "type": "fullart_treachery",
+                "illustrator": "Illus.  Kyri Koniotou",
+                "text": "Wagnis. Verborgen.\n<for> Sobald dein Zug endet, falls du nicht mindestens 1 Bewegungsaktion w\u00e4hrend deines Zuges durchgef\u00fchrt hast: Lege diese Karte von deiner Hand ab und nimm 1 direkten Schaden und 1 direkten Horror.",
+                "traits": "Schrecken."
+            },
+            "back": {
+                "type": "encounter"
+            },
+            "encounter_set": "e60b0554-920a-4c7d-8b9f-9a634e7c7ec7",
+            "project_number": "329",
+            "encounter_number": "3"
+        },
+        {
+            "name": " Visionen deines Verstandes (Hass)",
+            "id": "3c8c6063-5502-49f3-9fc0-19b6b3937730",
+            "amount": 1,
+            "front": {
+                "type": "fullart_treachery",
+                "illustrator": "Illus.  Kyri Koniotou",
+                "text": "Wagnis. Verborgen.\n<for> Sobald dein Zug endet, falls du nicht mindestens 1 Ziehen-Aktion w\u00e4hrend deines Zuges durchgef\u00fchrt hast: Lege diese Karte von deiner Hand ab und nimm 1 direkten Schaden und 1 direkten Horror.",
+                "traits": "Schrecken."
+            },
+            "back": {
+                "type": "encounter"
+            },
+            "encounter_set": "e60b0554-920a-4c7d-8b9f-9a634e7c7ec7",
+            "project_number": "330",
+            "encounter_number": "1"
+        },
+        {
+            "name": "Unertr\u00e4gliche Wahnvorstellungen",
+            "id": "f2a26ede-572e-4279-b565-9b3fc9129da7",
+            "amount": 2,
+            "front": {
+                "type": "fullart_treachery",
+                "illustrator": "Illus. Jeff Lee Johnson",
+                "text": "Nachr\u00fcsten.\n<rev> Falls du 1 oder mehr Verborgen-Karten auf deiner Hand hast, nimmst du 1 Horror."
+            },
+            "back": {
+                "type": "encounter"
+            },
+            "encounter_set": "e60b0554-920a-4c7d-8b9f-9a634e7c7ec7",
+            "project_number": "331",
+            "encounter_number": "5-6"
+        },
+        {
+            "name": "Bestie von Aldebaran",
+            "id": "45bf004e-199d-457d-be78-9b6b453b6671",
+            "front": {
+                "type": "fullart_enemy",
+                "traits": "Monster. Elite.",
+                "text": "Gewaltig.\nSolange Schaden und Horror durch den Angriff der Bestie von Aldebaran zugewiesen wird, musst du so viel Schaden und Horror wie m\u00f6glich einer einzigen Karte zuweisen, bevor du einer anderen Karte Schaden und Horror zuweisen kannst.",
+                "attack": "3",
+                "health": "7",
+                "evade": "5",
+                "victory": "Sieg 1.",
+                "damage": "2",
+                "horror": "1"
+            },
+            "back": {
+                "type": "encounter"
+            },
+            "encounter_set": "13aafa01-0b60-4c98-b6e5-02d99485ecde",
+            "project_number": "332",
+            "encounter_number": "1"
+        },
+        {
+            "name": "Brut von Hali",
+            "id": "f44ae850-4e88-4214-ab8d-fa51df433895",
+            "front": {
+                "type": "fullart_enemy",
+                "traits": "Monster.",
+                "text": "<prey> Meister Horror.\nZur\u00fcckschlagen.\n<for> Nachdem du Brut von Hali erfolgreich um 2 oder weniger entkommen bist: Nimm 1 Horror.",
+                "attack": "4",
+                "health": "4",
+                "evade": "2",
+                "damage": "1",
+                "horror": "2"
+            },
+            "back": {
+                "type": "encounter"
+            },
+            "encounter_set": "13aafa01-0b60-4c98-b6e5-02d99485ecde",
+            "project_number": "333",
+            "encounter_number": "2-3",
+            "amount": 2
+        },
+        {
+            "id": "f704b376-2a03-4893-aedc-75a9ddeb9069",
+            "amount": 2,
+            "front": {
+                "type": "fullart_enemy",
+                "attack": "4",
+                "health": "4",
+                "evade": "3",
+                "damage": "1",
+                "horror": "1",
+                "victory": "Sieg 1.",
+                "traits": "Monster. Yith.",
+                "text": "<prey> Die wenigsten Handkarten.\n<for> Sobald dich Yith-Beobachter angreift: Lege 1 zuf\u00e4llige Karte von deiner Hand ab. Falls du dies nicht kannst, f\u00fcgt Yith-Beobachter bei diesem Angriff +1 Schaden und +1 Horror zu.",
+                "illustrator": "Illus. Chun Lo"
+            },
+            "back": {
+                "type": "encounter"
+            },
+            "encounter_set": "50658ed6-c84e-4498-be4e-1df4309d5bc9",
+            "name": "Yith-Beobachter",
+            "project_number": "334",
+            "encounter_number": "1-2"
+        },
+        {
+            "name": "Verlockende Macht",
+            "id": "93188420-f906-4ef5-aea1-f330942d3e26",
+            "amount": 2,
+            "front": {
+                "type": "treachery",
+                "traits": "Pakt.",
+                "text": "Wagnis.\n<rev> Du musst entweder (w\u00e4hle eins): Ziehe 2 Karten und platziere 2 Verderbensmarker auf der aktuellen Agenda (durch diese Aktion kann die aktuelle Agenda vorr\u00fccken), oder nimm 2 Horror.",
+                "illustrator": "Illus. Stephen Somers"
+            },
+            "back": {
+                "type": "encounter"
+            },
+            "encounter_set": "50658ed6-c84e-4498-be4e-1df4309d5bc9",
+            "encounter_number": "3-4",
+            "project_number": "335"
         }
     ],
     "guides": [
