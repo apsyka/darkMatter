@@ -2943,10 +2943,11 @@
                 "damage": 0,
                 "horror": 2,
                 "flavor_text": "Eine Kombination der gr\u00f6\u00dften \u00c4ngste der Kinder. Der Butzemann f\u00fcllt die virtuellen Traumlande mit finsterem Lachen.",
-                "illustration": "./images/clown - ali9044.jpg",
+                "illustration": "C:\\Users\\cdpog\\Documents\\GitHub\\darkMatter\\images\\edited_images/clown - ali9044.jpg",
                 "illustrator": "Illus. ali9044",
                 "attack": "?",
-                "name": "<unique><name>"
+                "name": "<unique><name>",
+                "illustration_scale": 1.6
             },
             "back": {
                 "type": "encounter"
@@ -2963,7 +2964,7 @@
                 "traits": "Albtraum. Schrecken.",
                 "text": "<rev> Bringe Komm n\u00e4her in deiner Bedrohungszone ins Spiel.\n<for> Am Ende deines Zuges, falls du dich nicht am Ort des Butzemanns befindest: Lege Komm n\u00e4her ab und lege eine <wil>-Probe (3) ab. Falls die Probe misslingt, bewege dich 1 Ort in Richtung des Butzemanns.\n",
                 "flavor_text": "<center><family \"Chiller\"><b><size 9.0>WILLST DU EINEN BALLON HABEN?</size></b></family>",
-                "illustration": "./images/pennywise jeff Kritian.jpg",
+                "illustration": "C:\\Users\\cdpog\\Documents\\GitHub\\darkMatter\\images\\edited_images/pennywise jeff Kritian.jpg",
                 "illustrator": "Illus. Jeff Kristian"
             },
             "back": {
@@ -2982,8 +2983,11 @@
                 "traits": "Albtraum. Schrecken.",
                 "text": "Wagnis. Verborgen.\n<rev> F\u00fcge diese Karte geheim deiner Hand hinzu.\n<for> Am Ende der Gegnerphase, falls sich der Butzemann an deinem Ort oder einem verbundenen Ort befindet: Durchsuche deinen Ablagestapel nach einer Schw\u00e4che und ziehe sie. Lege Erinnerst du dich? danach ab",
                 "flavor_text": "",
-                "illustration": "./images/clown - silentivo.jpg",
-                "illustrator": "Illus. Silentivo"
+                "illustration": "C:\\Users\\cdpog\\Documents\\GitHub\\darkMatter\\images\\edited_images/clown - silentivo.jpg",
+                "illustrator": "Illus. Silentivo",
+                "illustration_pan_x": 66.0,
+                "illustration_pan_y": -210.0,
+                "illustration_scale": 1.78
             },
             "back": {
                 "type": "encounter"
@@ -3001,8 +3005,11 @@
                 "traits": "Virtuell. Albtraum.",
                 "text": "Wagnis.\n<rev> Lege eine <wil>- oder <agi>-Probe (4) ab. Falls die Probe misslingt, bewegt sich der Butzemann entweder direkt an deinen Ort, oder er greift dich an (von seinem aktuellen Ort aus).",
                 "flavor_text": "<center><family \"Chiller\"><b><size 10.0>DREH DICH NICHT UM</size></b></family>",
-                "illustration": "./images/jack - mark-fredrickson.jpg",
-                "illustrator": "Illus. Mark Fredrickson"
+                "illustration": "C:\\Users\\cdpog\\Documents\\GitHub\\darkMatter\\images\\edited_images/jack - mark-fredrickson.jpg",
+                "illustrator": "Illus. Mark Fredrickson",
+                "illustration_pan_x": 165.0,
+                "illustration_pan_y": -190.0,
+                "illustration_scale": 1.94
             },
             "back": {
                 "type": "encounter"
@@ -5698,7 +5705,7 @@
                 "traits": "Pakt.",
                 "text": "<rev> Lege eine <agi>-Probe (6) ab. F\u00fcr jeden Punkt, um den die Probe misslingt, lege die oberste Karte des Begegnungsdecks ab. Ziehe jede Gegnerkarte, die durch diesen Effekt abgelegt wurde.",
                 "flavor_text": "\u201eAus der unvorstellbaren Schw\u00e4rze flatterte rhythmisch eine Horde zahmer, abgerichteter, Schwingen schlagender Mischwesen heran. Sie waren weder Kr\u00e4hen, noch Bussarde, noch Insekten, sondern etwas, das ich mir weder in Erinnerung rufen kann, noch darf.\u201c\n<right>-H.P. Lovecraft, Das Fest</i> </right>  ",
-                "illustration": "./images/byakhee_by_darkcloud013_d5ca30k-pre.jpg",
+                "illustration": "C:\\Users\\cdpog\\Documents\\GitHub\\darkMatter\\images\\edited_images/byakhee_by_darkcloud013_d5ca30k-pre.jpg",
                 "illustrator": "Illus. Darkcloud013"
             },
             "back": {
@@ -5722,9 +5729,12 @@
                 "damage": 1,
                 "horror": 1,
                 "flavor_text": "",
-                "illustration": "./images/byakhee studiosmugbug.jpg",
+                "illustration": "C:\\Users\\cdpog\\Documents\\GitHub\\darkMatter\\images\\edited_images/byakhee studiosmugbug.jpg",
                 "illustrator": "Illus. StudiosSmugbug",
-                "attack": "2"
+                "attack": "2",
+                "illustration_pan_x": -13.0,
+                "illustration_pan_y": 489.0,
+                "illustration_scale": 2.12
             },
             "back": {
                 "type": "encounter"
@@ -5747,9 +5757,12 @@
                 "damage": 2,
                 "horror": 0,
                 "flavor_text": "",
-                "illustration": "./images/tazio bettinjpg.jpg",
+                "illustration": "C:\\Users\\cdpog\\Documents\\GitHub\\darkMatter\\images\\edited_images/tazio bettinjpg.jpg",
                 "illustrator": "Illus. Tazio Bettin",
-                "attack": "4"
+                "attack": "4",
+                "illustration_pan_x": 4.0,
+                "illustration_pan_y": 652.0,
+                "illustration_scale": 0.92
             },
             "back": {
                 "type": "encounter"
@@ -8327,7 +8340,10 @@
                 "traits": "Gefahr.",
                 "text": "<rev> Lege eine <agi>-Probe (4) ab. F\u00fcr jeden Punkt, um den die Probe misslingt, musst du entweder 1 Karte von deiner Hand w\u00e4hlen und ablegen oder 1 Schaden und 1 Horror nehmen.",
                 "flavor_text": "Eine Strahlungseruption umflie\u00dft dich und versucht, dir die Lebenskraft zu entziehen.",
-                "illustration": "./images/solar flare2.jpg"
+                "illustration": "C:\\Users\\cdpog\\Documents\\GitHub\\darkMatter\\images\\edited_images/solar flare2.jpg",
+                "illustration_pan_x": -324.0,
+                "illustration_pan_y": -6.0,
+                "illustration_scale": 1.04
             },
             "back": {
                 "type": "encounter"
@@ -8345,8 +8361,10 @@
                 "traits": "Macht.",
                 "text": "Nachr\u00fcsten.\n<rev> Bringe <name> neben dem Agendadeck ins Spiel.\nDie Schwierigkeit jeder Fertigkeitsprobe wird um 1 erh\u00f6ht.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "flavor_text": "",
-                "illustration": "./images/Hastur luis-arturo-arzate-velasco.jpg",
-                "illustrator": "Illus. Luis Arturo Arzate Velasco"
+                "illustration": "C:\\Users\\cdpog\\Documents\\GitHub\\darkMatter\\images\\edited_images/Hastur luis-arturo-arzate-velasco.jpg",
+                "illustrator": "Illus. Luis Arturo Arzate Velasco",
+                "illustration_pan_x": -12.0,
+                "illustration_pan_y": -24.0
             },
             "back": {
                 "type": "encounter"
