@@ -8867,7 +8867,7 @@
             "front": {
                 "type": "asset",
                 "traits": "Gegenstand. Werkzeug. Wissenschaft.",
-                "text": "Erforscht (3 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<action> Ersch\u00f6pfe den <name>: W\u00e4hle einen enth\u00fcllten Ort. Bis zum Ende der Runde bekommt der gew\u00e4hlte Ort -2 Schleier, und Ermittler k\u00f6nnen Scannen-F\u00e4higkeiten ausf\u00fchren, als ob sie sich am gew\u00e4hlten Ort bef\u00e4nden.",
+                "text": "Entdeckt (3 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<action> Ersch\u00f6pfe den <name>: W\u00e4hle einen enth\u00fcllten Ort. Bis zum Ende der Runde bekommt der gew\u00e4hlte Ort -2 Schleier, und Ermittler k\u00f6nnen Scannen-F\u00e4higkeiten ausf\u00fchren, als ob sie sich am gew\u00e4hlten Ort bef\u00e4nden.",
                 "cost": "2",
                 "slot": "1 Hand",
                 "flavor_text": "",
@@ -8894,7 +8894,7 @@
             "front": {
                 "type": "asset",
                 "traits": "Wissenschaft.",
-                "text": "Erforscht (2 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<reaction> Sobald du durch einen Spielerkarteneffekt Ressourcen erhalten oder Karten ziehen w\u00fcrdest, ersch\u00f6pfe die <name>: Ein anderer Ermittler deiner Wahl erh\u00e4lt stattdessen die Ressourcen bzw. zieht entsprechend viele Karten.",
+                "text": "Entdeckt (2 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<reaction> Sobald du durch einen Spielerkarteneffekt Ressourcen erhalten oder Karten ziehen w\u00fcrdest, ersch\u00f6pfe die <name>: Ein anderer Ermittler deiner Wahl erh\u00e4lt stattdessen die Ressourcen bzw. zieht entsprechend viele Karten.",
                 "cost": "0",
                 "flavor_text": "",
                 "classes": [
@@ -8920,7 +8920,7 @@
                 "type": "asset",
                 "subtitle": "Sicher und effizient",
                 "traits": "Wissenschaft.",
-                "text": "Erforscht (3 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\nJeder Ermittler an deinem Ort kann Ressourcen vom Kern-reaktor ausgeben, um Kosten von Ereigniskarten zu bezahlen.\n<for> Am Ende der Runde: Lege 2 Ressourcen aus dem Markervorrat auf den <name>. Falls danach 5 oder mehr Ressourcen auf dem <name> liegen, lege ihn ab und f\u00fcge jedem Ermittler und jedem Gegner an deinem Ort 2 Schaden zu.",
+                "text": "Entdeckt (3 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\nJeder Ermittler an deinem Ort kann Ressourcen vom Kern-reaktor ausgeben, um Kosten von Ereigniskarten zu bezahlen.\n<for> Am Ende der Runde: Lege 2 Ressourcen aus dem Markervorrat auf den <name>. Falls danach 5 oder mehr Ressourcen auf dem <name> liegen, lege ihn ab und f\u00fcge jedem Ermittler und jedem Gegner an deinem Ort 2 Schaden zu.",
                 "cost": "2",
                 "flavor_text": "",
                 "classes": [
@@ -8944,7 +8944,7 @@
                 "type": "asset",
                 "subtitle": "Un\u00fcberwacht",
                 "traits": "Werkzeug. Wissenschaft.",
-                "text": "Erforscht (2 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<reaction> Nachdem ein Ermittler an deinem Ort eine Fertigkeitsprobe abgeschlossen hat, ersch\u00f6pfe <name>: Bis zum Ende der Runde bekommt jener Ermittler bei allen Fertigkeitsproben derselben Art, die er ablegt, +1 auf seinen Fertigkeits-<br>wert.",
+                "text": "Entdeckt (2 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<reaction> Nachdem ein Ermittler an deinem Ort eine Fertigkeitsprobe abgeschlossen hat, ersch\u00f6pfe <name>: Bis zum Ende der Runde bekommt jener Ermittler bei allen Fertigkeitsproben derselben Art, die er ablegt, +1 auf seinen Fertigkeits-<br>wert.",
                 "cost": "0",
                 "flavor_text": "",
                 "classes": [
@@ -8952,7 +8952,7 @@
                 ],
                 "level": "None",
                 "icons": "Q",
-                "illustration": "./images/machineLearningAlgorithm.webp"
+                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/machineLearningAlgorithm.jpg"
             },
             "back": {
                 "type": "player"
@@ -8967,7 +8967,7 @@
             "front": {
                 "type": "asset",
                 "traits": "Wissenschaft.",
-                "text": "Erforscht (3 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<reaction> Sobald du eine <t>Wissenschaft</t>-Karte ausspielst: Platziere 1 Ressource aus dem Markervorrat als Beweis auf diese Karte.\nSolange <name>\u2026\n<bullet> \u20261 oder mehr Beweise hat, bekommst du +1 <willpower>.\n<bullet> \u20262 oder mehr Beweise hat, bekommst du +1 <intellect>.\n<bullet> \u20263 oder mehr Beweise hat, bekommst du +1 geisitge Gesundheit.",
+                "text": "Entdeckt (3 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<reaction> Sobald du eine <t>Wissenschaft</t>-Karte ausspielst: Platziere 1 Ressource aus dem Markervorrat als Beweis auf diese Karte.\nSolange <name>\u2026\n<bullet> \u20261 oder mehr Beweise hat, bekommst du +1 <willpower>.\n<bullet> \u20262 oder mehr Beweise hat, bekommst du +1 <intellect>.\n<bullet> \u20263 oder mehr Beweise hat, bekommst du +1 geisitge Gesundheit.",
                 "cost": "0",
                 "flavor_text": "",
                 "classes": [
@@ -8975,10 +8975,10 @@
                 ],
                 "level": "None",
                 "icons": "Q",
-                "illustration": "./images/rationalMind.png",
+                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/rationalMind.jpg",
                 "illustration_scale": 1.4,
-                "illustration_pan_x": 102.0,
-                "illustration_pan_y": 216.0
+                "illustration_pan_x": 50.0,
+                "illustration_pan_y": 80.0
             },
             "back": {
                 "type": "player"
@@ -8995,7 +8995,7 @@
                 "title": "<unique><name>",
                 "subtitle": "Raum und Zeit",
                 "traits": "Buch. Wissenschaft.",
-                "text": "Erforscht (5 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<action> Nimm 1 direkten Horror: Sieh dir die andere Seite einer Ortskarte im Spiel an. Falls die andere Seite\u2026\n<bullet> \u2026einen enth\u00fcllten Ort zeigt, drehe die Ortskarte auf ihre andere Seite.\n<bullet> \u2026irgendetwas anderes zeigt, bewege dich direkt an den gew\u00e4hlten Ort.",
+                "text": "Entdeckt (5 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<action> Nimm 1 direkten Horror: Sieh dir die andere Seite einer Ortskarte im Spiel an. Falls die andere Seite\u2026\n<bullet> \u2026einen enth\u00fcllten Ort zeigt, drehe die Ortskarte auf ihre andere Seite.\n<bullet> \u2026irgendetwas anderes zeigt, bewege dich direkt an den gew\u00e4hlten Ort.",
                 "cost": "2",
                 "slot": "1 Hand",
                 "flavor_text": "",
@@ -9020,7 +9020,7 @@
             "front": {
                 "type": "asset",
                 "traits": "Talent. Wissenschaft.",
-                "text": "Erforscht (3 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<action> Lege eine <t>Zauber</t>- oder <t>Ritual</t>-Karte aus deinem Spielbereich oder von deiner Hand ab: Ziehe 1 Karte und erhalte X Ressourcen. X sind die Ressourcen-<br>kosten der abgelegten Karte.",
+                "text": "Entdeckt (3 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<action> Lege eine <t>Zauber</t>- oder <t>Ritual</t>-Karte aus deinem Spielbereich oder von deiner Hand ab: Ziehe 1 Karte und erhalte X Ressourcen. X sind die Ressourcen-<br>kosten der abgelegten Karte.",
                 "cost": "1",
                 "flavor_text": "",
                 "classes": [
@@ -9044,17 +9044,17 @@
             "front": {
                 "type": "asset",
                 "traits": "Wissenschaft.",
-                "text": "Erforscht (5 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<reaction> Nachdem du w\u00e4hrend einer Fertigkeitsprobe einen <tablet>-, <elder_thing>- oder <auto_fail>-Chaosmarker enth\u00fcllt hast, gib 1 Ressource aus und ersch\u00f6pfe den Teilchen-<br>beschleuniger: Du erh\u00e4ltst 1 Hinweis aus dem Marker-<br>vorrat.",
+                "text": "Entdeckt (5 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<reaction> Nachdem du w\u00e4hrend einer Fertigkeitsprobe einen <tablet>-, <elder_thing>- oder <auto_fail>-Chaosmarker enth\u00fcllt hast, gib 1 Ressource aus und ersch\u00f6pfe den Teilchen-<br>beschleuniger: Du erh\u00e4ltst 1 Hinweis aus dem Marker-<br>vorrat.",
                 "cost": "0",
                 "flavor_text": "",
                 "classes": [
                     "story"
                 ],
                 "level": "None",
-                "illustration": "./images/particleAccelerator.jpeg",
-                "illustration_pan_x": -230.0,
+                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/particleAccelerator.jpg",
+                "illustration_pan_x": -320.0,
                 "illustration_pan_y": 146.0,
-                "illustration_scale": 1.72
+                "illustration_scale": 1.62
             },
             "back": {
                 "type": "player"
@@ -9069,7 +9069,7 @@
             "front": {
                 "type": "asset",
                 "traits": "Gegenstand. Werkzeug. Wissenschaft.",
-                "text": "Erforscht (3 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<action>: W\u00e4hle einen enth\u00fcllten Ort, an dem sich genau 1 Hinweis befindet. Du darfst entweder (w\u00e4hle eins):\n<bullet> <b>Ermitteln.</b> Ermittle, als ob du dich am gew\u00e4hlten Ort bef\u00e4ndest. Du bekommst f\u00fcr diese Ermittlung +2 <intellect>.\n<bullet> Aktiviere eine Scannen-F\u00e4higkeit der gew\u00e4hlten Ortskarte.",
+                "text": "Entdeckt (3 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<action>: W\u00e4hle einen enth\u00fcllten Ort, an dem sich genau 1 Hinweis befindet. Du darfst entweder (w\u00e4hle eins):\n<bullet> <b>Ermitteln.</b> Ermittle, als ob du dich am gew\u00e4hlten Ort bef\u00e4ndest. Du bekommst f\u00fcr diese Ermittlung +2 <intellect>.\n<bullet> Aktiviere eine Scannen-F\u00e4higkeit der gew\u00e4hlten Ortskarte.",
                 "cost": "0",
                 "slot": "1 Hand",
                 "flavor_text": "",
@@ -9103,10 +9103,10 @@
                     "seeker"
                 ],
                 "icons": "II",
-                "illustration": "./images/MarcSimonetti.png",
+                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/MarcSimonetti.jpg",
                 "collection": "<image src=\"/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/Flask.png\"> <exn>",
                 "illustrator": "Illus. Marc Simonetti",
-                "illustration_pan_x": -210.0,
+                "illustration_pan_x": -250.0,
                 "illustration_pan_y": -1.0,
                 "illustration_scale": 1.16
             },
@@ -9319,7 +9319,7 @@
                 "classes": [
                     "weakness"
                 ],
-                "illustration": "/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/nele-diel-dreamworld.jpg",
+                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/nele-diel-dreamworld.jpg",
                 "collection": "<image src=\"/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/Flask.png\"> <exn>",
                 "illustration_pan_x": -200.0,
                 "illustrator": "Illus. Nele Diel"
@@ -9338,7 +9338,7 @@
                 "title": "<unique><name>",
                 "subtitle": "Grundkr\u00e4fte",
                 "traits": "Buch. Wissenschaft.",
-                "text": "Erforscht (3 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\nAnwendungen (3 Geheimnisse).\n<free> Gib 1 Geheimnis aus und ersch\u00f6pfe die Gro\u00dfe vereinheitlichte Theorie: Du bekommst f\u00fcr diese Fertigkeitsprobe +X auf deinen Fertigkeitswert. X ist die Anzahl deiner \u201eErinnerungen\u201c.",
+                "text": "Entdeckt (3 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\nAnwendungen (3 Geheimnisse).\n<free> Gib 1 Geheimnis aus und ersch\u00f6pfe die Gro\u00dfe vereinheitlichte Theorie: Du bekommst f\u00fcr diese Fertigkeitsprobe +X auf deinen Fertigkeitswert. X ist die Anzahl deiner \u201eErinnerungen\u201c.",
                 "slot": "1 Hand",
                 "flavor_text": "",
                 "icons": "Q",
@@ -9376,10 +9376,10 @@
                 "classes": [
                     "story"
                 ],
-                "illustration": "/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/Laika.png",
+                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/Laika.jpg",
                 "name": "<unique><name>",
                 "level": "None",
-                "illustration_pan_x": -300.0
+                "illustration_pan_x": -100.0
             },
             "back": {
                 "type": "fullart_scanning",
@@ -9405,12 +9405,14 @@
                     "triangle"
                 ],
                 "connection": "circle",
-                "illustrator": "Illus. Mark Molnar"
+                "illustrator": "Illus. Mark Molnar",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_1.png"
             },
             "back": {
                 "type": "fullart_location_back",
                 "flavor_text": "Das muss eine h\u00f6llische Pause gewesen sein. ",
-                "illustrator": "Illus. Mark Molnar"
+                "illustrator": "Illus. Mark Molnar",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_1.png"
             },
             "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
             "name": "Theater",
@@ -9432,7 +9434,8 @@
                     "square",
                     "cross"
                 ],
-                "illustrator": "Illus. Mark Molnar"
+                "illustrator": "Illus. Mark Molnar",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_3.png"
             },
             "back": {
                 "type": "fullart_location_back",
@@ -9458,7 +9461,8 @@
                     "triangle"
                 ],
                 "victory": "Sieg 1.",
-                "illustrator": "Illus. Mark Molnar"
+                "illustrator": "Illus. Mark Molnar",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_6.png"
             },
             "back": {
                 "type": "fullart_location_back",
@@ -9482,12 +9486,15 @@
                     "crescent"
                 ],
                 "illustrator": "Illus. Mark Molnar",
-                "text": "<for> Sobald Bereich hinter der B\u00fchne enth\u00fcllt wird: Bringe 2 zuf\u00e4llig bestimmte beiseitegelegten Orte namens Zugang zum hinteren Teil des Theaters ins Spiel.\nSolange du im Bereich hinter der B\u00fchne bist, z\u00e4hlt jede Verborgen-Verratskarte auf deiner Hand bei der Bestimmung deiner Handkarten als 3 Karten statt als 1 Karte."
+                "text": "<for> Sobald Bereich hinter der B\u00fchne enth\u00fcllt wird: Bringe 2 zuf\u00e4llig bestimmte beiseitegelegten Orte namens Zugang zum hinteren Teil des Theaters ins Spiel.\nSolange du im Bereich hinter der B\u00fchne bist, z\u00e4hlt jede Verborgen-Verratskarte auf deiner Hand bei der Bestimmung deiner Handkarten als 3 Karten statt als 1 Karte.",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_8.png",
+                "illustration_scale": 2.06
             },
             "back": {
                 "type": "fullart_location_back",
                 "flavor_text": "Das B\u00fchnenbild unterscheidet sich von dem, an das du dich aus dem ersten Akt erinnerst. Die Kulisse zeigt einen verst\u00f6rend wirkenden Sonnenuntergang.",
-                "illustrator": "Illus. Mark Molnar"
+                "illustrator": "Illus. Mark Molnar",
+                "illustration_scale": 2.06
             },
             "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
             "project_number": "314",
@@ -9508,14 +9515,18 @@
                 "illustrator": "Illus. Mark Molnar",
                 "text": "Solange du in der Beleuchtungskammer bist, werden die Ressourcenkosten aller Karten auf deiner Hand um 2 erh\u00f6ht.",
                 "traits": "Privat.",
-                "flavor_text": "\u00dcber eine schmale Treppe, die klaustrophobische Gef\u00fchle in dir ausl\u00f6st, erreichst du den an einen Wandschrank erinnernden Arbeitsraum der Beleuchter \u00fcber der Empore. Dieser Raum ist mit teurer Beleuchtungsausr\u00fcstung vollgestopft. Besonders beeindruckend sind die riesigen Scheinwerfer."
+                "flavor_text": "\u00dcber eine schmale Treppe, die klaustrophobische Gef\u00fchle in dir ausl\u00f6st, erreichst du den an einen Wandschrank erinnernden Arbeitsraum der Beleuchter \u00fcber der Empore. Dieser Raum ist mit teurer Beleuchtungsausr\u00fcstung vollgestopft. Besonders beeindruckend sind die riesigen Scheinwerfer.",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_9.png",
+                "illustration_pan_x": -10.0
             },
             "back": {
                 "type": "fullart_location_back",
                 "flavor_text": "Eine verzierte Holzt\u00fcr f\u00fchrt in einen der vorderen Bereiche des Theaters. ",
                 "illustrator": "Illus. Yoann Boissonnet",
                 "name": "Personalzugang",
-                "traits": "Privat."
+                "traits": "Privat.",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png",
+                "illustration_pan_x": 0.0
             },
             "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
             "project_number": "315",
@@ -9535,14 +9546,16 @@
                 "text": "<act>: Du erh\u00e4ltst 5 Ressourcen. Merke dir, dass du \u201eaus der Theaterkasse gestohlen hast.\u201d (Nur ein Mal pro Spiel f\u00fcr die gesamte Gruppe.)",
                 "traits": "Privat.",
                 "flavor_text": "Regen durchn\u00e4sst deine Kleidung, als du aus dem Bereich der Theaterkassen trittst. Einen Moment sp\u00e4ter f\u00e4llt dir auf, dass du deine Eintrittskarten im Geb\u00e4ude gekauft hast. Du siehst zur Decke hoch, durch die Regen in die Halle f\u00e4llt.",
-                "clues": "0"
+                "clues": "0",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_11.png"
             },
             "back": {
                 "type": "fullart_location_back",
                 "flavor_text": "Eine verzierte Holzt\u00fcr f\u00fchrt in einen der vorderen Bereiche des Theaters. ",
                 "illustrator": "Illus. Yoann Boissonnet",
                 "name": "Personalzugang",
-                "traits": "Privat."
+                "traits": "Privat.",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png"
             },
             "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
             "project_number": "316",
@@ -9563,14 +9576,16 @@
                 "traits": "Privat.",
                 "flavor_text": "Dieser Aufenthaltsraum soll eigentlich als gem\u00fctlicher Ort zur Erholung der angespannten Darsteller dienen, aber du kannst dir nicht vorstellen, dass irgendjemand in diesem Schweinestall auch nur einen Moment der Ruhe finden kann. ",
                 "clues": "1<per>",
-                "victory": "Sieg 1."
+                "victory": "Sieg 1.",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_13.png"
             },
             "back": {
                 "type": "fullart_location_back",
                 "flavor_text": "Eine verzierte Holzt\u00fcr f\u00fchrt in einen der vorderen Bereiche des Theaters. ",
                 "illustrator": "Illus. Yoann Boissonnet",
                 "name": "Personalzugang",
-                "traits": "Privat."
+                "traits": "Privat.",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png"
             },
             "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
             "project_number": "317",
@@ -9590,14 +9605,16 @@
                 "text": "<action><action><action>: Heile 3 Horror.",
                 "traits": "Privat.",
                 "flavor_text": "In der Garderobe der Schauspieler findest du diverse Kost\u00fcme und Accessoires, aber das zerschlissene gelbe Kleid auf der anderen Seite des Raumes zieht deine Aufmerksamkeit auf sich. Es sieht zu zerissen und derangiert aus, um getragen zu werden, aber dennoch wirkt es unglaublich anziehend. ",
-                "clues": "0"
+                "clues": "0",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_15.png"
             },
             "back": {
                 "type": "fullart_location_back",
                 "flavor_text": "Eine einfache Holzt\u00fcr f\u00fchrt zum hinteren Teil des Theaters, gut versteckt vor den neugierigen Augen der G\u00e4ste. ",
                 "illustrator": "Illus. Yoann Boissonnet",
                 "name": "<size 82>Zugang zum hinteren Teil des Theaters",
-                "traits": "Privat."
+                "traits": "Privat.",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png"
             },
             "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
             "project_number": "318",
@@ -9618,14 +9635,16 @@
                 "traits": "Privat.",
                 "flavor_text": "In der Garderobe der Schauspieler findest du diverse Kost\u00fcme und Accessoires, aber das zerschlissene gelbe Kleid auf der anderen Seite des Raumes zieht deine Aufmerksamkeit auf sich. Es sieht zu zerissen und derangiert aus, um getragen zu werden, aber dennoch wirkt es unglaublich anziehend. ",
                 "clues": "1<per>",
-                "victory": "Sieg 1."
+                "victory": "Sieg 1.",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_17.png"
             },
             "back": {
                 "type": "fullart_location_back",
                 "flavor_text": "Eine einfache Holzt\u00fcr f\u00fchrt zum hinteren Teil des Theaters, gut versteckt vor den neugierigen Augen der G\u00e4ste. ",
                 "illustrator": "Illus. Yoann Boissonnet",
                 "name": "<size 82>Zugang zum hinteren Teil des Theaters",
-                "traits": "Privat."
+                "traits": "Privat.",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png"
             },
             "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
             "project_number": "319",
@@ -9646,14 +9665,16 @@
                 "traits": "Privat.",
                 "clues": "1<per>",
                 "victory": "Sieg 1.",
-                "flavor_text": "Ganz sicher hat niemand in den letzten Monaten die Requisitenkammer unter der B\u00fchne geputzt."
+                "flavor_text": "Ganz sicher hat niemand in den letzten Monaten die Requisitenkammer unter der B\u00fchne geputzt.",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_19.png"
             },
             "back": {
                 "type": "fullart_location_back",
                 "flavor_text": "Eine einfache Holzt\u00fcr f\u00fchrt zum hinteren Teil des Theaters, gut versteckt vor den neugierigen Augen der G\u00e4ste. ",
                 "illustrator": "Illus. Yoann Boissonnet",
                 "name": "<size 82>Zugang zum hinteren Teil des Theaters",
-                "traits": "Privat."
+                "traits": "Privat.",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png"
             },
             "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
             "project_number": "320",
@@ -9667,7 +9688,9 @@
                 "type": "fullart_treachery",
                 "illustrator": "Illus. Nick Deligaris",
                 "text": "Wagnis. Verborgen.\n<for> F\u00fcge diese Karte geheim deiner Hand zu.\nDu kannst keine Fertigkeitskarten zu Fertigkeitsproben beitragen.\n<action><action>: Lege diese Karte von deiner Hand ab.",
-                "traits": "Schrecken."
+                "traits": "Schrecken.",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_4.png",
+                "illustration_scale": 2.0
             },
             "back": {
                 "type": "encounter"
@@ -9684,7 +9707,9 @@
                 "type": "fullart_treachery",
                 "illustrator": "Illus. Nick Deligaris",
                 "text": "Wagnis. Verborgen.\n<for> F\u00fcge diese Karte geheim deiner Hand zu.\nDu kannst dich nicht mehr als ein Mal pro Zug bewegen.\n<action><action>: Lege diese Karte von deiner Hand ab.",
-                "traits": "Schrecken."
+                "traits": "Schrecken.",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_5.png",
+                "illustration_scale": 2.0
             },
             "back": {
                 "type": "encounter"
@@ -9701,7 +9726,9 @@
                 "type": "fullart_treachery",
                 "illustrator": "Illus. Nick Deligaris",
                 "text": "Wagnis. Verborgen.\n<for> F\u00fcge diese Karte geheim deiner Hand zu.\nDu kannst keine <free>-F\u00e4higkeiten ausl\u00f6sen.\n<action><action>: Lege diese Karte von deiner Hand ab.",
-                "traits": "Schrecken."
+                "traits": "Schrecken.",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_6.png",
+                "illustration_scale": 2.0
             },
             "back": {
                 "type": "encounter"
@@ -9718,7 +9745,9 @@
                 "type": "fullart_treachery",
                 "illustrator": "Illus. Nick Deligaris",
                 "text": "Wagnis. Verborgen.\n<for> F\u00fcge diese Karte geheim deiner Hand zu.\nDu kannst keine Ereignisse spielen.\n<action><action>: Lege diese Karte von deiner Hand ab.",
-                "traits": "Schrecken."
+                "traits": "Schrecken.",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_7.png",
+                "illustration_scale": 2.0
             },
             "back": {
                 "type": "encounter"
@@ -9736,7 +9765,9 @@
                 "illustrator": "Illus. Magali Villeneuve",
                 "text": "Nachr\u00fcsten.\n<rev> Falls du mindestens 3 Horror hast, verlierst du 1 Aktion.",
                 "flavor_text": "Sie erstarrte und ihre Kehle f\u00fchlte sich an wie zugeschn\u00fcrt. Tr\u00e4nden stiegen ihr in die Augen. Ihr Sichtfeld wurde immer enger und alles verschwamm vor ihren Augen. Dann verstand sie schlie\u00dflich.",
-                "traits": "Schrecken."
+                "traits": "Schrecken.",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_9.png",
+                "illustration_scale": 2.0
             },
             "back": {
                 "type": "encounter"
@@ -9758,7 +9789,8 @@
                 "text": "J\u00e4ger.",
                 "flavor_text": "Eine Horde aggressiver Ratten jagt wie eine Welle aus Klauen, Z\u00e4hnen und fleckigem Fell auf dich zu.",
                 "damage": "1",
-                "illustrator": "Illus. Bill Thompson"
+                "illustrator": "Illus. Bill Thompson",
+                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/Replacements Carcosa and Core/AHLCG_FAA_all_german_export_v11_flavor_dark_matter_2.png"
             },
             "back": {
                 "type": "encounter"
@@ -9775,7 +9807,9 @@
                 "type": "fullart_treachery",
                 "illustrator": "Illus.  Kyri Koniotou",
                 "text": "Wagnis. Verborgen.\n<for> Sobald dein Zug endet, falls du nicht mindestens 1 Ressourcen-Aktion w\u00e4hrend deines Zuges durchgef\u00fchrt hast: Lege diese Karte von deiner Hand ab und nimm 1 direkten Schaden und 1 direkten Horror.",
-                "traits": "Schrecken."
+                "traits": "Schrecken.",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_11.png",
+                "illustration_scale": 2.0
             },
             "back": {
                 "type": "encounter"
@@ -9792,7 +9826,9 @@
                 "type": "fullart_treachery",
                 "illustrator": "Illus.  Kyri Koniotou",
                 "text": "Wagnis. Verborgen.\n<for> Sobald dein Zug endet, falls du nicht mindestens 1 Spielen-Aktion w\u00e4hrend deines Zuges durchgef\u00fchrt hast: Lege diese Karte von deiner Hand ab und nimm 1 direkten Schaden und 1 direkten Horror.",
-                "traits": "Schrecken."
+                "traits": "Schrecken.",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_10.png",
+                "illustration_scale": 2.0
             },
             "back": {
                 "type": "encounter"
@@ -9809,7 +9845,9 @@
                 "type": "fullart_treachery",
                 "illustrator": "Illus.  Kyri Koniotou",
                 "text": "Wagnis. Verborgen.\n<for> Sobald dein Zug endet, falls du nicht mindestens 1 Bewegungsaktion w\u00e4hrend deines Zuges durchgef\u00fchrt hast: Lege diese Karte von deiner Hand ab und nimm 1 direkten Schaden und 1 direkten Horror.",
-                "traits": "Schrecken."
+                "traits": "Schrecken.",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_12.png",
+                "illustration_scale": 2.0
             },
             "back": {
                 "type": "encounter"
@@ -9826,7 +9864,9 @@
                 "type": "fullart_treachery",
                 "illustrator": "Illus.  Kyri Koniotou",
                 "text": "Wagnis. Verborgen.\n<for> Sobald dein Zug endet, falls du nicht mindestens 1 Ziehen-Aktion w\u00e4hrend deines Zuges durchgef\u00fchrt hast: Lege diese Karte von deiner Hand ab und nimm 1 direkten Schaden und 1 direkten Horror.",
-                "traits": "Schrecken."
+                "traits": "Schrecken.",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_13.png",
+                "illustration_scale": 2.0
             },
             "back": {
                 "type": "encounter"
@@ -9843,7 +9883,9 @@
                 "type": "fullart_treachery",
                 "illustrator": "Illus. Jeff Lee Johnson",
                 "text": "Nachr\u00fcsten.\n<rev> Falls du 1 oder mehr Verborgen-Karten auf deiner Hand hast, nimmst du 1 Horror.",
-                "traits": "Schrecken."
+                "traits": "Schrecken.",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_14.png",
+                "illustration_scale": 2.0
             },
             "back": {
                 "type": "encounter"
@@ -9864,7 +9906,9 @@
                 "evade": "5",
                 "victory": "Sieg 1.",
                 "damage": "2",
-                "horror": "1"
+                "horror": "1",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_1.png",
+                "illustration_scale": 2.0
             },
             "back": {
                 "type": "encounter"
@@ -9884,7 +9928,8 @@
                 "health": "4",
                 "evade": "2",
                 "damage": "1",
-                "horror": "2"
+                "horror": "2",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_3.png"
             },
             "back": {
                 "type": "encounter"
@@ -9907,7 +9952,8 @@
                 "victory": "Sieg 1.",
                 "traits": "Monster. Yith.",
                 "text": "<prey> Die wenigsten Handkarten.\n<for> Sobald dich Yith-Beobachter angreift: Lege 1 zuf\u00e4llige Karte von deiner Hand ab. Falls du dies nicht kannst, f\u00fcgt Yith-Beobachter bei diesem Angriff +1 Schaden und +1 Horror zu.",
-                "illustrator": "Illus. Chun Lo"
+                "illustrator": "Illus. Chun Lo",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_all_german_export_v11_flavor_dark_matter_3.png"
             },
             "back": {
                 "type": "encounter"
@@ -9925,7 +9971,9 @@
                 "type": "treachery",
                 "traits": "Pakt.",
                 "text": "Wagnis.\n<rev> Du musst entweder (w\u00e4hle eins): Ziehe 2 Karten und platziere 2 Verderbensmarker auf der aktuellen Agenda (durch diese Aktion kann die aktuelle Agenda vorr\u00fccken), oder nimm 2 Horror.",
-                "illustrator": "Illus. Stephen Somers"
+                "illustrator": "Illus. Stephen Somers",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_all_german_export_v11_flavor_dark_matter_1.png",
+                "illustration_pan_x": -150.0
             },
             "back": {
                 "type": "encounter"
