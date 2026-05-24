@@ -9790,7 +9790,7 @@
                 "flavor_text": "Eine Horde aggressiver Ratten jagt wie eine Welle aus Klauen, Z\u00e4hnen und fleckigem Fell auf dich zu.",
                 "damage": "1",
                 "illustrator": "Illus. Bill Thompson",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/Replacements Carcosa and Core/AHLCG_FAA_all_german_export_v11_flavor_dark_matter_2.png"
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_all_german_export_v11_flavor_dark_matter_2.png"
             },
             "back": {
                 "type": "encounter"
