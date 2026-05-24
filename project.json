@@ -545,7 +545,7 @@
         },
         {
             "name": "Erforscht-Karten",
-            "icon": "/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/science.png",
+            "icon": "./images/edited_images/atom_001.jpg",
             "cards": [],
             "id": "ac1147f3-f651-4436-b2e1-830ad8fe2d91",
             "meta": {
@@ -1590,7 +1590,8 @@
                 "name": "<unique><name>",
                 "illustration_scale": 1.12,
                 "illustration_pan_x": 0.0,
-                "illustration_pan_y": 236.0
+                "illustration_pan_y": 236.0,
+                "level": "None"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -2528,7 +2529,8 @@
                 "classes": [
                     "story"
                 ],
-                "illustration_pan_y": 150.0
+                "illustration_pan_y": 150.0,
+                "level": "None"
             },
             "back": {
                 "type": "player"
@@ -6742,7 +6744,8 @@
                 "illustration": "./images/edited_images/Annotation 2020-08-09 184527.jpg",
                 "illustration_pan_x": 92.0,
                 "illustration_pan_y": -164.0,
-                "illustration_scale": 2.12
+                "illustration_scale": 2.12,
+                "level": "None"
             },
             "back": {
                 "type": "player"
