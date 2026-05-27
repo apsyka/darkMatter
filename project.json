@@ -980,7 +980,7 @@
             "amount": 3
         },
         {
-            "name": "<dbl>Die Tatterdemalion</dbl>",
+            "name": "Die Tatterdemalion",
             "front": {
                 "type": "chaos",
                 "entries": [
@@ -1028,7 +1028,7 @@
             "front": {
                 "type": "agenda",
                 "text": "<left>Du kannst nicht aufgeben.\n<i>(Achtung: Wenn diese Agenda vorr\u00fcckt, explodiert das Schiff und alle an Bord sterben.)</i>",
-                "flavor_text": "Du versuchst noch, die Situation, in der du dich befindest, ganz zu verstehen, als ein dr\u00f6hnender Alarm deine Gedanken unterbricht:\n<font \"./fonts/AgencyFB.ttf\"><center><i WARNUNG.\nANTRIEBSSTABILIT\u00c4T BEI 7%.\nENERGIEVERSORGUNG SCHWER BESCH\u00c4DIGT.\nSOFORTIGE MA\u00dfNAHMEN ERFORDERLICH.</i>",
+                "flavor_text": "Du versuchst noch, die Situation, in der du dich befindest, ganz zu verstehen, als ein dr\u00f6hnender Alarm deine Gedanken unterbricht:\n<font \"./fonts/AgencyFB Bold Italic.ttf\"><center>WARNUNG.\nANTRIEBSSTABILIT\u00c4T BEI 7%.\nENERGIEVERSORGUNG SCHWER BESCH\u00c4DIGT.\nSOFORTIGE MA\u00dfNAHMEN ERFORDERLICH.</i>",
                 "illustration": "./images/edited_images/0_space.jpg",
                 "index": "1a",
                 "doom": "7",
@@ -1122,7 +1122,7 @@
                 "type": "act",
                 "text": "<obj> Nur Ermittler im Maschinenraum k\u00f6nnen als Gruppe die ben\u00f6tigten Hinweise ausgeben, um die Sch\u00e4den zu reparieren und vorzur\u00fccken.",
                 "flavor_text": "Durch den langen K\u00e4lteschlaf schmerzt dein K\u00f6rper und deine Muskeln sind ver-<br>krampft. Wie lange warst du in deinem eisigen Grab gefangen? Wo ist der Rest der Besatzung? Diese Fragen m\u00fcssen warten; erstmal musst du das Schiff wieder funktionst\u00fcchtig machen, bevor der Reaktor \u00fcberhitzt.",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/space ship 4.jpg",
+                "illustration": "./images/edited_images/space ship 4.jpg",
                 "clues": "2<per>",
                 "index": "1a",
                 "name": "<name>",
@@ -3014,11 +3014,11 @@
             "amount": 2
         },
         {
-            "name": "<family \"Chiller\"><b>DER BUTZEMANN</b></family>",
+            "name": "DER BUTZEMANN",
             "front": {
                 "type": "enemy",
                 "title": "<unique><name>",
-                "subtitle": "<family \"Chiller\"><size 8.0>Virtueller Albtraum</size></family>",
+                "subtitle": "<font \"./fonts/Bonechiller.ttf\">Virtueller Albtraum",
                 "traits": "Virtuell. Monster. Elite.",
                 "text": "Gewaltig. J\u00e4ger.\nDu kannst den Butzemann nicht angreifen, ihm keinen Schaden zuf\u00fcgen und ihm nicht entkommen.",
                 "health": "?",
@@ -3030,7 +3030,7 @@
                 "illustration": "./images/edited_images/clown - ali9044.jpg",
                 "illustrator": "Illus. ali9044",
                 "attack": "?",
-                "name": "<unique><name>",
+                "name": "<unique><font \"./fonts/Bonechiller.ttf\"><name>",
                 "illustration_scale": 1.6
             },
             "back": {
@@ -3042,14 +3042,15 @@
             "id": "67426cc3-4128-45da-8a32-0e4ddc2f3807"
         },
         {
-            "name": "<family \"Chiller\"><b>KOMM N\u00c4HER</b></family>",
+            "name": "KOMM N\u00c4HER",
             "front": {
                 "type": "treachery",
                 "traits": "Albtraum. Schrecken.",
                 "text": "<rev> Bringe Komm n\u00e4her in deiner Bedrohungszone ins Spiel.\n<for> Am Ende deines Zuges, falls du dich nicht am Ort des Butzemanns befindest: Lege Komm n\u00e4her ab und lege eine <wil>-Probe (3) ab. Falls die Probe misslingt, bewege dich 1 Ort in Richtung des Butzemanns.\n",
-                "flavor_text": "<center><family \"Chiller\"><b><size 9.0>WILLST DU EINEN BALLON HABEN?</size></b></family>",
+                "flavor_text": "<font \"./fonts/Bonechiller.ttf\">WILLST DU EINEN BALLON HABEN?",
                 "illustration": "./images/edited_images/pennywise jeff Kritian.jpg",
-                "illustrator": "Illus. Jeff Kristian"
+                "illustrator": "Illus. Jeff Kristian",
+                "name": "<font \"./fonts/Bonechiller.ttf\"><name>"
             },
             "back": {
                 "type": "encounter"
@@ -3061,7 +3062,7 @@
             "amount": 2
         },
         {
-            "name": "<family \"Chiller\"><b>ERINNERST DU DICH?</b></family>",
+            "name": "ERINNERST DU DICH?",
             "front": {
                 "type": "treachery",
                 "traits": "Albtraum. Schrecken.",
@@ -3071,7 +3072,8 @@
                 "illustrator": "Illus. Silentivo",
                 "illustration_pan_x": 66.0,
                 "illustration_pan_y": -210.0,
-                "illustration_scale": 1.78
+                "illustration_scale": 1.78,
+                "name": "<font \"./fonts/Bonechiller.ttf\"><name>"
             },
             "back": {
                 "type": "encounter"
@@ -3083,7 +3085,7 @@
             "amount": 2
         },
         {
-            "name": "<family \"Chiller\"><b>\u00dcBERRASCHUNG!</b></family>",
+            "name": "\u00dcBERRASCHUNG!",
             "front": {
                 "type": "treachery",
                 "traits": "Virtuell. Albtraum.",
@@ -3093,7 +3095,8 @@
                 "illustrator": "Illus. Mark Fredrickson",
                 "illustration_pan_x": 165.0,
                 "illustration_pan_y": -190.0,
-                "illustration_scale": 1.94
+                "illustration_scale": 1.94,
+                "name": "<unique><font \"./fonts/Bonechiller.ttf\"><name>"
             },
             "back": {
                 "type": "encounter"
@@ -8955,7 +8958,7 @@
                 ],
                 "level": "None",
                 "icons": "Q",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/machineLearningAlgorithm.jpg"
+                "illustration": "./images/edited_images/machineLearningAlgorithm.jpg"
             },
             "back": {
                 "type": "player"
@@ -8978,7 +8981,7 @@
                 ],
                 "level": "None",
                 "icons": "Q",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/rationalMind.jpg",
+                "illustration": "./images/edited_images/rationalMind.jpg",
                 "illustration_scale": 1.4,
                 "illustration_pan_x": 50.0,
                 "illustration_pan_y": 80.0
@@ -9054,7 +9057,7 @@
                     "story"
                 ],
                 "level": "None",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/particleAccelerator.jpg",
+                "illustration": "./images/edited_images/particleAccelerator.jpg",
                 "illustration_pan_x": -320.0,
                 "illustration_pan_y": 146.0,
                 "illustration_scale": 1.62
@@ -9106,7 +9109,7 @@
                     "seeker"
                 ],
                 "icons": "II",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/MarcSimonetti.jpg",
+                "illustration": "./images/edited_images/MarcSimonetti.jpg",
                 "collection": "<image src=\"/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/Flask.png\"> <exn>",
                 "illustrator": "Illus. Marc Simonetti",
                 "illustration_pan_x": -250.0,
@@ -9322,7 +9325,7 @@
                 "classes": [
                     "weakness"
                 ],
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/nele-diel-dreamworld.jpg",
+                "illustration": "./images/edited_images/nele-diel-dreamworld.jpg",
                 "collection": "<image src=\"/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/Flask.png\"> <exn>",
                 "illustration_pan_x": -200.0,
                 "illustrator": "Illus. Nele Diel"
@@ -9379,7 +9382,7 @@
                 "classes": [
                     "story"
                 ],
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/edited_images/Laika.jpg",
+                "illustration": "./images/edited_images/Laika.jpg",
                 "name": "<unique><name>",
                 "level": "None",
                 "illustration_pan_x": -100.0
@@ -10014,7 +10017,7 @@
                     "id": "e2eadb48",
                     "type": "scenario",
                     "name": "Szenario I: Die Tatterdemalion",
-                    "markdown": "# Szenario I: [encounter:c3a780a7-66fc-4b38-b354-373c34c78b65:name]\n\n:::story\nDu erwachst unter Eis begraben. Deine Haut, deine Organe und sogar deine Knochen sind gefroren. Du kannst dich nicht bewegen, und es f\u00e4llt dir schwer, klare Gedanken zu fassen\u2026 Langsam breitet sich ein warmes Kribbeln durch deine Adern aus\u2026\n\nAls deine Augenlider endlich auftauen, siehst du nur eine gro\u00dfe eis-bedeckte Glasscheibe vor dir. Was geht hier vor? Wo bist du? Gerade eben warst du noch im Ward-Theater und hast dir eine langweilige Auff\u00fchrung angesehen, und jetzt bist du pl\u00f6tzlich in einer K\u00e4lteschlafkapsel.\n\nK\u00e4lteschlaf\u2026 Du hast dieses Wort noch nie geh\u00f6rt, und doch wei\u00dft du instinktiv, was damit gemeint sein muss. Dein Verstand kann sich nicht daran erinnern, doch dein K\u00f6rper wurde schon viele Male eingefroren und wieder aufgetaut. Der Gedanke daran, dass du mit etwas so Fremdartigem so vertraut bist, verst\u00f6rt dich zutiefst.\n\nAls die W\u00e4rme endlich deine Fingerspitzen erreicht hat, schiebt sich die Glasscheibe zur Seite und l\u00e4sst dich einen dunklen metallischen Raum betreten. Die Kontrolltafel neben deinem Grab verk\u00fcndet in ihrer Computerstimme: \u201eWillkommen zur\u00fcck an Bord der Tatterdemalion. Die aktuelle Sternzeit ist der 4. April 2147.\u201c Du blickst durch das n\u00e4chste Fenster und siehst nichts als eine schwarze Leinwand mit unz\u00e4hligen Sternen und einer gigantischen tiefblauen Kugel \u2013 dem Planeten Neptun. Die Vorstellung, durch den unermesslichen Weltraum zu treiben, \u00e4ngstigt dich nicht, denn du hast schon dein ganzes Leben im Weltraum verbracht \u2013 nicht dein vergangenes Leben in Arkham, sondern das Leben der Person, in deren K\u00f6rper du dich jetzt befindest. Du fragst dich, wie seltsam dieser Traum noch werden kann, als pl\u00f6tzlich ein ohrenbet\u00e4ubender Alarm durch das verlassene Schiff hallt\u2026\n:::\n\n### Vorbereitung\n\n- Es werden alle Karten aus folgenden Begegnungssets herausgesucht: *[encounter:c3a780a7-66fc-4b38-b354-373c34c78b65:name]*, *[encounter:9b4b5918-b5ce-449a-907f-59d21f9527fa:name]* und *[encounter:1652fe8f-adea-440c-b803-041012e776f9:name]*. Diese Sets sind an folgenden Symbolen zu erkennen:\n\n:::center\n[encounter:c3a780a7-66fc-4b38-b354-373c34c78b65:icon]\n[encounter:9b4b5918-b5ce-449a-907f-59d21f9527fa:icon]\n[encounter:1652fe8f-adea-440c-b803-041012e776f9:icon]\n:::\n\n- Das Begegnungsset *[encounter:b69ef0b1-85ab-4a2a-9112-49abc03ea938:name]* wird als nicht im Spiel befindlich beiseite gelegt. Dieses Set ist am folgenden Symbol zu erkennen:\n\n:::center\n[encounter:b69ef0b1-85ab-4a2a-9112-49abc03ea938:icon]\n:::\n\n- Die Storyvorteilskarte Virtueller Zugangsschl\u00fcssel wird als nicht im Spiel befindlich beiseitegelegt.\n- Das Scan-Deck wird erstellt. Dazu werden alle Karten, die Symbole am unteren Kartenrand ihrer R\u00fcckseite tragen, zusammengemischt.\n- Alle \u00fcbrigen Orte werden ins Spiel gebracht. Jeder Ermittler beginnt das Spiel im K\u00e4lteschlafquartier.\n- Die \u00fcbrigen Begegnungskarten werden zum Begegnungsdeck zusammengemischt.\n- Das Spiel kann nun beginnen.\n\n## Platzierung der Orte in \u201e[encounter:c3a780a7-66fc-4b38-b354-373c34c78b65:name]\u201c\n\n[encounter:815adf7b-9e62-4ad3-b4c8-59e036be1bb6:location_overview]\n\n:::resolution\n## Achtung!<br>Nicht vor Ende des Szenarios weiterlesen.\n<b>Falls keine Aufl\u00f6sung erreicht wurde (alle Ermittler haben aufgegeben oder wurden besiegt):</b> <i>Erneut schreckst du aus dem Schlaf auf. Dieses Mal wurdest du von den kleinen kalten H\u00e4nden eines jungen M\u00e4dchens geweckt. \u201eEs hat geklappt! Du bist hier! Bitte komm schnell mit.\u201c \u00dcberrascht stellst du fest, dass du auf einer Rasenfl\u00e4che stehst. Der Himmel ist schwarz und wallend; die Sonnenstrahlen k\u00f6nnen die dunklen wirbelnden Gewitter-wolken nicht durchdringen\u2026 Dies ist eindeutig nicht die Tatterdemalion, aber mehr wei\u00dft du nicht \u00fcber diesen Ort. In der Ferne siehst du hohe Metallzylinder mit pulsierenden roten Lichtern \u00fcber einer kleinen Stadt aufragen. Hinter dir steht eine gro\u00dfe Obsidiant\u00fcr.\n\nDu fragst das kleine M\u00e4dchen, wo du bist. \u201eDu bist in einem simulierten Traum. Genau genommen in <b>meinem</b> Traum. Jetzt komm schnell mit, bevor das Monster meine Freunde frisst.\u201c</i>\n\n- Im Kampagnenlogbuch wird notiert: <i>Du wurdest von Maja in\n<bultab> die virtuellen Traumlande gebracht.</i>\n- Falls ein Ermittler die Karte Cybervirus auf der Hand hatte, als er besiegt wurde, aufgegeben hat oder das Spiel endete, wird im Kampagnenlogbuch notiert: <i>(Name dieses Ermittlers) wurde mit dem Cybervirus infiziert.</i>\n- Falls sich mindestens 1 Kopie der Verratskarte Erinnerung im Siegpunktestapel befindet, wird dem Chaosbeutel f\u00fcr den Rest der Kampagne ein <tab>-Marker hinzugef\u00fcgt.\n- Jeder Ermittler verdient Erfahrungspunkte in H\u00f6he des Sieg-X-Wertes aller Karten im Siegpunktestapel.\n:::right\nFahre mit <b>Szenario II: Elektrischer Albtraum</b> fort.\n:::\n\n\n:::story\n***Aufl\u00f6sung 1:*** Du stehst auf einer Rasenfl\u00e4che. Dies ist eindeutig nicht die Tatterdemalion, aber mehr wei\u00dft du nicht \u00fcber diesen Ort. Der Himmel ist schwarz und wallend; die Sonnenstrahlen k\u00f6nnen die dunklen wirbelnden Gewitterwolken nicht durchdringen. In der Ferne siehst du hohe Metallzylinder mit pulsierenden roten Lichtern \u00fcber einer kleinen Stadt aufragen.\n<vs>\nDie Traumrealit\u00e4t dieses Systems ist anders als alles, was du jemals erlebt hast. Die Farben, Oberfl\u00e4chenstrukturen, Ger\u00e4usche und Ger\u00fcche sind erschreckend realistisch. Hinter dir steht eine gro\u00dfe Obsidiant\u00fcr \u2013 der virtuelle Zugangspunkt, durch den du diese Welt betreten hast.\n<vs>\nDu bist \u00fcberrascht, ein kleines M\u00e4dchen zu sehen, das auf dich zugerannt kommt. \u201eDu bist genau rechtzeitig angekommen! Komm bitte schnell mit, bevor das Monster meine Freunde frisst.\u201c\n::: \n- Im Kampagnenlogbuch wird notiert: <i>Du hast deinen eigenen Weg in die virtuellen Traumlande gefunden.</i>\n- Falls ein Ermittler die Karte Cybervirus auf der Hand hatte, als er besiegt wurde, aufgegeben hat oder das Spiel endete, wird im Kampagnenlogbuch notiert: <i>(Name dieses Ermittlers) wurde mit dem Cybervirus infiziert.</i>\n- Falls sich mindestens 1 Kopie der Verratskarte Erinnerung im Siegpunktestapel befindet, wird dem Chaosbeutel f\u00fcr den Rest der Kampagne ein <tab>-Marker hinzugef\u00fcgt.\n- Jeder Ermittler verdient Erfahrungspunkte in H\u00f6he des Sieg-X-Wertes aller Karten im Siegpunktestapel.\n:::right\nFahre mit <b>Szenario II: Elektrischer Albtraum</b> fort.\n:::\n\n\n:::\n",
+                    "markdown": "# Szenario I: [encounter:c3a780a7-66fc-4b38-b354-373c34c78b65:name]\n\n:::story\nDu erwachst unter Eis begraben. Deine Haut, deine Organe und sogar deine Knochen sind gefroren. Du kannst dich nicht bewegen, und es f\u00e4llt dir schwer, klare Gedanken zu fassen\u2026 Langsam breitet sich ein warmes Kribbeln durch deine Adern aus\u2026\n\nAls deine Augenlider endlich auftauen, siehst du nur eine gro\u00dfe eis-bedeckte Glasscheibe vor dir. Was geht hier vor? Wo bist du? Gerade eben warst du noch im Ward-Theater und hast dir eine langweilige Auff\u00fchrung angesehen, und jetzt bist du pl\u00f6tzlich in einer K\u00e4lteschlafkapsel.\n\nK\u00e4lteschlaf\u2026 Du hast dieses Wort noch nie geh\u00f6rt, und doch wei\u00dft du instinktiv, was damit gemeint sein muss. Dein Verstand kann sich nicht daran erinnern, doch dein K\u00f6rper wurde schon viele Male eingefroren und wieder aufgetaut. Der Gedanke daran, dass du mit etwas so Fremdartigem so vertraut bist, verst\u00f6rt dich zutiefst.\n\nAls die W\u00e4rme endlich deine Fingerspitzen erreicht hat, schiebt sich die Glasscheibe zur Seite und l\u00e4sst dich einen dunklen metallischen Raum betreten. Die Kontrolltafel neben deinem Grab verk\u00fcndet in ihrer Computerstimme: \u201eWillkommen zur\u00fcck an Bord der Tatterdemalion. Die aktuelle Sternzeit ist der 4. April 2147.\u201c Du blickst durch das n\u00e4chste Fenster und siehst nichts als eine schwarze Leinwand mit unz\u00e4hligen Sternen und einer gigantischen tiefblauen Kugel \u2013 dem Planeten Neptun. Die Vorstellung, durch den unermesslichen Weltraum zu treiben, \u00e4ngstigt dich nicht, denn du hast schon dein ganzes Leben im Weltraum verbracht \u2013 nicht dein vergangenes Leben in Arkham, sondern das Leben der Person, in deren K\u00f6rper du dich jetzt befindest. Du fragst dich, wie seltsam dieser Traum noch werden kann, als pl\u00f6tzlich ein ohrenbet\u00e4ubender Alarm durch das verlassene Schiff hallt\u2026\n:::\n\n### Vorbereitung\n\n- Es werden alle Karten aus folgenden Begegnungssets herausgesucht: *[encounter:c3a780a7-66fc-4b38-b354-373c34c78b65:name]*, *[encounter:9b4b5918-b5ce-449a-907f-59d21f9527fa:name]* und *[encounter:1652fe8f-adea-440c-b803-041012e776f9:name]*. Diese Sets sind an folgenden Symbolen zu erkennen:\n\n:::center\n[encounter:c3a780a7-66fc-4b38-b354-373c34c78b65:icon]\n[encounter:9b4b5918-b5ce-449a-907f-59d21f9527fa:icon]\n[encounter:1652fe8f-adea-440c-b803-041012e776f9:icon]\n:::\n\n- Das Begegnungsset *[encounter:b69ef0b1-85ab-4a2a-9112-49abc03ea938:name]* wird als nicht im Spiel befindlich beiseite gelegt. Dieses Set ist am folgenden Symbol zu erkennen:\n\n:::center\n[encounter:b69ef0b1-85ab-4a2a-9112-49abc03ea938:icon]\n:::\n\n- Die Storyvorteilskarte Virtueller Zugangsschl\u00fcssel wird als nicht im Spiel befindlich beiseitegelegt.\n- Das Scan-Deck wird erstellt. Dazu werden alle Karten, die Symbole am unteren Kartenrand ihrer R\u00fcckseite tragen, zusammengemischt.\n- Alle \u00fcbrigen Orte werden ins Spiel gebracht. Jeder Ermittler beginnt das Spiel im K\u00e4lteschlafquartier.\n- Die \u00fcbrigen Begegnungskarten werden zum Begegnungsdeck zusammengemischt.\n- Das Spiel kann nun beginnen.\n\n## Platzierung der Orte in \u201e[encounter:c3a780a7-66fc-4b38-b354-373c34c78b65:name]\u201c\n\n[encounter:815adf7b-9e62-4ad3-b4c8-59e036be1bb6:location_overview]\n\n:::resolution\n## Achtung!<br>Nicht vor Ende des Szenarios weiterlesen.\n<b>Falls keine Aufl\u00f6sung erreicht wurde (alle Ermittler haben aufgegeben oder wurden besiegt):</b> <i>Erneut schreckst du aus dem Schlaf auf. Dieses Mal wurdest du von den kleinen kalten H\u00e4nden eines jungen M\u00e4dchens geweckt. \u201eEs hat geklappt! Du bist hier! Bitte komm schnell mit.\u201c \u00dcberrascht stellst du fest, dass du auf einer Rasenfl\u00e4che stehst. Der Himmel ist schwarz und wallend; die Sonnenstrahlen k\u00f6nnen die dunklen wirbelnden Gewitter-wolken nicht durchdringen\u2026 Dies ist eindeutig nicht die Tatterdemalion, aber mehr wei\u00dft du nicht \u00fcber diesen Ort. In der Ferne siehst du hohe Metallzylinder mit pulsierenden roten Lichtern \u00fcber einer kleinen Stadt aufragen. Hinter dir steht eine gro\u00dfe Obsidiant\u00fcr.\n\nDu fragst das kleine M\u00e4dchen, wo du bist. \u201eDu bist in einem simulierten Traum. Genau genommen in <b>meinem</b> Traum. Jetzt komm schnell mit, bevor das Monster meine Freunde frisst.\u201c</i>\n\n- Im Kampagnenlogbuch wird notiert: <i>Du wurdest von Maja in\n<bultab> die virtuellen Traumlande gebracht.</i>\n- Falls ein Ermittler die Karte Cybervirus auf der Hand hatte, als er besiegt wurde, aufgegeben hat oder das Spiel endete, wird im Kampagnenlogbuch notiert: <i>(Name dieses Ermittlers) wurde mit dem Cybervirus infiziert.</i>\n- Falls sich mindestens 1 Kopie der Verratskarte Erinnerung im Siegpunktestapel befindet, wird dem Chaosbeutel f\u00fcr den Rest der Kampagne ein <tablet>-Marker hinzugef\u00fcgt.\n- Jeder Ermittler verdient Erfahrungspunkte in H\u00f6he des Sieg-X-Wertes aller Karten im Siegpunktestapel.\n:::right\nFahre mit <b>Szenario II: Elektrischer Albtraum</b> fort.\n:::\n\n\n:::story\n***Aufl\u00f6sung 1:*** Du stehst auf einer Rasenfl\u00e4che. Dies ist eindeutig nicht die Tatterdemalion, aber mehr wei\u00dft du nicht \u00fcber diesen Ort. Der Himmel ist schwarz und wallend; die Sonnenstrahlen k\u00f6nnen die dunklen wirbelnden Gewitterwolken nicht durchdringen. In der Ferne siehst du hohe Metallzylinder mit pulsierenden roten Lichtern \u00fcber einer kleinen Stadt aufragen.\n<vs>\nDie Traumrealit\u00e4t dieses Systems ist anders als alles, was du jemals erlebt hast. Die Farben, Oberfl\u00e4chenstrukturen, Ger\u00e4usche und Ger\u00fcche sind erschreckend realistisch. Hinter dir steht eine gro\u00dfe Obsidiant\u00fcr \u2013 der virtuelle Zugangspunkt, durch den du diese Welt betreten hast.\n<vs>\nDu bist \u00fcberrascht, ein kleines M\u00e4dchen zu sehen, das auf dich zugerannt kommt. \u201eDu bist genau rechtzeitig angekommen! Komm bitte schnell mit, bevor das Monster meine Freunde frisst.\u201c\n::: \n- Im Kampagnenlogbuch wird notiert: <i>Du hast deinen eigenen Weg in die virtuellen Traumlande gefunden.</i>\n- Falls ein Ermittler die Karte Cybervirus auf der Hand hatte, als er besiegt wurde, aufgegeben hat oder das Spiel endete, wird im Kampagnenlogbuch notiert: <i>(Name dieses Ermittlers) wurde mit dem Cybervirus infiziert.</i>\n- Falls sich mindestens 1 Kopie der Verratskarte Erinnerung im Siegpunktestapel befindet, wird dem Chaosbeutel f\u00fcr den Rest der Kampagne ein <tablet>-Marker hinzugef\u00fcgt.\n- Jeder Ermittler verdient Erfahrungspunkte in H\u00f6he des Sieg-X-Wertes aller Karten im Siegpunktestapel.\n:::right\nFahre mit <b>Szenario II: Elektrischer Albtraum</b> fort.\n:::\n\n\n:::\n",
                     "encounter_set_id": "c3a780a7-66fc-4b38-b354-373c34c78b65"
                 },
                 {
