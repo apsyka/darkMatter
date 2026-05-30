@@ -1031,11 +1031,7 @@
             "front": {
                 "type": "agenda",
                 "text": "<left>Du kannst nicht aufgeben.\n<i>(Achtung: Wenn diese Agenda vorr\u00fcckt, explodiert das Schiff und alle an Bord sterben.)</i>",
-<<<<<<< Updated upstream
                 "flavor_text": "Du versuchst noch, die Situation, in der du dich befindest, ganz zu verstehen, als ein dr\u00f6hnender Alarm deine Gedanken unterbricht:\n<font \"./fonts/AgencyFB Bold Italic.ttf\"><center>WARNUNG.\nANTRIEBSSTABILIT\u00c4T BEI 7%.\nENERGIEVERSORGUNG SCHWER BESCH\u00c4DIGT.\nSOFORTIGE MA\u00dfNAHMEN ERFORDERLICH.</i>",
-=======
-                "flavor_text": "Du versuchst noch, die Situation, in der du dich befindest, ganz zu verstehen, als ein dr\u00f6hnender Alarm deine Gedanken unterbricht:\n<font \"./fonts/AgencyFB.ttf\"><center> WARNUNG.\nANTRIEBSSTABILIT\u00c4T BEI 7%.\nENERGIEVERSORGUNG SCHWER BESCH\u00c4DIGT.\nSOFORTIGE MA\u00dfNAHMEN ERFORDERLICH.</i>",
->>>>>>> Stashed changes
                 "illustration": "./images/edited_images/0_space.jpg",
                 "index": "1a",
                 "doom": "7",
