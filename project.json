@@ -774,7 +774,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Pact.",
-                "text": "Wagnis. Verborgen.\n<rev> F\u00fcge diese Karte geheim deiner Hand hinzu.\n<reaction> Sobald ein Ermittler eine beliebige Anzahl Hinweise an deinem Ort entdecken w\u00fcrde, platziere 1 Hinweis jenes Ermittlers auf deinen Ort: Jener Ermittler entdeckt stattdessen keine Hinweise. Lege diese Karte ab.\n<for> Wenn das Spiel endet oder du besiegt wirst, falls sich diese Karte auf deiner Hand befindet: F\u00fcge diese Karte dem Siegpunktestapel hinzu.",
+                "text": "Wagnis. Verborgen.\n<rev> F\u00fcge diese Karte geheim deiner Hand hinzu.\n<reaction> Sobald ein Ermittler eine beliebige Anzahl Hinweise an deinem Ort entdecken w\u00fcrde, platziere 1 Hinweis jenes Ermittlers auf deinen Ort: Jener Ermittler entdeckt stattdessen keine Hinweise. Lege diese Karte ab.\n<for> Wenn das Spiel endet oder du besiegt wirst, falls sich diese Karte auf deiner Hand befindet: F\u00fcge diese Karte dem Siegpunktestapel hinzu.\n\n",
                 "flavor_text": "",
                 "victory": "Sieg 0.",
                 "illustration": "./images/edited_images/hastur2.jpg",
@@ -1031,7 +1031,11 @@
             "front": {
                 "type": "agenda",
                 "text": "<left>Du kannst nicht aufgeben.\n<i>(Achtung: Wenn diese Agenda vorr\u00fcckt, explodiert das Schiff und alle an Bord sterben.)</i>",
+<<<<<<< Updated upstream
                 "flavor_text": "Du versuchst noch, die Situation, in der du dich befindest, ganz zu verstehen, als ein dr\u00f6hnender Alarm deine Gedanken unterbricht:\n<font \"./fonts/AgencyFB Bold Italic.ttf\"><center>WARNUNG.\nANTRIEBSSTABILIT\u00c4T BEI 7%.\nENERGIEVERSORGUNG SCHWER BESCH\u00c4DIGT.\nSOFORTIGE MA\u00dfNAHMEN ERFORDERLICH.</i>",
+=======
+                "flavor_text": "Du versuchst noch, die Situation, in der du dich befindest, ganz zu verstehen, als ein dr\u00f6hnender Alarm deine Gedanken unterbricht:\n<font \"./fonts/AgencyFB.ttf\"><center> WARNUNG.\nANTRIEBSSTABILIT\u00c4T BEI 7%.\nENERGIEVERSORGUNG SCHWER BESCH\u00c4DIGT.\nSOFORTIGE MA\u00dfNAHMEN ERFORDERLICH.</i>",
+>>>>>>> Stashed changes
                 "illustration": "./images/edited_images/0_space.jpg",
                 "index": "1a",
                 "doom": "7",
