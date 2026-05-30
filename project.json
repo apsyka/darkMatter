@@ -773,7 +773,7 @@
             "name": "Erinnerung (Geheimnisse)",
             "front": {
                 "type": "treachery",
-                "traits": "Pact.",
+                "traits": "Pakt.",
                 "text": "Wagnis. Verborgen.\n<rev> F\u00fcge diese Karte geheim deiner Hand hinzu.\n<reaction> Sobald ein Ermittler eine beliebige Anzahl Hinweise an deinem Ort entdecken w\u00fcrde, platziere 1 Hinweis jenes Ermittlers auf deinen Ort: Jener Ermittler entdeckt stattdessen keine Hinweise. Lege diese Karte ab.\n<for> Wenn das Spiel endet oder du besiegt wirst, falls sich diese Karte auf deiner Hand befindet: F\u00fcge diese Karte dem Siegpunktestapel hinzu.\n\n",
                 "flavor_text": "",
                 "victory": "Sieg 0.",
