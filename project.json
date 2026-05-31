@@ -555,7 +555,7 @@
         },
         {
             "name": "Sternenschauer-Scans",
-            "icon": "/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/science.png",
+            "icon": "./images/science.png",
             "cards": [],
             "id": "33387e63-1376-4315-90ca-b3480de1dce4",
             "meta": {
@@ -591,7 +591,7 @@
         },
         {
             "name": "Ruf vor den Vorhang",
-            "icon": "/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/curtain.png",
+            "icon": "./images/curtain.png",
             "cards": [],
             "id": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
             "meta": {
@@ -643,7 +643,7 @@
         },
         {
             "name": "Wahnvorstellungen",
-            "icon": "/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/delusions.png",
+            "icon": "./images/delusions.png",
             "cards": [],
             "id": "4fb0482a-feda-4c9d-96a2-3ea2c801c8e0",
             "meta": {
@@ -653,7 +653,7 @@
         },
         {
             "name": "Rattenschwarm",
-            "icon": "/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/rats.png",
+            "icon": "./images/rats.png",
             "cards": [],
             "id": "b246fd07-38bb-4326-b459-0b08be0fa282",
             "meta": {
@@ -663,7 +663,7 @@
         },
         {
             "name": "Unertr\u00e4gliche Wahnvorstellungen",
-            "icon": "/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/maddening.png",
+            "icon": "./images/maddening.png",
             "cards": [],
             "id": "e60b0554-920a-4c7d-8b9f-9a634e7c7ec7",
             "meta": {
@@ -673,7 +673,7 @@
         },
         {
             "name": "Bewohner von Carcosa",
-            "icon": "/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/inhabitants.png",
+            "icon": "./images/inhabitants.png",
             "cards": [],
             "id": "13aafa01-0b60-4c98-b6e5-02d99485ecde",
             "meta": {
@@ -683,7 +683,7 @@
         },
         {
             "name": " Anh\u00e4nger von Yog-Sothoth",
-            "icon": "/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/agents.png",
+            "icon": "./images/agents.png",
             "cards": [],
             "id": "50658ed6-c84e-4498-be4e-1df4309d5bc9",
             "meta": {
@@ -9264,7 +9264,7 @@
                 ],
                 "icons": "II",
                 "illustration": "./images/edited_images/MarcSimonetti.jpg",
-                "collection": "<image src=\"/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/Flask.png\"> <exn>",
+                "collection": "<image src=\"./images/Flask.png\"> <exn>",
                 "illustrator": "Illus. Marc Simonetti",
                 "illustration_pan_x": -250.0,
                 "illustration_pan_y": -1.0,
@@ -9294,7 +9294,7 @@
                 "illustration": "./images/xx/Kate Winthrop/Flux-Stabilizer-Front-Face.jpg",
                 "illustration_pan_x": -27.0,
                 "illustration_pan_y": 15.0,
-                "collection": "<image src=\"/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/Flask.png\"> <exn>",
+                "collection": "<image src=\"./images/Flask.png\"> <exn>",
                 "illustrator": "Illus. Micah Epstein"
             },
             "back": {
@@ -9318,17 +9318,17 @@
                 "classes": [
                     "seeker"
                 ],
-                "illustration": "/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/Kate Winthrop - transparent.png",
+                "illustration": "./images/Kate Winthrop - transparent.png",
                 "name": "<unique> <name>",
                 "illustration_pan_x": 60.0,
                 "illustration_pan_y": 288.0,
                 "illustration_scale": 1.16,
-                "collection": "<image src=\"/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/Flask.png\"> <exn>",
+                "collection": "<image src=\"./images/Flask.png\"> <exn>",
                 "illustrator": "Illus. Cristi Balanescu"
             },
             "back": {
                 "type": "investigator_back",
-                "illustration": "/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/Kate Winthrop - Cristi Balanescu.jpg",
+                "illustration": "./images/Kate Winthrop - Cristi Balanescu.jpg",
                 "entries": [
                     [
                         "<b>Deckgr\u00f6\u00dfe:</b>",
@@ -9469,7 +9469,7 @@
                     "weakness"
                 ],
                 "attack": "2",
-                "collection": "<image src=\"/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/Flask.png\"> <exn>",
+                "collection": "<image src=\"./images/Flask.png\"> <exn>",
                 "illustrator": "Illus. Borja Pindado",
                 "illustration_pan_y": 900.0,
                 "subtitle": "SCHW\u00c4CHE"
@@ -9492,7 +9492,7 @@
                     "weakness"
                 ],
                 "illustration": "./images/edited_images/nele-diel-dreamworld.jpg",
-                "collection": "<image src=\"/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/Flask.png\"> <exn>",
+                "collection": "<image src=\"./images/Flask.png\"> <exn>",
                 "illustration_pan_x": -200.0,
                 "illustrator": "Illus. Nele Diel"
             },
