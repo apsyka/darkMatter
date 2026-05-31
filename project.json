@@ -545,7 +545,7 @@
         },
         {
             "name": "Erforscht-Karten",
-            "icon": "./images/edited_images/atom_001.jpg",
+            "icon": "./images/science.png",
             "cards": [],
             "id": "ac1147f3-f651-4436-b2e1-830ad8fe2d91",
             "meta": {
@@ -555,7 +555,7 @@
         },
         {
             "name": "Sternenschauer-Scans",
-            "icon": "./images/science.png",
+            "icon": "/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/telescope.png",
             "cards": [],
             "id": "33387e63-1376-4315-90ca-b3480de1dce4",
             "meta": {
@@ -1041,11 +1041,10 @@
                 "name": "<name>"
             },
             "back": {
-                "type": "act_agenda_full",
+                "type": "act_agenda_full_back",
                 "illustration": "./images/edited_images/explosion.jpg",
                 "name": "Reaktor-\u00dcberladung",
-                "text": "Jeder Ermittler wird <b>get\u00f6tet</b>. Die Ermittler haben die Kampagne verloren. Es gibt keine Aufl\u00f6sung.",
-                "flavor_text": "\nDer Reaktorkern schmilzt und explodiert und vernichtet die Tatterdemalion. Im letzten Augenblick deines Lebens siehst du eine strahlend gelbe Krone, die \u00fcber die Weiten des Weltalls herrscht.",
+                "text": "<i>Der Reaktorkern schmilzt und explodiert und vernichtet die Tatterdemalion. Im letzten Augenblick deines Lebens siehst du eine strahlend gelbe Krone, die \u00fcber die Weiten des Weltalls herrscht.</i>\nJeder Ermittler wird <b>get\u00f6tet</b>. Die Ermittler haben die Kampagne verloren. Es gibt keine Aufl\u00f6sung.",
                 "illustration_pan_x": -1.0,
                 "illustration_pan_y": -492.0,
                 "illustration_scale": 2.02,
