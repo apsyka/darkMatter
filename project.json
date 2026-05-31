@@ -1048,7 +1048,8 @@
                 "flavor_text": "\nDer Reaktorkern schmilzt und explodiert und vernichtet die Tatterdemalion. Im letzten Augenblick deines Lebens siehst du eine strahlend gelbe Krone, die \u00fcber die Weiten des Weltalls herrscht.",
                 "illustration_pan_x": -1.0,
                 "illustration_pan_y": -492.0,
-                "illustration_scale": 2.02
+                "illustration_scale": 2.02,
+                "index": "1b"
             },
             "encounter_number": "2",
             "project_number": "15",
@@ -1087,7 +1088,8 @@
                 "attack": "5",
                 "illustration_pan_x": 2.0,
                 "illustration_pan_y": 920.0,
-                "illustration_scale": 2.68
+                "illustration_scale": 2.68,
+                "collection": "<esn>/<est>            <exi>     <exn>b"
             },
             "encounter_number": "3",
             "project_number": "16",
@@ -1112,7 +1114,8 @@
                 "type": "agenda_back",
                 "name": "Schwarz vor Augen",
                 "text": "Jeder \u00fcberlebende Ermittler ist besiegt und erleidet 1 k\u00f6rperliches Trauma.\n\n\n",
-                "flavor_text": "Ohne Vorwarnung gehen alle Lichter in deinem Raum aus. Ein dumpfer mechanischer Schlag und ein stechender Schmerz in deinem Hinterkopf sind das letzte, woran du dich erinnerst, bevor du zu Boden f\u00e4llst und das Bewusstsein verlierst."
+                "flavor_text": "Ohne Vorwarnung gehen alle Lichter in deinem Raum aus. Ein dumpfer mechanischer Schlag und ein stechender Schmerz in deinem Hinterkopf sind das letzte, woran du dich erinnerst, bevor du zu Boden f\u00e4llst und das Bewusstsein verlierst.",
+                "index": "3b"
             },
             "encounter_number": "4",
             "project_number": "17",
@@ -1137,7 +1140,8 @@
                 "type": "act_back",
                 "name": "Systeme online",
                 "text": "Mische das beiseitegelegte Begegnungsset <i>K\u00fcnstliche Intelligenz</i> zusammen mit dem Begegnungs-Ablagestapel in das Begegnungs-<br>deck. Dieses Begegnungsset kann an folgendem Symbol erkannt werden:\n<center><image src\"./images/Artifical Intelligence.png\"></center>\n<left>R\u00fccke zu Agenda 2a und Szene 2a vor. Entferne dabei kein Verderben aus dem Spiel. Bewege alle Verderbensmarker von Agenda 1a auf Agenda 2a.\n\n\n",
-                "flavor_text": "Als das Ionentriebwerk seinen Neustart beginnt, geht die Not-<br>beleuchtung aus. Alles wird dunkel. Vor dir blitzt ein Bild auf \u2013 eine Erinnerung. Du stehst vor einem gro\u00dfen goldenen Palast, der \u00e4lter ist als die Zeit selbst. Ein Thron f\u00fcr eine K\u00f6nigin, die \u00fcber die unendliche Leere eines sonnenlosen Weltalls herrscht. Als die glimmende Haupt-<br>beleuchtung wieder angeht, hallt ein spitzer Schrei aus dem Kommunikationssystem. Es ist der Klang mehrerer robotischer Kinderstimmen, die im Gleichklang schreien: \u201eEindringlinge entdeckt! Geht weg! Bitte lasst uns in Ruhe!\u201c"
+                "flavor_text": "Als das Ionentriebwerk seinen Neustart beginnt, geht die Not-<br>beleuchtung aus. Alles wird dunkel. Vor dir blitzt ein Bild auf \u2013 eine Erinnerung. Du stehst vor einem gro\u00dfen goldenen Palast, der \u00e4lter ist als die Zeit selbst. Ein Thron f\u00fcr eine K\u00f6nigin, die \u00fcber die unendliche Leere eines sonnenlosen Weltalls herrscht. Als die glimmende Haupt-<br>beleuchtung wieder angeht, hallt ein spitzer Schrei aus dem Kommunikationssystem. Es ist der Klang mehrerer robotischer Kinderstimmen, die im Gleichklang schreien: \u201eEindringlinge entdeckt! Geht weg! Bitte lasst uns in Ruhe!\u201c",
+                "index": "1b"
             },
             "encounter_number": "5",
             "project_number": "18",
@@ -1162,7 +1166,8 @@
                 "type": "act_back",
                 "name": "Das Reich der Tr\u00e4ume",
                 "text": "Bringe die beiseitegelegte Storyvorteilskarte Virtueller Zugangsschl\u00fcssel unter der Kontrolle eines beliebigen Ermittlers ins Spiel. Jener Ermittler darf w\u00e4hlen, diese Karte seinem Deck hinzuzuf\u00fcgen. Sie z\u00e4hlt nicht gegen die Deckgr\u00f6\u00dfe des Ermittlers.",
-                "flavor_text": "Es ist unm\u00f6glich, 2C-OES187 physikalisch zu umgehen oder neu zu verdrahten. Allerdings gibt es einen anderen Weg, den \u201eComputer\u201c zu reparieren. Wenn du die Traumprotokolle der K\u00e4lteschlafkapseln so umprogrammieren kannst, dass sie mit 2C-OES187 interagieren, erschaffst du praktisch eine Taschenrealit\u00e4t, \u00fcber die du in seinen Tr\u00e4umen mit 2C-OES187 sprechen kannst. Dort kannst du diese armen Geister wieder zu Verstand bringen. \nWenn du dich allerdings nicht ausreichend mental vorbereitest, kann das Betreten der virtuellen Realit\u00e4t deine eigene Identit\u00e4t sch\u00e4digen und dich in einen dekoh\u00e4renten Zustand bringen. Du hast zwar einige deiner Erinnerungen zur\u00fcckgewonnen, aber deine Selbst-<br>identit\u00e4t ist immer noch nicht wieder im Einklang. Es ist wahr-<br>scheinlich am besten, wenn du das Schiff weiter erkundest und dich daran erinnerst, wer du warst."
+                "flavor_text": "Es ist unm\u00f6glich, 2C-OES187 physikalisch zu umgehen oder neu zu verdrahten. Allerdings gibt es einen anderen Weg, den \u201eComputer\u201c zu reparieren. Wenn du die Traumprotokolle der K\u00e4lteschlafkapseln so umprogrammieren kannst, dass sie mit 2C-OES187 interagieren, erschaffst du praktisch eine Taschenrealit\u00e4t, \u00fcber die du in seinen Tr\u00e4umen mit 2C-OES187 sprechen kannst. Dort kannst du diese armen Geister wieder zu Verstand bringen. \nWenn du dich allerdings nicht ausreichend mental vorbereitest, kann das Betreten der virtuellen Realit\u00e4t deine eigene Identit\u00e4t sch\u00e4digen und dich in einen dekoh\u00e4renten Zustand bringen. Du hast zwar einige deiner Erinnerungen zur\u00fcckgewonnen, aber deine Selbst-<br>identit\u00e4t ist immer noch nicht wieder im Einklang. Es ist wahr-<br>scheinlich am besten, wenn du das Schiff weiter erkundest und dich daran erinnerst, wer du warst.",
+                "index": "2b"
             },
             "encounter_number": "6",
             "project_number": "19",
@@ -1187,7 +1192,8 @@
                 "type": "act_agenda_full_back",
                 "illustration": "./images/edited_images/0_gate - unknown.jpg",
                 "name": "<size 75> Durch die Tore der virtuellen Traumlande",
-                "flavor_text": "Indem du die K\u00e4lteschlafkapseln mit dem Hauptcomputer verbindest, kannst du dein bald wieder tr\u00e4umendes Selbst in die gemeinsamen Tr\u00e4ume von 2C-OES187 hochladen. Du legst dich erneut in deinen Sarg und aktivierst die Schlafsequenz der Maschine\u2026</i>(<resolution><b>A2</b>)"
+                "flavor_text": "Indem du die K\u00e4lteschlafkapseln mit dem Hauptcomputer verbindest, kannst du dein bald wieder tr\u00e4umendes Selbst in die gemeinsamen Tr\u00e4ume von 2C-OES187 hochladen. Du legst dich erneut in deinen Sarg und aktivierst die Schlafsequenz der Maschine\u2026</i>(<resolution><b>A2</b>)",
+                "index": "3b"
             },
             "encounter_number": "7",
             "project_number": "20",
@@ -1531,7 +1537,6 @@
                 "type": "asset",
                 "traits": "Gegenstand. R\u00fcstung.",
                 "text": "<rev> Du darfst diese Karte unter der Kontrolle eines beliebigen Ermittlers ins Spiel bringen.\n<act><act> Falls du dich an einem <t>Zugangspunkt</t>-Ort befindest: Bewege dich an einen anderen <t>Zugangspunkt</t>-Ort. <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das unten stehende Symbol besitzt, und ziehe sie. Mische das Scan-Deck.\n<center><image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationStar.png\" 0.23in>",
-
                 "slot": "Body",
                 "health": "2",
                 "sanity": "<dash>",
@@ -1589,7 +1594,6 @@
                 "subtitle": "Nicht \u00fcbersetzte Runen",
                 "traits": "Buch.",
                 "text": "<rev> F\u00fcge Carcosas Erbin deinem Deck hinzu.\nDauerhaft.\nWenn die Ermittler w\u00e4hrend der Aufl\u00f6sung eines Szenarios Siegpunkte verdienen, verdient der Ermittler mit den wenigsten seelischen Traumata 1 zus\u00e4tzlichen Erfahrungspunkt f\u00fcr jedes seelische Trauma, das er hat. (Bei Gleichstand w\u00e4hlst du einen jener Ermittler aus.)",
-
                 "flavor_text": "",
                 "illustration": "./images/edited_images/language - unknown.jpg",
                 "classes": [
@@ -1735,7 +1739,6 @@
                 "type": "asset",
                 "traits": "Gegenstand. Medizin. Wissenschaft.",
                 "text": "<rev> Du darfst diese Karte unter der Kontrolle eines beliebigen Ermittlers ins Spiel bringen.\nAnwendungen (3 Vorr\u00e4te).\n<reaction> Nachdem einer Ermittlerkarte an deinem Ort eine beliebige Menge Schaden zugewiesen wurde, gib 1 Vorrat aus und ersch\u00f6pfe das <name>: Heile so viel Schaden von jener Ermittlerkarte, wie ihr gerade zugewiesen wurde.",
-
                 "slot": "1 Hand",
                 "flavor_text": "",
                 "classes": [
@@ -1768,7 +1771,6 @@
                 "type": "asset",
                 "traits": "Ger\u00e4t.",
                 "text": "<rev> Du darfst diese Karte unter der Kontrolle eines beliebigen Ermittlers ins Spiel bringen.\n<act> Die Ermittler geben als Gruppe 2<per_large> Hinweise aus: <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das unten stehende Symbol besitzt, und ziehe sie. Mische das Scan-Deck.\n<center> bild einf\u00fcgen",
-
                 "flavor_text": "",
                 "classes": [
                     "story"
@@ -1800,7 +1802,6 @@
                 "type": "asset",
                 "traits": "Gegenstand. Medizin. Wissenschaft.",
                 "text": "<rev> Du darfst diese Karte unter der Kontrolle eines beliebigen Ermittlers ins Spiel bringen.\nAnwendungen (3 Vorr\u00e4te).\n<free> Gib 1 Vorrat aus: Du bekommst bis zum Ende der Runde +1 <com> und +1 <agi>.",
-
                 "flavor_text": "",
                 "classes": [
                     "story"
@@ -2146,7 +2147,7 @@
             "amount": 3
         },
         {
-            "name": "<dbl>Elektrischer Albtraum</dbl>",
+            "name": "Elektrischer Albtraum",
             "front": {
                 "type": "chaos",
                 "entries": [
@@ -2215,9 +2216,10 @@
             },
             "back": {
                 "type": "agenda_back",
-                "name": "  <family \"Chiller\"><b>NACHTANGST</b></family>",
+                "name": "<font \"./fonts/Bonechiller.ttf\">NACHTANGST",
                 "text": "Falls Szene 1 aktiv ist, erscheint der beiseitegelegte Gegner Der Butzemann ersch\u00f6pft auf dem Schulhof.\nFalls Szene 2 aktiv ist, erscheint der beiseitegelegte Gegner Der Butzemann ersch\u00f6pft in der Eingangshalle.\nMische danach in jedem Fall alle \u00fcbrigen Karten aus dem Begegnungsset <i>Der Butzemann</i> zusammen mit dem Begegnungs-Ablagestapel in das Begegnungs-deck. Dieses Begegnungsset kann an folgendem Symbol erkannt werden:\n<center><image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Begegnungsset-Symbole\\Der Butzemann.png\" 0.25in>",
-                "flavor_text": "Ein Kichern hallt durch die virtuellen Traumlande. Du h\u00f6rst, wie Schritte irgendwo in deiner N\u00e4he immer lauter werden. Ein albtraumhafter Teufel kriecht aus den Schatten. Er ist \u00fcber zwei Meter gro\u00df, und mit seinem wei\u00df geschminkten Gesicht, den rot umrandeten Augen und den unnat\u00fcrlich gelben Locken wirkt das Ding fast wie ein Clown. Aber kein echter Clown w\u00fcrde jemals dieses zerfetzte, schimmlige, gelb-schwarze Kost\u00fcm tragen. Kein Clown strahlt mit seinem Blick diese wahnwitzige Gefahr aus. Sein Grinsen ist unnat\u00fcrlich breit. Auf seinem Kopf tr\u00e4gt es einen \u00e4rztlichen Rundspiegel, und um seinen Hals h\u00e4ngt ein Stethoskop. Es hebt die Hand, und jeder Finger endet in einer altmodischen Injektionsspritze. Es ist der schlimmste Albtraum jedes Kindes, und du wei\u00df sofort, fast instinktiv, was dieses Wesen sein muss. Es ist der Butzemann."
+                "flavor_text": "Ein Kichern hallt durch die virtuellen Traumlande. Du h\u00f6rst, wie Schritte irgendwo in deiner N\u00e4he immer lauter werden. Ein albtraumhafter Teufel kriecht aus den Schatten. Er ist \u00fcber zwei Meter gro\u00df, und mit seinem wei\u00df geschminkten Gesicht, den rot umrandeten Augen und den unnat\u00fcrlich gelben Locken wirkt das Ding fast wie ein Clown. Aber kein echter Clown w\u00fcrde jemals dieses zerfetzte, schimmlige, gelb-schwarze Kost\u00fcm tragen. Kein Clown strahlt mit seinem Blick diese wahnwitzige Gefahr aus. Sein Grinsen ist unnat\u00fcrlich breit. Auf seinem Kopf tr\u00e4gt es einen \u00e4rztlichen Rundspiegel, und um seinen Hals h\u00e4ngt ein Stethoskop. Es hebt die Hand, und jeder Finger endet in einer altmodischen Injektionsspritze. Es ist der schlimmste Albtraum jedes Kindes, und du wei\u00df sofort, fast instinktiv, was dieses Wesen sein muss. Es ist der Butzemann.",
+                "index": "1b"
             },
             "encounter_number": "2",
             "project_number": "55",
@@ -2225,21 +2227,21 @@
             "id": "636e27a5-2260-483c-a4e8-ceea93393700"
         },
         {
-            "name": "<family \"Chiller\"><b><size 15.0>ES</size></b></family>",
+            "name": "ES",
             "front": {
                 "type": "agenda",
-                "text": "<center><family \"Chiller\"><size 15.0>Ha-HA! Ha-HA! Ha-HA!\nWollt ihr nicht mit mir spielen?</size>\n<left>Jeder Ort ist mit jedem benachbarten Ort verbunden.\n<for> Zu Beginn der Gegnerphase: Platziere 1 Verderben auf jede <t>Avatar</t>-Storyvorteilskarte, die sich am selben Ort wie der Butzemann befindet.",
+                "text": "<center><font \"./fonts/Bonechiller.ttf\">Ha-HA! Ha-HA! Ha-HA!\nWollt ihr nicht mit mir spielen?</font></center>\n<left>Jeder Ort ist mit jedem benachbarten Ort verbunden.\n<for> Zu Beginn der Gegnerphase: Platziere 1 Verderben auf jede <t>Avatar</t>-Storyvorteilskarte, die sich am selben Ort wie der Butzemann befindet.",
                 "flavor_text": "",
                 "illustration": "./images/edited_images/glitch art - unknown.jpg",
                 "doom": "10",
                 "index": "2a",
-                "name": "<name>",
+                "name": "<font \"./fonts/Bonechiller.ttf\"><name>",
                 "illustration_pan_x": -397.0
             },
             "back": {
                 "type": "agenda_back",
-                "name": "  <family \"Chiller\"><b>FURCHT</b></family>",
-                "text": "<center><family \"Chiller\"><size 15.0>\nWieso habt           ihr so lange\n  gebraucht?            Jetzt k\u00f6nnen\nwir f\u00fcr            immer\n\nzusammen\nspielen.</size>\n\nJeder                    verbliebene\nErmittler           ist\n     besiegt.\n"
+                "name": "<font \"./fonts/Bonechiller.ttf\">FURCHT",
+                "text": "<center><font \"./fonts/Bonechiller.ttf\">\nWieso habt           ihr so lange\n  gebraucht?            Jetzt k\u00f6nnen\nwir f\u00fcr                   immer\n\nzusammen\nspielen.</size>\n\nJeder                       verbliebene\nErmittler             ist\n     besiegt.\n"
             },
             "encounter_number": "3",
             "project_number": "56",
@@ -2265,7 +2267,8 @@
                 "type": "act_back",
                 "name": "Zerstreute Geister",
                 "text": "Bringe alle beiseitegelegten Kopien von Undefinierter Raum ins Spiel. Ordne sie dabei nach folgendem Muster um die Eingangshalle herum an:\n<center><image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationCross.png\" 0.22in> <image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationMoon.png\" 0.22in> <image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationTriangle.png\" 0.22in>\n<image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationSquare.png\" 0.22in> <image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationSlash.png\" 0.22in> <image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationCircle.png\" 0.22in>\n\n(<image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationSlash.png\" 0.11in bottom> ist die Eingangshalle.)</i>\n\n\n",
-                "flavor_text": "Du merkst schnell, dass hier etwas v\u00f6llig falsch ist. Die Flure sind zu einem unm\u00f6glichen Labyrinth verflochten und f\u00fchren in alle m\u00f6glichen und unm\u00f6glichen Richtungen. Die Simulation der Schule ist vollkommen fehlerhaft. Du wirst die Kinder erst finden k\u00f6nnen, wenn du den Aufbau der Schule wiederhergestellt hast, ein Codest\u00fcck nach dem anderen."
+                "flavor_text": "Du merkst schnell, dass hier etwas v\u00f6llig falsch ist. Die Flure sind zu einem unm\u00f6glichen Labyrinth verflochten und f\u00fchren in alle m\u00f6glichen und unm\u00f6glichen Richtungen. Die Simulation der Schule ist vollkommen fehlerhaft. Du wirst die Kinder erst finden k\u00f6nnen, wenn du den Aufbau der Schule wiederhergestellt hast, ein Codest\u00fcck nach dem anderen.",
+                "index": "1b"
             },
             "encounter_number": "4",
             "project_number": "57",
@@ -2291,7 +2294,8 @@
                 "type": "act_back",
                 "name": "Zerstreute Geister",
                 "text": "Bringe alle beiseitegelegten Kopien von Undefinierter Raum ins Spiel. Ordne sie dabei nach folgendem Muster um die Eingangshalle herum an:\n<center><image \"project://Images/Cross.png\" 0.59cm> <image \"project://Images/Square.png\" 0.59cm> <image \"project://Images/Circle.png\" 0.59cm> \n<image \"project://Images/Moon.png\" 0.59cm> <image \"project://Images/Slash.png\" 0.59cm> <image \"project://Images/Triangle.png\" 0.59cm> \n<left><i>(Where  <image \"project://Images/Slash.png\" 0.3cm center>  is the Entrance Hall.)</i>\n\n\n",
-                "flavor_text": "Du merkst schnell, dass hier etwas v\u00f6llig falsch ist. Die Flure sind zu einem unm\u00f6glichen Labyrinth verflochten und f\u00fchren in alle m\u00f6glichen und unm\u00f6glichen Richtungen. Die Simulation der Schule ist vollkommen fehlerhaft. Du wirst die Kinder erst finden k\u00f6nnen, wenn du den Aufbau der Schule wiederhergestellt hast, ein Codest\u00fcck nach dem anderen."
+                "flavor_text": "Du merkst schnell, dass hier etwas v\u00f6llig falsch ist. Die Flure sind zu einem unm\u00f6glichen Labyrinth verflochten und f\u00fchren in alle m\u00f6glichen und unm\u00f6glichen Richtungen. Die Simulation der Schule ist vollkommen fehlerhaft. Du wirst die Kinder erst finden k\u00f6nnen, wenn du den Aufbau der Schule wiederhergestellt hast, ein Codest\u00fcck nach dem anderen.",
+                "index": "1b"
             },
             "encounter_number": "5",
             "project_number": "58",
@@ -2317,7 +2321,8 @@
                 "type": "act_back",
                 "name": "Zerstreute Geister",
                 "text": "Bringe alle beiseitegelegten Kopien von Undefinierter Raum ins Spiel. Ordne sie dabei nach folgendem Muster um die Eingangshalle herum an:\n<center><image \"project://Images/Triangle.png\" 0.59cm> <image \"project://Images/Cross.png\" 0.59cm> <image \"project://Images/Moon.png\" 0.59cm> \n<image \"project://Images/Square.png\" 0.59cm> <image \"project://Images/Slash.png\" 0.59cm> <image \"project://Images/Circle.png\" 0.59cm> \n<left><i>(Where  <image \"project://Images/slash.png\" 0.3cm center>  is the Entrance Hall.)</i>\n<image \"C:\\Users\\cdpog\\Desktop\\clover.jpg\">\n\n\n",
-                "flavor_text": "Du merkst schnell, dass hier etwas v\u00f6llig falsch ist. Die Flure sind zu einem unm\u00f6glichen Labyrinth verflochten und f\u00fchren in alle m\u00f6glichen und unm\u00f6glichen Richtungen. Die Simulation der Schule ist vollkommen fehlerhaft. Du wirst die Kinder erst finden k\u00f6nnen, wenn du den Aufbau der Schule wiederhergestellt hast, ein Codest\u00fcck nach dem anderen."
+                "flavor_text": "Du merkst schnell, dass hier etwas v\u00f6llig falsch ist. Die Flure sind zu einem unm\u00f6glichen Labyrinth verflochten und f\u00fchren in alle m\u00f6glichen und unm\u00f6glichen Richtungen. Die Simulation der Schule ist vollkommen fehlerhaft. Du wirst die Kinder erst finden k\u00f6nnen, wenn du den Aufbau der Schule wiederhergestellt hast, ein Codest\u00fcck nach dem anderen.",
+                "index": "1b"
             },
             "encounter_number": "6",
             "project_number": "59",
@@ -2343,7 +2348,8 @@
                 "type": "act_back",
                 "name": "Nur ein schlechter Traum",
                 "flavor_text": "Als die Simulation der Schule endlich wiederhergestellt ist, schreit ein Chor aus Kinderstimmen wahnsinnig vor Angst \u00fcber das Funksystem: \u201eWas hast du getan? Wir haben die Schule durcheinandergebracht, damit der Butzemann uns nicht findet! Jetzt wird er uns fressen!\u201c Dir wird klar, dass der Schaden an der Simulation und der Butzemann nicht durch \u00e4u\u00dfere Einfl\u00fcsse entstanden sind \u2013 sie sind Mani-<br>festationen des Wahnsinns der Kinder, die Verk\u00f6rperung ihrer \u00c4ngste. Was kann sie derart an den Rand der Verzweiflung getrieben haben? Egal. Wenn du sie davon \u00fcberzeugst, dass das Monster nur aus ihrer eigenen simulierten Fantasie entstanden ist, kannst du sie vielleicht retten, bevor ihre Panik sie komplett verschlingt.",
-                "text": "Falls der Butzemann nicht im Spiel ist, erscheint der beiseitegelegte Gegner Der Butzemann in der Eingangshalle. Enth\u00fclle alle verh\u00fcllten Orte.\nBringe jeweils eine zuf\u00e4llig bestimmte der beiseitegelegten <i><b>Avatar</b></i>-Storyvorteilskarten an jedem der folgenden Orte ins Spiel: Klassenzimmer der 2C, B\u00fccherei, Sporthalle und Biologie-Labor.\nFalls sich der Butzemann jetzt am selben Ort wie eine <t>Avatar</t>-Storyvorteilskarte befindet, bewege jene <t>Avatar</t>-Storyvorteilskarte in die Cafeteria."
+                "text": "Falls der Butzemann nicht im Spiel ist, erscheint der beiseitegelegte Gegner Der Butzemann in der Eingangshalle. Enth\u00fclle alle verh\u00fcllten Orte.\nBringe jeweils eine zuf\u00e4llig bestimmte der beiseitegelegten <i><b>Avatar</b></i>-Storyvorteilskarten an jedem der folgenden Orte ins Spiel: Klassenzimmer der 2C, B\u00fccherei, Sporthalle und Biologie-Labor.\nFalls sich der Butzemann jetzt am selben Ort wie eine <t>Avatar</t>-Storyvorteilskarte befindet, bewege jene <t>Avatar</t>-Storyvorteilskarte in die Cafeteria.",
+                "index": "2b"
             },
             "encounter_number": "7",
             "project_number": "60",
@@ -2369,7 +2375,8 @@
                 "type": "act_back",
                 "name": "Nichts zu bef\u00fcrchten",
                 "text": "(<resolution><b>A3</b>)\n\n\n",
-                "flavor_text": "Als das schreckliche Monstrum sich nicht mehr an der Angst seiner Opfer laben kann, entweicht die Luft aus ihm wie aus einem Ballon, und es l\u00f6st sich aus der Simulation auf."
+                "flavor_text": "Als das schreckliche Monstrum sich nicht mehr an der Angst seiner Opfer laben kann, entweicht die Luft aus ihm wie aus einem Ballon, und es l\u00f6st sich aus der Simulation auf.",
+                "index": "3b"
             },
             "encounter_number": "8",
             "project_number": "61",
@@ -2384,7 +2391,6 @@
                 "subtitle": "Informationsarchiv",
                 "traits": "Avatar.",
                 "text": "<free> W\u00e4hle 3 Karten von deiner Hand und lege sie ab: L\u00f6se dich von jedem Gegner, der mit dir in einen Kampf verwickelt ist, und bewege dich an einen verbundenen Ort. Ermittler an jedem Ort k\u00f6nnen diese F\u00e4higkeit ausl\u00f6sen.",
-
                 "flavor_text": "",
                 "illustration": "./images/edited_images/Louis Carr.jpg",
                 "illustrator": "Illus. Louis Carr",
@@ -2424,7 +2430,6 @@
                     "story"
                 ],
                 "slot": "None",
-
                 "level": "None",
                 "illustration_pan_y": -50.0,
                 "collection": "<esn>/<est>        <exi> <exn>a"
@@ -2450,7 +2455,6 @@
                 "traits": "Avatar.",
                 "text": "<act> Falls sich der Butzemann an einem Ort befindet, der direkt \u00fcber oder unter Davids Ort liegt: <b>Verhandlung.</b> Lege eine <com>-Probe (2) ab. Falls die Probe gelingt, drehe diese Karte um und handle den Text auf der R\u00fcckseite ab.",
                 "title": "<unique><name>",
-
                 "classes": [
                     "story"
                 ],
@@ -2480,7 +2484,6 @@
                 "traits": "Avatar.",
                 "text": "<act> Falls sich der Butzemann an einem Ort befindet, der direkt \u00fcber oder unter Tildes Ort liegt: <b>Verhandlung.</b> Lege eine <int>-Probe (2) ab. Falls die Probe gelingt, drehe diese Karte um und handle den Text auf der R\u00fcckseite ab.",
                 "title": "<unique><name>",
-
                 "classes": [
                     "story"
                 ],
@@ -2510,7 +2513,6 @@
                 "traits": "Avatar.",
                 "text": "<act> Falls sich der Butzemann an einem Ort befindet, der direkt \u00fcber oder unter Williams Ort liegt: <b>Verhandlung.</b> Lege eine <agi>-Probe (2) ab. Falls die Probe gelingt, drehe diese Karte um und handle den Text auf der R\u00fcckseite ab.",
                 "title": "<unique><name>",
-
                 "classes": [
                     "story"
                 ],
@@ -2557,7 +2559,6 @@
                 "subtitle": "25% funktionsf\u00e4hig",
                 "traits": "KI.",
                 "text": "<reaction> Zu Beginn der Runde: W\u00e4hle einen Ermittler. Der gew\u00e4hlte Ermittler darf in seinem Zug in dieser Runde eine zus\u00e4tzliche Aktion nehmen, die nur f\u00fcr <b>Scannen</b>-<br>F\u00e4higkeiten verwendet werden kann.",
-
                 "flavor_text": "",
                 "illustration": "./images/edited_images/hal2 - unknown.jpg",
                 "name": "<unique><name>",
@@ -2583,7 +2584,6 @@
                 "subtitle": "50% funktionsf\u00e4hig",
                 "traits": "KI.",
                 "text": "Dauerhaft.\n<free>: W\u00e4hle einen Ermittler. Der gew\u00e4hlte Ermittler darf in seinem Zug in dieser Runde eine zus\u00e4tzliche Aktion nehmen, die nur f\u00fcr <b>Scannen</b>-F\u00e4higkeiten verwendet werden kann. (Nur einmal pro Runde.)",
-
                 "flavor_text": "",
                 "classes": [
                     "story"
@@ -2609,7 +2609,6 @@
                 "subtitle": "75% funktionsf\u00e4hig",
                 "traits": "KI.",
                 "text": "Dauerhaft.\n<free>: W\u00e4hle einen Ermittler. Der gew\u00e4hlte Ermittler darf in seinem Zug in dieser Runde eine zus\u00e4tzliche Aktion nehmen, die nur f\u00fcr <b>Scannen</b>-F\u00e4higkeiten verwendet werden kann. (Nur einmal pro Runde.)\n<reaction>Nachdem einem Ermittler ein Scan misslungen ist: Jener Ermittler zieht 1 Karte oder erh\u00e4lt 1 Ressource.",
-
                 "flavor_text": "",
                 "classes": [
                     "story"
@@ -2635,7 +2634,6 @@
                 "subtitle": "100% funtkionsf\u00e4hig",
                 "traits": "KI.",
                 "text": "Dauerhaft.\n<free>: W\u00e4hle einen Ermittler. Der gew\u00e4hlte Ermittler darf in seinem Zug in dieser Runde eine zus\u00e4tzliche Aktion nehmen, die nur f\u00fcr <b>Scannen</b>-F\u00e4higkeiten verwendet werden kann. (Nur einmal pro Runde.)\n<reaction> Nachdem ein Ermittler gescannt hat: Jener Ermittler zieht 1 Karte oder erh\u00e4lt 1 Ressource. (Nur einmal pro Runde.)",
-
                 "flavor_text": "",
                 "classes": [
                     "story"
@@ -3125,7 +3123,7 @@
                 "type": "treachery",
                 "traits": "Virtuell. Albtraum.",
                 "text": "Wagnis.\n<rev> Lege eine <wil>- oder <agi>-Probe (4) ab. Falls die Probe misslingt, bewegt sich der Butzemann entweder direkt an deinen Ort, oder er greift dich an (von seinem aktuellen Ort aus).",
-                "flavor_text": "<center><family \"Chiller\"><b><size 10.0>DREH DICH NICHT UM</size></b></family>",
+                "flavor_text": "<font \"./fonts/Bonechiller.ttf\">DREH DICH NICHT UM",
                 "illustration": "./images/edited_images/jack - mark-fredrickson.jpg",
                 "illustrator": "Illus. Mark Fredrickson",
                 "illustration_pan_x": 165.0,
@@ -3143,7 +3141,7 @@
             "amount": 2
         },
         {
-            "name": "<dbl>Verlorene Quanten</dbl>",
+            "name": "Verlorene Quanten",
             "front": {
                 "type": "chaos",
                 "entries": [
@@ -3228,7 +3226,8 @@
                 "type": "agenda_back",
                 "name": "Beobachtereffekt",
                 "text": "Jeder Ermittler, der sich an einem Ort befindet, auf dem kein Ressourcenmarker liegt, legt die oberste Karte des Begegnungsdecks verdeckt in seine Bedrohungszone. Mische alle leeren Orte, auf denen kein Ressourcenmarker liegt, in das Scan-Deck. Falls unter dieser Agenda noch eine weitere Agendakarte liegt, lege diese Agenda beiseite und r\u00fccke zur n\u00e4chsten Agenda vor. Ansonsten notiere im Kampagnenlogbuch einen Z\u00e4hlstrich unter \u201eDrohendes Unheil\u201c und mische diese Agenda mit allen beiseitegelegten Agendakarten zusammen, um ein neues Agendadeck zu bilden.\n",
-                "flavor_text": "Du merkst schnell, dass es keine Orientierung gibt, wenn alles gleichzeitig \u00fcberall sein kann. Nur die Orientierungs-punkte, die du ganz bewusst beobachtest, bleiben da, wo sie sind."
+                "flavor_text": "Du merkst schnell, dass es keine Orientierung gibt, wenn alles gleichzeitig \u00fcberall sein kann. Nur die Orientierungs-punkte, die du ganz bewusst beobachtest, bleiben da, wo sie sind.",
+                "index": "1b"
             },
             "project_number": "90",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
@@ -3254,7 +3253,8 @@
                 "type": "agenda_back",
                 "name": "Tunneleffekt",
                 "text": "Falls das Scan-Deck nicht leer ist, sieh dir die oberste Karte des Scan-Decks an. Wenn es ein Ort ist, bringe ihn ins Spiel und bewege jeden Ermittler und jeden Nicht-<t>Schwellenwesen</t>-Gegner dorthin.\nMische alle leeren Orte, auf denen kein Ressourcenmarker liegt, in das Scan-Deck.\nFalls unter dieser Agenda noch eine weitere Agendakarte liegt, lege diese Agenda beiseite und r\u00fccke zur n\u00e4chsten Agenda vor. Ansonsten notiere im Kampagnenlogbuch einen Z\u00e4hlstrich unter \u201eDrohendes Unheil\u201c und mische diese Agenda mit allen beiseitegelegten Agendakarten zusammen, um ein neues Agendadeck zu bilden.\n\n",
-                "flavor_text": "Du bemerkst erst jetzt, dass sich jedes Mal, wenn du blinzelst, etwas \u00e4ndert. Manchmal bewegen sich nur ein paar Steine ein paar Zentimeter weit. Manchmal findest du dich aber auch an einem v\u00f6llig anderen Ort wieder."
+                "flavor_text": "Du bemerkst erst jetzt, dass sich jedes Mal, wenn du blinzelst, etwas \u00e4ndert. Manchmal bewegen sich nur ein paar Steine ein paar Zentimeter weit. Manchmal findest du dich aber auch an einem v\u00f6llig anderen Ort wieder.",
+                "index": "1b"
             },
             "encounter_number": "2-4",
             "project_number": "90",
@@ -3280,7 +3280,8 @@
                 "type": "agenda_back",
                 "name": "Unsicherheitsprinzip",
                 "text": "Mische den Begegnungs-Ablagestapel in das Begegnungs-<br>deck.\nIn Spielreihenfolge legt jeder Ermittler die oberste Karte des Begegnungsdecks verdeckt in seine Bedrohungszone.\nFalls unter dieser Agenda noch eine weitere Agendakarte liegt, lege diese Agenda beiseite und r\u00fccke zur n\u00e4chsten Agenda vor. Ansonsten notiere im Kampagnenlogbuch einen Z\u00e4hlstrich unter \u201eDrohendes Unheil\u201c und mische diese Agenda mit allen beiseitegelegten Agendakarten zusammen, um ein neues Agendadeck zu bilden.",
-                "flavor_text": "Die grundlegenden Eigenschaften von Quantenwerkstoffen lassen sich mit dem Welle-Teilchen-Dualismus vergleichen. Man wei\u00df nie, mit was man es genau zu tun hat, bis man es beobachtet."
+                "flavor_text": "Die grundlegenden Eigenschaften von Quantenwerkstoffen lassen sich mit dem Welle-Teilchen-Dualismus vergleichen. Man wei\u00df nie, mit was man es genau zu tun hat, bis man es beobachtet.",
+                "index": "1b"
             },
             "encounter_number": "2-4",
             "project_number": "90",
@@ -3305,7 +3306,8 @@
                 "type": "act_back",
                 "name": "Quantengaunerei",
                 "flavor_text": "Endlich findest du den einsamen Wissenschaftler auf dem Asteroiden. Er stellt sich als Erwin Simmons vor, der Quantenforschungsleiter dieser Einrichtung. \u201eSie haben die Stabilisator-<br>kristalle gestohlen! Die Kultisten!\u201c Er erkl\u00e4rt, was hier geschehen ist. \u201eOhne die Kristalle war der ganze Asteroid schnell in Unsicherheit verloren. Alle anderen wurden gerettet, aber ich bin hiergeblieben, um die Anomalie einzud\u00e4mmen.\u201c",
-                "text": "<hr> <b>Falls sich im Kampagnenlogbuch 3 oder mehr Z\u00e4hlstriche unter \u201eDrohendes Unheil\u201c befinden:</b>\n<blockquote>\u201eLeider ist es zu sp\u00e4t. Der Quantenstrudel hat meine Realit\u00e4t schon aufgesogen. Ihr m\u00fcsst diesen Ort so schnell wie m\u00f6glich verlassen, damit ihr nicht auch hier gefangen werdet!\u201c Bevor du antworten kannst, h\u00f6rt der Physiker vor deinen Augen auf zu existieren.</blockquote>\nMische den Begegnungs-Ablagestapel in das Begegnungsdeck. Mische die beiseitegelegte Karte Erwin Simmons (Schwindend) mit den obersten 3<per_large> Karten des Begegnungsdecks zusammen. Lege diese Karten danach verdeckt in die Bedrohungszonen der Ermittler. Verteile sie dabei so gleichm\u00e4\u00dfig wie m\u00f6glich.\nR\u00fccke zu Szene 2a \u2013 \u201eDestabilisierung\u201c vor und entferne Szene 2a \u2013 \u201eQuantenzenon\u201c aus dem Spiel.\n<hr> <b>Ansonsten:</b>\n<blockquote>Trotz dieser Umst\u00e4nde glaubt er, dass die Einrichtung immer noch gerettet werden kann, wenn ihr ihm helft, die modifizierten Q-Kristallsplitter auf dem Asteroiden zu verteilen.</blockquote>\nBringe die beiseitegelegte Karte Erwin Simmons (Quantenphysiker) unter der Kontrolle eines beliebigen Ermittlers ins Spiel. Bis zum Ende des Szenarios ben\u00f6tigt diese Karte keinen Verb\u00fcndeter-Slot.\nR\u00fccke zu Szene 2a \u2013 \u201eQuantenzenon\u201c vor und entferne Szene 2a \u2013 \u201eDestabilisierung\u201c aus dem Spiel."
+                "text": "<hr> <b>Falls sich im Kampagnenlogbuch 3 oder mehr Z\u00e4hlstriche unter \u201eDrohendes Unheil\u201c befinden:</b>\n<blockquote>\u201eLeider ist es zu sp\u00e4t. Der Quantenstrudel hat meine Realit\u00e4t schon aufgesogen. Ihr m\u00fcsst diesen Ort so schnell wie m\u00f6glich verlassen, damit ihr nicht auch hier gefangen werdet!\u201c Bevor du antworten kannst, h\u00f6rt der Physiker vor deinen Augen auf zu existieren.</blockquote>\nMische den Begegnungs-Ablagestapel in das Begegnungsdeck. Mische die beiseitegelegte Karte Erwin Simmons (Schwindend) mit den obersten 3<per_large> Karten des Begegnungsdecks zusammen. Lege diese Karten danach verdeckt in die Bedrohungszonen der Ermittler. Verteile sie dabei so gleichm\u00e4\u00dfig wie m\u00f6glich.\nR\u00fccke zu Szene 2a \u2013 \u201eDestabilisierung\u201c vor und entferne Szene 2a \u2013 \u201eQuantenzenon\u201c aus dem Spiel.\n<hr> <b>Ansonsten:</b>\n<blockquote>Trotz dieser Umst\u00e4nde glaubt er, dass die Einrichtung immer noch gerettet werden kann, wenn ihr ihm helft, die modifizierten Q-Kristallsplitter auf dem Asteroiden zu verteilen.</blockquote>\nBringe die beiseitegelegte Karte Erwin Simmons (Quantenphysiker) unter der Kontrolle eines beliebigen Ermittlers ins Spiel. Bis zum Ende des Szenarios ben\u00f6tigt diese Karte keinen Verb\u00fcndeter-Slot.\nR\u00fccke zu Szene 2a \u2013 \u201eQuantenzenon\u201c vor und entferne Szene 2a \u2013 \u201eDestabilisierung\u201c aus dem Spiel.",
+                "index": "1b"
             },
             "encounter_number": "5",
             "project_number": "91",
@@ -3331,7 +3333,8 @@
                 "type": "act_back",
                 "name": "Sicherheit",
                 "text": "(<resolution><b>A2</b>)\n\n\n",
-                "flavor_text": "Das lila Gl\u00fchen von Elbrus verblasst, als du den letzten Q-Kristall einsetzt. Der Physiker ist wahnsinnig vor Freude und Erleichterung. Das Quantenfeld ist wieder vollst\u00e4ndig stabilisiert."
+                "flavor_text": "Das lila Gl\u00fchen von Elbrus verblasst, als du den letzten Q-Kristall einsetzt. Der Physiker ist wahnsinnig vor Freude und Erleichterung. Das Quantenfeld ist wieder vollst\u00e4ndig stabilisiert.",
+                "index": "2b"
             },
             "encounter_number": "6",
             "project_number": "92",
@@ -3356,7 +3359,8 @@
             "back": {
                 "type": "act_back",
                 "name": "Unsicherheit",
-                "text": "<b>Falls ein Ermittler mit Erwin Simmons unter seiner Kontrolle aufgegeben hat:</b>\n<blockquote>Das Shuttle hebt mit einem Durcheinander an lauten Ger\u00e4uschen ab und schafft es gerade eben, dem kollabierenden Quantenfeld zu entkommen. Erwin blickt betr\u00fcbt auf die Einrichtung zur\u00fcck. Jahre seiner Forschung sind jetzt in dieser Unrealit\u00e4t verloren. Trotz dieses Verlusts ist er dir f\u00fcr deine Anstrengungen dankbar.</blockquote>\n(<resolution><b>A3</b>)\n<hr>\n<b>Ansonsten:</b>\n<blockquote>Das Shuttle hebt ohne Probleme ab und entkommt dem Quantenfeld. Euer Funkger\u00e4t knistert erneut und l\u00e4sst euch Erwin Simmons' letzte Worte h\u00f6ren: \u201eMacht es gut, meine Freunde! Ich hoffe, ihr habt euren Aufenthalt hier genossen! Sagt der Welt \u2013\u201c Der Rest ist verrauscht.</blockquote>\n(<resolution><b>A1</b>)"
+                "text": "<b>Falls ein Ermittler mit Erwin Simmons unter seiner Kontrolle aufgegeben hat:</b>\n<blockquote>Das Shuttle hebt mit einem Durcheinander an lauten Ger\u00e4uschen ab und schafft es gerade eben, dem kollabierenden Quantenfeld zu entkommen. Erwin blickt betr\u00fcbt auf die Einrichtung zur\u00fcck. Jahre seiner Forschung sind jetzt in dieser Unrealit\u00e4t verloren. Trotz dieses Verlusts ist er dir f\u00fcr deine Anstrengungen dankbar.</blockquote>\n(<resolution><b>A3</b>)\n<hr>\n<b>Ansonsten:</b>\n<blockquote>Das Shuttle hebt ohne Probleme ab und entkommt dem Quantenfeld. Euer Funkger\u00e4t knistert erneut und l\u00e4sst euch Erwin Simmons' letzte Worte h\u00f6ren: \u201eMacht es gut, meine Freunde! Ich hoffe, ihr habt euren Aufenthalt hier genossen! Sagt der Welt \u2013\u201c Der Rest ist verrauscht.</blockquote>\n(<resolution><b>A1</b>)",
+                "index": "2b"
             },
             "encounter_number": "7",
             "project_number": "93",
@@ -3371,7 +3375,6 @@
                 "subtitle": "Schwindend",
                 "traits": "Wissenschaftler. Mensch. Verb\u00fcndeter.",
                 "text": "<rev> Bringe diese Karte unter deiner Kontrolle ins Spiel.\n<for> Am Ende der Runde oder sobald du aufgibst, falls sich mindestens 1 verdeckte Begegnungskarte in der Bedrohungs-<br>zone eines Ermittlers befindet: Verdecke Erwin Simmons und mische ihn mit allen verdeckten Begegnungskarten aus den Bedrohungszonen aller Ermittler zusammen. Verteile diese Karten danach m\u00f6glichst gleichm\u00e4\u00dfig auf die Bedrohungszonen aller Ermittler.",
-
                 "flavor_text": "",
                 "classes": [
                     "story"
@@ -3877,7 +3880,7 @@
             "amount": 2
         },
         {
-            "name": "<dbl>Im Schatten der Erde</dbl>",
+            "name": "Im Schatten der Erde",
             "front": {
                 "type": "chaos",
                 "entries": [
@@ -3961,7 +3964,8 @@
                 "type": "agenda_back",
                 "name": "Aus der Deckung",
                 "text": "Mische den Begegnungs-Ablagestapel in das Begegnungsdeck. \nLege Karten oben vom Begegnungsdeck ab, bis ein Gegner abgelegt wurde. Jener Gegner erscheint am Hauptcomputer des Schiffs.\n\n\n",
-                "flavor_text": "Auf das schreckliche schrille Dr\u00f6hnen der k\u00f6rperlosen Schreie warst du nicht vorbereitet. Dein Bewegungssensor piept unkontrollierbar \u2013 er erkennt biologische Bewegungen in jeder Richtung. Was auch immer dieses Schiff heimsucht, hat dich bemerkt."
+                "flavor_text": "Auf das schreckliche schrille Dr\u00f6hnen der k\u00f6rperlosen Schreie warst du nicht vorbereitet. Dein Bewegungssensor piept unkontrollierbar \u2013 er erkennt biologische Bewegungen in jeder Richtung. Was auch immer dieses Schiff heimsucht, hat dich bemerkt.",
+                "index": "1b"
             },
             "encounter_number": "2",
             "project_number": "113",
@@ -3986,7 +3990,8 @@
                 "type": "agenda_back",
                 "name": "Die Verlorenen",
                 "text": "In Spielreihenfolge legt jeder Ermittler eine <wil>-Probe (3) ab. F\u00fcr jeden Ermittler, dem die Probe misslingt, wird im Kampagnenlogbuch notiert: <i>(Name dieses Ermittlers) wurde von der Erde korrumpiert.</i>\n\n\n",
-                "flavor_text": "Du hast verstanden, dass das gleiche \u00dcbel, das auf der Erde grassiert, auch auf dieses Schiff \u00fcbertragen wurde. Vielleicht hat sich das Schiff der Erdatmosph\u00e4re zu sehr gen\u00e4hert, oder vielleicht hat ein Crewmitglied versehentlich zu viele der unbegreiflichen und verst\u00f6renden \u00dcbertragungen von der Erde gesehen.\nWas auch immer dieses unsichtbare Verderben ist, f\u00e4ngt an, auch dich zu beeinflussen \u2013 jedes Mal, wenn du blinzelst, siehst du Visionen der H\u00f6lle, zu der die Erde geworden ist. Fleischhaufen erscheinen \u00fcberall um dich herum und formen sich zu Menschen, die du einst kanntest."
+                "flavor_text": "Du hast verstanden, dass das gleiche \u00dcbel, das auf der Erde grassiert, auch auf dieses Schiff \u00fcbertragen wurde. Vielleicht hat sich das Schiff der Erdatmosph\u00e4re zu sehr gen\u00e4hert, oder vielleicht hat ein Crewmitglied versehentlich zu viele der unbegreiflichen und verst\u00f6renden \u00dcbertragungen von der Erde gesehen.\nWas auch immer dieses unsichtbare Verderben ist, f\u00e4ngt an, auch dich zu beeinflussen \u2013 jedes Mal, wenn du blinzelst, siehst du Visionen der H\u00f6lle, zu der die Erde geworden ist. Fleischhaufen erscheinen \u00fcberall um dich herum und formen sich zu Menschen, die du einst kanntest.",
+                "index": "2b"
             },
             "encounter_number": "3",
             "project_number": "114",
@@ -4010,7 +4015,8 @@
             "back": {
                 "type": "agenda_back",
                 "name": "Hunger",
-                "text": "<b>Falls sich noch mindestens 1 Karte im Scan-Deck befindet:</b>\n<blockquote>Ein weiterer kaum h\u00f6rbarer Schrei ert\u00f6nt auf der Nostalgia II und l\u00e4sst deine Ohren zittern \u2013 die Abscheulichkeit von der Erde hat ihr n\u00e4chstes Opfer gefunden.</blockquote>\nMische das Scan-Deck und entferne danach die oberste Karte des Scan-Decks aus dem Spiel. Falls dadurch Der Verschlinger aus der Ferne aus dem Spiel entfernt werden w\u00fcrde, erscheint er stattdessen am Ort des Ermittlungsleiters.\nDrehe diese Agenda zur\u00fcck auf ihre andere Seite.\n<hr> <b>Falls das Scan-Deck leer ist, sich aber noch mindestens 1 Karte im \u201eBeweise\u201c-Deck befindet:</b>\nLege die oberste Karte des \u201eBeweise\u201c-Decks verdeckt unter die Szenario-\u00dcbersichtskarte.\nDrehe diese Agenda zur\u00fcck auf ihre andere Seite.\n<hr> <b>Falls das Scan-Deck und das \u201eBeweise\u201c-Deck leer sind:</b>\nDas Wesen zeigt sich! Mach dich kampfbereit! R\u00fccke zu Szene 2b und zu Agenda 4a vor."
+                "text": "<b>Falls sich noch mindestens 1 Karte im Scan-Deck befindet:</b>\n<blockquote>Ein weiterer kaum h\u00f6rbarer Schrei ert\u00f6nt auf der Nostalgia II und l\u00e4sst deine Ohren zittern \u2013 die Abscheulichkeit von der Erde hat ihr n\u00e4chstes Opfer gefunden.</blockquote>\nMische das Scan-Deck und entferne danach die oberste Karte des Scan-Decks aus dem Spiel. Falls dadurch Der Verschlinger aus der Ferne aus dem Spiel entfernt werden w\u00fcrde, erscheint er stattdessen am Ort des Ermittlungsleiters.\nDrehe diese Agenda zur\u00fcck auf ihre andere Seite.\n<hr> <b>Falls das Scan-Deck leer ist, sich aber noch mindestens 1 Karte im \u201eBeweise\u201c-Deck befindet:</b>\nLege die oberste Karte des \u201eBeweise\u201c-Decks verdeckt unter die Szenario-\u00dcbersichtskarte.\nDrehe diese Agenda zur\u00fcck auf ihre andere Seite.\n<hr> <b>Falls das Scan-Deck und das \u201eBeweise\u201c-Deck leer sind:</b>\nDas Wesen zeigt sich! Mach dich kampfbereit! R\u00fccke zu Szene 2b und zu Agenda 4a vor.",
+                "index": "3b"
             },
             "encounter_number": "4",
             "project_number": "115",
@@ -4035,7 +4041,8 @@
                 "type": "act_back",
                 "name": "Versteckt",
                 "text": "Enth\u00fclle den Hauptcomputer des Schiffs.\n\n\n",
-                "flavor_text": "Eines der Crewmitglieder stolpert voller Angst aus seinem Versteck. \u201eGott sei Dank ist jemand gekommen, der uns hilft! Ich habe Ihre Rufe geh\u00f6rt, habe mich aber nicht getraut, zu antworten. Au\u00dfer uns ist noch etwas anderes auf diesem Schiff. Es hat schon einen Teil der Crew erwischt, aber noch nicht alle. Ich wei\u00df nicht, wem ich vertrauen kann!\u201c\nDir wird eine Abscheulichkeit beschrieben, die alle biologischen und elektronischen Dinge auf dem Schiff korrumpieren und aufzehren kann. Das Wesen kann die Formen aller Leichen und Gegenst\u00e4nde annehmen, die es verschlungen hat, und zu einer perfekten Nachbildung des Originals werden. Als die Gefahr erkannt wurde, wurde eine rudiment\u00e4re Quarant\u00e4ne auf der Nostalgia II verh\u00e4ngt, und die Crew hat sich \u00fcberall auf dem Schiff versteckt. Seitdem warten sie auf Hilfe.\nDu k\u00f6nntest dieses hilflose Crewmitglied retten und auf die Tatterdemalion bringen. Aber wenn diese Abscheulichkeit wirklich perfekte Nachbildungen aller Personen erzeugen kann, wie kannst du dir dann sicher sein, dass du wirklich einen Menschen rettest?"
+                "flavor_text": "Eines der Crewmitglieder stolpert voller Angst aus seinem Versteck. \u201eGott sei Dank ist jemand gekommen, der uns hilft! Ich habe Ihre Rufe geh\u00f6rt, habe mich aber nicht getraut, zu antworten. Au\u00dfer uns ist noch etwas anderes auf diesem Schiff. Es hat schon einen Teil der Crew erwischt, aber noch nicht alle. Ich wei\u00df nicht, wem ich vertrauen kann!\u201c\nDir wird eine Abscheulichkeit beschrieben, die alle biologischen und elektronischen Dinge auf dem Schiff korrumpieren und aufzehren kann. Das Wesen kann die Formen aller Leichen und Gegenst\u00e4nde annehmen, die es verschlungen hat, und zu einer perfekten Nachbildung des Originals werden. Als die Gefahr erkannt wurde, wurde eine rudiment\u00e4re Quarant\u00e4ne auf der Nostalgia II verh\u00e4ngt, und die Crew hat sich \u00fcberall auf dem Schiff versteckt. Seitdem warten sie auf Hilfe.\nDu k\u00f6nntest dieses hilflose Crewmitglied retten und auf die Tatterdemalion bringen. Aber wenn diese Abscheulichkeit wirklich perfekte Nachbildungen aller Personen erzeugen kann, wie kannst du dir dann sicher sein, dass du wirklich einen Menschen rettest?",
+                "index": "1b"
             },
             "encounter_number": "5",
             "project_number": "116",
@@ -4059,7 +4066,8 @@
             "back": {
                 "type": "act_back",
                 "name": "Quarant\u00e4ne",
-                "text": "<b>Falls du durch den Kartentext von Agenda 3b vorger\u00fcckt bist (das ist die einzige M\u00f6glichkeit, hierher zu kommen):</b>\n<blockquote>Du hast so viele Crewmitglieder wie m\u00f6glich isoliert und in Sicherheit gebracht. Einige fehlen dir allerdings noch.\nBevor du dir \u00fcberlegen kannst, wie du mit den \u00fcbrigen Crewmitgliedern verf\u00e4hrst, offenbart sich die Abscheulichkeit in einem Schwarm aus Fleisch und Metall, bereit, mit seiner gesammelten Masse deine Existenz zu ersticken.</blockquote>\nSieh dir die Titel der Handlungskarten unter der Szenario-\u00dcbersichtskarte an (lies aber nicht den restlichen Text auf diesen Karten). Enth\u00fclle f\u00fcr jede dieser Karten einen zuf\u00e4lligen Marker aus dem Chaosbeutel. Jeder enth\u00fcllte Marker, der <b>kein</b> <elder_sign>-, <blessing>-, +1- oder 0-Marker ist, bedeutet, dass die <t>Crew</t>-Storyvorteilskarte, die zu dieser Handlungskarte geh\u00f6rt, in Wahrheit eine Nachbildung des Wesens ist! Falls mindestens eine Nachbildung im Siegpunktestapel liegt, gehe direkt zu (<resolution><b>A2</b>). \n<hr> Ansonsten fahre hier fort:\nDer beiseitegelegte Gegner Das Wesen erscheint am Hauptcomputer des Schiffs.\nH\u00e4nge alle <t>Crew</t>-Storyvorteilskarten, die aus dem Spiel entfernt wurden, verdeckt an das Wesen an.\nH\u00e4nge alle <t>Crew</t>-Storyvorteilskarten im Spiel, die Nachbildungen des Wesens sind, verdeckt an das Wesen an."
+                "text": "<b>Falls du durch den Kartentext von Agenda 3b vorger\u00fcckt bist (das ist die einzige M\u00f6glichkeit, hierher zu kommen):</b>\n<blockquote>Du hast so viele Crewmitglieder wie m\u00f6glich isoliert und in Sicherheit gebracht. Einige fehlen dir allerdings noch.\nBevor du dir \u00fcberlegen kannst, wie du mit den \u00fcbrigen Crewmitgliedern verf\u00e4hrst, offenbart sich die Abscheulichkeit in einem Schwarm aus Fleisch und Metall, bereit, mit seiner gesammelten Masse deine Existenz zu ersticken.</blockquote>\nSieh dir die Titel der Handlungskarten unter der Szenario-\u00dcbersichtskarte an (lies aber nicht den restlichen Text auf diesen Karten). Enth\u00fclle f\u00fcr jede dieser Karten einen zuf\u00e4lligen Marker aus dem Chaosbeutel. Jeder enth\u00fcllte Marker, der <b>kein</b> <elder_sign>-, <blessing>-, +1- oder 0-Marker ist, bedeutet, dass die <t>Crew</t>-Storyvorteilskarte, die zu dieser Handlungskarte geh\u00f6rt, in Wahrheit eine Nachbildung des Wesens ist! Falls mindestens eine Nachbildung im Siegpunktestapel liegt, gehe direkt zu (<resolution><b>A2</b>). \n<hr> Ansonsten fahre hier fort:\nDer beiseitegelegte Gegner Das Wesen erscheint am Hauptcomputer des Schiffs.\nH\u00e4nge alle <t>Crew</t>-Storyvorteilskarten, die aus dem Spiel entfernt wurden, verdeckt an das Wesen an.\nH\u00e4nge alle <t>Crew</t>-Storyvorteilskarten im Spiel, die Nachbildungen des Wesens sind, verdeckt an das Wesen an.",
+                "index": "2b"
             },
             "encounter_number": "6",
             "project_number": "117",
@@ -4084,7 +4092,8 @@
                 "type": "act_back",
                 "name": "Der letzte Abschied",
                 "text": "Im Kampagnenlogbuch wird notiert: <i>Die Ermittler haben die Verk\u00f6rperung des Wahnsinns gesehen.</i>\nF\u00fcge alle <t>Crew</t>-Storyvorteilskarten, die von einem Ermittler kontrolliert werden oder sich im Scan-Deck befinden, dem Siegpunktestapel hinzu.\n(<resolution><b>A4</b>)\n\n",
-                "flavor_text": "Du h\u00f6rst die Schreie tausender Toter. Als du dich zu ihrem Kern vorgek\u00e4mpft hast, zerflie\u00dfen die verschmolzenen K\u00f6rperteile, Gewebest\u00fccke und elektronischen Kabel durch die Bodengitter. Der Wahnsinn wurde endlich bezwungen."
+                "flavor_text": "Du h\u00f6rst die Schreie tausender Toter. Als du dich zu ihrem Kern vorgek\u00e4mpft hast, zerflie\u00dfen die verschmolzenen K\u00f6rperteile, Gewebest\u00fccke und elektronischen Kabel durch die Bodengitter. Der Wahnsinn wurde endlich bezwungen.",
+                "index": "3b"
             },
             "encounter_number": "7",
             "project_number": "118",
@@ -4109,7 +4118,8 @@
                 "type": "agenda_back",
                 "name": "Hunger",
                 "text": "Das Wesen bewegt sich direkt zum Ort des n\u00e4chstgelegenen Ermittlers und greift jeden Ermittler an seinem Ort an.\nDrehe diese Agenda zur\u00fcck auf ihre andere Seite.\n\n\n",
-                "flavor_text": "Das verschmolzene Wesen schafft es, dich zu \u00fcberraschen \u2013 es teilt sich in tausende kleine Teile und setzt sich hinter dir wieder zusammen."
+                "flavor_text": "Das verschmolzene Wesen schafft es, dich zu \u00fcberraschen \u2013 es teilt sich in tausende kleine Teile und setzt sich hinter dir wieder zusammen.",
+                "index": "4b"
             },
             "encounter_number": "8",
             "project_number": "119",
@@ -4489,7 +4499,6 @@
                 "title": "<unique><name>",
                 "traits": "Verb\u00fcndeter. Crew.",
                 "text": "<rev> Bringe diese Karte unter deiner Kontrolle ins Spiel.\n<reaction> Nachdem ein Gegner an deinem Ort erschienen ist: Du entkommst jenem Gegner automatisch. (Nur einmal pro Spiel f\u00fcr die ganze Gruppe.)",
-
                 "health": "2",
                 "sanity": "1",
                 "flavor_text": "",
@@ -4527,7 +4536,6 @@
                 "title": "<unique><name>",
                 "traits": "Verb\u00fcndeter. Crew.",
                 "text": "<rev> Bringe diese Karte unter deiner Kontrolle ins Spiel.\nCaptain Burr darf Schaden und Horror zugewiesen werden, der Ermittlern und anderen <t>Verb\u00fcndeter</t>-Vorteilskarten an deinem Ort zugef\u00fcgt wird. Das gilt auch f\u00fcr direkten Schaden und direkten Horror.",
-
                 "health": "2",
                 "sanity": "2",
                 "flavor_text": "",
@@ -4565,7 +4573,6 @@
                 "title": "<unique><name>",
                 "traits": "Verb\u00fcndeter. Crew.",
                 "text": "<rev> Bringe diese Karte unter deiner Kontrolle ins Spiel.\n<act><act>: Heile 1 Schaden von jedem Ermittler und jeder <t>Verb\u00fcndeter</t>-Vorteilskarte an deinem Ort. (Nur einmal pro Spiel f\u00fcr die ganze Gruppe.)",
-
                 "health": "2",
                 "sanity": "2",
                 "flavor_text": "",
@@ -4603,7 +4610,6 @@
                 "title": "<unique><name>",
                 "traits": "Verb\u00fcndeter. Crew.",
                 "text": "<rev> Bringe diese Karte unter deiner Kontrolle ins Spiel.\n<act>: F\u00fcge einem Gegner an einem beliebigen Ort 2 Schaden zu. Diese Aktion provoziert keine Gelegenheitsangriffe. (Nur einmal pro Spiel f\u00fcr die ganze Gruppe.)",
-
                 "health": "2",
                 "sanity": "1",
                 "flavor_text": "",
@@ -4641,7 +4647,6 @@
                 "title": "<unique><name>",
                 "traits": "Verb\u00fcndeter. Crew.",
                 "text": "<rev> Bringe diese Karte unter deiner Kontrolle ins Spiel.\n<act>: Bewege 2 Schaden zwischen Ermittlern, <t>Verb\u00fcndeter</t>-Vorteilskarten und Gegnern an deinem Ort. (Nur einmal pro Spiel f\u00fcr die ganze Gruppe.)",
-
                 "health": "3",
                 "sanity": "<dash>",
                 "flavor_text": "",
@@ -4678,7 +4683,6 @@
                 "title": "<unique><name>",
                 "traits": "Verb\u00fcndeter. Crew.",
                 "text": "<rev> Bringe diese Karte unter deiner Kontrolle ins Spiel.\n<act> Gib 1<per_large> Hinweise aus: <b>Scannen.</b> Ziehe die oberste Karte des Scan-Decks (auch wenn jene Karte nicht das Symbol deines Ortes besitzt). (Nur einmal pro Spiel f\u00fcr die ganze Gruppe.)",
-
                 "health": "2",
                 "sanity": "1",
                 "flavor_text": "",
@@ -5054,7 +5058,7 @@
             "amount": 2
         },
         {
-            "name": "<dbl>Fremdartige Monde</dbl>",
+            "name": "Fremdartige Monde",
             "front": {
                 "type": "chaos",
                 "entries": [
@@ -5138,7 +5142,8 @@
                 "type": "agenda_back",
                 "name": "Verschw\u00f6rungstheorie",
                 "text": "Notiere im Kampagnenlogbuch 1 Z\u00e4hlstrich unter \u201eDrohendes Unheil\u201c.\nDrehe diese Agenda zur\u00fcck auf ihre andere Seite.\n\n\n",
-                "flavor_text": "Die dichte Atmosph\u00e4re auf Titan dr\u00fcckt dich zu Boden. Der graue Au\u00dferirdische wartet geduldig am Eingang und beobachtet jede deiner Bewegungen. Dir kommt es vor, als ob er sich gar nicht bewegen w\u00fcrde \u2013 er wirkt wie ein Pappaufsteller."
+                "flavor_text": "Die dichte Atmosph\u00e4re auf Titan dr\u00fcckt dich zu Boden. Der graue Au\u00dferirdische wartet geduldig am Eingang und beobachtet jede deiner Bewegungen. Dir kommt es vor, als ob er sich gar nicht bewegen w\u00fcrde \u2013 er wirkt wie ein Pappaufsteller.",
+                "index": "1b"
             },
             "encounter_number": "2",
             "project_number": "154",
@@ -5163,7 +5168,8 @@
                 "type": "agenda_back",
                 "name": "Sie kommen von oben!",
                 "text": "Mische das beiseitegelegte Begegnungsset <i>Interstellare J\u00e4ger</i> zusammen mit dem Begegnungs-Ablagestapel in das Begegnungsdeck. Dieses Begegnungsset kann an folgendem Symbol erkannt werden:\n<center><image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Begegnungsset-Symbole\\Interstellare J\u00e4ger.png\" 0.25in>\n<left>Lege Karten oben vom Begegnungsdeck ab, bis ein <t>Byakhee</t>-<br>Gegner abgelegt wurde. Jener Gegner erscheint am <br>Eingangstunnel.",
-                "flavor_text": "Ein Schrei wie ihn kein Wesen der Erde von sich geben k\u00f6nnte schallt durch die Kammern. Unz\u00e4hlige Fl\u00fcgel verdunkeln die Sonne und st\u00fcrzen sich auf die Anlage. Die Lichter in den R\u00e4umen werden dunkler und nehmen eine bl\u00e4uliche Farbe an \u2013 du vermutest, dass das die Mi-Go-Version eines Alarms ist. Erst jetzt wird dir klar, dass du dich mitten in einem interstellaren \u00dcberfall befindest."
+                "flavor_text": "Ein Schrei wie ihn kein Wesen der Erde von sich geben k\u00f6nnte schallt durch die Kammern. Unz\u00e4hlige Fl\u00fcgel verdunkeln die Sonne und st\u00fcrzen sich auf die Anlage. Die Lichter in den R\u00e4umen werden dunkler und nehmen eine bl\u00e4uliche Farbe an \u2013 du vermutest, dass das die Mi-Go-Version eines Alarms ist. Erst jetzt wird dir klar, dass du dich mitten in einem interstellaren \u00dcberfall befindest.",
+                "index": "2b"
             },
             "encounter_number": "3",
             "project_number": "155",
@@ -5192,7 +5198,7 @@
                 "name": "<unique> Ha\u00efta",
                 "subtitle": "Der Hirtengott",
                 "traits": "Abscheulichkeit. Humanoid. Elite.",
-                "text": "<spawn> Eingangstunnel.\nZur\u00fcckhaltend. Zur\u00fcckschlagen. J\u00e4ger.\n<for> Sobald du einem <t>Byakhee</t>-Gegner an Ha\u00eftas Ort entkommen w\u00fcrdest: F\u00fcge Ha\u00efta stattdessen 2 Schaden zu.",
+                "text": "<size 55><spawn> Eingangstunnel.\nZur\u00fcckhaltend. Zur\u00fcckschlagen. J\u00e4ger.\n<for> Sobald du einem <t>Byakhee</t>-Gegner an Ha\u00eftas Ort entkommen w\u00fcrdest: F\u00fcge Ha\u00efta stattdessen 2 Schaden zu.",
                 "flavor_text": "\u201eIn diesen Zeiten kauerte sich Ha\u00efta in seine H\u00f6hle und verbarg sein Gesicht hinter seinen H\u00e4nden, und er betete, dass er allein f\u00fcr seine S\u00fcnden bestraft werden m\u00f6ge und die Welt vor der Zerst\u00f6rung bewahrt bleibe.\u201c",
                 "title": "<unique><name>",
                 "health": "3<per>",
@@ -5203,7 +5209,8 @@
                 "attack": "3",
                 "illustration_pan_x": -252.0,
                 "illustration_pan_y": 1120.0,
-                "illustration_scale": 0.94
+                "illustration_scale": 0.94,
+                "collection": "<esn>/<est>        <exi>   <exn>b"
             },
             "encounter_number": "4",
             "project_number": "156",
@@ -5228,7 +5235,8 @@
                 "type": "agenda_back",
                 "name": "Sie sind \u00fcberall!",
                 "text": "Mische den Begegnungs-Ablagestapel in das Begegnungsdeck. \nLege Karten oben vom Begegnungsdeck ab, bis ein <t>Byakhee</t>-<br>Gegner abgelegt wurde. Jener Gegner erscheint am <br>Eingangstunnel.\nDrehe diese Agenda zur\u00fcck auf ihre andere Seite.\n\n\n",
-                "flavor_text": "Die au\u00dferirdischen Angriffe brechen nicht ab. Immer mehr Angreifer landen, und du h\u00f6rst nichts anderes mehr als das Schlagen ihrer scheu\u00dflichen Fl\u00fcgel und das schrille Kreischen ihrer Kehlen. Immer, wenn du einen von ihnen besiegst, scheinen schon zwei neue gelandet zu sein."
+                "flavor_text": "Die au\u00dferirdischen Angriffe brechen nicht ab. Immer mehr Angreifer landen, und du h\u00f6rst nichts anderes mehr als das Schlagen ihrer scheu\u00dflichen Fl\u00fcgel und das schrille Kreischen ihrer Kehlen. Immer, wenn du einen von ihnen besiegst, scheinen schon zwei neue gelandet zu sein.",
+                "index": "4b"
             },
             "encounter_number": "5",
             "project_number": "157",
@@ -5253,7 +5261,8 @@
                 "type": "act_back",
                 "name": "Die Pilze von Yuggoth",
                 "text": "Drehe die Gegnerkarte Graues Wesen auf ihre andere Seite (alle Schadensmarker auf der Karte bleiben dabei liegen).\nJeder Ermittler, der 3 oder weniger \u201eErinnerungen\u201c hat, nimmt 1 Horror.\nR\u00fccke zu Agenda 2a und Szene 2a vor. Entferne dabei kein Verderben aus dem Spiel. Bewege alle Verderbensmarker von Agenda 1a auf Agenda 2a.\nPlatziere f\u00fcr jeden Z\u00e4hlstrich unter \u201eDrohendes Unheil\u201c im Kampagnenlogbuch 2 Verderben auf Agenda 2a.\n",
-                "flavor_text": "Der graue Au\u00dferirdische l\u00f6st sich pl\u00f6tzlich in glei\u00dfendem Licht auf \u2013 dir wird klar, dass er nur ein Hologramm war. Ein gro\u00dfes krustentier-<br>artiges Wesen kriecht aus dem Schatten hinter ihm. Du erinnerst dich, dass diese Au\u00dferirdischen, die Mi-Go, h\u00e4ufig nur verkleidet mit Menschen interagieren, damit sie weniger bedrohlich wirken. Ein weiteres Hologramm erwacht zum Leben. Es zeigt mehrere menschliche Gestalten, die Gehirne in Gl\u00e4sern gegen Stapel goldener Teller und andere Mineralien tauschen. Dies muss eines der \u201eGesch\u00e4fte\u201c der Kultisten sein. Mit seinen pilzartigen Armen zeigt der Au\u00dferirdische auf den Eingang zur Anlage, als ob er dich bitten w\u00fcrde, einzutreten."
+                "flavor_text": "Der graue Au\u00dferirdische l\u00f6st sich pl\u00f6tzlich in glei\u00dfendem Licht auf \u2013 dir wird klar, dass er nur ein Hologramm war. Ein gro\u00dfes krustentier-<br>artiges Wesen kriecht aus dem Schatten hinter ihm. Du erinnerst dich, dass diese Au\u00dferirdischen, die Mi-Go, h\u00e4ufig nur verkleidet mit Menschen interagieren, damit sie weniger bedrohlich wirken. Ein weiteres Hologramm erwacht zum Leben. Es zeigt mehrere menschliche Gestalten, die Gehirne in Gl\u00e4sern gegen Stapel goldener Teller und andere Mineralien tauschen. Dies muss eines der \u201eGesch\u00e4fte\u201c der Kultisten sein. Mit seinen pilzartigen Armen zeigt der Au\u00dferirdische auf den Eingang zur Anlage, als ob er dich bitten w\u00fcrde, einzutreten.",
+                "index": "1b"
             },
             "encounter_number": "6",
             "project_number": "158",
@@ -5277,7 +5286,8 @@
             "back": {
                 "type": "act_back",
                 "name": "Nach dem Mond gegriffen",
-                "text": "<b>Falls Agenda 3 oder Agenda 4 aktiv ist:</b>\n<blockquote>Du schleichst dich aus der Anlage, als der au\u00dferirdische Schwarm abgelenkt ist, und erreichst dein Shuttle. Hinter dir verschlie\u00dft ein durchsichtiges Kraftfeld den Eingangstunnel. Nach wenigen Sekunden f\u00fchren die Mi-Go den Gegenschlag aus: Gr\u00fcnes Gas wird in der ganzen Anlage freigesetzt und l\u00f6scht die verbliebenen Angreifer aus.</blockquote>\n(<resolution><b>A2</b>)\n<hr> <b>Ansonsten:</b>\n<blockquote>Mit den Informationen, die du in der au\u00dferirdischen Anlage finden konntest, eilst du zur\u00fcck zum Shuttle und kehrst auf die Tatterdemalion zur\u00fcck.</blockquote>\n(<resolution><b>A2</b>)\n"
+                "text": "<b>Falls Agenda 3 oder Agenda 4 aktiv ist:</b>\n<blockquote>Du schleichst dich aus der Anlage, als der au\u00dferirdische Schwarm abgelenkt ist, und erreichst dein Shuttle. Hinter dir verschlie\u00dft ein durchsichtiges Kraftfeld den Eingangstunnel. Nach wenigen Sekunden f\u00fchren die Mi-Go den Gegenschlag aus: Gr\u00fcnes Gas wird in der ganzen Anlage freigesetzt und l\u00f6scht die verbliebenen Angreifer aus.</blockquote>\n(<resolution><b>A2</b>)\n<hr> <b>Ansonsten:</b>\n<blockquote>Mit den Informationen, die du in der au\u00dferirdischen Anlage finden konntest, eilst du zur\u00fcck zum Shuttle und kehrst auf die Tatterdemalion zur\u00fcck.</blockquote>\n(<resolution><b>A2</b>)\n",
+                "index": "2b"
             },
             "encounter_number": "7",
             "project_number": "159",
@@ -5290,7 +5300,6 @@
                 "type": "asset",
                 "traits": "Gehirn.",
                 "text": "<center><image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationSquare.png\" 0.23in>",
-
                 "health": "2",
                 "sanity": "<dash>",
                 "flavor_text": "Die au\u00dferirdische Beschriftung dieses Zylinders ist bis zur Unleserlichkeit verblasst \u2013 er muss schon Jahrzehnte alt sein.",
@@ -5316,7 +5325,6 @@
                 "type": "asset",
                 "traits": "Gehirn.",
                 "text": "<center><image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationDoubleSlash.png\" 0.23in>",
-
                 "health": "2",
                 "sanity": "<dash>",
                 "flavor_text": "Wenn deine grobe \u00dcbersetzung der au\u00dferirdischen Beschriftung richtig ist, ist dieses Gehirn \u201eunbrauchbar\u201c. Du fragst dich, was damit gemeint ist.",
@@ -5342,7 +5350,6 @@
                 "type": "asset",
                 "traits": "Gehirn.",
                 "text": "<center><image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationDiamond.png\" 0.23in>",
-
                 "health": "2",
                 "sanity": "<dash>",
                 "flavor_text": "In das Glas dieses Zylinders ist ein eindeutig menschliches Symbol eingeritzt. Du kennst es als das Gelbe Zeichen.",
@@ -6229,7 +6236,8 @@
                 "type": "agenda_back",
                 "name": "Pers\u00f6nliche \u00c4ngste",
                 "text": "Jeder Ermittler darf sein Deck und seinen Ablagestapel nach einer Spielerkarte durchsuchen und sie ziehen.\nJeder Ermittler muss sein Deck und seinen Ablagestapel nach einer Schw\u00e4che durchsuchen und sie ziehen (falls m\u00f6glich die Signatur-Schw\u00e4che des Ermittlers).\n",
-                "flavor_text": "Es \u00fcberrascht dich nicht, die Stimmen deiner alten Freunde und Familienmitglieder durch das Theater hallen zu h\u00f6ren. Schimmer deiner Kindheit und deiner Tr\u00e4ume blitzen in den br\u00fcchigen W\u00e4nden des Theaters auf. Deine simulierte Geisteswelt enth\u00e4lt all deine geliebten Erinnerungen, beherbergt aber auch deiner Misserfolge und Fehler. All deine Feinde, Unf\u00e4lle und die Dinge, die du bereust, t\u00f6nen laut aus allen Richtungen."
+                "flavor_text": "Es \u00fcberrascht dich nicht, die Stimmen deiner alten Freunde und Familienmitglieder durch das Theater hallen zu h\u00f6ren. Schimmer deiner Kindheit und deiner Tr\u00e4ume blitzen in den br\u00fcchigen W\u00e4nden des Theaters auf. Deine simulierte Geisteswelt enth\u00e4lt all deine geliebten Erinnerungen, beherbergt aber auch deiner Misserfolge und Fehler. All deine Feinde, Unf\u00e4lle und die Dinge, die du bereust, t\u00f6nen laut aus allen Richtungen.",
+                "index": "1b"
             },
             "encounter_number": "2",
             "project_number": "191",
@@ -6251,7 +6259,8 @@
             "back": {
                 "type": "agenda_back",
                 "name": "Er ist wieder da",
-                "text": "<b>\u00dcberpr\u00fcfe das Kampagnenlogbuch. Falls <i>2C-OES187s Verstand vollst\u00e4ndig wiederhergestellt wurde</i>:</b>\n<blockquote>Ein kicherndes Lachen hallt durch die G\u00e4nge. Das kann nicht sein\u2026 du dachtest, dass du den Butzemann besiegt h\u00e4ttest, aber scheinbar hat er sich in deinem Ged\u00e4chtnis versteckt und nur auf den richtigen Moment zum Angriff gewartet. \u201eJetzt kannst du dich nirgendwo mehr verstecken. Ha-HA! Ha-HA!\u201c Das Lachen des Clowns scheint sich durch deinen Verstand zu schneiden. Du sp\u00fcrst einen pochenden Schmerz hinter deiner Stirn und aus deinen Ohren flie\u00dft Blut.</blockquote>\nDurchsuche die Sammlung nach dem Butzemann (Virtueller Albtraum). Er erscheint an dem Ort, der am weitesten von allen Ermittlern entfernt ist.\n<hr> <b>Ansonsten:</b>\n<blockquote>Wie aus dem Nichts erscheint der verformt wirkende K\u00f6rper der Kreatur wie aus einem \u00fcbernat\u00fcrlichen Albtraum im Theater und l\u00e4sst Tentakel zwischen die G\u00e4nge gleiten. Dann \u00f6ffnet sie ihr Maul und gibt ein schrilles, durchdringendes Lied von sich. Die Melodie ist unheimlich, die T\u00f6ne scheinen durch deinen Verstand zu schneiden. Du sp\u00fcrst einen pochenden Schmerz hinter deiner Stirn und aus deinen Ohren flie\u00dft Blut.</blockquote>\nDurchsuche die Sammlung nach dem K\u00f6niglichen Sendboten (Bote von Aldebaran). Er erscheint an dem Ort, der am weitesten von allen Ermittlern entfernt ist."
+                "text": "<b>\u00dcberpr\u00fcfe das Kampagnenlogbuch. Falls <i>2C-OES187s Verstand vollst\u00e4ndig wiederhergestellt wurde</i>:</b>\n<blockquote>Ein kicherndes Lachen hallt durch die G\u00e4nge. Das kann nicht sein\u2026 du dachtest, dass du den Butzemann besiegt h\u00e4ttest, aber scheinbar hat er sich in deinem Ged\u00e4chtnis versteckt und nur auf den richtigen Moment zum Angriff gewartet. \u201eJetzt kannst du dich nirgendwo mehr verstecken. Ha-HA! Ha-HA!\u201c Das Lachen des Clowns scheint sich durch deinen Verstand zu schneiden. Du sp\u00fcrst einen pochenden Schmerz hinter deiner Stirn und aus deinen Ohren flie\u00dft Blut.</blockquote>\nDurchsuche die Sammlung nach dem Butzemann (Virtueller Albtraum). Er erscheint an dem Ort, der am weitesten von allen Ermittlern entfernt ist.\n<hr> <b>Ansonsten:</b>\n<blockquote>Wie aus dem Nichts erscheint der verformt wirkende K\u00f6rper der Kreatur wie aus einem \u00fcbernat\u00fcrlichen Albtraum im Theater und l\u00e4sst Tentakel zwischen die G\u00e4nge gleiten. Dann \u00f6ffnet sie ihr Maul und gibt ein schrilles, durchdringendes Lied von sich. Die Melodie ist unheimlich, die T\u00f6ne scheinen durch deinen Verstand zu schneiden. Du sp\u00fcrst einen pochenden Schmerz hinter deiner Stirn und aus deinen Ohren flie\u00dft Blut.</blockquote>\nDurchsuche die Sammlung nach dem K\u00f6niglichen Sendboten (Bote von Aldebaran). Er erscheint an dem Ort, der am weitesten von allen Ermittlern entfernt ist.",
+                "index": "2b"
             },
             "encounter_number": "3",
             "project_number": "192",
@@ -6335,7 +6344,8 @@
                 "type": "act_back",
                 "name": "Keine Maske? Keine Maske!",
                 "text": "Jeder Ermittler bringt eine beiseitegelegte Kopie von Dein anderes Selbst in seiner Bedrohungszone ins Spiel.\n\u00dcberpr\u00fcfe das Kampagnenlogbuch. Falls <i>du die unmenschlichen Methoden der Kultisten aufgedeckt hast</i>, darf jeder Ermittler eins der folgenden w\u00e4hlen:\n<bullet> Du erh\u00e4ltst 1 Hinweis aus dem Markervorrat und darfst bis zu 2 Schaden und 2 Horror heilen.\n<bullet> Notiere im Kampagnenlogbuch 1 Z\u00e4hlstrich bei deinen \u201eErinnerungen\u201c.\n",
-                "flavor_text": "Als du dem Fremden gegen\u00fcbertrittst, hast du das Gef\u00fchl, dass er unter seiner bleichen, ausdruckslosen Maske grinst. \u201eWo ist das Bruchst\u00fcck?\u201d, fragst du, aber er antwortet nicht. \u201eWer bist du?\u201d Immer noch bleibt er still, aber er hebt langsam seine Hand und nimmt seine Maske ab. Darunter enth\u00fcllt er dein Spiegelbild.\n\u201eWer bist <b>du</b>?\u201c, antwortet dein Doppelg\u00e4nger bedrohlich. Schockiert trittst du zur\u00fcck \u2013 dein anderes Selbst tritt ebenso zur\u00fcck. Du zeigst auf dein anderes Selbst \u2013 es tut es dir gleich.\nDer Fremde scheint jede deiner Bewegungen nachzuahmen."
+                "flavor_text": "Als du dem Fremden gegen\u00fcbertrittst, hast du das Gef\u00fchl, dass er unter seiner bleichen, ausdruckslosen Maske grinst. \u201eWo ist das Bruchst\u00fcck?\u201d, fragst du, aber er antwortet nicht. \u201eWer bist du?\u201d Immer noch bleibt er still, aber er hebt langsam seine Hand und nimmt seine Maske ab. Darunter enth\u00fcllt er dein Spiegelbild.\n\u201eWer bist <b>du</b>?\u201c, antwortet dein Doppelg\u00e4nger bedrohlich. Schockiert trittst du zur\u00fcck \u2013 dein anderes Selbst tritt ebenso zur\u00fcck. Du zeigst auf dein anderes Selbst \u2013 es tut es dir gleich.\nDer Fremde scheint jede deiner Bewegungen nachzuahmen.",
+                "index": "2b"
             },
             "encounter_number": "6",
             "project_number": "195",
@@ -6360,7 +6370,8 @@
                 "type": "act_back",
                 "name": "Die Show stehlen",
                 "text": "(<resolution><b>A2</b>)\n\n\n",
-                "flavor_text": "Dein anderes Ich f\u00e4llt besiegt zu Boden. Du hast deine D\u00e4monen endlich bezwungen. Dein Doppelg\u00e4nger ruft dir trotzig entgegen: \u201eDu wei\u00dft nicht, gegen was du ank\u00e4mpfst. Nachdem wir die Prinzessin befreit hatten, haben wir im Palast von Carcosa Hasturs wahre Natur erkannt. Er ist gr\u00f6\u00dfer als alles, was sich irgendjemand von uns h\u00e4tte vorstellen k\u00f6nnen\u2026 es ist unaufhaltsam\u2026\u201c\nDu siehst, wie dein anderes Selbst zu staubiger Asche zerf\u00e4llt und sich in der Luft verfl\u00fcchtigt\u2026"
+                "flavor_text": "Dein anderes Ich f\u00e4llt besiegt zu Boden. Du hast deine D\u00e4monen endlich bezwungen. Dein Doppelg\u00e4nger ruft dir trotzig entgegen: \u201eDu wei\u00dft nicht, gegen was du ank\u00e4mpfst. Nachdem wir die Prinzessin befreit hatten, haben wir im Palast von Carcosa Hasturs wahre Natur erkannt. Er ist gr\u00f6\u00dfer als alles, was sich irgendjemand von uns h\u00e4tte vorstellen k\u00f6nnen\u2026 es ist unaufhaltsam\u2026\u201c\nDu siehst, wie dein anderes Selbst zu staubiger Asche zerf\u00e4llt und sich in der Luft verfl\u00fcchtigt\u2026",
+                "index": "3b"
             },
             "encounter_number": "7",
             "project_number": "196",
@@ -6638,7 +6649,7 @@
             "id": "c13c3269-cca9-4b20-857c-d0d5fd14043f"
         },
         {
-            "name": "<dbl>Bruchst\u00fcck von Carcosa</dbl>",
+            "name": "Bruchst\u00fcck von Carcosa",
             "front": {
                 "type": "chaos",
                 "entries": [
@@ -6721,7 +6732,8 @@
             "back": {
                 "type": "agenda_back",
                 "name": "...?",
-                "text": "<b>Entropie.</b> <i>Nomen.</i> En\u00b7tro\u00b7pie. <font \"./fonts/CharisSIL-Regular.ttf\">[\u025bnt\u0281o\u02c8pi\u02d0]</font>\nGrad der Unordnung oder Unsicherheit in einem System.\n<bullet> Die Zersetzung der Materie und Energie im Universum hin zu einem endg\u00fcltigen Zustand lebloser Gleichf\u00f6rmigkeit.\n<bullet> Ein Degenerationsprozess oder eine Entwicklung zum Chaos.\n<bullet> Chaos, Unordnung, Zufall.\n<bullet> Du solltest das hier nicht sehen.\n<bullet> <i>(Tipp: \u201eDie Zeit ist ein flacher Kreis. Alles, was wir getan haben oder tun werden, werden wir immer wieder und wieder und wieder tun \u2013 f\u00fcr immer.\u201c)</i>\n\n\n"
+                "text": "<b>Entropie.</b> <i>Nomen.</i> En\u00b7tro\u00b7pie. <font \"./fonts/CharisSIL-Regular.ttf\">[\u025bnt\u0281o\u02c8pi\u02d0]</font>\nGrad der Unordnung oder Unsicherheit in einem System.\n<bullet> Die Zersetzung der Materie und Energie im Universum hin zu einem endg\u00fcltigen Zustand lebloser Gleichf\u00f6rmigkeit.\n<bullet> Ein Degenerationsprozess oder eine Entwicklung zum Chaos.\n<bullet> Chaos, Unordnung, Zufall.\n<bullet> Du solltest das hier nicht sehen.\n<bullet> <i>(Tipp: \u201eDie Zeit ist ein flacher Kreis. Alles, was wir getan haben oder tun werden, werden wir immer wieder und wieder und wieder tun \u2013 f\u00fcr immer.\u201c)</i>\n\n\n",
+                "index": "1b"
             },
             "encounter_number": "2",
             "project_number": "210",
@@ -6746,7 +6758,8 @@
                 "type": "agenda_back",
                 "text": "(<resolution><b>A2</b>)",
                 "name": "Wahnsinniges Carcosa",
-                "flavor_text": "Du konntest nicht rechtzeitig entkommen \u2013 der Sog der Taschenrealit\u00e4t zieht dich und deine Gef\u00e4hrten zur\u00fcck in den gelben Palast.\nAls das Beben endlich aufh\u00f6rt, verl\u00e4sst du den Palast und findest dich in einer verformten fremdartigen Stadt wieder. Ihre gewundenen Stra\u00dfen und die irrsinnige Architektur haben keinen Hauch von Ordnung oder Struktur. In der Ferne spiegelt ein tr\u00fcber See das Licht zweier Sonnen. \nDu bist in Carcosa gefangen."
+                "flavor_text": "Du konntest nicht rechtzeitig entkommen \u2013 der Sog der Taschenrealit\u00e4t zieht dich und deine Gef\u00e4hrten zur\u00fcck in den gelben Palast.\nAls das Beben endlich aufh\u00f6rt, verl\u00e4sst du den Palast und findest dich in einer verformten fremdartigen Stadt wieder. Ihre gewundenen Stra\u00dfen und die irrsinnige Architektur haben keinen Hauch von Ordnung oder Struktur. In der Ferne spiegelt ein tr\u00fcber See das Licht zweier Sonnen. \nDu bist in Carcosa gefangen.",
+                "index": "2b"
             },
             "encounter_number": "3",
             "project_number": "211",
@@ -6771,7 +6784,8 @@
                 "type": "act_back",
                 "name": "Wo alles verloren ist",
                 "text": "<hr> <b>\u00dcberpr\u00fcfe das Kampagnenlogbuch. Falls <i>du die Auff\u00fchrung von Carcosas Erbin angesehen hast</i>:</b>\n<blockquote>Die Palastr\u00e4ume, die auf der Karte eingezeichnet sind\u2026 es sind dieselben, die auch im virtuellen Theaterst\u00fcck vorkamen. Du nimmst die Karte mit und machst dich auf den Weg zum H\u00f6hleneingang \u2013 dem Eingang ins Reich Carcosa.</blockquote>\nJeder Ermittler erh\u00e4lt 1 Hinweis aus dem Markervorrat.\nBringe alle beiseitegelegten Orte mit der <t>H\u00f6hle</t>-Seite nach oben ins Spiel.\n<hr> <b>Ansonsten:</b>\n<blockquote>Die Untersuchung der Karte weckt keine Erinnerungen in dir. Du nimmst die Karte mit und beginnst, die H\u00f6hlen zu durchsuchen \u2013 irgendwo hier muss der Eingang ins Reich Carcosa sein.</blockquote>\nBringe alle beiseitegelegten Orte mit der <i><b>H\u00f6hle</b></i>-Seite nach oben ins Spiel.\nDer beiseitegelegte Gegner Bestie von Aldebaran erscheint in der Zyklopischen H\u00f6hle.",
-                "flavor_text": "Verborgen in einem Fach des verlassenen Shuttles liegt eine beidseitig beschriftete Karte des Asteroiden, die von den Kultisten w\u00e4hrend ihrer Erkundungen angefertigt wurde. Auf die eine Seite der Karte wurde ein weitl\u00e4ufiges Netz aus H\u00f6hlen und Tunneln gezeichnet, das sich durch das ganze Bruchst\u00fcck zieht. Als du die Karte umdrehst, siehst du auf ihrer R\u00fcckseite etwas ganz anderes \u2013 einen gro\u00dfen Palast, der anstelle der Tunnel prunkvolle Flure besitzt, und majest\u00e4tische Kammern, wo vorher unterirdische H\u00f6hlen waren. Scheinbar gibt es d\u00fcnne Stellen im Schleier der Realit\u00e4t, durch die die Entdecker zeitweise in die Paralleldimension Carcosa reisen konnten."
+                "flavor_text": "Verborgen in einem Fach des verlassenen Shuttles liegt eine beidseitig beschriftete Karte des Asteroiden, die von den Kultisten w\u00e4hrend ihrer Erkundungen angefertigt wurde. Auf die eine Seite der Karte wurde ein weitl\u00e4ufiges Netz aus H\u00f6hlen und Tunneln gezeichnet, das sich durch das ganze Bruchst\u00fcck zieht. Als du die Karte umdrehst, siehst du auf ihrer R\u00fcckseite etwas ganz anderes \u2013 einen gro\u00dfen Palast, der anstelle der Tunnel prunkvolle Flure besitzt, und majest\u00e4tische Kammern, wo vorher unterirdische H\u00f6hlen waren. Scheinbar gibt es d\u00fcnne Stellen im Schleier der Realit\u00e4t, durch die die Entdecker zeitweise in die Paralleldimension Carcosa reisen konnten.",
+                "index": "1b"
             },
             "encounter_number": "4",
             "project_number": "212",
@@ -6796,7 +6810,8 @@
                 "type": "act_back",
                 "name": "Das Ende",
                 "text": "R\u00fccke zu Agenda 2a und Szene 3a vor. Entferne dabei kein Verderben aus dem Spiel. Bewege alle Verderbensmarker von Agenda 1a auf Agenda 2a.\nDer beiseitegelegte Gegner H\u00f6hlenbewohner erscheint am Verlassenen Shuttle.\n\n\n",
-                "flavor_text": "Du wirst nie erfahren, ob Tassilda real war \u2013 aber aus den Aufzeichnungen dieser Kultisten wei\u00dft du nun, dass das arkane Ritual, das sie angeblich befreit haben soll, auch die Zunahme der Entropie im Universum beschleunigt hat. Tats\u00e4chlich teilt dir 2C-OES187 mit, dass die Sonne mit den neuen Werten der Naturkonstanten in nur wenigen Jahren implodieren wird und alles in einem Umkreis von einigen Lichtjahren ausl\u00f6scht.\nDu durchsuchst die Leichen der Kultisten nach einer M\u00f6glichkeit, ihre Tat umzukehren, findest aber keine L\u00f6sung f\u00fcr dieses unm\u00f6gliche R\u00e4tsel. Deine einzige Hoffnung ist, die Supernova zu \u00fcberleben und so viele Menschen wie m\u00f6glich zu retten.\nW\u00e4hrend du \u00fcber deine n\u00e4chsten Schritte nachdenkst, beginnt der ganze Asteroid zu beben, und ein unmenschliches Br\u00fcllen hallt durch die H\u00f6hlen und Tunnel hinter dir."
+                "flavor_text": "Du wirst nie erfahren, ob Tassilda real war \u2013 aber aus den Aufzeichnungen dieser Kultisten wei\u00dft du nun, dass das arkane Ritual, das sie angeblich befreit haben soll, auch die Zunahme der Entropie im Universum beschleunigt hat. Tats\u00e4chlich teilt dir 2C-OES187 mit, dass die Sonne mit den neuen Werten der Naturkonstanten in nur wenigen Jahren implodieren wird und alles in einem Umkreis von einigen Lichtjahren ausl\u00f6scht.\nDu durchsuchst die Leichen der Kultisten nach einer M\u00f6glichkeit, ihre Tat umzukehren, findest aber keine L\u00f6sung f\u00fcr dieses unm\u00f6gliche R\u00e4tsel. Deine einzige Hoffnung ist, die Supernova zu \u00fcberleben und so viele Menschen wie m\u00f6glich zu retten.\nW\u00e4hrend du \u00fcber deine n\u00e4chsten Schritte nachdenkst, beginnt der ganze Asteroid zu beben, und ein unmenschliches Br\u00fcllen hallt durch die H\u00f6hlen und Tunnel hinter dir.",
+                "index": "2b"
             },
             "encounter_number": "5",
             "project_number": "213",
@@ -6817,7 +6832,8 @@
             "back": {
                 "type": "act_back",
                 "name": "Zur\u00fcck in die Wirklichkeit",
-                "text": "<b>Falls jeder unbesiegte Ermittler aufgegeben hat:</b>\n<blockquote>Du h\u00e4ltst dich gut fest, als das Shuttle den Asteroiden nur Sekunden verl\u00e4sst, bevor er in sich zusammenbricht. An seiner Stelle bleibt nichts au\u00dfer einem gelben Nebelhauch.</blockquote>\n(<resolution><b>A3</b>)\n<hr> <b>Ansonsten (falls du von einer anderen Karte als Szene 3a angewiesen wurdest, vorzur\u00fccken)::</b>\n<blockquote>Du liest die Hieroglyphen in den H\u00f6hlen und betrachtest die Gem\u00e4lde, die die Palastr\u00e4ume zieren, und erf\u00e4hrst so von einem geheimen Ritual, mit dem man Tassilda zumindest zeitweise daran hindern k\u00f6nnte, den Thron zu besteigen. Mit diesem Ritual k\u00f6nntest du der Menschheit genug Zeit zur Flucht verschaffen. Allerdings musst du immer noch aus diesen H\u00f6hlen entkommen.</blockquote>\nIm Kampagnenlogbuch wird notiert: <i>Die Ermittler wissen von der Abschw\u00f6rung des Throns.</i>\nDrehe diese Szene zur\u00fcck auf ihre andere Seite."
+                "text": "<b>Falls jeder unbesiegte Ermittler aufgegeben hat:</b>\n<blockquote>Du h\u00e4ltst dich gut fest, als das Shuttle den Asteroiden nur Sekunden verl\u00e4sst, bevor er in sich zusammenbricht. An seiner Stelle bleibt nichts au\u00dfer einem gelben Nebelhauch.</blockquote>\n(<resolution><b>A3</b>)\n<hr> <b>Ansonsten (falls du von einer anderen Karte als Szene 3a angewiesen wurdest, vorzur\u00fccken)::</b>\n<blockquote>Du liest die Hieroglyphen in den H\u00f6hlen und betrachtest die Gem\u00e4lde, die die Palastr\u00e4ume zieren, und erf\u00e4hrst so von einem geheimen Ritual, mit dem man Tassilda zumindest zeitweise daran hindern k\u00f6nnte, den Thron zu besteigen. Mit diesem Ritual k\u00f6nntest du der Menschheit genug Zeit zur Flucht verschaffen. Allerdings musst du immer noch aus diesen H\u00f6hlen entkommen.</blockquote>\nIm Kampagnenlogbuch wird notiert: <i>Die Ermittler wissen von der Abschw\u00f6rung des Throns.</i>\nDrehe diese Szene zur\u00fcck auf ihre andere Seite.",
+                "index": "3b"
             },
             "encounter_number": "6",
             "project_number": "214",
@@ -7550,7 +7566,7 @@
             "id": "af39c5fa-3e5d-4f9b-b547-cf3576160b71"
         },
         {
-            "name": "<dbl>Sternenschauer</dbl>",
+            "name": "Sternenschauer",
             "front": {
                 "type": "chaos",
                 "entries": [
@@ -7640,7 +7656,8 @@
                 "connection": "cross",
                 "illustration_pan_x": -236.0,
                 "illustration_pan_y": 48.0,
-                "illustration_scale": 1.44
+                "illustration_scale": 1.44,
+                "collection": "<esn>/<est>          <exi>      <exn>b"
             },
             "encounter_number": "2",
             "project_number": "244",
@@ -7663,7 +7680,8 @@
                 "type": "agenda_back",
                 "name": "Sols Untergang",
                 "text": "Mische das beiseitegelegt Begegnungsset <i>Hasturs Blick</i> zusammen mit dem Begegnungs-Ablagestapel in das Begegnungsdeck. Dieses Begegnungsset kann an folgendem Symbol erkannt werden:\n<center><image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Begegnungsset-Symbole\\Hasturs Blick.png\" 0.25in>\n\n",
-                "flavor_text": "Monate sind vergangen, seit du aufgebrochen bist, um die Kolonien zu retten. Du bist zwischen den Planeten gereist und hast dabei viele seltsame und interessante Leute kennengelernt. Manche von ihnen waren hilfreich und haben dir dabei geholfen, mit der Technologie der Zukunft zurechtzukommen. Manche haben dir den richtigen Weg gewiesen. Die meisten allerdings waren misstrauisch und vorsichtig, weil man dir deine Vergangenheit leider immer noch deutlich ansieht.\nDie Kolonien der Menschheit suchen eilig nach einer M\u00f6glichkeit, die Explosion irgendwie zu \u00fcberleben. Viele haben beschlossen, ihre Raumschiffe in den interstellaren Raum zu schicken, obwohl die aktuellen Antriebe bei weitem nicht genug Energie besitzen, um der Gefahr rechtzeitig zu entkommen. Die meisten Kolonisten aber haben sich mit dem Ende abgefunden und beschlossen, das Beste aus den letzten Jahren der Menschheit zu machen."
+                "flavor_text": "Monate sind vergangen, seit du aufgebrochen bist, um die Kolonien zu retten. Du bist zwischen den Planeten gereist und hast dabei viele seltsame und interessante Leute kennengelernt. Manche von ihnen waren hilfreich und haben dir dabei geholfen, mit der Technologie der Zukunft zurechtzukommen. Manche haben dir den richtigen Weg gewiesen. Die meisten allerdings waren misstrauisch und vorsichtig, weil man dir deine Vergangenheit leider immer noch deutlich ansieht.\nDie Kolonien der Menschheit suchen eilig nach einer M\u00f6glichkeit, die Explosion irgendwie zu \u00fcberleben. Viele haben beschlossen, ihre Raumschiffe in den interstellaren Raum zu schicken, obwohl die aktuellen Antriebe bei weitem nicht genug Energie besitzen, um der Gefahr rechtzeitig zu entkommen. Die meisten Kolonisten aber haben sich mit dem Ende abgefunden und beschlossen, das Beste aus den letzten Jahren der Menschheit zu machen.",
+                "index": "2b"
             },
             "encounter_number": "3",
             "project_number": "245",
@@ -7713,7 +7731,8 @@
                 "type": "agenda_back",
                 "name": "Shadows and Darkness",
                 "text": "Jeder Ermittler wird <b>get\u00f6tet</b>. Die Ermittler haben die Kampagne verloren. Es gibt keine Aufl\u00f6sung.\n\n",
-                "flavor_text": "Eine dunkle Wolke bedeckt die ganze Materie des Sonnensystems und l\u00e4sst die verbliebenen Kolonien in Wahnsinn und Chaos verfallen. Nachdem niemand Tassilda aufhalten konnte, beendet sie ihr Werk mit Sol. Ein gl\u00e4nzendes Licht scheint durch das ganze Sonnensystem. Die verheerende Supernova strahlt durch die Leere, vernichtet alle ungesch\u00fctzten Lebensformen, entrei\u00dft allen Himmelsk\u00f6rpern ihre wertvolle Atmosph\u00e4re und l\u00e4sst sie als ver\u00f6dete Welten zur\u00fcck.\nTrotz all deiner Anstrengungen konntest du deine Schuld nicht wiedergutmachen und den Untergang der Menschheit nicht verhindern. Im letzten Augenblick deines Lebens erscheint eine Gestalt in einem zerschlissenen gelben Kleid vor dir im Licht. Du kniest vor ihr nieder und greifst ihre Hand, als Tassilda dich im finsteren Reich Carcosa willkommen hei\u00dft."
+                "flavor_text": "Eine dunkle Wolke bedeckt die ganze Materie des Sonnensystems und l\u00e4sst die verbliebenen Kolonien in Wahnsinn und Chaos verfallen. Nachdem niemand Tassilda aufhalten konnte, beendet sie ihr Werk mit Sol. Ein gl\u00e4nzendes Licht scheint durch das ganze Sonnensystem. Die verheerende Supernova strahlt durch die Leere, vernichtet alle ungesch\u00fctzten Lebensformen, entrei\u00dft allen Himmelsk\u00f6rpern ihre wertvolle Atmosph\u00e4re und l\u00e4sst sie als ver\u00f6dete Welten zur\u00fcck.\nTrotz all deiner Anstrengungen konntest du deine Schuld nicht wiedergutmachen und den Untergang der Menschheit nicht verhindern. Im letzten Augenblick deines Lebens erscheint eine Gestalt in einem zerschlissenen gelben Kleid vor dir im Licht. Du kniest vor ihr nieder und greifst ihre Hand, als Tassilda dich im finsteren Reich Carcosa willkommen hei\u00dft.",
+                "index": "1d"
             },
             "encounter_number": "5",
             "project_number": "247",
@@ -7738,7 +7757,8 @@
                 "type": "act_back",
                 "name": "Warten...",
                 "text": "(<resolution><b>A1</b>)\n\n\n",
-                "flavor_text": "Du gehst in einen der Schutzr\u00e4ume und betest, dass die Pl\u00e4ne, mit denen die Beh\u00f6rden die Explosion \u00fcberleben wollen, erfolgreich sein werden."
+                "flavor_text": "Du gehst in einen der Schutzr\u00e4ume und betest, dass die Pl\u00e4ne, mit denen die Beh\u00f6rden die Explosion \u00fcberleben wollen, erfolgreich sein werden.",
+                "index": "1b"
             },
             "encounter_number": "6",
             "project_number": "248",
@@ -7762,7 +7782,8 @@
             "back": {
                 "type": "act_back",
                 "name": "Finale",
-                "text": "<b>Falls Hope, Yuggoth und New Brooklyn aus dem Spiel entfernt wurden:</b>\n<blockquote>Du hast die sagenumwobene Prinzessin von Carcosa endlich bezwungen \u2013 aber zu welchem Preis?</blockquote>\nR\u00fccke zu Agenda 1d vor (die R\u00fcckseite der Agenda \u201eDunkle Materie\u201c).\n<hr> <b>Ansonsten:</b>\n<blockquote>Es ist endlich vorbei. Der dunkle Schleier, der von Tassilda \u00fcber das Sonnensystem gelegt wurde, verfl\u00fcchtigt sich im Weltall, und die Sonne scheint wieder.</blockquote>\n(<resolution><b>A2</b>)"
+                "text": "<b>Falls Hope, Yuggoth und New Brooklyn aus dem Spiel entfernt wurden:</b>\n<blockquote>Du hast die sagenumwobene Prinzessin von Carcosa endlich bezwungen \u2013 aber zu welchem Preis?</blockquote>\nR\u00fccke zu Agenda 1d vor (die R\u00fcckseite der Agenda \u201eDunkle Materie\u201c).\n<hr> <b>Ansonsten:</b>\n<blockquote>Es ist endlich vorbei. Der dunkle Schleier, der von Tassilda \u00fcber das Sonnensystem gelegt wurde, verfl\u00fcchtigt sich im Weltall, und die Sonne scheint wieder.</blockquote>\n(<resolution><b>A2</b>)",
+                "index": "1d"
             },
             "encounter_number": "7",
             "project_number": "249",
@@ -8308,7 +8329,6 @@
                 "type": "asset",
                 "traits": "",
                 "text": "<rev> Bringe diese Karte neben dem Szenendeck ins Spiel.\n<obj> Hilf dem VKB dabei, eine Technik zu entwickeln, mit der sich die Raumzeit falten l\u00e4sst. Falls ein Ermittler am Berg Sinai das Universalarchiv kontrolliert, d\u00fcrfen die Ermittler als Gruppe 2<per_large> Hinweise ausgeben und das Universalarchiv aus dem Spiel entfernen, um <name> dem Siegpunktestapel hinzuzuf\u00fcgen.",
-
                 "flavor_text": "Die n\u00f6tigen Daten sollen irgendwo am Rand des Sonnensystems entdeckt worden sein.",
                 "classes": [
                     "story"
@@ -8338,7 +8358,6 @@
                 "type": "asset",
                 "traits": "",
                 "text": "<rev> Bringe diese Karte neben dem Szenendeck ins Spiel.\n<obj> Finde eine M\u00f6glichkeit, Hope zu sch\u00fctzen. Falls ein Ermittler in Hope den Schildgenerator kontrolliert, d\u00fcrfen die Ermittler als Gruppe 2<per_large> Hinweise ausgeben und den Schild-<br>generator aus dem Spiel entfernen, um <name> dem Siegpunktestapel hinzuzuf\u00fcgen.",
-
                 "flavor_text": "Ger\u00fcchten zufolge hat die Menschheit bereits in irgendeinem Geheimlabor einen elektromagnetischen Schildgenerator entwickelt.",
                 "classes": [
                     "story"
@@ -8368,7 +8387,6 @@
                 "type": "asset",
                 "traits": "",
                 "text": "<rev> Bringe diese Karte neben dem Szenendeck ins Spiel.\n<obj> Hilf den Mi-Go, indem du ihnen das verlorene yithianische Artefakt bringst, mit dem sie auf ihre Heimatwelt zur\u00fcckkehren k\u00f6nnen. Falls ein Ermittler an der Schwelle von Yuggoth den Stasisw\u00fcrfel kontrolliert, d\u00fcrfen die Ermittler als Gruppe 2<per_large> Hinweise ausgeben und den Stasisw\u00fcrfel aus dem Spiel entfernen, um <name> dem Siegpunktestapel hinzuzuf\u00fcgen.",
-
                 "flavor_text": "Die seltsamen Mi-Go berichten, dass sie Mitglieder der Gro\u00dfen Rasse von Yith regelm\u00e4\u00dfig in der N\u00e4he des Mars beobachtet haben.",
                 "classes": [
                     "story"
@@ -8400,7 +8418,6 @@
                 "subtitle": "Unzureichende Daten",
                 "traits": "KI.",
                 "text": "<rev> H\u00e4nge diese Karte an Berg Sinai an.\n<obj> Falls die Cassilda an Berg Sinai angeh\u00e4ngt ist: Entferne <name> aus dem Spiel und bringe die beiseitegelegte Storyvorteilskarte Projekt Origami neben dem Szenendeck ins Spiel.",
-
                 "flavor_text": "Das verlorene Forschungsschiff muss immer noch durch das Sonnensystem treiben \u2013 vielleicht k\u00f6nnen die Sensoren der Tatterdemalion es aufsp\u00fcren.",
                 "classes": [
                     "story"
@@ -8431,7 +8448,6 @@
                 "subtitle": "Hope ist in Gefahr",
                 "traits": "Mensch.",
                 "text": "<rev> H\u00e4nge diese Karte an Hope an.\n<obj> Wenn sich die Marsianische Krabbe im Siegpunktestapel befindet: Entferne Direktor Cixin aus dem Spiel und bringe die beiseitegelegte Storyvorteilskarte Letzte Hoffnung neben dem Szenendeck ins Spiel.",
-
                 "flavor_text": "Da er nur noch wenige Soldaten hat, bittet Direktor Cixin dich, ihm bei der Verteidigung gegen die marsianischen Angreifer zu helfen.",
                 "classes": [
                     "story"
@@ -8465,7 +8481,6 @@
                 "subtitle": "Misstrauisch",
                 "traits": "Mi-Go.",
                 "text": "<rev> H\u00e4nge diese Karte an Schwelle von Yuggoth an.\n<obj> Wenn sich das Mond-Laboratorium im Spiel befindet und keine Hinweise darauf liegen: Entferne den <name> aus dem Spiel und bringe die beiseitegelegte Story-vorteilskarte Reparatur der Schwelle neben dem Szenendeck ins Spiel.",
-
                 "flavor_text": "Nach dem, was du auf Titan getan hast, misstrauen die Mi-Go dir \u2013 um sie zu \u00fcberzeugen, wieder mit dir zusammenzuarbeiten, sollst du ihnen \u201eInformationen\u201c von ihrer verlorenen Station auf dem Mond besorgen.",
                 "classes": [
                     "story"
@@ -8589,7 +8604,6 @@
                 "title": "<unique><name>",
                 "traits": "Gegenstand. Relikt.",
                 "text": "<rev> Bringe diese Karte unter der Kontrolle eines Ermittlers an deinem Ort ins Spiel.\n<free> Ersch\u00f6pfe die Bleiche Maske: Lege eine <int>-<br>Probe (3) ab. Falls die Probe gelingt, darfst du dich an einen beliebigen enth\u00fcllten Ort bewegen. Falls die Probe misslingt, nimmst du 1 direkten Horror.",
-
                 "flavor_text": "",
                 "classes": [
                     "story"
@@ -8658,7 +8672,6 @@
                 "type": "asset",
                 "traits": "Verb\u00fcndeter. KI.",
                 "text": "<rev> Bringe diese Karte unter der Kontrolle eines Ermittlers an deinem Ort ins Spiel.\n<act> Ersch\u00f6pfe <name>: <b>Scannen.</b> W\u00e4hle einen verbundenen Ort. Durchsuche das Scan-Deck nach der obersten Karte, die das Symbol des gew\u00e4hlten Ortes besitzt, und ziehe sie. Mische das Scan-Deck.",
-
                 "flavor_text": "",
                 "classes": [
                     "story"
@@ -8692,7 +8705,6 @@
                 "subtitle": "Elektromagnetische Barriere",
                 "traits": "Gegenstand.",
                 "text": "<rev> Bringe diese Karte unter der Kontrolle eines Ermittlers an deinem Ort ins Spiel.\n<reaction> Sobald einem Ermittler an deinem Ort eine beliebige Menge Schaden und/oder Horror zugef\u00fcgt w\u00fcrde, bezahle 1 Ressource und ersch\u00f6pfe den Schildgenerator: Hebe jenen Schaden und Horror auf.",
-
                 "flavor_text": "",
                 "classes": [
                     "story"
@@ -8727,7 +8739,6 @@
                 "subtitle": "Zeitloses Artefakt",
                 "traits": "Gegenstand. Relikt.",
                 "text": "<rev> Bringe diese Karte unter der Kontrolle eines Ermittlers an deinem Ort ins Spiel.\n<act><act>: Lege eine <int>-Probe (3) ab. Falls die Probe gelingt, entferne 1 Verderben von der aktuellen Agenda und streiche im Kampagnenlogbuch 1 Z\u00e4hlstrich unter \u201eDrohendes Unheil\u201c durch. (Nur 1 Erfolg pro Spiel f\u00fcr die ganze Gruppe.)",
-
                 "flavor_text": "",
                 "classes": [
                     "story"
@@ -8761,7 +8772,6 @@
                 "subtitle": "Allumfassendes Wissen",
                 "traits": "Daten.",
                 "text": "<rev> Bringe diese Karte unter der Kontrolle eines Ermittlers an deinem Ort ins Spiel.\n<act> Falls die oberste Karte des Scan-Decks das Symbol eines enth\u00fcllten Ortes im Spiel besitzt, ersch\u00f6pfe das Universalarchiv: <b>Scannen.</b> Ziehe die oberste Karte des Scan-Decks. Mische das Scan-Deck.\n",
-
                 "flavor_text": "",
                 "classes": [
                     "story"
@@ -9285,7 +9295,6 @@
                 "subtitle": "Dr. Youngs Verm\u00e4chtnis",
                 "traits": "Wissenschaft.",
                 "text": "Dauerhaft. Nur f\u00fcr das Deck von Kate Winthrop. Anwendungen\n(2 Ladungen).\n<reaction> Nachdem dir eine <intellect>-Probe um 2 oder mehr gelungen ist: Platziere 1 Ladung auf den <name>.\n<reaction> Sobald du aufgibst oder das Spiel endet: F\u00fcr jeweils 4 Ladungen auf dem <name> werden die Erfahrungspunktekosten der ersten Erforscht-<br>Karte, die du vor dem n\u00e4chsten Szenario erwirbst, um 1 gesenkt.\n<free> Gib 2 Ladungen aus: Mische die Karte Dimensionsforschung aus deinem Ablagestapel in dein Deck.",
-
                 "level": "None",
                 "flavor_text": "",
                 "classes": [
@@ -9541,7 +9550,6 @@
                 "subtitle": "Die erste Kosmonautin",
                 "traits": "Verb\u00fcndeter. Kreatur. Wissenschaft.",
                 "text": "<rev> Bringe diese Karte unter der Kontrolle eines Ermittlers an deinem Ort ins Spiel.\nDu bekommst +2 geistige Gesundheit.",
-
                 "health": "1",
                 "sanity": "1",
                 "flavor_text": "Die Mi-Go retteten sie vor den fr\u00fchen unmenschlichen Tierversuchen. Sie hofften, dass die Menschheit danach streben w\u00fcrde, freundlicher zu allen Lebewesen und ihrem eigenen Planeten zu werden.",
