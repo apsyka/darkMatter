@@ -544,7 +544,7 @@
             "order": 16
         },
         {
-            "name": "Erforscht-Karten",
+            "name": "Zukunfstechnologie",
             "icon": "./images/science.png",
             "cards": [],
             "id": "ac1147f3-f651-4436-b2e1-830ad8fe2d91",
@@ -554,8 +554,8 @@
             "order": 17
         },
         {
-            "name": "Sternenschauer-Scans",
-            "icon": "/run/media/felix/D0D6C116D6C0FE2A/darkMatter/images/telescope.png",
+            "name": "Funde im All",
+            "icon": "./images/telescope.png",
             "cards": [],
             "id": "33387e63-1376-4315-90ca-b3480de1dce4",
             "meta": {
@@ -1295,8 +1295,8 @@
                 "flavor_text": "Interstellare Reisen wurden f\u00fcr Menschen erst durch die Erfindung der K\u00e4lteschlafkapseln m\u00f6glich, die die K\u00f6rperfunktionen au\u00dferkraftsetzen und gleichzeitig jede einzelne Zelle in Stase am Leben halten. ",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_pan_y": 68.0,
-                "illustration_pan_x": -400.0,
+                "illustration_pan_y": 180.0,
+                "illustration_pan_x": -250.0,
                 "illustration_scale": 1.16
             },
             "encounter_number": "10",
