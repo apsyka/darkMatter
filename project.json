@@ -3023,7 +3023,7 @@
             "name": "Virtuelles Byakhee",
             "front": {
                 "type": "enemy",
-                "traits": "Virtual. Monster. Byakhee.",
+                "traits": "Virtuell. Monster. Byakhee.",
                 "text": "<spawn> Ort, der am weitesten von dir entfernt ist.\nJ\u00e4ger.\n<for> Sobald sich das virtuelle Byakhee zwischen zwei Orten bewegen w\u00fcrde, an denen sich keine Ermittler befinden: Tausche jene Orte stattdessen miteinander.",
                 "health": "3",
                 "evade": "4",
@@ -3697,7 +3697,7 @@
             "name": "Verschr\u00e4nkt",
             "front": {
                 "type": "treachery",
-                "traits": "Quantum.",
+                "traits": "Quanten.",
                 "text": "<rev> H\u00e4nge diese Karte an einen Ermittler oder einen Gegner an, an den doch keine Kopie von Verschr\u00e4nkt angeh\u00e4ngt ist.\n<for> Nachdem der Ermittler bzw. der Gegner, an den diese Karte angeh\u00e4ngt ist, eine beliebige Menge Schaden von einer Quelle au\u00dfer <name> erlitten hat: <name> f\u00fcgt jedem anderen Ermittler und jedem anderen Gegner, an den eine Kopie von <name> angeh\u00e4ngt ist, ebenso viel Schaden zu. Lege <name> danach ab.",
                 "flavor_text": "",
                 "illustration": "./images/edited_images/2-visualisation-of-quark-structure-of-proton-arscimed.jpg",
@@ -3833,7 +3833,7 @@
             "name": "Quantengeist",
             "front": {
                 "type": "enemy",
-                "traits": "Quanten. Spuk..",
+                "traits": "Quanten. Spuk.",
                 "text": "<for> Sobald du den <name> durch Schaden besiegst (au\u00dfer durch Schaden von einer <t>Zauber</t>- oder <t>Relikt</t>-Karte): Anstatt den <name> abzulegen, lege diese Karte verdeckt in deine Bedrohungszone.",
                 "health": "1",
                 "evade": "3",
@@ -9869,7 +9869,7 @@
             "front": {
                 "type": "fullart_treachery",
                 "illustrator": "Illus. Nick Deligaris",
-                "text": "Wagnis. Verborgen.\n<for> F\u00fcge diese Karte geheim deiner Hand zu.\nDu kannst keine Fertigkeitskarten zu Fertigkeitsproben beitragen.\n<action><action>: Lege diese Karte von deiner Hand ab.",
+                "text": "Wagnis. Verborgen.\n<rev> F\u00fcge diese Karte geheim deiner Hand zu.\nDu kannst keine Fertigkeitskarten zu Fertigkeitsproben beitragen.\n<action><action>: Lege diese Karte von deiner Hand ab.",
                 "traits": "Schrecken.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_4.png",
                 "illustration_scale": 2.0
@@ -9888,7 +9888,7 @@
             "front": {
                 "type": "fullart_treachery",
                 "illustrator": "Illus. Nick Deligaris",
-                "text": "Wagnis. Verborgen.\n<for> F\u00fcge diese Karte geheim deiner Hand zu.\nDu kannst dich nicht mehr als ein Mal pro Zug bewegen.\n<action><action>: Lege diese Karte von deiner Hand ab.",
+                "text": "Wagnis. Verborgen.\n<rev> F\u00fcge diese Karte geheim deiner Hand zu.\nDu kannst dich nicht mehr als ein Mal pro Zug bewegen.\n<action><action>: Lege diese Karte von deiner Hand ab.",
                 "traits": "Schrecken.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_5.png",
                 "illustration_scale": 2.0
@@ -9907,7 +9907,7 @@
             "front": {
                 "type": "fullart_treachery",
                 "illustrator": "Illus. Nick Deligaris",
-                "text": "Wagnis. Verborgen.\n<for> F\u00fcge diese Karte geheim deiner Hand zu.\nDu kannst keine <free>-F\u00e4higkeiten ausl\u00f6sen.\n<action><action>: Lege diese Karte von deiner Hand ab.",
+                "text": "Wagnis. Verborgen.\n<rev> F\u00fcge diese Karte geheim deiner Hand zu.\nDu kannst keine <free>-F\u00e4higkeiten ausl\u00f6sen.\n<action><action>: Lege diese Karte von deiner Hand ab.",
                 "traits": "Schrecken.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_6.png",
                 "illustration_scale": 2.0
@@ -9926,7 +9926,7 @@
             "front": {
                 "type": "fullart_treachery",
                 "illustrator": "Illus. Nick Deligaris",
-                "text": "Wagnis. Verborgen.\n<for> F\u00fcge diese Karte geheim deiner Hand zu.\nDu kannst keine Ereignisse spielen.\n<action><action>: Lege diese Karte von deiner Hand ab.",
+                "text": "Wagnis. Verborgen.\n<rev> F\u00fcge diese Karte geheim deiner Hand zu.\nDu kannst keine Ereignisse spielen.\n<action><action>: Lege diese Karte von deiner Hand ab.",
                 "traits": "Schrecken.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_7.png",
                 "illustration_scale": 2.0
@@ -9982,13 +9982,13 @@
             "encounter_number": "1-3"
         },
         {
-            "name": " Visionen deines Verstandes (Scheitern)",
+            "name": "Visionen deines Verstandes (Scheitern)",
             "id": "29bf531a-a500-4fde-97db-49299f041f9f",
             "amount": 1,
             "front": {
                 "type": "fullart_treachery",
                 "illustrator": "Illus.  Kyri Koniotou",
-                "text": "Wagnis. Verborgen.\n<for> Sobald dein Zug endet, falls du nicht mindestens 1 Ressourcen-Aktion w\u00e4hrend deines Zuges durchgef\u00fchrt hast: Lege diese Karte von deiner Hand ab und nimm 1 direkten Schaden und 1 direkten Horror.",
+                "text": "Wagnis. Verborgen.\n<rev> F\u00fcge diese Karte geheim deiner Hand hinzu.\n<for> Sobald dein Zug endet, falls du nicht mindestens 1 Ressourcen-Aktion w\u00e4hrend deines Zuges durchgef\u00fchrt hast: Lege diese Karte von deiner Hand ab und nimm 1 direkten Schaden und 1 direkten Horror.",
                 "traits": "Schrecken.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_11.png",
                 "illustration_scale": 2.0
@@ -10001,13 +10001,13 @@
             "encounter_number": "2"
         },
         {
-            "name": " Visionen deines Verstandes (Horror)",
+            "name": "Visionen deines Verstandes (Horror)",
             "id": "449a74b4-1b9d-49bc-ac90-a5b88a02ef16",
             "amount": 1,
             "front": {
                 "type": "fullart_treachery",
                 "illustrator": "Illus.  Kyri Koniotou",
-                "text": "Wagnis. Verborgen.\n<for> Sobald dein Zug endet, falls du nicht mindestens 1 Spielen-Aktion w\u00e4hrend deines Zuges durchgef\u00fchrt hast: Lege diese Karte von deiner Hand ab und nimm 1 direkten Schaden und 1 direkten Horror.",
+                "text": "Wagnis. Verborgen.\n<rev> F\u00fcge diese Karte geheim deiner Hand hinzu.\n<for> Sobald dein Zug endet, falls du nicht mindestens 1 Spielen-Aktion w\u00e4hrend deines Zuges durchgef\u00fchrt hast: Lege diese Karte von deiner Hand ab und nimm 1 direkten Schaden und 1 direkten Horror.",
                 "traits": "Schrecken.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_10.png",
                 "illustration_scale": 2.0
@@ -10020,13 +10020,13 @@
             "encounter_number": "1"
         },
         {
-            "name": " Visionen deines Verstandes (Tod)",
+            "name": "Visionen deines Verstandes (Tod)",
             "id": "4cca2e18-b3c9-49c0-a6dc-1b6205e55665",
             "amount": 1,
             "front": {
                 "type": "fullart_treachery",
                 "illustrator": "Illus.  Kyri Koniotou",
-                "text": "Wagnis. Verborgen.\n<for> Sobald dein Zug endet, falls du nicht mindestens 1 Bewegungsaktion w\u00e4hrend deines Zuges durchgef\u00fchrt hast: Lege diese Karte von deiner Hand ab und nimm 1 direkten Schaden und 1 direkten Horror.",
+                "text": "Wagnis. Verborgen.\n<rev> F\u00fcge diese Karte geheim deiner Hand hinzu.\n<for> Sobald dein Zug endet, falls du nicht mindestens 1 Bewegungsaktion w\u00e4hrend deines Zuges durchgef\u00fchrt hast: Lege diese Karte von deiner Hand ab und nimm 1 direkten Schaden und 1 direkten Horror.",
                 "traits": "Schrecken.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_12.png",
                 "illustration_scale": 2.0
@@ -10039,13 +10039,13 @@
             "encounter_number": "3"
         },
         {
-            "name": " Visionen deines Verstandes (Hass)",
+            "name": "Visionen deines Verstandes (Hass)",
             "id": "3c8c6063-5502-49f3-9fc0-19b6b3937730",
             "amount": 1,
             "front": {
                 "type": "fullart_treachery",
                 "illustrator": "Illus.  Kyri Koniotou",
-                "text": "Wagnis. Verborgen.\n<for> Sobald dein Zug endet, falls du nicht mindestens 1 Ziehen-Aktion w\u00e4hrend deines Zuges durchgef\u00fchrt hast: Lege diese Karte von deiner Hand ab und nimm 1 direkten Schaden und 1 direkten Horror.",
+                "text": "Wagnis. Verborgen.\n<rev> F\u00fcge diese Karte geheim deiner Hand hinzu.\n<for> Sobald dein Zug endet, falls du nicht mindestens 1 Ziehen-Aktion w\u00e4hrend deines Zuges durchgef\u00fchrt hast: Lege diese Karte von deiner Hand ab und nimm 1 direkten Schaden und 1 direkten Horror.",
                 "traits": "Schrecken.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_13.png",
                 "illustration_scale": 2.0
