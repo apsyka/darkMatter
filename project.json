@@ -10277,5 +10277,8 @@
     "meta": {
         "dirty": []
     },
-    "icon": "./images/Dark Matter.png"
+    "icon": "./images/Dark Matter.png",
+    "translations": {
+        "fr": "project_fr.json"
+    }
 }
