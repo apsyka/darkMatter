@@ -1598,14 +1598,14 @@
                 "text": "<rev> F\u00fcge Carcosas Erbin deinem Deck hinzu.\nDauerhaft.\nWenn die Ermittler w\u00e4hrend der Aufl\u00f6sung eines Szenarios Siegpunkte verdienen, verdient der Ermittler mit den wenigsten seelischen Traumata 1 zus\u00e4tzlichen Erfahrungspunkt f\u00fcr jedes seelische Trauma, das er hat. (Bei Gleichstand w\u00e4hlst du einen jener Ermittler aus.)",
                 "flavor_text": "",
                 "illustration": "./images/edited_images/language - unknown.jpg",
-                "classes": [
-                    "weakness"
-                ],
                 "name": "<unique><name>",
                 "illustration_scale": 1.12,
                 "illustration_pan_x": 0.0,
                 "illustration_pan_y": 236.0,
-                "level": "None"
+                "level": "None",
+                "classes": [
+                    "story weakness"
+                ]
             },
             "back": {
                 "type": "fullart_scanning",
@@ -1660,7 +1660,9 @@
                 "illustration": "./images/603802f42316f5542ca2608ed8552f8d.jpg",
                 "illustrator": "Illus. GG-arts",
                 "attack": "2",
-                "name": "<unique><name>"
+                "name": "<unique><name>",
+                "illustration_scale": 1.78,
+                "illustration_pan_y": 1100.0
             },
             "back": {
                 "type": "fullart_scanning",
@@ -1716,7 +1718,6 @@
                 "illustrator": "Illus. Frankie Perez",
                 "attack": "3",
                 "name": "<unique><name>",
-                "illustration_pan_x": -42.0,
                 "illustration_pan_y": 881.0
             },
             "back": {
