@@ -1871,11 +1871,13 @@
                 "illustration_pan_y": -60.0
             },
             "back": {
-                "type": "encounter",
-                "illustration": "./images/0_",
+                "type": "fullart_scanning",
+                "illustration": "./images/scanningBack.png",
                 "text": "",
-                "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": [
+                    "circle",
+                    "cross"
+                ]
             },
             "encounter_number": "28",
             "project_number": "41",
@@ -1895,7 +1897,7 @@
                 "copyright": " ",
                 "text": "\n\n\n\n",
                 "connections": [
-                    "moon",
+                    "crescent",
                     "hourglass"
                 ]
             },
