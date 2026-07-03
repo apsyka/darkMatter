@@ -1195,9 +1195,9 @@
                 "index": "3b"
             },
             "encounter_number": "7",
-            "project_number": "20",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
-            "id": "7b2ad99b-9090-4fb6-9881-f019ceab8399"
+            "id": "7b2ad99b-9090-4fb6-9881-f019ceab8399",
+            "project_number": "20"
         },
         {
             "name": "Virtueller Zugangsschl\u00fcssel",
@@ -1236,13 +1236,13 @@
                 "text": "<for> Nachdem du den <name> betreten hast: Lege eine <wil>-Probe (2) ab. Falls die Probe misslingt, nimmst du 1 Horror.",
                 "flavor_text": "Als du durch die T\u00fcr trittst, siehst du dutzende verst\u00fcmmelte und zerfleischte Leichen. Auf den Boden hat jemand mit Blut die Worte \u201ekeine Hoffnung\u201c gekritzelt.",
                 "illustration": "./images/edited_images/cargo - Jason Courtney.jpg",
-                "clues": "1<per>",
+                "clues": "1",
                 "shroud": "2",
                 "connection": "square",
                 "connections": [
                     "circle",
                     "hourglass",
-                    "moon"
+                    "crescent"
                 ],
                 "illustrator": "Illus. Jason Courtney",
                 "illustration_pan_x": -60.0,
@@ -1391,7 +1391,7 @@
                 "connection": "cross",
                 "connections": [
                     "circle",
-                    "doubleslash"
+                    "double_slash"
                 ],
                 "illustrator": "Illus. Ann Manly",
                 "illustration_pan_x": -500.0,
@@ -1522,8 +1522,11 @@
                 "illustration_scale": 2.32
             },
             "back": {
-                "type": "encounter",
-                "illustration": "./images/Scanning - Cybervirus.png"
+                "type": "fullart_scanning",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "clover"
+                ]
             },
             "encounter_number": "16",
             "project_number": "29",
@@ -1556,7 +1559,7 @@
                 "illustration": "./images/scanningBack.png",
                 "connections": [
                     "square",
-                    "moon"
+                    "crescent"
                 ]
             },
             "encounter_number": "17",
@@ -1737,7 +1740,7 @@
             "front": {
                 "type": "asset",
                 "traits": "Gegenstand. Medizin. Wissenschaft.",
-                "text": "<rev> Du darfst diese Karte unter der Kontrolle eines beliebigen Ermittlers ins Spiel bringen.\nAnwendungen (3 Vorr\u00e4te).\n<reaction> Nachdem einer Ermittlerkarte an deinem Ort eine beliebige Menge Schaden zugewiesen wurde, gib 1 Vorrat aus und ersch\u00f6pfe das <name>: Heile so viel Schaden von jener Ermittlerkarte, wie ihr gerade zugewiesen wurde.",
+                "text": "Anwendungen (3 Vorr\u00e4te).\n<rev> Du darfst diese Karte unter der Kontrolle eines beliebigen Ermittlers ins Spiel bringen.\n<reaction> Nachdem einer Ermittlerkarte an deinem Ort eine beliebige Menge Schaden zugewiesen wurde, gib 1 Vorrat aus und ersch\u00f6pfe das <name>: Heile so viel Schaden von jener Ermittlerkarte, wie ihr gerade zugewiesen wurde.",
                 "slot": "1 Hand",
                 "flavor_text": "",
                 "classes": [
@@ -1800,7 +1803,7 @@
             "front": {
                 "type": "asset",
                 "traits": "Gegenstand. Medizin. Wissenschaft.",
-                "text": "<rev> Du darfst diese Karte unter der Kontrolle eines beliebigen Ermittlers ins Spiel bringen.\nAnwendungen (3 Vorr\u00e4te).\n<free> Gib 1 Vorrat aus: Du bekommst bis zum Ende der Runde +1 <com> und +1 <agi>.",
+                "text": "Anwendungen (3 Vorr\u00e4te).\n<rev> Du darfst diese Karte unter der Kontrolle eines beliebigen Ermittlers ins Spiel bringen.\n<free> Gib 1 Vorrat aus: Du bekommst bis zum Ende der Runde +1 <com> und +1 <agi>.",
                 "flavor_text": "",
                 "classes": [
                     "story"
