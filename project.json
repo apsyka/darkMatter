@@ -2563,7 +2563,7 @@
                 "title": "<unique><name>",
                 "subtitle": "25% funktionsf\u00e4hig",
                 "traits": "KI.",
-                "text": "<reaction> Zu Beginn der Runde: W\u00e4hle einen Ermittler. Der gew\u00e4hlte Ermittler darf in seinem Zug in dieser Runde eine zus\u00e4tzliche Aktion nehmen, die nur f\u00fcr <b>Scannen</b>-<br>F\u00e4higkeiten verwendet werden kann.",
+                "text": "Dauerhaft.\n<reaction> Zu Beginn der Runde: W\u00e4hle einen Ermittler. Der gew\u00e4hlte Ermittler darf in seinem Zug in dieser Runde eine zus\u00e4tzliche Aktion nehmen, die nur f\u00fcr <b>Scannen</b>-<br>F\u00e4higkeiten verwendet werden kann.",
                 "flavor_text": "",
                 "illustration": "./images/edited_images/hal2 - unknown.jpg",
                 "name": "<unique><name>",
@@ -9180,7 +9180,10 @@
                 "level": "None",
                 "icons": "QQ",
                 "illustration": "./images/specialRelativity.png",
-                "name": "<unique><name>"
+                "name": "<unique><name>",
+                "slots": [
+                    "hand"
+                ]
             },
             "back": {
                 "type": "player"
