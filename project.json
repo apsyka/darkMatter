@@ -1191,7 +1191,7 @@
                 "type": "act_agenda_full_back",
                 "illustration": "./images/edited_images/0_gate - unknown.jpg",
                 "name": "<size 75> Durch die Tore der virtuellen Traumlande",
-                "flavor_text": "Indem du die K\u00e4lteschlafkapseln mit dem Hauptcomputer verbindest, kannst du dein bald wieder tr\u00e4umendes Selbst in die gemeinsamen Tr\u00e4ume von 2C-OES187 hochladen. Du legst dich erneut in deinen Sarg und aktivierst die Schlafsequenz der Maschine\u2026</i>(<resolution><b>A2</b>)",
+                "flavor_text": "Indem du die K\u00e4lteschlafkapseln mit dem Hauptcomputer verbindest, kannst du dein bald wieder tr\u00e4umendes Selbst in die gemeinsamen Tr\u00e4ume von 2C-OES187 hochladen. Du legst dich erneut in deinen Sarg und aktivierst die Schlafsequenz der Maschine\u2026</i>(<resolution><b>A1</b>)",
                 "index": "3b"
             },
             "encounter_number": "7",
@@ -3510,7 +3510,7 @@
                 "connection": "doubleslash",
                 "connections": [
                     "triangle",
-                    "moon",
+                    "crescent",
                     "diamond"
                 ],
                 "illustrator": "Illus. Richard Bizley"
