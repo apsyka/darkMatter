@@ -9416,7 +9416,7 @@
                 "illustration": "./images/scanningBack.png",
                 "text": "\n\n\n\n",
                 "connections": [
-                    "moon",
+                    "crescent",
                     "clover",
                     "hourglass"
                 ]
