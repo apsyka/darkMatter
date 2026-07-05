@@ -1752,7 +1752,10 @@
                 "illustrator": "Illus. Ivan Robert Vasquez",
                 "illustration_pan_x": -228.0,
                 "illustration_pan_y": 232.0,
-                "illustration_scale": 1.1
+                "illustration_scale": 1.1,
+                "slots": [
+                    "hand"
+                ]
             },
             "back": {
                 "type": "fullart_scanning",
