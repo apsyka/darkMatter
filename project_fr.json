@@ -3198,57 +3198,110 @@
                 "name": "<name>",
                 "text": null,
                 "flavor_text": null,
+                "subtitle": null,
                 "traits": null,
-                "subtitle": null
+                "entries": [
+                    {
+                        "token": [
+                            "skull"
+                        ],
+                        "text": "-2. Si vous \u00e9chouez \u00e0 ce test de comp\u00e9tence et que vous \u00eates dans un lieu Caverne, subissez 1 d\u00e9g\u00e2t."
+                    },
+                    {
+                        "token": [
+                            "cultist"
+                        ],
+                        "text": "-2. Si vous \u00e9chouez \u00e0 ce test de comp\u00e9tence et que vous \u00eates dans un lieu Carcosa, subissez 1 horreur."
+                    },
+                    {
+                        "token": [
+                            "tablet"
+                        ],
+                        "text": "-1. Vous devez soit r\u00e9v\u00e9ler un autre pion, soit barrer 1 trait sous la mention \u00ab Souvenirs \u00bb de votre investigateur."
+                    },
+                    {
+                        "token": [
+                            "elder_thing"
+                        ],
+                        "text": "-2. Si vous \u00eates dans un lieu Carcosa : placez 1 fatalit\u00e9 sur l'intrigue en cours ou \u00e9chouez automatiquement \u00e0 ce test de comp\u00e9tence."
+                    }
+                ],
+                "difficulty": "EINFACH / NORMAL"
             },
-            "back": {}
+            "back": {
+                "entries": [
+                    {
+                        "token": [
+                            "skull"
+                        ],
+                        "text": "-3. Si vous \u00eates dans un lieu Caverne, subissez 1 d\u00e9g\u00e2t."
+                    },
+                    {
+                        "token": [
+                            "cultist"
+                        ],
+                        "text": "-3. Si vous \u00eates dans un lieu Carcosa, subissez 1 horreur."
+                    },
+                    {
+                        "token": [
+                            "tablet"
+                        ],
+                        "text": "-2. Vous devez soit r\u00e9v\u00e9ler un autre pion, soit barrer 1 trait sous la mention \u00ab Souvenirs \u00bb de votre investigateur."
+                    },
+                    {
+                        "token": [
+                            "elder_thing"
+                        ],
+                        "text": "-3. Si vous \u00eates dans un lieu Carcosa : placez 1 fatalit\u00e9 sur l'intrigue en cours ou \u00e9chouez automatiquement \u00e0 ce test de comp\u00e9tence."
+                    }
+                ],
+                "difficulty": "SCHWER / EXPERTE"
+            }
         },
         "b13f893e-b89a-418f-9eea-37f592dbe630": {
             "name": "Les Ombres s'Allongent...",
             "front": {
                 "name": "<name>",
-                "text": "(Diese Agenda hat keinen Ver-<br>derbensschwellenwert. Platziere trotzdem Verderben auf diese<br> Agenda.)",
-                "flavor_text": "Obwohl deine Scanner keine Anomalien innerhalb des Bruchst\u00fccks entdeckt haben, f\u00fcrchtest du dich wie nie zuvor, als du die Oberfl\u00e4che betrittst. Du kannst das Gef\u00fchl nicht absch\u00fctteln, dass etwas sehr Schreckliches passieren wird, wenn du hier zu lange herumtr\u00f6delst.",
-                "traits": null,
-                "subtitle": null
+                "text": "Cette intrigue n'a pas de seuil de fatalit\u00e9 (continuez d'ajouter des fatalit\u00e9s jusqu'\u00e0 ce qu'on vous indique d'avancer).",
+                "flavor_text": "Bien que vos scanners n'aient d\u00e9tect\u00e9 aucune anomalie autour du Fragment, vous sentez monter en vous une peur indicible \u00e0 mesure que vous vous approchez de sa surface. Vous ne pouvez vous emp\u00eacher de penser que quelque chose d'horrible va arriver si vous restez trop longtemps en son sein.",
+                "subtitle": null,
+                "traits": null
             },
             "back": {
                 "name": "...Sur Carcosa",
-                "traits": null,
-                "text": "<b>Entropie.</b> <i>Nomen.</i> En\u00b7tro\u00b7pie. <font \"./fonts/CharisSIL-Regular.ttf\">[\u025bnt\u0281o\u02c8pi\u02d0]</font>\nGrad der Unordnung oder Unsicherheit in einem System.\n<bullet> Die Zersetzung der Materie und Energie im Universum hin zu einem endg\u00fcltigen Zustand lebloser Gleichf\u00f6rmigkeit.\n<bullet> Ein Degenerationsprozess oder eine Entwicklung zum Chaos.\n<bullet> Chaos, Unordnung, Zufall.\n<bullet> Du solltest das hier nicht sehen.\n<bullet> <i>(Tipp: \u00ab Die Zeit ist ein flacher Kreis. Alles, was wir getan haben oder tun werden, werden wir immer wieder und wieder und wieder tun \u2013 f\u00fcr immer. \u00bb)</i>\n\n\n",
-                "flavor_text": null
+                "text": "<b>Entropie.</b> n.f. en.tro.py. <font \"./fonts/CharisSIL-Regular.ttf\">|'en-tr\u0259-p\u0113.|</font>\nLe degr\u00e9 de d\u00e9sordre ou d'incertitude dans un syst\u00e8me.\n<bullet> La d\u00e9gradation de la mati\u00e8re et de l'\u00e9nergie dans l'univers jusqu'\u00e0 un \u00e9tat ultime d'uniformit\u00e9 inerte.\n<bullet> Un processus de d\u00e9gradation ou une tendance au d\u00e9sordre.\n<bullet> Chaos, d\u00e9sorganisation, impr\u00e9visibilit\u00e9.\n<bullet> Vous n'\u00eates pas cens\u00e9 lire ce texte.\n\n<i>\u00ab Le temps est un cercle plat. Tout ce que nous avons fait, tout ce que nous ferons, nous allons le faire et le refaire sans fin. \u00bb\n<right>\u2013 Nic Pizzolatto, True Detective</i>\n",
+                "traits": null
             }
         },
         "6e85c61e-e47d-43d4-be37-082a741653bd": {
             "name": "Comme S\u00e8chent les Larmes...",
             "front": {
                 "name": "<name>",
-                "text": "Oberfl\u00e4che des Bruchst\u00fccks erh\u00e4lt <act> : <b>Abandon.</b>\n\n\n",
-                "flavor_text": "Deine Landung muss die Taschen-<br>realit\u00e4t innerhalb des Bruchst\u00fccks gest\u00f6rt haben. Der ganze Asteroid beginnt einzust\u00fcrzen und wird dich bald begraben haben. Flieh von hier, solange du noch kannst!",
-                "traits": null,
-                "subtitle": null
+                "text": "Le lieu Surface du Fragment gagne : <br>\u00ab <act> : <b>Abandon.</b> \u00bb\n\n\n",
+                "flavor_text": "Votre arriv\u00e9e a d\u00fb perturber la micro-r\u00e9alit\u00e9 entourant le Fragment. L'ast\u00e9ro\u00efde commence \u00e0 s'effondrer sur lui-m\u00eame et vous serez pi\u00e9g\u00e9 \u00e0 l'int\u00e9rieur. Vous devez sortir d'ici pendant que vous le pouvez encore !",
+                "subtitle": null,
+                "traits": null
             },
             "back": {
                 "name": "...\u00c0 Carcosa",
-                "traits": null,
-                "text": "(<resolution><b>A2</b>)",
-                "flavor_text": "Du konntest nicht rechtzeitig entkommen \u2013 der Sog der Taschenrealit\u00e4t zieht dich und deine Gef\u00e4hrten zur\u00fcck in den gelben Palast.\nAls das Beben endlich aufh\u00f6rt, verl\u00e4sst du den Palast und findest dich in einer verformten fremdartigen Stadt wieder. Ihre gewundenen Stra\u00dfen und die irrsinnige Architektur haben keinen Hauch von Ordnung oder Struktur. In der Ferne spiegelt ein tr\u00fcber See das Licht zweier Sonnen. \nDu bist in Carcosa gefangen."
+                "text": "(<resolution><b>C2</b>)",
+                "flavor_text": "Vous n'avez pas r\u00e9ussi \u00e0 sortir \u00e0 temps, le vortex de la micro-dimension vous aspire avec vos compagnons dans le palais jaune.\nApr\u00e8s quelques instants, vous sortez du palais pour vous retrouver dans une ville \u00e9trange et d\u00e9form\u00e9e. Ses rues sinueuses et son architecture aberrante semblent n'avoir aucun ordre ou structure. Au loin, un lac \u00e0 l'eau trouble refl\u00e8te l'\u00e9clat de deux soleils. Vous \u00eates pris au pi\u00e8ge dans Carcosa.",
+                "traits": null
             }
         },
         "2c12d246-0b19-4e2c-af1b-0812c3931e63": {
             "name": "Mais Plus \u00c9trange Encore...",
             "front": {
                 "name": "<name>",
-                "text": "<obj> Wenn das verlassene Shuttle enth\u00fcllt ist und sich keine Hinweise darauf befinden, r\u00fccke vor.",
-                "flavor_text": "W\u00e4hrend der Landung siehst du eine menschengemachte Struktur in der Ferne schimmern \u2013 die Reste der letzten Expedition der Kultisten. Dort muss es Hinweise darauf geben, wie der gro\u00dfe Palast betreten werden kann.",
-                "traits": null,
-                "subtitle": null
+                "text": "<obj> Si la Navette Abandonn\u00e9e est r\u00e9v\u00e9l\u00e9e et qu'il n'y a pas d'indice sur elle, avancez.",
+                "flavor_text": "Pendant la descente, vous apercevez au loin une structure artificielle, les vestiges de la pr\u00e9c\u00e9dente exp\u00e9dition cultiste. Ils ont d\u00fb laisser des traces expliquant comment entrer dans le grand palais.",
+                "subtitle": null,
+                "traits": null
             },
             "back": {
                 "name": "...Est Carcosa",
-                "traits": null,
-                "text": "<hr> <b>\u00dcberpr\u00fcfe das Kampagnenlogbuch. Falls <i>du die Auff\u00fchrung von Carcosas Erbin angesehen hast</i> :</b>\n<blockquote>Die Palastr\u00e4ume, die auf der Karte eingezeichnet sind\u2026 es sind dieselben, die auch im virtuellen Theaterst\u00fcck vorkamen. Du nimmst die Karte mit und machst dich auf den Weg zum H\u00f6hleneingang \u2013 dem Eingang ins Reich Carcosa.</blockquote>\nJeder Ermittler erh\u00e4lt 1 Hinweis aus dem Markervorrat.\nMettez alle beiseitegelegten Orte mit der <t>H\u00f6hle</t>-Seite nach oben ins Spiel.\n<hr> <b>Sinon :</b>\n<blockquote>Die Untersuchung der Karte weckt keine Souvenirs in dir. Du nimmst die Karte mit und beginnst, die H\u00f6hlen zu durchsuchen \u2013 irgendwo hier muss der Eingang ins Reich Carcosa sein.</blockquote>\nMettez alle beiseitegelegten Orte mit der <i><b>H\u00f6hle</b></i>-Seite nach oben ins Spiel.\nDer beiseitegelegte Gegner Bestie von Aldebaran erscheint in der Zyklopischen H\u00f6hle.",
-                "flavor_text": "Verborgen in einem Fach des verlassenen Shuttles liegt eine beidseitig beschriftete Karte des Asteroiden, die von den Kultisten w\u00e4hrend ihrer Erkundungen angefertigt wurde. Auf die eine Seite der Karte wurde ein weitl\u00e4ufiges Netz aus H\u00f6hlen und Tunneln gezeichnet, das sich durch das ganze Bruchst\u00fcck zieht. Als du die Karte umdrehst, siehst du auf ihrer R\u00fcckseite etwas ganz anderes \u2013 einen gro\u00dfen Palast, der anstelle der Tunnel prunkvolle Flure besitzt, und majest\u00e4tische Kammern, wo vorher unterirdische H\u00f6hlen waren. Scheinbar gibt es d\u00fcnne Stellen im Schleier der Realit\u00e4t, durch die die Entdecker zeitweise in die Paralleldimension Carcosa reisen konnten."
+                "text": "<blockquote>Cach\u00e9e dans un compartiment de la navette abandonn\u00e9e, vous trouvez une carte de l'ast\u00e9ro\u00efde dessin\u00e9e par les cultistes lors de leur exploration initiale. Les vastes cavernes creus\u00e9es \u00e0 l'int\u00e9rieur du Fragment ont \u00e9t\u00e9 repr\u00e9sent\u00e9es sur un c\u00f4t\u00e9 de la carte. Lorsque vous la retournez, vous identifiez l'immense palais, avec des couloirs rempla\u00e7ant les tunnels et des chambres majestueuses \u00e0 la place des cavit\u00e9s souterraines. Il semble qu'il y ait des faiblesses dans le voile de la r\u00e9alit\u00e9 qui permettent aux explorateurs de se d\u00e9placer depuis certains endroits dans la dimension connue sous le nom de Carcosa.</blockquote><size 20><hr>\n</size>\n<b>Si les investigateurs ont regard\u00e9 la repr\u00e9sentation des H\u00e9ritiers de Carcosa :</b>\n<blockquote>Les pi\u00e8ces du palais dessin\u00e9es sur la carte sont les m\u00eames que celles que vous avez vues dans la repr\u00e9sentation virtuelle. Vous prenez la carte avec vous et vous vous dirigez vers les cavernes. Vers l'entr\u00e9e du royaume de Carcosa\u2026</blockquote>\nChaque investigateur gagne 1 indice pris dans la r\u00e9serve de pions.\nMettez en jeu les lieux recto-verso mis de c\u00f4t\u00e9, face Caverne visible.<size 20><hr>\n</size>\n<b>Sinon :</b>\n<blockquote>L'\u00e9tude approfondie de la carte ne d\u00e9clenche aucun souvenir. Vous la prenez avec vous et commencez vos recherches dans les cavernes, entr\u00e9e du royaume de Carcosa.</blockquote>\nMettez en jeu les lieux recto-verso mis de c\u00f4t\u00e9, face Caverne visible.\nG\u00e9n\u00e9rez l'ennemi B\u00eate d'Ald\u00e9baran mis de c\u00f4t\u00e9 dans les Cavernes Cyclop\u00e9ennes.",
+                "traits": null
             }
         },
         "05c99d1b-9511-4df4-ba17-71b226b0b952": {
@@ -3271,26 +3324,26 @@
             "name": "La V\u00e9rit\u00e9 Indicible",
             "front": {
                 "name": "<name>",
-                "text": "<free> Falls du dich an einem <t>H\u00f6hle</t>-Ort oder einem <t>Carcosa</t>-Ort befindest, geben die Ermittler als Gruppe 1<per_large> Hinweise aus: Drehe deinen Ort und alle verbundenen Orte auf ihre andere Seite.\n<obj> Wenn jeder unbesiegte Ermittler aufgegeben hat, r\u00fccke vor.\n",
-                "flavor_text": "Du wirst niemanden vor dem drohenden Untergang warnen k\u00f6nnen, wenn du es nicht lebendig hier herausschaffst. Du musst den Asteroiden so schnell wie m\u00f6glich verlassen!",
-                "traits": null,
-                "subtitle": null
+                "text": "<free> Si vous \u00eates dans un lieu Caverne ou Carcosa, d\u00e9pensez collectivement 1 \ud83d\udd75 indice : retournez votre lieu et tous les lieux connexes sur leur autre face.\n<obj> Si chaque investigateur non-vaincu a abandonn\u00e9, avancez.\n",
+                "flavor_text": "Vous ne serez pas en mesure d'avertir quiconque de cette apocalypse imminente si vous ne vous en sortez pas vivant. Vous devez vous \u00e9chapper de cet ast\u00e9ro\u00efde aussi vite que possible !",
+                "subtitle": null,
+                "traits": null
             },
             "back": {
                 "name": "Retour \u00e0 la R\u00e9alit\u00e9",
-                "traits": null,
-                "text": "<b>Falls jeder unbesiegte Ermittler aufgegeben hat:</b>\n<blockquote>Du h\u00e4ltst dich gut fest, als das Shuttle den Asteroiden nur Sekunden verl\u00e4sst, bevor er in sich zusammenbricht. An seiner Stelle bleibt nichts au\u00dfer einem gelben Nebelhauch.</blockquote>\n(<resolution><b>A3</b>)\n<hr> <b>Ansonsten (falls du von einer anderen Karte als Szene 3a angewiesen wurdest, vorzur\u00fccken)::</b>\n<blockquote>Du liest die Hieroglyphen in den H\u00f6hlen und betrachtest die Gem\u00e4lde, die die Palastr\u00e4ume zieren, und erf\u00e4hrst so von einem geheimen Ritual, mit dem man Tassilda zumindest zeitweise daran hindern k\u00f6nnte, den Thron zu besteigen. Mit diesem Ritual k\u00f6nntest du der Menschheit genug Zeit zur Flucht verschaffen. Allerdings musst du immer noch aus diesen H\u00f6hlen entkommen.</blockquote>\nIm Kampagnenlogbuch wird notiert: <i>Die Ermittler wissen von der Abschw\u00f6rung des Throns.</i>\nDrehe diese Szene zur\u00fcck auf ihre andere Seite.",
-                "flavor_text": null
+                "text": "<b>Si tous les investigateurs non-vaincus ont abandonn\u00e9 :</b>\n<blockquote>Vous vous accrochez fermement alors que la navette d\u00e9colle de l'ast\u00e9ro\u00efde, quelques secondes avant qu'il ne s'\u00e9croule sur lui-m\u00eame, ne laissant qu'un nuage de poussi\u00e8re jaune dans l'espace.</blockquote>\n(<resolution><b>C3</b>)<size 20><hr>\n</size>\n<b>Sinon (si on vous a indiqu\u00e9 d'avancer au moyen d'une carte autre que l'Acte 3a) :</b>\n<blockquote>Parmi les hi\u00e9roglyphes et les peintures qui d\u00e9corent les couloirs du palais, vous d\u00e9couvrez un rituel obscur qui permettrait de bloquer temporairement la pr\u00e9tention de Tassilda au tr\u00f4ne, ce qui pourrait laisser suffisamment de temps \u00e0 l'humanit\u00e9 pour s'\u00e9chapper. Mais avant toutes choses, vous devez d'abord sortir d'ici.</blockquote>\nDans votre Carnet de Campagne, indiquez que vous \u00eates au courant de la possibilit\u00e9 d'Abjuration au Tr\u00f4ne.\nRetournez \u00e0 l'Acte 3a en retournant cette carte.",
+                "flavor_text": null,
+                "traits": null
             }
         },
         "6b6f2948-4b4e-4754-b695-0cb7d28371a8": {
             "name": "Bouteille des Secrets Enferm\u00e9s",
             "front": {
                 "name": "<name>",
-                "text": "Rapide.\n<reaction> Nachdem ein Ermittler an deinem Ort einen <auto_fail>-<br>Marker enth\u00fcllt hat, entferne die <name> aus dem Spiel: Hebe jenen Marker auf und behandle ihn stattdessen als <elder_sign>-Marker.",
+                "text": "Rapide.\n<reaction> Quand un investigateur dans votre lieu r\u00e9v\u00e8le un pion \ud83c\udf3f, retirez la Bouteille des Secrets Enferm\u00e9s de la partie : annulez ce pion et traitez-le comme un pion \u2734 \u00e0 la place.",
                 "flavor_text": "",
-                "traits": "Objet.",
-                "subtitle": "Sie ist f\u00fcr dich bestimmt"
+                "subtitle": "Sie ist f\u00fcr dich bestimmt",
+                "traits": "Objet."
             },
             "back": {}
         },
@@ -3330,32 +3383,32 @@
             "name": "Puits Sans Fond",
             "front": {
                 "name": "<name>",
-                "text": "<for> Nachdem du die <name> betreten hast: Bewege dich an einen beliebigen anderen Nicht-<t>Oberfl\u00e4che</t>-Ort und nimm 3 direkten d\u00e9g\u00e2t. Du verlierst alle verbliebenen Aktionen in dieser Runde.",
-                "flavor_text": "Also, wie kommen wir da runter?",
-                "traits": "Caverne.",
-                "subtitle": null
+                "text": "<for> Apr\u00e8s \u00eatre entr\u00e9 dans le Puits Sans Fond : d\u00e9placez-vous dans un autre lieu non-Surface, subissez 3 d\u00e9g\u00e2ts directs et perdez toutes vos actions restantes.",
+                "flavor_text": "Et maintenant, comment allons-nous descendre ?",
+                "subtitle": null,
+                "traits": "Caverne."
             },
             "back": {
                 "name": "Escalier en Colima\u00e7on",
-                "traits": "Carcosa.",
-                "text": "<for> Sobald die Wendeltreppe umgedreht wird: Bewege jeden Ermittler an diesem Ort an einen verbundenen Ort.",
-                "flavor_text": "Nur noch ein paar Stufen\u2026"
+                "text": "<for> Quand l'Escalier en Colima\u00e7on se retourne : d\u00e9placez chaque investigateur dans l'Escalier en Colima\u00e7on dans un lieu connexe.",
+                "flavor_text": "Juste quelques marches de plus\u2026",
+                "traits": "Carcosa."
             }
         },
         "89d316d5-5b32-4e5b-a834-ea2deb1e532c": {
             "name": "Cavernes Cyclop\u00e9ennes",
             "front": {
                 "name": "<name>",
-                "text": "<free> Die Ermittler an diesem Ort streichen als Gruppe 1<per_large> ihrer \u00ab Souvenirs \u00bb durch: Drehe einen beliebigen <t>H\u00f6hle</t>- oder <t>Carcosa</t>-Ort auf seine andere Seite.",
+                "text": "<free> Les investigateurs dans ce lieu barrent collectivement 1\ud83d\udc64 trait sous la mention \u00ab Souvenirs \u00bb de leurs investigateurs : choisissez un lieu Caverne ou Carcosa et retournez-le sur son autre face.",
                 "flavor_text": "",
-                "traits": "Caverne.",
-                "subtitle": null
+                "subtitle": null,
+                "traits": "Caverne."
             },
             "back": {
                 "name": "Grand Salon",
-                "traits": "Carcosa.",
-                "text": "<free> Falls dieser Ort der einzige <t>Carcosa</t>-Ort im Spiel ist: Lies die beiseitegelegte Handlungs-karte \u00ab Die Ankunft des K\u00f6nigs \u00bb. (Max. einmal pro Spiel.)",
-                "flavor_text": "Hier ist niemand. Nur die Statuen und Gem\u00e4lde begr\u00fc\u00dfen dich."
+                "text": "<free> Si ce lieu est le seul lieu Carcosa en jeu : lisez la carte Histoire \u00ab Arriv\u00e9e du Roi \u00bb mise de c\u00f4t\u00e9. (Max. une fois par partie.)",
+                "flavor_text": "Il n'y a personne ici pour vous accueillir, seulement des statues et des peintures.",
+                "traits": "Carcosa."
             }
         },
         "c18e48b9-2742-415c-b95a-3ce239bc7fca": {
@@ -3363,65 +3416,66 @@
             "front": {
                 "name": "<name>",
                 "text": null,
-                "flavor_text": "<valign>Ein Riss im Felsen, der zwischen den riesigen Strukturen des Asteroiden kaum auff\u00e4llt. Der Weg f\u00fchrt direkt in ein dunkles und un\u00fcbersichtliches H\u00f6hlensystem unter der Oberfl\u00e4che.",
-                "traits": "Surface. Caverne.",
-                "subtitle": null
+                "flavor_text": "<valign>Une ouverture dans la paroi, cach\u00e9e dans les reliefs complexes \u00e0 la surface de l'ast\u00e9ro\u00efde. Le passage m\u00e8ne \u00e0 un vaste r\u00e9seau de cavernes sous la surface.",
+                "subtitle": null,
+                "traits": "Surface. Caverne."
             },
             "back": {
                 "name": "Portes du Palais",
-                "traits": "Surface. Carcosa.",
-                "text": "Ermittler k\u00f6nnen nicht aufgeben, solange das Palasttor im Spiel ist.",
-                "flavor_text": "Der wundervoll verzierte Eingang in den Palast unserer K\u00f6nigsfamilie."
+                "text": "Vous ne pouvez pas abandonner tant que les Portes du Palais sont en jeu.\n",
+                "flavor_text": "L'impressionnante entr\u00e9e du palais royal.",
+                "traits": "Surface. Carcosa."
             }
         },
         "30a5e386-de8a-436a-8195-c628d6a9b886": {
             "name": "Cavit\u00e9 de Glace",
             "front": {
                 "name": "<name>",
-                "text": "Der Schleierwert des Gefrorenen Hohlraums wird f\u00fcr jeden verbundenen <t>H\u00f6hle</t>-Ort um 1 gesenkt.",
-                "flavor_text": "Unnat\u00fcrlich kalte Luft zieht durch den Hohlraum und l\u00e4sst dich bis auf die Knochen frieren.",
-                "traits": "Caverne.",
-                "subtitle": null
+                "text": "La Cavit\u00e9 de Glace perd -1 de valeur occulte pour chaque lieu Caverne connexe.",
+                "flavor_text": "Des courants d'air anormalement froids traversent la cavit\u00e9, vous gelant jusqu'aux os.",
+                "subtitle": null,
+                "traits": "Caverne."
             },
             "back": {
                 "name": "Jardins de Thothut",
-                "traits": "Carcosa.",
-                "text": "Der Schleierwert von Thothuts Garten wird f\u00fcr jeden verbundenen <t>Carcosa</t>-Ort um 1 erh\u00f6ht.\n<free> Falls dieser Ort der einzige <t>Carcosa</t>-Ort im Spiel ist: Lies die beiseitegelegte Handlungskarte \u00ab Freuden \u00bb. (Max. einmal pro Spiel.)",
-                "flavor_text": null
+                "text": "Les Jardins de Thothut gagnent +1 de valeur occulte pour chaque lieu Carcosa connexe.\n<free> Si ce lieu est le seul lieu Carcosa en jeu : lisez la carte Histoire \u00ab D\u00e9lices \u00bb mise de c\u00f4t\u00e9. (Max. une fois par partie.)",
+                "flavor_text": null,
+                "traits": "Carcosa."
             }
         },
         "b7bc4227-ffc7-4021-803e-6293beec544d": {
             "name": "Ravin Infranchissable",
             "front": {
                 "name": "<name>",
-                "text": "Du kannst die <name> nicht von verbundenen Orten aus betreten.\n<free> Falls sich keine <t>Carcosa</t>-Orte im Spiel befinden und jeder unbesiegte Ermittler in der Unzug\u00e4nglichen Schlucht ist: Lies die beiseitegelegte Handlungskarte \u00ab Die verlorene Expedition \u00bb. (Max. einmal pro Spiel.)",
+                "text": "Vous ne pouvez pas entrer dans le Ravin Infranchissable depuis un lieu connexe.\n<free> S'il n'y a aucun lieu Carcosa en jeu et que chaque investigateur non-vaincu est dans ce lieu : lisez la carte Histoire \u00ab Exp\u00e9dition Perdue \u00bb mise de c\u00f4t\u00e9. (Max. une fois par partie.)",
                 "flavor_text": "",
-                "traits": "Caverne.",
-                "subtitle": "Wo die Kultisten verschwanden",
-                "victory": "Victoire 1."
+                "subtitle": "O\u00f9 les Cultistes ont Disparu",
+                "victory": "Victoire 1.",
+                "traits": "Caverne."
             },
             "back": {
                 "name": "Le Tr\u00f4ne Jaune",
-                "traits": "Carcosa.",
-                "text": "<free> Falls sich 6 <t>Carcosa</t>-Orte im Spiel befinden und jeder unbesiegte Ermittler am Gelben Thron ist: Lies die beiseitegelegte Handlungskarte \u00ab Die verlorene Expedition \u00bb. (Max. einmal pro Spiel.)",
+                "text": "<free> S'il y a 6 lieux Carcosa en jeu et que chaque investigateur non-vaincu est dans ce lieu : lisez la carte Histoire \u00ab Exp\u00e9dition Perdue \u00bb mise de c\u00f4t\u00e9. (Max. une fois par partie.)",
                 "flavor_text": null,
-                "victory": "Victoire 1."
+                "subtitle": "Wo Tassilda herrscht",
+                "victory": "Victoire 1.",
+                "traits": "Carcosa."
             }
         },
         "f514ace9-ee3e-4174-9655-40eec243ccf3": {
             "name": "For\u00eat de Stalagmites",
             "front": {
                 "name": "<name>",
-                "text": "<for> Am Ende deines Zuges, falls du dich an diesem Ort befindest: Nimm 1 d\u00e9g\u00e2t.",
-                "flavor_text": "Stalagmiten und Stalaktiten ziehen sich durch diese riesige und sehr gef\u00e4hrliche unterirdische H\u00f6hle.",
-                "traits": "Caverne.",
-                "subtitle": null
+                "text": "<for> \u00c0 la fin de votre tour, si vous \u00eates dans la For\u00eat de Stalagmites, subissez 1 d\u00e9g\u00e2t.\n",
+                "flavor_text": "Le grand nombre de stalagmites et de stalactites rend p\u00e9rilleuse la travers\u00e9e de cette poche souterraine.",
+                "subtitle": null,
+                "traits": "Caverne."
             },
             "back": {
                 "name": "Labyrinthe de Tasylock",
-                "traits": "Carcosa.",
-                "text": "<for> Am Ende deines Zuges, falls du dich an diesem Ort befindest: Nimm 1 horreur.\n<free> Falls dieser Ort der einzige <t>Carcosa</t>-Ort im Spiel ist: Lies die beiseitegelegte Handlungskarte \u00ab Nur f\u00fcr dich \u00bb. (Max. einmal pro Spiel.)",
-                "flavor_text": null
+                "text": "<for> \u00c0 la fin de votre tour, si vous \u00eates dans le Labyrinthe de Tasylock, subissez 1 horreur.\n<free> Si ce lieu est le seul lieu Carcosa en jeu : lisez la carte Histoire \u00ab Pour Vous Seul \u00bb mise de c\u00f4t\u00e9. (Max. une fois par partie.)",
+                "flavor_text": null,
+                "traits": "Carcosa."
             }
         },
         "b132a52a-9f63-461d-a165-f224755c8be8": {
@@ -3445,58 +3499,60 @@
             "name": "D\u00e9lices",
             "front": {
                 "name": "<name>",
-                "text": "<blockquote>In diesem Garten wachsen Pflanzen, die sich von allen unterscheiden, die nat\u00fcrlich auf der Erde vorkommen. Fr\u00fcchte in unbegreiflichen Farbkombinationen bev\u00f6lkern die obsidianfarbenen S\u00e4ulen aus netzartiger Seide. Dieser Anblick beschreibt einen Fiebertraum aus unvorstellbaren Formen und D\u00fcften, die die Grenzen deines Verstandes sprengen.\nDu hebst eine Frucht vom Boden auf, um sie n\u00e4her zu betrachten, doch in deinen Fingern verfault und zerf\u00e4llt sie sofort. Die Zeit im Reich Carcosa verl\u00e4uft anders als in deiner Dimension.\nAls du den verbotenen Garten endlich verl\u00e4sst, \u00fcberkommt dich ein Gef\u00fchl von Erleichterung. Du kannst zwar nicht beschreiben, was du gerade erlebt hast, aber es hat dir eindeutig neue Kraft gegeben. Du hast jetzt endlich das Gef\u00fchl, dein Schicksal selbst zu kontrollieren.</blockquote>\nDu darfst einen beliebigen Nicht-<auto_fail>-Marker im Chaosbeutel w\u00e4hlen und ihn f\u00fcr den Rest der Kampagne aus dem Chaosbeutel entfernen.\nF\u00fcge diese Karte dem Siegpunktestapel hinzu.\n<center><b>Victoire 1.</b>",
+                "text": "<blockquote>Dans les jardins, vous voyez des plantes qui ne ressemblent en rien \u00e0 celles que vous avez pu voir sur Terre, portant des fruits aux senteurs et aux couleurs improbables. La sc\u00e8ne ressemble \u00e0 un r\u00eave fi\u00e9vreux, aux formes mouvantes et irr\u00e9elles, vous poussant \u00e0 la limite de votre raison.\nVous prenez un des fruits tomb\u00e9s sur le sol pour l'examiner et le voir instantan\u00e9ment pourrir et se d\u00e9composer dans vos doigts. Le temps dans le royaume de Carcosa ne se comporte pas comme dans votre dimension.\nLorsque vous sortez enfin des jardins interdits, un soulagement vous envahit. Bien que vous ne puissiez d\u00e9crire la nature de ce que vous avez v\u00e9cu, cela a \u00e9t\u00e9 n\u00e9anmoins vivifiant et vous avez enfin l'impression de contr\u00f4ler votre propre destin.</blockquote>\nVous avez le droit de choisir et de retirer n'importe quel pion non <auto_fail> de la r\u00e9serve du Chaos pour le reste de la campagne.\nAjoutez cette carte \u00e0 la pile de victoire.",
                 "flavor_text": null,
-                "traits": null,
-                "subtitle": null
+                "subtitle": null,
+                "victory": "Victoire 1.",
+                "traits": null
             },
             "back": {
                 "name": null,
-                "traits": null,
                 "text": "\n\n\n\n",
-                "flavor_text": null
+                "flavor_text": null,
+                "traits": null
             }
         },
         "08c4c42d-aabd-4e1c-b029-e1c6f7827794": {
             "name": "Pour Vous Seul",
             "front": {
                 "name": "<name>",
-                "text": "<blockquote>Die Flure hier werden immer un\u00fcbersichtlicher, und die Kammern, die einst hell beleuchtet und ger\u00e4umig gewesen sein m\u00fcssen, sind jetzt dunkel, verstaubt und eng. Du wanderst weiter durch das Labyrinth, bis du eine Kammer erreichst, die durch und durch mit Regalreihen vollgestellt ist.\nJedes Regal steht voller Glasflaschen. Alle Flaschen sind unterschiedlich geformt und gestaltet, und jede Flasche ist mit einem Namen beschriftet. Hier gibt es unz\u00e4hlige dieser Flaschen \u2013 es sind wahrscheinlich genug f\u00fcr alle Bewohner des Universums, menschliche und nichtmenschliche, vergangene und zuk\u00fcnftige.\nIrgendwann findest du ein einzelnes dunkles Gef\u00e4\u00df in einer Ecke, das dich zu rufen scheint. Du nimmst es in die Hand und siehst deinen Namen auf die Unterseite gekritzelt. Dies ist <b>deine</b> Flasche. Sie wurde f\u00fcr dich gemacht.</blockquote>\nEin beliebiger Ermittler nimmt die beiseitegelegte Schw\u00e4che Fl\u00fcsternde Flasche auf seine Hand und f\u00fcgt sie seinem Deck hinzu. Sie z\u00e4hlt nicht gegen die Deckgr\u00f6\u00dfe jenes Ermittlers. F\u00fcge diese Karte dem Siegpunktestapel hinzu.\n<center><b>Victoire 1.</b>",
+                "text": "<blockquote>Les couloirs s'entrem\u00ealent tel un labyrinthe. Les chambres, autrefois lumineuses et spacieuses, sont devenues sombres, poussi\u00e9reuses et exigu\u00ebs. Vous vous \u00e9garez davantage dans ce d\u00e9dale jusqu'\u00e0 ce que vous atteigniez une gigantesque pi\u00e8ce avec des murs et des colonnes couvertes d'\u00e9tag\u00e8res.\nPos\u00e9es sur ces \u00e9tag\u00e8res, vous apercevez des petites bouteilles en verre, toutes de formes et de couleurs diff\u00e9rentes. Sur chacune d'entre elles est inscrit un nom. Il y a un nombre incalculable de ces flacons, assez, vous semble-t-il, pour correspondre \u00e0 chaque individu dans l'univers, humain ou non-humain, appartenant au pass\u00e9, au pr\u00e9sent et au futur.\nUn flacon de couleur sombre isol\u00e9 dans un coin de l'immense salle retient votre attention, il vous invite presque \u00e0 le saisir. Succombant \u00e0 la tentation, vous le prenez et y lisez votre propre nom. C'est votre bouteille\u2026 Elle vous est destin\u00e9e !</blockquote>\nCherchez la faiblesse mise de c\u00f4t\u00e9 Bouteille des Secrets Enferm\u00e9s et ajoutez-la dans la main de n'importe quel investigateur. Cette carte est ajout\u00e9e \u00e0 son deck, mais ne compte pas dans la Taille du Deck de cet investigateur.\nAjoutez cette carte \u00e0 la pile de victoire.",
                 "flavor_text": null,
-                "traits": null,
-                "subtitle": null
+                "subtitle": null,
+                "victory": "Victoire 1.",
+                "traits": null
             },
             "back": {
                 "name": null,
-                "traits": null,
                 "text": "\n\n\n\n",
-                "flavor_text": null
+                "flavor_text": null,
+                "traits": null
             }
         },
         "d8ecb2e3-6cea-4dc9-90fe-c59a979879c1": {
             "name": "Exp\u00e9dition Perdue",
             "front": {
                 "name": "<name>",
-                "text": "<b>Wenn du diese Karte zum ersten Mal liest:</b>\n<blockquote>Du findest die Leichen mehrerer Kultisten \u2013 das verlorene Erkundungsteam. Sie haben ihre Helme abgenommen und sind durch den pl\u00f6tzlichen Unterdruck gestorben. Als du ihre Notizen durchliest, best\u00e4tigen sich deine schlimmsten Bef\u00fcrchtungen. Tassilda existiert nicht mehr in dieser Dimension, sondern ist zu einer Gottheit geworden und herrscht nun an der Seite ihres Vaters, inmitten des Gewebes der Raumzeit \u2013 und im Kern aller Sterne.\nDoch die Situation wird noch schwieriger, als die Notizen des Erkundungsteams die wahre Natur des K\u00f6nigs in Gelb enth\u00fcllen:\nUnsere Zerst\u00f6rung gibt ihm eine Gestalt, unsere Gewalt gibt ihm einen Namen, unsere Schreie geben ihm eine Stimme. Er ist kein Gott, ebenso wie die Schwerkraft kein Gott ist, ganz egal, wie viele Leute ihn verehren und ihm eine Pers\u00f6nlichkeit und Intelligenz zuschreiben. Er ist nichts anderes als das thermodynamische Konzept der Entropie \u2013 der langsame und unvermeidliche Verfall jedes Systems in absolutes Chaos. Und nach allem Verst\u00e4ndnis der Physik kann es nicht aufgehalten werden.</blockquote>\n<hr><b>Lies in jedem Fall Folgendes:</b>\nR\u00fccke die aktuelle Szene vor und lege diese Karte wieder beiseite.",
+                "text": "<b>Si c'est la premi\u00e8re fois que vous lisez ceci :</b>\n<blockquote>Finalement, vous tombez sur les corps de plusieurs cultistes. Vous reconnaissez l'\u00e9quipe d'exploration qui avait disparue. Ils ont tous retir\u00e9 leur casque et sont morts d'une d\u00e9compression soudaine. Lorsque vous lisez leurs notes, vos pires craintes sont confirm\u00e9es. Tassilda n'existe plus dans cette dimension, elle s'est \u00e9lev\u00e9e au rang de divinit\u00e9 et r\u00e9side maintenant avec son p\u00e8re, au c\u0153ur des \u00e9toiles, entre les tissus de l'espace-temps.\nVous d\u00e9couvrez quelque chose d'encore plus inqui\u00e9tant, car les notes de l'\u00e9quipe d\u00e9voilent \u00e9galement la v\u00e9ritable nature du Roi en Jaune.\nNos destructions lui donnent une forme, notre violence lui donne un nom, nos cris lui donnent une voix, mais peu importe le nombre de personnes qui l'adorent ou lui attribuent une personnalit\u00e9, il n'est pas plus une divinit\u00e9 que peut l'\u00eatre la gravit\u00e9. Vous comprenez qu'il est le concept m\u00eame d'entropie thermodynamique de l'univers auquel vous \u00eates confront\u00e9. Il est le d\u00e9clin graduel et in\u00e9vitable de tout syst\u00e8me vers le chaos absolu. Et, selon toute compr\u00e9hension de la physique, il n'y a aucun moyen de l'arr\u00eater.</blockquote><size 20><hr>\n</size>\n<b>Sans tenir compte du fait que c'est la premi\u00e8re fois ou non que vous lisez ceci :</b>\nAvancez l'Acte en cours et mettez de c\u00f4t\u00e9 cette carte, hors-jeu.",
                 "flavor_text": null,
-                "traits": null,
-                "subtitle": null
+                "subtitle": null,
+                "traits": null
             },
             "back": {
                 "name": null,
-                "traits": null,
                 "text": "\n\n\n\n",
-                "flavor_text": null
+                "flavor_text": null,
+                "traits": null
             }
         },
         "06060f11-338a-4dee-830e-75e0692e0458": {
             "name": "R\u00e9alit\u00e9 Bris\u00e9e",
             "front": {
                 "name": "<name>",
-                "text": "<rev> H\u00e4nge diese Karte an den <t>H\u00f6hle</t>- oder <t>Carcosa</t>-Ort mit den wenigsten Hinweisen an, an den noch keine Kopie von <name> angeh\u00e4ngt ist.\n<for> Nachdem der Ort mit dieser Verst\u00e4rkung umgedreht wurde: Drehe ihn wieder zur\u00fcck auf die andere Seite und lege <name>.\n<act> Gib 1 Hinweis aus: D\u00e9faussez Gespaltene Realit\u00e4t.",
+                "text": "<rev> Attachez cette carte au lieu Caverne ou Carcosa avec le moins d'indices et qui n'a pas d\u00e9j\u00e0 un exemplaire de R\u00e9alit\u00e9 Bris\u00e9e attach\u00e9\n<for> Apr\u00e8s avoir retourn\u00e9 le lieu attach\u00e9 : retournez-le sur son c\u00f4t\u00e9 d'origine et d\u00e9faussez cette carte.\n<act> D\u00e9pensez 1 indice : d\u00e9faussez cette carte.",
                 "flavor_text": "",
-                "traits": "Risque.",
-                "subtitle": null
+                "subtitle": null,
+                "traits": "Risque."
             },
             "back": {}
         },
@@ -3504,10 +3560,10 @@
             "name": "Effondrement de la Caverne",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Jeder Ermittler an einem <t>H\u00f6hle</t>-<br>Ort legt eine <agi> (3). Jeder Ermittler, dem die Probe misslingt, nimmt 1 d\u00e9g\u00e2t und verliert 1 Aktion.",
-                "flavor_text": "\u00ab Sie st\u00fcrzt ein! Lauf! \u00bb",
-                "traits": "Risque.",
-                "subtitle": null
+                "text": "<rev> Chaque investigateur dans un lieu Caverne doit effectuer un test de <agi> (3). Chaque investigateur qui \u00e9choue subit 1 d\u00e9g\u00e2t et perd 1 action.",
+                "flavor_text": "\u00ab Tout s'\u00e9croule ! Courez ! \u00bb",
+                "subtitle": null,
+                "traits": "Risque."
             },
             "back": {}
         },
@@ -3515,11 +3571,11 @@
             "name": "Habitant des Cavernes",
             "front": {
                 "name": "<name>",
-                "text": "Massif. Chasseur. Riposte.\n<for> Nachdem der Ort dieses Gegners umgedreht wurde: Ersch\u00f6pfe diesen Gegner.",
-                "flavor_text": "Ein pervertiertes Etwas, das fr\u00fcher ein Mensch war.",
-                "traits": "Monstre. Humano\u00efde. Cultiste.",
+                "text": "Massif. Chasseur. Riposte.\n<for> Quand le lieu de l'Habitant des Cavernes est retourn\u00e9 : inclinez l'Habitant des Cavernes.",
+                "flavor_text": "Une perversion de ce qui \u00e9tait autrefois un \u00eatre humain.",
                 "subtitle": "Seltsam vertraut",
-                "victory": "Victoire 1."
+                "victory": "Victoire 1.",
+                "traits": "Monstre. Humano\u00efde. Cultiste."
             },
             "back": {}
         },
@@ -3527,10 +3583,10 @@
             "name": "Choisi par Lui",
             "front": {
                 "name": "<name>",
-                "text": "<rev> H\u00e4nge diese Karte an eine <t>Gegenstand</t>-,<br> <t>Zauber</t>- oder <t>Verb\u00fcndeter</t>-Vorteilskarte an, die du kontrollierst und die das Spiel verlassen kann.\n<for> Am Ende deines Zuges: Nimm 2 direkte d\u00e9g\u00e2t und mische die Vorteilskarte, an die <name> angeh\u00e4ngt ist, in dein Deck.\n<act> : Entferne die Vorteilskarte, an die <name> angeh\u00e4ngt ist, aus dem Spiel.",
+                "text": "<rev> Attachez Choisi par Lui \u00e0 un soutien Objet, Sort, ou Alli\u00e9 que vous contr\u00f4lez et qui peut quitter le jeu.\n<for> \u00c0 la fin de votre tour : subissez 2 d\u00e9g\u00e2ts directs et m\u00e9langez le soutien attach\u00e9 dans votre deck.\n<act> : Retirez le soutien attach\u00e9 de la partie.",
                 "flavor_text": "",
-                "traits": "Sortil\u00e8ge.",
-                "subtitle": null
+                "subtitle": null,
+                "traits": "Sortil\u00e8ge."
             },
             "back": {}
         },
@@ -3538,11 +3594,11 @@
             "name": "\u00c9chos de Tassilda (Corps)",
             "front": {
                 "name": "<name>",
-                "text": "Renfort. P\u00e9ril. Cach\u00e9e.\n<rev> Ajoutez secr\u00e8tement cette carte \u00e0 votre main.\n<reaction> Sobald ein anderer Ermittler d\u00e9g\u00e2t erleidet, der ihn besiegen w\u00fcrde: Hebe jenen d\u00e9g\u00e2t auf und f\u00fcge diese Karte dem Siegpunktestapel hinzu.\n(Falls du der einzige unbesiegte Ermittler im Spiel bist, kannst du die obige F\u00e4higkeit auch ausl\u00f6sen, sobald du d\u00e9g\u00e2t erleidest, der dich besiegen w\u00fcrde.)",
+                "text": "Renfort. P\u00e9ril. Cach\u00e9e.\n<rev> Ajoutez secr\u00e8tement cette carte \u00e0 votre main.\n<reaction> Quand un investigateur devrait \u00eatre vaincu par des horreurs : annulez ces horreurs et ajoutez cette carte \u00e0 la pile de victoire. (Cela ne peut \u00eatre vous que s'il n'y a aucun autre investigateur encore en jeu.)",
                 "flavor_text": "",
-                "traits": "Folie.",
                 "subtitle": null,
-                "victory": "Victoire 1."
+                "victory": "Victoire 1.",
+                "traits": "Folie."
             },
             "back": {}
         },
@@ -3550,11 +3606,11 @@
             "name": "\u00c9chos de Tassilda (Esprit)",
             "front": {
                 "name": "<name>",
-                "text": "Renfort. P\u00e9ril. Cach\u00e9e.\n<rev> Ajoutez secr\u00e8tement cette carte \u00e0 votre main.\n<reaction> Sobald ein anderer Ermittler horreur erleidet, der ihn besiegen w\u00fcrde: Hebe jenen horreur auf und f\u00fcge diese Karte dem Siegpunktestapel hinzu.\n(Falls du der einzige unbesiegte Ermittler im Spiel bist, kannst du die obige F\u00e4higkeit auch ausl\u00f6sen, sobald du horreur erleidest, der dich besiegen w\u00fcrde.)",
+                "text": "Renfort. P\u00e9ril. Cach\u00e9e.\n<rev> Ajoutez secr\u00e8tement cette carte \u00e0 votre main.\n<reaction> Quand un investigateur devrait \u00eatre vaincu par des d\u00e9g\u00e2ts : annulez ces d\u00e9g\u00e2ts et ajoutez cette carte \u00e0 la pile de victoire. (Cela ne peut \u00eatre vous que s'il n'y a aucun autre investigateur encore en jeu.)",
                 "flavor_text": "",
-                "traits": "Folie.",
                 "subtitle": null,
-                "victory": "Victoire 1."
+                "victory": "Victoire 1.",
+                "traits": "Folie."
             },
             "back": {}
         },
@@ -3562,10 +3618,10 @@
             "name": "Domaine d'Hastur",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Mettez diese Karte neben dem Agendadeck ins Spiel.\n<for> Nachdem du einen oder mehrere Orte umgedreht hast: Nimm 1 horreur.\n<act> : Effectuez un test de <wil>- oder <agi> (3). Falls die Probe gelingt, lege <name>.",
+                "text": "<rev> Mettez le Domaine d'Hastur en jeu \u00e0 c\u00f4t\u00e9 du deck Intrigue.\n<for> Apr\u00e8s avoir retourn\u00e9 n'importe quel nombre de lieux : subissez 1 horreur.\n<act> : Effectuez un test de <wil> ou de<agi> (3). En cas de r\u00e9ussite, d\u00e9faussez le Domaine d'Hastur.",
                 "flavor_text": "",
-                "traits": "Terreur.",
-                "subtitle": null
+                "subtitle": null,
+                "traits": "Terreur."
             },
             "back": {}
         },
@@ -3573,10 +3629,10 @@
             "name": "Vision Irr\u00e9sistible",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Effectuez un test de <int> (3). Falls du dich an einem <t>Carcosa</t>-Ort befindest, musst du zu dieser Probe alle Fertigkeitskarten beitragen, die du beitragen kannst. Falls die Probe misslingt, subissez 2 horreur.",
-                "flavor_text": "Sie spricht dich an.",
-                "traits": "Sortil\u00e8ge.",
-                "subtitle": null
+                "text": "<rev> Effectuez un test de <int> (3). Si vous \u00eates dans un lieu Carcosa, vous devez attribuer toutes les cartes Comp\u00e9tence \u00e9ligibles \u00e0 ce test. En cas d'\u00e9chec, subissez 2 horreurs.\n",
+                "flavor_text": "Cela perturbe votre esprit.",
+                "subtitle": null,
+                "traits": "Sortil\u00e8ge."
             },
             "back": {}
         },
@@ -3584,11 +3640,11 @@
             "name": "Folie de Carcosa",
             "front": {
                 "name": "<name>",
-                "text": "Renfort. P\u00e9ril. Cach\u00e9e.\n<rev> Ajoutez secr\u00e8tement cette carte \u00e0 votre main.\n<reaction> Sobald ein Ermittler besiegt wird: F\u00fcge diese Karte dem Siegpunktestapel hinzu.",
+                "text": "Renfort. P\u00e9ril. Cach\u00e9e.\n<rev> Ajoutez secr\u00e8tement cette carte \u00e0 votre main.\n<reaction> Apr\u00e8s qu'un investigateur a \u00e9t\u00e9 vaincu : ajoutez cette carte \u00e0 la pile de victoire.",
                 "flavor_text": "",
-                "traits": "Folie.",
                 "subtitle": null,
-                "victory": "Victoire 2."
+                "victory": "Victoire 2.",
+                "traits": "Folie."
             },
             "back": {}
         },
@@ -3596,10 +3652,10 @@
             "name": "Changement de Sc\u00e8ne",
             "front": {
                 "name": "<name>",
-                "text": "Renfort.\n<rev> MettezVous devez (choisir une option) :\n<bullet> Platziere 1 Verderben auf die aktuelle Agenda.\n<bullet> Jeder Gegner bewegt sich 1 Ort auf dich zu. Danach greift dich jeder Gegner an deinem Ort an.",
+                "text": "Renfort.\n<rev> Vous devez (choisir une option) :\n<bullet> Placer 1 fatalit\u00e9 sur l'intrigue en cours.\n<bullet> D\u00e9placer chaque ennemi d'1 lieu vers vous. Chaque ennemi dans votre lieu vous attaque imm\u00e9diatement.",
                 "flavor_text": "",
-                "traits": "Pr\u00e9sage.",
-                "subtitle": null
+                "subtitle": null,
+                "traits": "Pr\u00e9sage."
             },
             "back": {}
         },
@@ -3607,10 +3663,10 @@
             "name": "Chant de Votre \u00c2me",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Mettez <name> en jeu dans votre zone de menace.\n<for> Am Ende der Runde: Du musst f\u00fcr jede Ereigniskarte auf deiner Hand entweder 1 horreur nehmen oder jene Karte ablegen. D\u00e9faussez Das Lied deiner Seele.",
+                "text": "<rev> Mettez <name> en jeu dans votre zone de menace.\n<for> \u00c0 la fin du round : pour chaque carte \u00c9v\u00e9nement dans votre main, vous devez soit d\u00e9fausser cette carte, soit subir 1 horreur. Ensuite, d\u00e9faussez Chant de Votre \u00c2me.",
                 "flavor_text": "",
-                "traits": "Sortil\u00e8ge.",
-                "subtitle": null
+                "subtitle": null,
+                "traits": "Sortil\u00e8ge."
             },
             "back": {}
         },
@@ -3618,10 +3674,10 @@
             "name": "\u00c9tranges Clochers",
             "front": {
                 "name": "<name>",
-                "text": "<spawn> N\u00e4chstgelegener <t>Carcosa</t>-<br>Ort.\nMassif.\nDieser Gegner greift w\u00e4hrend der Gegnerphase nicht an.",
-                "flavor_text": "\u2026und die Mitternacht erklang aus den verschwommenen T\u00fcrmen der nebelumflorten Stadt.",
-                "traits": "Obstacle.",
-                "subtitle": null
+                "text": "<spawn> Lieu Carcosa le plus proche.\nMassif.\nN'attaque pas pendant la phase des Ennemis.",
+                "flavor_text": "\n\u2026 et minuit sonna aux clochers de la ville noy\u00e9e de brume.\n<right>-- Robert W.Chambers, Le Signe Jaune",
+                "subtitle": null,
+                "traits": "Obstacle."
             },
             "back": {}
         },
@@ -3629,10 +3685,10 @@
             "name": "Rideaux en Lambeaux",
             "front": {
                 "name": "<name>",
-                "text": "<spawn> N\u00e4chstgelegener <t>Carcosa</t>-Ort.\nDieser Gegner greift w\u00e4hrend der Gegnerphase nicht an.\n<for> Nachdem der Ort dieses Gegners umgedreht wurde: Dieser Gegner bewegt sich 1 Ort auf den aktiven Ermittler zu.",
-                "flavor_text": "Die bestickten Lumpen des K\u00f6nigs in Gelb m\u00fcssen Yhtill f\u00fcr alle Zeit verbergen.\n",
-                "traits": "Obstacle.",
-                "subtitle": null
+                "text": "<spawn> Lieu Carcosa le plus proche.\nN'attaque pas pendant la phase des Ennemis.\n<for> Apr\u00e8s avoir retourn\u00e9 le lieu o\u00f9 se situent les Rideaux en Lambeaux : d\u00e9placez-les d'un lieu vers vous.",
+                "flavor_text": "Les haillons festonn\u00e9s du Roi en jaune doivent dissimuler Yhtill pour toujours.\n<right>-- Robert W.Chambers, Le Restaurateur de R\u00e9putations",
+                "subtitle": null,
+                "traits": "Obstacle."
             },
             "back": {}
         },
@@ -3640,10 +3696,10 @@
             "name": "Dimension Instable",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Mettez <name> en jeu dans votre zone de menace.\n<for> Am Ende deines Zuges: Nimm\n2 d\u00e9g\u00e2t und drehe deinen Ort um. D\u00e9faussez <name>.\n<act> Gib 2 Ressourcen aus: D\u00e9faussez <name>.",
+                "text": "<rev> Mettez <name> en jeu dans votre zone de menace.\n<for> \u00c0 la fin de votre tour : subissez 2 d\u00e9g\u00e2ts et retournez votre lieu sur son autre face. Ensuite, d\u00e9faussez Dimension Instable.\n<act> D\u00e9pensez 2 ressources : D\u00e9faussez <name>.",
                 "flavor_text": "",
-                "traits": "Risque.",
-                "subtitle": null
+                "subtitle": null,
+                "traits": "Risque."
             },
             "back": {}
         },
@@ -3651,11 +3707,11 @@
             "name": "Brumes Jaunes",
             "front": {
                 "name": "<name>",
-                "text": "Distant. Chasseur.\nDer Ort des Gelben Nebels erh\u00e4lt das Merkmal <t>Carcosa</t>.",
-                "flavor_text": "Aus dem Nebel h\u00f6rst du eine ferne vertraute Melodie \u2013 Cassildas Lied.",
-                "traits": "Obstacle.",
+                "text": "Distant. Chasseur.\nLe lieu o\u00f9 se situent les <name> gagne le trait Carcosa.",
+                "flavor_text": "Tout r\u00e9sonne \u00e0 travers les brumes comme une m\u00e9lodie lointaine et famili\u00e8re \n<right>\u2013 Chanson de Cassilda.",
                 "subtitle": null,
-                "victory": "Victoire 1."
+                "victory": "Victoire 1.",
+                "traits": "Obstacle."
             },
             "back": {}
         },
