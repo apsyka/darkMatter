@@ -1351,7 +1351,7 @@
                 "illustration": "./images/edited_images/escape pod - riley-hanlin.jpg",
                 "clues": "1<per>",
                 "shroud": "3",
-                "connection": "moon",
+                "connection": "crescent",
                 "connections": [
                     "square"
                 ],
@@ -2786,7 +2786,7 @@
                 "illustration": "./images/edited_images/biology room andreas-rocha.jpg",
                 "clues": "1<per>",
                 "shroud": "2",
-                "connection": "moon",
+                "connection": "crescent",
                 "illustrator": "Illus. Andreas Rocha"
             },
             "back": {
@@ -3448,7 +3448,7 @@
                 "connections": [
                     "circle",
                     "clover",
-                    "moon"
+                    "crescent"
                 ],
                 "illustrator": "Illus. Marton Antal"
             },
@@ -3476,7 +3476,7 @@
                 "illustration": "./images/edited_images/thunder_peak - dominiquevvelsen.jpg",
                 "clues": "2<per>",
                 "shroud": "3",
-                "connection": "moon",
+                "connection": "crescent",
                 "connections": [
                     "diamond",
                     "double_slash",
@@ -3645,7 +3645,7 @@
                 "connection": "diamond",
                 "connections": [
                     "square",
-                    "moon",
+                    "crescent",
                     "double_slash"
                 ],
                 "illustrator": "Illus. Shaun Kelly",
@@ -3660,7 +3660,7 @@
                 "text": "",
                 "connections": [
                     "square",
-                    "moon",
+                    "crescent",
                     "double_slash"
                 ]
             },
@@ -5426,7 +5426,7 @@
                 "illustration": "./images/edited_images/alien interior dan mycka.jpg",
                 "clues": "0",
                 "shroud": "4",
-                "connection": "moon",
+                "connection": "crescent",
                 "connections": [
                     "triangle",
                     "circle",
@@ -5467,7 +5467,7 @@
                 "shroud": "2",
                 "connection": "hourglass",
                 "connections": [
-                    "moon"
+                    "crescent"
                 ],
                 "illustrator": "Illus. Franklin Young",
                 "illustration_pan_x": -588.0,
@@ -5503,7 +5503,7 @@
                 "shroud": "3",
                 "connection": "clover",
                 "connections": [
-                    "moon",
+                    "crescent",
                     "circle"
                 ],
                 "illustration_pan_x": -56.0,
@@ -5538,7 +5538,7 @@
                 "shroud": "3",
                 "connection": "slash",
                 "connections": [
-                    "moon"
+                    "crescent"
                 ],
                 "illustration_pan_x": -92.0,
                 "illustration_pan_y": 228.0,
@@ -5572,7 +5572,7 @@
                 "shroud": "3",
                 "connection": "triangle",
                 "connections": [
-                    "moon",
+                    "crescent",
                     "circle"
                 ],
                 "illustration_pan_x": -268.0,
@@ -5607,7 +5607,7 @@
                 "shroud": "3",
                 "connection": "circle",
                 "connections": [
-                    "moon",
+                    "crescent",
                     "clover",
                     "triangle"
                 ],
@@ -5645,7 +5645,7 @@
                 "shroud": "4",
                 "connection": "circle",
                 "connections": [
-                    "moon",
+                    "crescent",
                     "clover",
                     "triangle"
                 ],
@@ -5682,7 +5682,7 @@
                 "shroud": "3",
                 "connection": "circle",
                 "connections": [
-                    "moon",
+                    "crescent",
                     "clover",
                     "triangle"
                 ],
@@ -5719,7 +5719,7 @@
                 "shroud": "2",
                 "connection": "circle",
                 "connections": [
-                    "moon",
+                    "crescent",
                     "clover",
                     "triangle"
                 ],
@@ -5756,7 +5756,7 @@
                 "shroud": "3",
                 "connection": "circle",
                 "connections": [
-                    "moon",
+                    "crescent",
                     "clover",
                     "triangle"
                 ],
@@ -5793,7 +5793,7 @@
                 "shroud": "3",
                 "connection": "circle",
                 "connections": [
-                    "moon",
+                    "crescent",
                     "clover",
                     "triangle"
                 ],
@@ -5828,7 +5828,7 @@
                 "shroud": "3",
                 "connection": "circle",
                 "connections": [
-                    "moon",
+                    "crescent",
                     "clover",
                     "triangle"
                 ],
@@ -7916,7 +7916,7 @@
                 "illustration": "./images/alien-city-simpli.jpg",
                 "clues": "1",
                 "shroud": "2",
-                "connection": "moon",
+                "connection": "crescent",
                 "connections": [
                     "clover"
                 ],
@@ -8291,7 +8291,7 @@
                 "shroud": "3",
                 "connection": "clover",
                 "connections": [
-                    "moon"
+                    "crescent"
                 ],
                 "illustrator": "Illus. Paul Siedler",
                 "illustration_pan_x": -860.0,
@@ -8796,7 +8796,7 @@
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
-                    "moon",
+                    "crescent",
                     "clover",
                     "hourglass"
                 ]
@@ -10176,6 +10176,34 @@
             "encounter_set": "50658ed6-c84e-4498-be4e-1df4309d5bc9",
             "encounter_number": "3-4",
             "project_number": "335"
+        },
+        {
+            "amount": 2,
+            "front": {
+                "type": "chapter_2/enemy",
+                "attack": "4",
+                "health": "4",
+                "evade": "3",
+                "damage": "1",
+                "horror": "1",
+                "traits": "Monstre. Yithien.",
+                "text": "<prey> Le moins de cartes en main.\n<for> Quand l'<name> vous attaque : d\u00e9faussez 1 carte prise au hasard dans votre main. Si vous ne pouvez pas, l'<name> inflige +1 d\u00e9g\u00e2t et +1 horreur pour cette attaque.",
+                "illustrator": "Illus. Chun Lo",
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_all_german_export_v11_flavor_dark_matter_3.png",
+                "name": "<name>",
+                "flavor_text": null,
+                "illustration_pan_y": 400.0,
+                "illustration_scale": 2.0,
+                "victory": "Victoire 1."
+            },
+            "back": {
+                "type": "encounter"
+            },
+            "encounter_set": "50658ed6-c84e-4498-be4e-1df4309d5bc9",
+            "name": "Observateur Yithien (Copy)",
+            "project_number": "334",
+            "encounter_number": "1-2",
+            "id": "8fb30aa9-5b0b-42f9-9837-e076b73c8fa5"
         }
     ],
     "guides": [

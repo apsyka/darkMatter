@@ -210,9 +210,8 @@
             "back": {}
         },
         "b85506e1-4d69-4c5b-881e-a50638683f10": {
-            "name": "<dbl>L'\u00c9pouvantail</dbl>",
+            "name": "L'\u00c9pouvantail",
             "front": {
-                "name": "<name>",
                 "text": null,
                 "flavor_text": null,
                 "entries": [
@@ -772,9 +771,8 @@
             "back": {}
         },
         "55f9c2f2-efff-4304-af14-8838416f1541": {
-            "name": "<dbl>Cauchemar Virtuel</dbl>",
+            "name": "Cauchemar Virtuel",
             "front": {
-                "name": "<name>",
                 "text": null,
                 "flavor_text": null,
                 "subtitle": null,
@@ -1140,16 +1138,16 @@
             "name": "Salle de Biologie",
             "front": {
                 "name": "<name>",
-                "text": "<act> : Heile 1 d\u00e9g\u00e2t oder 1 horreur von jedem Ermittler an diesem Ort. (Limite collective d'une fois par partie.)",
-                "flavor_text": "Die Rinde an den \u00c4sten ist br\u00fcchig und f\u00e4llt. Darunter kommt eine breiige schwarze Masse zum Vorschein. Alles hier stinkt nach verfaultem Fleisch und muffiger Erde.",
-                "traits": "\u00c9cole.",
-                "subtitle": null
+                "text": "<act> : Soignez 1 d\u00e9g\u00e2t ou 1 horreur de chaque investigateur dans votre lieu. (Limite collective d'une fois par partie.)",
+                "flavor_text": "L'\u00e9corce des branches est en train de se fendre, r\u00e9v\u00e9lant une masse noire pulpeuse. Vous sentez une ordeur de terre humide et de chair en d\u00e9composition.",
+                "subtitle": null,
+                "traits": "\u00c9cole."
             },
             "back": {
                 "name": "Pi\u00e8ce Non-D\u00e9finie",
-                "traits": "\u00c9cole.",
                 "text": "",
-                "flavor_text": "<valign>In den leeren G\u00e4ngen hallt jedes deiner Ger\u00e4usche wider und k\u00fcndigt den Schrecken, die hier lauern, dein Kommen an. Du bist in diesem riesigen Puzzle verloren."
+                "flavor_text": "<valign>Chaque bruit que vous faites r\u00e9sonne dans les longs couloirs vides et annonce votre arriv\u00e9e \u00e0 toutes les horreurs qui vous attendent. vous \u00eates perdu dans ce puzzle g\u00e9ant.",
+                "traits": "\u00c9cole."
             }
         },
         "dca9d390-3b91-41cf-abfb-8dbd3fad92a6": {
@@ -1331,9 +1329,8 @@
             "back": {}
         },
         "a285dd2f-ab62-409a-a4f1-1aeb287cf8f1": {
-            "name": "Quantum Perdu</dbl>",
+            "name": "Quantum Perdu",
             "front": {
-                "name": "<name>",
                 "text": null,
                 "flavor_text": null,
                 "subtitle": null,
@@ -1440,7 +1437,6 @@
             "back": {
                 "name": "Observation",
                 "text": "<size 67><blockquote>Il ne vous faut pas longtemps pour vous rendre compte qu'il est difficile de s'orienter dans un endroit o\u00f9 n'importe quel lieu peut \u00eatre finalement n'importe o\u00f9. Seuls certains points de rep\u00e8re, que vous avez soigneusement identifi\u00e9s, semblent rester \u00e0 leur place.</blockquote>\nChaque investigateur dans un lieu sans pion Ressource sur ce lieu place la carte du dessus du deck Rencontre dans sa zone de menace, face cach\u00e9e.\nM\u00e9langez tous les lieux vides <i>(sans ennemi ou investigateur)</i> et sans pion Ressource dessus dans le deck Analyse.\nS'il y a une autre intrigue sous celle-ci, mettez de c\u00f4t\u00e9 cette intrigue, hors-jeu. Sinon, inscrivez dans votre Carnet de Campagne 1 trait sous la mention \u00ab Apocalypse Imminente \u00bb et m\u00e9langez cette intrigue avec les intrigues mises de c\u00f4t\u00e9 pour former un nouveau deck Intrigue.",
-                "flavor_text": "Du bemerkst erst jetzt, dass sich jedes Mal, wenn du blinzelst, etwas \u00e4ndert. Manchmal bewegen sich nur ein paar Steine ein paar Zentimeter weit. Manchmal findest du dich aber auch an einem v\u00f6llig anderen Ort wieder.",
                 "traits": null
             }
         },
@@ -1471,7 +1467,7 @@
             },
             "back": {
                 "name": "Stabilit\u00e9",
-                "text": "(<resolution><b>C2</b>)\n\n\n",
+                "text": "(<resolution> <b>C2</b>)\n\n\n",
                 "flavor_text": "La lueur violette d'Elbrus s'estompe lorsque vous plantez le dernier \u00e9clat quantique dans le sol. Le physicien fou est soulag\u00e9 et ne peut contenir sa joie. Vous avez compl\u00e8tement stabilis\u00e9 le champ quantique.",
                 "traits": null
             }
@@ -1487,7 +1483,7 @@
             },
             "back": {
                 "name": "Incertitude",
-                "text": "<b>Si un investigateur a abandonn\u00e9 avec Erwin Simmons sous son contr\u00f4le :</b>\n<blockquote>La navette d\u00e9colle bruyamment et \u00e9chappe de justesse au champ quantique qui s'effondre. Erwin regarde avec m\u00e9lancolie le laboratoire et des ann\u00e9es de recherches se perdre dans cette non-r\u00e9alit\u00e9. Malgr\u00e9 cette trag\u00e9die, il vous est reconnaissant pour votre efficacit\u00e9.</blockquote>\n(<resolution><b>C3</b>)<size 20>\n<hr>\n</size>\n<b>Sinon :</b>\n<blockquote>La navette d\u00e9colle sans accroc et s'\u00e9chappe du champ quantique. La radio \u00e0 courte port\u00e9e cr\u00e9pite \u00e0 nouveau et vous entendez les derniers mots d'Erwin Simmons.\n\u00ab Adieu mes amis ! J'esp\u00e8re que vous avez appr\u00e9ci\u00e9 votre s\u00e9jour ! Sachez que\u2026 \u00bb. La communication s'arr\u00eate, laissant place \u00e0 un gr\u00e9sillement.</blockquote>\n(<resolution><b>C1</b>)",
+                "text": "<b>Si un investigateur a abandonn\u00e9 avec Erwin Simmons sous son contr\u00f4le :</b>\n<blockquote>La navette d\u00e9colle bruyamment et \u00e9chappe de justesse au champ quantique qui s'effondre. Erwin regarde avec m\u00e9lancolie le laboratoire et des ann\u00e9es de recherches se perdre dans cette non-r\u00e9alit\u00e9. Malgr\u00e9 cette trag\u00e9die, il vous est reconnaissant pour votre efficacit\u00e9.</blockquote>\n(<resolution> <b>C3</b>)<size 20>\n<hr>\n</size>\n<b>Sinon :</b>\n<blockquote>La navette d\u00e9colle sans accroc et s'\u00e9chappe du champ quantique. La radio \u00e0 courte port\u00e9e cr\u00e9pite \u00e0 nouveau et vous entendez les derniers mots d'Erwin Simmons.\n\u00ab Adieu mes amis ! J'esp\u00e8re que vous avez appr\u00e9ci\u00e9 votre s\u00e9jour ! Sachez que\u2026 \u00bb. La communication s'arr\u00eate, laissant place \u00e0 un gr\u00e9sillement.</blockquote>\n(<resolution> <b>C1</b>)",
                 "flavor_text": null,
                 "traits": null
             }
@@ -1720,9 +1716,8 @@
             "back": {}
         },
         "8c0f7be9-f3e3-4a28-8ef1-da3b10909b02": {
-            "name": "Dans l'Ombre de la Terre</dbl>",
+            "name": "Dans l'Ombre de la Terre",
             "front": {
-                "name": "<name>",
                 "text": null,
                 "flavor_text": null,
                 "subtitle": null,
@@ -1782,7 +1777,7 @@
                         "text": "0. Vous devez soit subir 3 d\u00e9g\u00e2ts, soit \u00e9chouer automatiquement \u00e0 ce test \u00e0 la place."
                     }
                 ],
-                "difficulty": "SCHWER / EXPERTE"
+                "difficulty": "DIFFICILE / EXPERT"
             }
         },
         "1e61468b-6a18-4f18-b976-c80a1af9e978": {
@@ -1852,14 +1847,14 @@
             "name": "Sauvez nos \u00c2mes",
             "front": {
                 "name": "<name>",
-                "text": "<obj> Si chaque investigateur non-vaincu a abandonn\u00e9 : (<resolution><b>C1</b>)\n<i>(Indice : amener une imitation \u00e0 bord de L'\u00c9pouvantail aura de graves cons\u00e9quences.)</i>",
+                "text": "<obj> Si chaque investigateur non-vaincu a abandonn\u00e9 : (<resolution> <b>C1</b>)\n<i>(Indice : amener une imitation \u00e0 bord de L'\u00c9pouvantail aura de graves cons\u00e9quences.)</i>",
                 "flavor_text": "Des membres d'\u00e9quipage se cachent encore \u00e0 bord du Nostalgie II. Essayez d'en trouver autant que possible et \u00e9chappez-vous. Mais attention, certains membres de l'\u00e9quipage ne sont peut-\u00eatre pas ceux qu'ils pr\u00e9tendent \u00eatre.",
                 "subtitle": null,
                 "traits": null
             },
             "back": {
                 "name": "Quarantaine",
-                "text": "<b>Si vous avez fait avancer cet acte au moyen de l'Intrigue 3b (vous ne pouvez y arriver d'une autre mani\u00e8re) :</b>\n<blockquote>Vous avez isol\u00e9 et s\u00e9curis\u00e9 autant de membres d'\u00e9quipage que possible. Il en reste cependant d'autres dans le vaisseau. Avant que vous ne puissiez faire quoi que ce soit pour eux, l'abomination se r\u00e9v\u00e8le dans un amalgame de chair et de m\u00e9tal, lib\u00e9rant sa folie corruptrice afin de vous r\u00e9duire \u00e0 n\u00e9ant.</blockquote>\nRegardez les cartes Histoire qui se trouvent sous la carte de r\u00e9f\u00e9rence du sc\u00e9nario mais ne les lisez pas. Pour chacune des cartes Histoire, r\u00e9v\u00e9lez 1 pion du chaos pris au hasard dans la r\u00e9serve du Chaos. Si vous ne r\u00e9v\u00e9lez <b>pas</b> un pion <elder_sign>, <blessing>, +1 ou 0, le soutien d'histoire <b>\u00c9quipage</b> correspondant \u00e0 cette carte Histoire est une imitation ! Si l'une des imitations est dans la pile de victoire, continuez \u00e0 (<resolution><b>A2</b>). <size 20><hr> \n</size>\nSinon, effectuez les points suivants : \n<bullet> G\u00e9n\u00e9rez l'ennemi L'Entit\u00e9 mis de c\u00f4t\u00e9 dans la Salle de Contr\u00f4le. \n<bullet> Cherchez tous les soutiens d'histoire <b>\u00c9quipage</b> retir\u00e9s de la partie et attachez-les \u00e0 L'Entit\u00e9, face cach\u00e9e. \n<bullet> Cherchez tous les soutiens d'histoire <b>\u00c9quipage</b> qui sont des imitations de L'Entit\u00e9 et attachez-les \u00e0 L'Entit\u00e9, face cach\u00e9e.",
+                "text": "<b>Si vous avez fait avancer cet acte au moyen de l'Intrigue 3b (vous ne pouvez y arriver d'une autre mani\u00e8re) :</b>\n<blockquote>Vous avez isol\u00e9 et s\u00e9curis\u00e9 autant de membres d'\u00e9quipage que possible. Il en reste cependant d'autres dans le vaisseau. Avant que vous ne puissiez faire quoi que ce soit pour eux, l'abomination se r\u00e9v\u00e8le dans un amalgame de chair et de m\u00e9tal, lib\u00e9rant sa folie corruptrice afin de vous r\u00e9duire \u00e0 n\u00e9ant.</blockquote>\nRegardez les cartes Histoire qui se trouvent sous la carte de r\u00e9f\u00e9rence du sc\u00e9nario mais ne les lisez pas. Pour chacune des cartes Histoire, r\u00e9v\u00e9lez 1 pion du chaos pris au hasard dans la r\u00e9serve du Chaos. Si vous ne r\u00e9v\u00e9lez <b>pas</b> un pion <elder_sign>, <blessing>, +1 ou 0, le soutien d'histoire <b>\u00c9quipage</b> correspondant \u00e0 cette carte Histoire est une imitation ! Si l'une des imitations est dans la pile de victoire, continuez \u00e0 (<resolution> <b>A2</b>). <size 20><hr> \n</size>\nSinon, effectuez les points suivants : \n<bullet> G\u00e9n\u00e9rez l'ennemi L'Entit\u00e9 mis de c\u00f4t\u00e9 dans la Salle de Contr\u00f4le. \n<bullet> Cherchez tous les soutiens d'histoire <b>\u00c9quipage</b> retir\u00e9s de la partie et attachez-les \u00e0 L'Entit\u00e9, face cach\u00e9e. \n<bullet> Cherchez tous les soutiens d'histoire <b>\u00c9quipage</b> qui sont des imitations de L'Entit\u00e9 et attachez-les \u00e0 L'Entit\u00e9, face cach\u00e9e.",
                 "flavor_text": null,
                 "traits": null
             }
@@ -1868,14 +1863,14 @@
             "name": "L'Ombre de la Terre",
             "front": {
                 "name": "<name>",
-                "text": "<obj> Si L'Entit\u00e9 est vaincue, avancez.\n<obj> Si chaque investigateur non-vaincu a abandonn\u00e9 : (<resolution><b>C3</b>)",
+                "text": "<obj> Si L'Entit\u00e9 est vaincue, avancez.\n<obj> Si chaque investigateur non-vaincu a abandonn\u00e9 : (<resolution> <b>C3</b>)",
                 "flavor_text": "La v\u00e9ritable forme de l'abomination se met \u00e0 hurler et lance avec col\u00e8re ses tentacules vers vous. Vous devez soit vous \u00e9chapper pendant que vous le pouvez encore, soit rassembler vos forces pour exterminer cette abomination une fois pour toutes !",
                 "subtitle": null,
                 "traits": null
             },
             "back": {
                 "name": "Dernier Adieu",
-                "text": "Indiquez dans votre Carnet de Campagne que <i>vous avez \u00e9t\u00e9 t\u00e9moin de la folie incarn\u00e9e.</i> Ajoutez tous les soutiens d'histoire <b>\u00c9quipage</b> que vous contr\u00f4lez ainsi que ceux dans le deck Analyse \u00e0 la pile de victoire. Continuez \u00e0 (<resolution><b>C4</b>)\n\n",
+                "text": "Indiquez dans votre Carnet de Campagne que <i>vous avez \u00e9t\u00e9 t\u00e9moin de la folie incarn\u00e9e.</i> Ajoutez tous les soutiens d'histoire <b>\u00c9quipage</b> que vous contr\u00f4lez ainsi que ceux dans le deck Analyse \u00e0 la pile de victoire. Continuez \u00e0 (<resolution> <b>C4</b>)\n\n",
                 "flavor_text": "Vous voyez cet amalgame monstrueux de diff\u00e9rents corps, d'organes biologiques et de c\u00e2blages m\u00e9talliques se dissoudre \u00e0 travers des grilles du sol en hurlant. Cette folie est enfin vaincue.",
                 "traits": null
             }
@@ -2077,11 +2072,11 @@
             "name": "Docteur Feng",
             "front": {
                 "name": "<unique><name>",
-                "text": "<rev> Mettez en jeu cette carte sous votre contr\u00f4le.\n<act><act> : Heile 1 d\u00e9g\u00e2t von jedem Ermittler und jeder <t>Verb\u00fcndeter</t>-Vorteilskarte an deinem Ort. (Limite collective d'une fois par partie.)",
+                "text": "<rev> Mettez en jeu cette carte sous votre contr\u00f4le.\n<act><act> : Soignez 1 d\u00e9g\u00e2t de chaque investigateur et de chaque soutien <t>Alli\u00e9</t> dans votre lieu. (Limite collective d'une fois par partie.)",
                 "flavor_text": "",
-                "traits": "Alli\u00e9. \u00c9quipage.",
                 "subtitle": null,
-                "victory": "Victoire 1."
+                "victory": "Victoire 1.",
+                "traits": "Alli\u00e9. \u00c9quipage."
             },
             "back": {}
         },
@@ -2341,7 +2336,6 @@
         "bd572186-5b26-4162-af6f-e5b206f4bdb8": {
             "name": "\u00c9tranges Lunes",
             "front": {
-                "name": "<name>",
                 "text": null,
                 "flavor_text": null,
                 "subtitle": null,
@@ -2372,7 +2366,7 @@
                         "text": "-3. Si ce test est effectu\u00e9 lors d'une attaque ou d'une tentative d'\u00e9vasion contre un ennemi <b>Byakhee</b>, r\u00e9v\u00e9lez un pion suppl\u00e9mentaire pour ce test."
                     }
                 ],
-                "difficulty": "EINFACH / NORMAL"
+                "difficulty": "FACILE / STANDARD"
             },
             "back": {
                 "entries": [
@@ -2401,7 +2395,7 @@
                         "text": "-4. Si ce test est effectu\u00e9 lors d'une attaque ou d'une tentative d'\u00e9vasion contre un ennemi <b>Byakhee</b>, r\u00e9v\u00e9lez un pion suppl\u00e9mentaire pour ce test."
                     }
                 ],
-                "difficulty": "SCHWER / EXPERTE"
+                "difficulty": "DIFFICILE / EXPERT"
             }
         },
         "ab261d64-1493-49d6-ab2e-bb28e88a3c84": {
@@ -2449,7 +2443,7 @@
                 "name": "Ha\u00efta",
                 "text": "<size 56><spawn> Tunnel d'Entr\u00e9e.\nDistant. Riposte. Chasseur.\n<for> Quand vous devriez \u00e9chapper \u00e0 un ennemi <b>Byakhee</b> dans le lieu d'Ha\u00efta : infligez 2 d\u00e9g\u00e2ts \u00e0 Ha\u00efta \u00e0 la place.",
                 "flavor_text": "\u00ab Alors Ha\u00efta se recroquevilla dans sa grotte, le visage cach\u00e9 dans ses mains, et pria pour que lui seul soit puni de ses p\u00e9ch\u00e9s et que le monde soit sauv\u00e9 de la destruction. \u00bb \n<right>-- Ambrose Bierce, Ha\u00efta Le Berger",
-                "subtitle": "Der Hirtengott",
+                "subtitle": "Le Dieu des Bergers",
                 "victory": "Victoire 1.",
                 "traits": "Abomination. Humano\u00efde. \u00c9lite."
             }
@@ -2497,7 +2491,7 @@
             },
             "back": {
                 "name": "Par-del\u00e0 la Lune",
-                "text": "<b>Si l'intrigue en cours est l'Intrigue 3 ou l'Intrigue 4 :</b>\n<blockquote>Vous vous faufilez hors du b\u00e2timent, \u00e9chappant ainsi \u00e0 l'essaim extraterrestre et retournez dans votre vaisseau. Derri\u00e8re vous, un grand bouclier translucide bloque l'entr\u00e9e du tunnel. Peu de temps apr\u00e8s, l'installation Mi-Go lance ses contre-mesures en rejetant de grandes quantit\u00e9s de gaz vert, \u00e9radiquant les pr\u00e9dateurs restants.</blockquote>\n(<resolution><b>C2</b>)<size 20><hr>\n</size>\n<b>Sinon :</b>\n<blockquote>Vous vous pr\u00e9cipitez dans votre navette avec toutes les informations que vous avez pu obtenir de l'installation extraterrestre et retournez sur L'\u00c9pouvantail.</blockquote>\n(<resolution><b>C2</b>)\n",
+                "text": "<b>Si l'intrigue en cours est l'Intrigue 3 ou l'Intrigue 4 :</b>\n<blockquote>Vous vous faufilez hors du b\u00e2timent, \u00e9chappant ainsi \u00e0 l'essaim extraterrestre et retournez dans votre vaisseau. Derri\u00e8re vous, un grand bouclier translucide bloque l'entr\u00e9e du tunnel. Peu de temps apr\u00e8s, l'installation Mi-Go lance ses contre-mesures en rejetant de grandes quantit\u00e9s de gaz vert, \u00e9radiquant les pr\u00e9dateurs restants.</blockquote>\n(<resolution> <b>C2</b>)<size 20><hr>\n</size>\n<b>Sinon :</b>\n<blockquote>Vous vous pr\u00e9cipitez dans votre navette avec toutes les informations que vous avez pu obtenir de l'installation extraterrestre et retournez sur L'\u00c9pouvantail.</blockquote>\n(<resolution> <b>C2</b>)\n",
                 "flavor_text": null,
                 "traits": null
             }
@@ -2727,14 +2721,15 @@
             "name": "D\u00e9lire Fi\u00e9vreux",
             "front": {
                 "name": "<name>",
-                "text": "W\u00e4hrend du an diesem Ort ermittelst, musst du zu der Fertigkeitsprobe alle Fertigkeitskarten von deiner Hand beitragen, die du beitragen kannst.\n<for> Nachdem dieser Ort dem Siegpunktestapel hinzugef\u00fcgt wurde: Notiere im Kampagnenlogbuch, dass <i>die Ermittler das unterbewusste Pand\u00e4monium gesehen haben</i>.",
+                "text": "En tant que co\u00fbt suppl\u00e9mentaire pour enqu\u00eater dans ce lieu, attribuez toutes les cartes Comp\u00e9tence \u00e9ligibles dans votre main \u00e0 cette enqu\u00eate.\n<for> Apr\u00e8s que vous avez ajout\u00e9 <name> \u00e0 la pile de victoire : indiquez dans votre Carnet de Campagne que <i>vous avez \u00e9t\u00e9 t\u00e9moin d'hallucinations corruptrices.</i>",
                 "flavor_text": "",
-                "traits": "Simulation. Cauchemar.",
                 "subtitle": null,
-                "victory": "Victoire 1."
+                "victory": "Victoire 1.",
+                "traits": "Simulation. Cauchemar."
             },
             "back": {
-                "name": "<name>"
+                "name": "<name>",
+                "text": ""
             }
         },
         "3c034aeb-5eda-4691-aede-509e33d6cd8c": {
@@ -2895,9 +2890,8 @@
             "back": {}
         },
         "fa89b76e-768c-45cf-be84-7f4141d4b518": {
-            "name": "La Machine en Jaune</dbl>",
+            "name": "La Machine en Jaune",
             "front": {
-                "name": "<name>",
                 "text": null,
                 "flavor_text": null,
                 "subtitle": null,
@@ -2928,7 +2922,7 @@
                         "text": "-4. vous avez le droit de barrer 1 trait sous la mention \u00ab Souvenirs \u00bb de votre investigateur pour r\u00e9ussir automatiquement."
                     }
                 ],
-                "difficulty": "EINFACH / NORMAL"
+                "difficulty": "FACILE / STANDARD"
             },
             "back": {
                 "entries": [
@@ -2957,7 +2951,7 @@
                         "text": "-6. vous avez le droit de barrer 1 trait sous la mention \u00ab Souvenirs \u00bb de votre investigateur pour r\u00e9ussir automatiquement."
                     }
                 ],
-                "difficulty": "SCHWER / EXPERTE"
+                "difficulty": "DIFFICILE / EXPERT"
             }
         },
         "eb1e0d4f-5ae8-444e-97eb-c467d225807e": {
@@ -3052,7 +3046,7 @@
             },
             "back": {
                 "name": "Voler la Vedette",
-                "text": "(<resolution><b>C2</b>)\n\n\n",
+                "text": "(<resolution> <b>C2</b>)\n\n\n",
                 "flavor_text": "Votre double tombe au sol en hurlant de rage. \u00ab Vous ne savez pas ce que vous combattez. Dans les palais de Carcosa, apr\u00e8s avoir lib\u00e9r\u00e9 la princesse, nous avons d\u00e9couvert la v\u00e9ritable nature d'Hastur. Il est plus puissant que tout ce nous avons pu imaginer\u2026 Rien ne pourra l'arr\u00eater\u2026 \u00bb\nVous regardez votre autre vous se d\u00e9sint\u00e9grer dans un nuage de cendres et se dissiper dans l'air\u2026 Vous avez enfin vaincu vos d\u00e9mons.",
                 "traits": null
             }
@@ -3195,7 +3189,6 @@
         "a44dc18e-2461-44ef-9ef7-5f7a785b0af0": {
             "name": "Le Fragment de Carcosa",
             "front": {
-                "name": "<name>",
                 "text": null,
                 "flavor_text": null,
                 "subtitle": null,
@@ -3205,13 +3198,13 @@
                         "token": [
                             "skull"
                         ],
-                        "text": "-2. Si vous \u00e9chouez \u00e0 ce test de comp\u00e9tence et que vous \u00eates dans un lieu Caverne, subissez 1 d\u00e9g\u00e2t."
+                        "text": "-2. Si vous \u00e9chouez \u00e0 ce test de comp\u00e9tence et que vous \u00eates dans un lieu <t>Caverne</t>, subissez 1 d\u00e9g\u00e2t."
                     },
                     {
                         "token": [
                             "cultist"
                         ],
-                        "text": "-2. Si vous \u00e9chouez \u00e0 ce test de comp\u00e9tence et que vous \u00eates dans un lieu Carcosa, subissez 1 horreur."
+                        "text": "-2. Si vous \u00e9chouez \u00e0 ce test de comp\u00e9tence et que vous \u00eates dans un lieu <t>Carcosa</t>, subissez 1 horreur."
                     },
                     {
                         "token": [
@@ -3223,10 +3216,10 @@
                         "token": [
                             "elder_thing"
                         ],
-                        "text": "-2. Si vous \u00eates dans un lieu Carcosa : placez 1 fatalit\u00e9 sur l'intrigue en cours ou \u00e9chouez automatiquement \u00e0 ce test de comp\u00e9tence."
+                        "text": "-2. Si vous \u00eates dans un lieu <t>Carcosa</t> : placez 1 fatalit\u00e9 sur l'intrigue en cours ou \u00e9chouez automatiquement \u00e0 ce test de comp\u00e9tence."
                     }
                 ],
-                "difficulty": "EINFACH / NORMAL"
+                "difficulty": "FACILE / STANDARD"
             },
             "back": {
                 "entries": [
@@ -3234,13 +3227,13 @@
                         "token": [
                             "skull"
                         ],
-                        "text": "-3. Si vous \u00eates dans un lieu Caverne, subissez 1 d\u00e9g\u00e2t."
+                        "text": "-3. Si vous \u00eates dans un lieu <t>Caverne</t>, subissez 1 d\u00e9g\u00e2t."
                     },
                     {
                         "token": [
                             "cultist"
                         ],
-                        "text": "-3. Si vous \u00eates dans un lieu Carcosa, subissez 1 horreur."
+                        "text": "-3. Si vous \u00eates dans un lieu <t>Carcosa</t>, subissez 1 horreur."
                     },
                     {
                         "token": [
@@ -3252,17 +3245,17 @@
                         "token": [
                             "elder_thing"
                         ],
-                        "text": "-3. Si vous \u00eates dans un lieu Carcosa : placez 1 fatalit\u00e9 sur l'intrigue en cours ou \u00e9chouez automatiquement \u00e0 ce test de comp\u00e9tence."
+                        "text": "-3. Si vous \u00eates dans un lieu <t>Carcosa</t> : placez 1 fatalit\u00e9 sur l'intrigue en cours ou \u00e9chouez automatiquement \u00e0 ce test de comp\u00e9tence."
                     }
                 ],
-                "difficulty": "SCHWER / EXPERTE"
+                "difficulty": "DIFFICILE / EXPERT"
             }
         },
         "b13f893e-b89a-418f-9eea-37f592dbe630": {
             "name": "Les Ombres s'Allongent...",
             "front": {
                 "name": "<name>",
-                "text": "Cette intrigue n'a pas de seuil de fatalit\u00e9 (continuez d'ajouter des fatalit\u00e9s jusqu'\u00e0 ce qu'on vous indique d'avancer).",
+                "text": "Cette intrigue n'a pas de seuil de fatalit\u00e9 (<i>continuez d'ajouter des fatalit\u00e9s jusqu'\u00e0 ce qu'on vous indique d'avancer</i>).",
                 "flavor_text": "Bien que vos scanners n'aient d\u00e9tect\u00e9 aucune anomalie autour du Fragment, vous sentez monter en vous une peur indicible \u00e0 mesure que vous vous approchez de sa surface. Vous ne pouvez vous emp\u00eacher de penser que quelque chose d'horrible va arriver si vous restez trop longtemps en son sein.",
                 "subtitle": null,
                 "traits": null
@@ -3284,8 +3277,8 @@
             },
             "back": {
                 "name": "...\u00c0 Carcosa",
-                "text": "(<resolution><b>C2</b>)",
-                "flavor_text": "Vous n'avez pas r\u00e9ussi \u00e0 sortir \u00e0 temps, le vortex de la micro-dimension vous aspire avec vos compagnons dans le palais jaune.\nApr\u00e8s quelques instants, vous sortez du palais pour vous retrouver dans une ville \u00e9trange et d\u00e9form\u00e9e. Ses rues sinueuses et son architecture aberrante semblent n'avoir aucun ordre ou structure. Au loin, un lac \u00e0 l'eau trouble refl\u00e8te l'\u00e9clat de deux soleils. Vous \u00eates pris au pi\u00e8ge dans Carcosa.",
+                "text": "(<resolution> <b>C2</b>)",
+                "flavor_text": "Vous n'avez pas r\u00e9ussi \u00e0 sortir \u00e0 temps, le vortex de la micro-dimension vous aspire avec vos compagnons dans le palais jaune.\nApr\u00e8s quelques instants, vous sortez du palais pour vous retrouver dans une ville \u00e9trange et d\u00e9form\u00e9e. Ses rues sinueuses <br>et son architecture aberrante semblent n'avoir aucun ordre ou structure. Au loin, un lac \u00e0 l'eau trouble refl\u00e8te l'\u00e9clat de deux soleils. Vous \u00eates pris au pi\u00e8ge dans Carcosa.",
                 "traits": null
             }
         },
@@ -3300,7 +3293,7 @@
             },
             "back": {
                 "name": "...Est Carcosa",
-                "text": "<blockquote>Cach\u00e9e dans un compartiment de la navette abandonn\u00e9e, vous trouvez une carte de l'ast\u00e9ro\u00efde dessin\u00e9e par les cultistes lors de leur exploration initiale. Les vastes cavernes creus\u00e9es \u00e0 l'int\u00e9rieur du Fragment ont \u00e9t\u00e9 repr\u00e9sent\u00e9es sur un c\u00f4t\u00e9 de la carte. Lorsque vous la retournez, vous identifiez l'immense palais, avec des couloirs rempla\u00e7ant les tunnels et des chambres majestueuses \u00e0 la place des cavit\u00e9s souterraines. Il semble qu'il y ait des faiblesses dans le voile de la r\u00e9alit\u00e9 qui permettent aux explorateurs de se d\u00e9placer depuis certains endroits dans la dimension connue sous le nom de Carcosa.</blockquote><size 20><hr>\n</size>\n<b>Si les investigateurs ont regard\u00e9 la repr\u00e9sentation des H\u00e9ritiers de Carcosa :</b>\n<blockquote>Les pi\u00e8ces du palais dessin\u00e9es sur la carte sont les m\u00eames que celles que vous avez vues dans la repr\u00e9sentation virtuelle. Vous prenez la carte avec vous et vous vous dirigez vers les cavernes. Vers l'entr\u00e9e du royaume de Carcosa\u2026</blockquote>\nChaque investigateur gagne 1 indice pris dans la r\u00e9serve de pions.\nMettez en jeu les lieux recto-verso mis de c\u00f4t\u00e9, face Caverne visible.<size 20><hr>\n</size>\n<b>Sinon :</b>\n<blockquote>L'\u00e9tude approfondie de la carte ne d\u00e9clenche aucun souvenir. Vous la prenez avec vous et commencez vos recherches dans les cavernes, entr\u00e9e du royaume de Carcosa.</blockquote>\nMettez en jeu les lieux recto-verso mis de c\u00f4t\u00e9, face Caverne visible.\nG\u00e9n\u00e9rez l'ennemi B\u00eate d'Ald\u00e9baran mis de c\u00f4t\u00e9 dans les Cavernes Cyclop\u00e9ennes.",
+                "text": "<size 49><blockquote>Cach\u00e9e dans un compartiment de la navette abandonn\u00e9e, vous trouvez une carte de l'ast\u00e9ro\u00efde dessin\u00e9e par les cultistes lors de leur exploration initiale. Les vastes cavernes creus\u00e9es \u00e0 l'int\u00e9rieur du Fragment ont \u00e9t\u00e9 repr\u00e9sent\u00e9es sur un c\u00f4t\u00e9 de la carte. Lorsque vous la retournez, vous identifiez l'immense palais, avec des couloirs rempla\u00e7ant les tunnels et des chambres majestueuses \u00e0 la place des cavit\u00e9s souterraines. Il semble qu'il y ait des faiblesses dans le voile de la r\u00e9alit\u00e9 qui permettent aux explorateurs de se d\u00e9placer depuis certains endroits dans la dimension connue sous le nom de Carcosa.</blockquote>\n<hr>\n<b>Si les investigateurs ont regard\u00e9 <t>la repr\u00e9sentation des H\u00e9ritiers de Carcosa</t> :</b>\n<blockquote>Les pi\u00e8ces du palais dessin\u00e9es sur la carte sont les m\u00eames que celles que vous avez <br>vues dans la repr\u00e9sentation virtuelle. Vous prenez la carte avec vous et vous vous dirigez vers les cavernes. Vers l'entr\u00e9e du royaume de Carcosa\u2026</blockquote>\nChaque investigateur gagne 1 indice pris dans la r\u00e9serve de pions.\nMettez en jeu les lieux recto-verso mis de c\u00f4t\u00e9, face <t>Caverne</t> visible.\n<hr>\n<b>Sinon :</b>\n<blockquote>L'\u00e9tude approfondie de la carte ne d\u00e9clenche aucun souvenir. Vous la prenez avec vous et commencez vos recherches dans les cavernes, entr\u00e9e du royaume de Carcosa.</blockquote>\nMettez en jeu les lieux recto-verso mis de c\u00f4t\u00e9, face <t>Caverne</t> visible.\nG\u00e9n\u00e9rez l'ennemi B\u00eate d'Ald\u00e9baran mis de c\u00f4t\u00e9 dans les Cavernes Cyclop\u00e9ennes.",
                 "traits": null
             }
         },
@@ -3316,7 +3309,7 @@
             "back": {
                 "name": "Le D\u00e9but de la Fin",
                 "text": "Avancez \u00e0 l\u2019Intrigue 2a et \u00e0 l\u2019Acte 3a. Ne retirez pas les fatalit\u00e9s en jeu. D\u00e9placez toutes les fatalit\u00e9s de l\u2019Intrigue 1 vers l\u2019Intrigue 2a. \nG\u00e9n\u00e9rez l\u2019ennemi Habitant des Cavernes mis de c\u00f4t\u00e9 dans la Navette Abandonn\u00e9e.",
-                "flavor_text": "Vous ne saurez finalement jamais si Tassilda \u00e9tait r\u00e9elle ou non. Mais ce que vous avez appris des cultistes, c\u2019est que le rituel arcanique cens\u00e9 la lib\u00e9rer a \u00e9galement acc\u00e9l\u00e9r\u00e9 l\u2019expansion de l\u2019univers, d\u00e9r\u00e9glant l\u2019entropie de notre r\u00e9alit\u00e9 toute enti\u00e8re. K2-PS187 a calcul\u00e9 qu\u2019avec les nouvelles constantes en jeu, le Soleil explosera dans quelques ann\u00e9es et an\u00e9antira tout le syst\u00e8me solaire.\nVous essayez de comprendre comment renverser ce processus, mais cela semble impossible. Le seul espoir qu\u2019il reste \u00e0 l\u2019humanit\u00e9 est de tenter de survivre \u00e0 la supernova et de sauver autant de personnes que possible.\nAlors que vous r\u00e9fl\u00e9chissez \u00e0 ce que vous devez faire, l\u2019ast\u00e9ro\u00efde se met \u00e0 trembler et un rugissement inhumain r\u00e9sonne dans les cavernes derri\u00e8re vous.",
+                "flavor_text": "Vous ne saurez finalement jamais si Tassilda \u00e9tait r\u00e9elle ou non. Mais ce que vous avez appris des cultistes, c\u2019est que le rituel arcanique cens\u00e9 la lib\u00e9rer a \u00e9galement acc\u00e9l\u00e9r\u00e9 l\u2019expansion de l\u2019univers, d\u00e9r\u00e9glant l\u2019entropie de notre r\u00e9alit\u00e9 toute enti\u00e8re. K2-PS187 a calcul\u00e9 qu\u2019avec les nouvelles constantes en jeu, <br>le Soleil explosera dans quelques ann\u00e9es et an\u00e9antira tout le syst\u00e8me solaire.\nVous essayez de comprendre comment renverser ce processus, <br>mais cela semble impossible. Le seul espoir qu\u2019il reste \u00e0 <br>l\u2019humanit\u00e9 est de tenter de survivre \u00e0 la supernova et de <br>sauver autant de personnes que possible.\nAlors que vous r\u00e9fl\u00e9chissez \u00e0 ce que vous devez faire, l\u2019ast\u00e9ro\u00efde <br>se met \u00e0 trembler et un rugissement inhumain r\u00e9sonne dans les cavernes derri\u00e8re vous.",
                 "traits": null
             }
         },
@@ -3324,14 +3317,14 @@
             "name": "La V\u00e9rit\u00e9 Indicible",
             "front": {
                 "name": "<name>",
-                "text": "<free> Si vous \u00eates dans un lieu Caverne ou Carcosa, d\u00e9pensez collectivement 1 \ud83d\udd75 indice : retournez votre lieu et tous les lieux connexes sur leur autre face.\n<obj> Si chaque investigateur non-vaincu a abandonn\u00e9, avancez.\n",
+                "text": "<free> Si vous \u00eates dans un lieu <t>Caverne</t> ou <t>Carcosa</t>, d\u00e9pensez collectivement <br>1<per_large> indice : retournez votre lieu et tous les lieux connexes sur leur autre face.\n<obj> Si chaque investigateur non-vaincu a abandonn\u00e9, avancez.\n",
                 "flavor_text": "Vous ne serez pas en mesure d'avertir quiconque de cette apocalypse imminente si vous ne vous en sortez pas vivant. Vous devez vous \u00e9chapper de cet ast\u00e9ro\u00efde aussi vite que possible !",
                 "subtitle": null,
                 "traits": null
             },
             "back": {
                 "name": "Retour \u00e0 la R\u00e9alit\u00e9",
-                "text": "<b>Si tous les investigateurs non-vaincus ont abandonn\u00e9 :</b>\n<blockquote>Vous vous accrochez fermement alors que la navette d\u00e9colle de l'ast\u00e9ro\u00efde, quelques secondes avant qu'il ne s'\u00e9croule sur lui-m\u00eame, ne laissant qu'un nuage de poussi\u00e8re jaune dans l'espace.</blockquote>\n(<resolution><b>C3</b>)<size 20><hr>\n</size>\n<b>Sinon (si on vous a indiqu\u00e9 d'avancer au moyen d'une carte autre que l'Acte 3a) :</b>\n<blockquote>Parmi les hi\u00e9roglyphes et les peintures qui d\u00e9corent les couloirs du palais, vous d\u00e9couvrez un rituel obscur qui permettrait de bloquer temporairement la pr\u00e9tention de Tassilda au tr\u00f4ne, ce qui pourrait laisser suffisamment de temps \u00e0 l'humanit\u00e9 pour s'\u00e9chapper. Mais avant toutes choses, vous devez d'abord sortir d'ici.</blockquote>\nDans votre Carnet de Campagne, indiquez que vous \u00eates au courant de la possibilit\u00e9 d'Abjuration au Tr\u00f4ne.\nRetournez \u00e0 l'Acte 3a en retournant cette carte.",
+                "text": "<b>Si tous les investigateurs non-vaincus ont abandonn\u00e9 :</b>\n<blockquote>Vous vous accrochez fermement alors que la navette d\u00e9colle de l'ast\u00e9ro\u00efde, quelques secondes avant qu'il ne s'\u00e9croule sur lui-m\u00eame, ne laissant qu'un nuage de poussi\u00e8re jaune dans l'espace.</blockquote>\n(<resolution> <b>C3</b>)<size 20><hr>\n</size>\n<b>Sinon (si on vous a indiqu\u00e9 d'avancer au moyen d'une carte autre que l'Acte 3a) :</b>\n<blockquote>Parmi les hi\u00e9roglyphes et les peintures qui d\u00e9corent les couloirs du palais, vous d\u00e9couvrez un rituel obscur qui permettrait de bloquer temporairement la pr\u00e9tention de Tassilda au tr\u00f4ne, ce qui pourrait laisser suffisamment de temps \u00e0 l'humanit\u00e9 pour s'\u00e9chapper. Mais avant toutes choses, vous devez d'abord sortir d'ici.</blockquote>\nDans votre Carnet de Campagne, indiquez que <i>vous \u00eates au courant de la possibilit\u00e9 d'Abjuration au Tr\u00f4ne.</i>\nRetournez \u00e0 l'Acte 3a en retournant cette carte.",
                 "flavor_text": null,
                 "traits": null
             }
@@ -3340,9 +3333,9 @@
             "name": "Bouteille des Secrets Enferm\u00e9s",
             "front": {
                 "name": "<name>",
-                "text": "Rapide.\n<reaction> Quand un investigateur dans votre lieu r\u00e9v\u00e8le un pion \ud83c\udf3f, retirez la Bouteille des Secrets Enferm\u00e9s de la partie : annulez ce pion et traitez-le comme un pion \u2734 \u00e0 la place.",
+                "text": "Rapide.\n<reaction> Quand un investigateur dans votre lieu r\u00e9v\u00e8le un pion <auto_fail>, retirez la Bouteille des Secrets Enferm\u00e9s de la partie : annulez ce pion et traitez-le comme un pion<elder_sign> \u00e0 la place.",
                 "flavor_text": "",
-                "subtitle": "Sie ist f\u00fcr dich bestimmt",
+                "subtitle": "Elle Vous \u00c9tait Destin\u00e9e.",
                 "traits": "Objet."
             },
             "back": {}
@@ -3383,7 +3376,7 @@
             "name": "Puits Sans Fond",
             "front": {
                 "name": "<name>",
-                "text": "<for> Apr\u00e8s \u00eatre entr\u00e9 dans le Puits Sans Fond : d\u00e9placez-vous dans un autre lieu non-Surface, subissez 3 d\u00e9g\u00e2ts directs et perdez toutes vos actions restantes.",
+                "text": "<for> Apr\u00e8s \u00eatre entr\u00e9 dans le Puits Sans Fond : d\u00e9placez-vous dans un autre lieu<br> non-<t>Surface</t>, subissez 3 d\u00e9g\u00e2ts directs et perdez toutes vos actions restantes.",
                 "flavor_text": "Et maintenant, comment allons-nous descendre ?",
                 "subtitle": null,
                 "traits": "Caverne."
@@ -3399,14 +3392,14 @@
             "name": "Cavernes Cyclop\u00e9ennes",
             "front": {
                 "name": "<name>",
-                "text": "<free> Les investigateurs dans ce lieu barrent collectivement 1\ud83d\udc64 trait sous la mention \u00ab Souvenirs \u00bb de leurs investigateurs : choisissez un lieu Caverne ou Carcosa et retournez-le sur son autre face.",
+                "text": "<free> Les investigateurs dans ce lieu barrent collectivement 1<per_large> trait sous la mention <br>\u00ab Souvenirs \u00bb de leurs investigateurs : choisissez un lieu <t>Caverne</t> ou <t>Carcosa</t> et retournez-le sur son autre face.",
                 "flavor_text": "",
                 "subtitle": null,
                 "traits": "Caverne."
             },
             "back": {
                 "name": "Grand Salon",
-                "text": "<free> Si ce lieu est le seul lieu Carcosa en jeu : lisez la carte Histoire \u00ab Arriv\u00e9e du Roi \u00bb mise de c\u00f4t\u00e9. (Max. une fois par partie.)",
+                "text": "<free> Si ce lieu est le seul lieu <t>Carcosa</t> en <br>jeu : lisez la carte Histoire \u00ab Arriv\u00e9e du Roi \u00bb mise de c\u00f4t\u00e9. (Max. une fois par partie.)",
                 "flavor_text": "Il n'y a personne ici pour vous accueillir, seulement des statues et des peintures.",
                 "traits": "Carcosa."
             }
@@ -3431,14 +3424,14 @@
             "name": "Cavit\u00e9 de Glace",
             "front": {
                 "name": "<name>",
-                "text": "La Cavit\u00e9 de Glace perd -1 de valeur occulte pour chaque lieu Caverne connexe.",
-                "flavor_text": "Des courants d'air anormalement froids traversent la cavit\u00e9, vous gelant jusqu'aux os.",
+                "text": "La Cavit\u00e9 de Glace perd -1 de valeur occulte pour chaque lieu <t>Caverne</t> connexe.",
+                "flavor_text": "\nDes courants d'air anormalement froids traversent la cavit\u00e9, vous gelant jusqu'aux os.",
                 "subtitle": null,
                 "traits": "Caverne."
             },
             "back": {
                 "name": "Jardins de Thothut",
-                "text": "Les Jardins de Thothut gagnent +1 de valeur occulte pour chaque lieu Carcosa connexe.\n<free> Si ce lieu est le seul lieu Carcosa en jeu : lisez la carte Histoire \u00ab D\u00e9lices \u00bb mise de c\u00f4t\u00e9. (Max. une fois par partie.)",
+                "text": "Les Jardins de Thothut gagnent +1 de valeur occulte pour chaque lieu <t>Carcosa</t> connexe.\n<free> Si ce lieu est le seul lieu <t>Carcosa </t>en jeu : lisez la carte Histoire \u00ab D\u00e9lices \u00bb mise de c\u00f4t\u00e9. (Max. une fois par partie.)",
                 "flavor_text": null,
                 "traits": "Carcosa."
             }
@@ -3447,7 +3440,7 @@
             "name": "Ravin Infranchissable",
             "front": {
                 "name": "<name>",
-                "text": "Vous ne pouvez pas entrer dans le Ravin Infranchissable depuis un lieu connexe.\n<free> S'il n'y a aucun lieu Carcosa en jeu et que chaque investigateur non-vaincu est dans ce lieu : lisez la carte Histoire \u00ab Exp\u00e9dition Perdue \u00bb mise de c\u00f4t\u00e9. (Max. une fois par partie.)",
+                "text": "Vous ne pouvez pas entrer dans le <name> depuis un lieu connexe.\n<free> S'il n'y a aucun lieu <t>Carcosa</t> en jeu et que chaque investigateur non-vaincu est dans ce lieu : lisez la carte Histoire \u00ab Exp\u00e9dition Perdue \u00bb mise de c\u00f4t\u00e9. (Max. une fois par partie.)",
                 "flavor_text": "",
                 "subtitle": "O\u00f9 les Cultistes ont Disparu",
                 "victory": "Victoire 1.",
@@ -3455,9 +3448,9 @@
             },
             "back": {
                 "name": "Le Tr\u00f4ne Jaune",
-                "text": "<free> S'il y a 6 lieux Carcosa en jeu et que chaque investigateur non-vaincu est dans ce lieu : lisez la carte Histoire \u00ab Exp\u00e9dition Perdue \u00bb mise de c\u00f4t\u00e9. (Max. une fois par partie.)",
+                "text": "<free> S'il y a 6 lieux <t>Carcosa</t> en jeu et que chaque investigateur non-vaincu est dans ce<br> lieu : lisez la carte Histoire \u00ab Exp\u00e9dition Perdue \u00bb mise de c\u00f4t\u00e9. (Max. une fois par partie.)",
                 "flavor_text": null,
-                "subtitle": "Wo Tassilda herrscht",
+                "subtitle": "O\u00f9 Tassilda R\u00e8gne",
                 "victory": "Victoire 1.",
                 "traits": "Carcosa."
             }
@@ -3466,14 +3459,14 @@
             "name": "For\u00eat de Stalagmites",
             "front": {
                 "name": "<name>",
-                "text": "<for> \u00c0 la fin de votre tour, si vous \u00eates dans la For\u00eat de Stalagmites, subissez 1 d\u00e9g\u00e2t.\n",
+                "text": "<for> \u00c0 la fin de votre tour, si vous \u00eates dans la <name>, subissez 1 d\u00e9g\u00e2t.\n",
                 "flavor_text": "Le grand nombre de stalagmites et de stalactites rend p\u00e9rilleuse la travers\u00e9e de cette poche souterraine.",
                 "subtitle": null,
                 "traits": "Caverne."
             },
             "back": {
                 "name": "Labyrinthe de Tasylock",
-                "text": "<for> \u00c0 la fin de votre tour, si vous \u00eates dans le Labyrinthe de Tasylock, subissez 1 horreur.\n<free> Si ce lieu est le seul lieu Carcosa en jeu : lisez la carte Histoire \u00ab Pour Vous Seul \u00bb mise de c\u00f4t\u00e9. (Max. une fois par partie.)",
+                "text": "<for> \u00c0 la fin de votre tour, si vous \u00eates dans le Labyrinthe de Tasylock, subissez 1 horreur.\n<free> Si ce lieu est le seul lieu <t>Carcosa</t> en jeu : lisez la carte Histoire \u00ab Pour Vous Seul \u00bb mise de c\u00f4t\u00e9. (Max. une fois par partie.)",
                 "flavor_text": null,
                 "traits": "Carcosa."
             }
@@ -3482,7 +3475,7 @@
             "name": "L'Arriv\u00e9e du Roi",
             "front": {
                 "name": "<name>",
-                "text": "<blockquote>Vous apercevez, en petits groupes autour de la salle de bal, des statues repr\u00e9sentant les habitants du Palais. Ils sont tous v\u00eatus de mani\u00e8re extravagante, comme pour une mascarade, mais sans \u00eatre masqu\u00e9s.\nEn y regardant de plus pr\u00e8s, vous r\u00e9alisez que les statues bougent lentement et parlent \u00e0 voix basse, comme si le temps lui-m\u00eame s\u2019\u00e9tait fig\u00e9. Ce que vous voyez est un \u00e9cho du moment o\u00f9 la ville d\u2019Y\u2019thill, o\u00f9 se trouvait le palais, est devenue Carcosa, le jour o\u00f9 <br>la famille royale a compris qu\u2019elle \u00e9tait in\u00e9vitablement condamn\u00e9e. Les gens du Palais se tiennent l\u00e0 maintenant, moroses et incertains de leur avenir, perdus \u00e0 la fois dans leur esprit et dans leur \u00e2me.</blockquote>\nChaque investigateur a le droit de barrer n\u2019importe quelle quantit\u00e9 de traits sous la mention de leurs \u00ab Souvenirs \u00bb.\nTous les 2<per_large> traits barr\u00e9s, vous avez le droit de barrer 1 trait sous la mention \u00ab Apocalypse Imminente \u00bb dans votre Carnet de Campagne.\nAjoutez cette carte \u00e0 la pile de victoire.\n",
+                "text": "<blockquote>Vous apercevez, en petits groupes autour de la salle de bal, des statues repr\u00e9sentant les habitants du Palais. Ils sont tous v\u00eatus de mani\u00e8re extravagante, comme pour une mascarade, mais sans \u00eatre masqu\u00e9s.\nEn y regardant de plus pr\u00e8s, vous r\u00e9alisez que les statues bougent lentement et parlent \u00e0 voix basse, comme si le temps lui-m\u00eame s\u2019\u00e9tait fig\u00e9. Ce que vous voyez est un \u00e9cho du moment o\u00f9 la ville d\u2019Yhtill, o\u00f9 se trouvait le palais, est devenue Carcosa, le jour o\u00f9 <br>la famille royale a compris qu\u2019elle \u00e9tait in\u00e9vitablement condamn\u00e9e. Les gens du Palais se tiennent l\u00e0 maintenant, moroses et incertains de leur avenir, perdus \u00e0 la fois dans leur esprit et dans leur \u00e2me.</blockquote>\nChaque investigateur a le droit de barrer n\u2019importe quelle quantit\u00e9 de traits sous la mention de leurs \u00ab Souvenirs \u00bb.\nTous les 2<per_large> traits barr\u00e9s, vous avez le droit de barrer 1 trait sous la mention \u00ab Apocalypse Imminente \u00bb dans votre Carnet de Campagne.\nAjoutez cette carte \u00e0 la pile de victoire.\n",
                 "flavor_text": null,
                 "subtitle": null,
                 "victory": "Victoire 1.",
@@ -3499,7 +3492,7 @@
             "name": "D\u00e9lices",
             "front": {
                 "name": "<name>",
-                "text": "<blockquote>Dans les jardins, vous voyez des plantes qui ne ressemblent en rien \u00e0 celles que vous avez pu voir sur Terre, portant des fruits aux senteurs et aux couleurs improbables. La sc\u00e8ne ressemble \u00e0 un r\u00eave fi\u00e9vreux, aux formes mouvantes et irr\u00e9elles, vous poussant \u00e0 la limite de votre raison.\nVous prenez un des fruits tomb\u00e9s sur le sol pour l'examiner et le voir instantan\u00e9ment pourrir et se d\u00e9composer dans vos doigts. Le temps dans le royaume de Carcosa ne se comporte pas comme dans votre dimension.\nLorsque vous sortez enfin des jardins interdits, un soulagement vous envahit. Bien que vous ne puissiez d\u00e9crire la nature de ce que vous avez v\u00e9cu, cela a \u00e9t\u00e9 n\u00e9anmoins vivifiant et vous avez enfin l'impression de contr\u00f4ler votre propre destin.</blockquote>\nVous avez le droit de choisir et de retirer n'importe quel pion non <auto_fail> de la r\u00e9serve du Chaos pour le reste de la campagne.\nAjoutez cette carte \u00e0 la pile de victoire.",
+                "text": "<blockquote>Dans les jardins, vous voyez des plantes qui ne ressemblent en rien \u00e0 celles que vous avez pu voir sur Terre, portant des fruits aux senteurs et aux couleurs improbables. La sc\u00e8ne ressemble \u00e0 un r\u00eave fi\u00e9vreux, aux formes mouvantes et irr\u00e9elles, vous poussant \u00e0 la limite de votre raison.\nVous prenez un des fruits tomb\u00e9s sur le sol pour l'examiner et le voir instantan\u00e9ment pourrir et se d\u00e9composer dans vos doigts. Le temps dans le royaume de Carcosa ne se comporte pas comme dans votre dimension.\nLorsque vous sortez enfin des jardins interdits, un soulagement vous envahit. Bien que vous ne puissiez d\u00e9crire la nature de ce que vous avez v\u00e9cu, cela a \u00e9t\u00e9 n\u00e9anmoins vivifiant et vous avez enfin l'impression de contr\u00f4ler votre propre destin.</blockquote>\nVous avez le droit de choisir et de retirer n'importe quel pion non-<auto_fail> de la r\u00e9serve du Chaos pour le reste de la campagne.\nAjoutez cette carte \u00e0 la pile de victoire.",
                 "flavor_text": null,
                 "subtitle": null,
                 "victory": "Victoire 1.",
@@ -3516,7 +3509,7 @@
             "name": "Pour Vous Seul",
             "front": {
                 "name": "<name>",
-                "text": "<blockquote>Les couloirs s'entrem\u00ealent tel un labyrinthe. Les chambres, autrefois lumineuses et spacieuses, sont devenues sombres, poussi\u00e9reuses et exigu\u00ebs. Vous vous \u00e9garez davantage dans ce d\u00e9dale jusqu'\u00e0 ce que vous atteigniez une gigantesque pi\u00e8ce avec des murs et des colonnes couvertes d'\u00e9tag\u00e8res.\nPos\u00e9es sur ces \u00e9tag\u00e8res, vous apercevez des petites bouteilles en verre, toutes de formes et de couleurs diff\u00e9rentes. Sur chacune d'entre elles est inscrit un nom. Il y a un nombre incalculable de ces flacons, assez, vous semble-t-il, pour correspondre \u00e0 chaque individu dans l'univers, humain ou non-humain, appartenant au pass\u00e9, au pr\u00e9sent et au futur.\nUn flacon de couleur sombre isol\u00e9 dans un coin de l'immense salle retient votre attention, il vous invite presque \u00e0 le saisir. Succombant \u00e0 la tentation, vous le prenez et y lisez votre propre nom. C'est votre bouteille\u2026 Elle vous est destin\u00e9e !</blockquote>\nCherchez la faiblesse mise de c\u00f4t\u00e9 Bouteille des Secrets Enferm\u00e9s et ajoutez-la dans la main de n'importe quel investigateur. Cette carte est ajout\u00e9e \u00e0 son deck, mais ne compte pas dans la Taille du Deck de cet investigateur.\nAjoutez cette carte \u00e0 la pile de victoire.",
+                "text": "<blockquote>Les couloirs s'entrem\u00ealent tel un labyrinthe. Les chambres, autrefois lumineuses et spacieuses, sont devenues sombres, poussi\u00e9reuses et exigu\u00ebs. Vous vous \u00e9garez davantage dans ce d\u00e9dale jusqu'\u00e0 ce que vous atteigniez une gigantesque pi\u00e8ce avec des murs et des colonnes couvertes d'\u00e9tag\u00e8res.\nPos\u00e9es sur ces \u00e9tag\u00e8res, vous apercevez des petites bouteilles en verre, toutes de formes et de couleurs diff\u00e9rentes. Sur chacune d'entre elles est inscrit un nom. Il y a un nombre incalculable de ces flacons, assez, vous semble-t-il, pour correspondre \u00e0 chaque individu dans l'univers, humain ou non-humain, appartenant au pass\u00e9, au pr\u00e9sent et au futur.\nUn flacon de couleur sombre isol\u00e9 dans un coin de l'immense salle retient votre attention, il vous invite presque \u00e0 le saisir. Succombant \u00e0 la tentation, vous le prenez et y lisez votre propre nom. C'est votre bouteille\u2026 Elle vous est destin\u00e9e !</blockquote>\nCherchez la faiblesse mise de c\u00f4t\u00e9 Bouteille des Secrets Enferm\u00e9s et ajoutez-la dans la main de n'importe quel investigateur. Cette carte est ajout\u00e9e \u00e0 son deck, mais ne compte pas dans la Taille du Deck de cet investigateur.\nAjoutez cette carte \u00e0 la pile de victoire.\n ",
                 "flavor_text": null,
                 "subtitle": null,
                 "victory": "Victoire 1.",
@@ -3533,7 +3526,7 @@
             "name": "Exp\u00e9dition Perdue",
             "front": {
                 "name": "<name>",
-                "text": "<b>Si c'est la premi\u00e8re fois que vous lisez ceci :</b>\n<blockquote>Finalement, vous tombez sur les corps de plusieurs cultistes. Vous reconnaissez l'\u00e9quipe d'exploration qui avait disparue. Ils ont tous retir\u00e9 leur casque et sont morts d'une d\u00e9compression soudaine. Lorsque vous lisez leurs notes, vos pires craintes sont confirm\u00e9es. Tassilda n'existe plus dans cette dimension, elle s'est \u00e9lev\u00e9e au rang de divinit\u00e9 et r\u00e9side maintenant avec son p\u00e8re, au c\u0153ur des \u00e9toiles, entre les tissus de l'espace-temps.\nVous d\u00e9couvrez quelque chose d'encore plus inqui\u00e9tant, car les notes de l'\u00e9quipe d\u00e9voilent \u00e9galement la v\u00e9ritable nature du Roi en Jaune.\nNos destructions lui donnent une forme, notre violence lui donne un nom, nos cris lui donnent une voix, mais peu importe le nombre de personnes qui l'adorent ou lui attribuent une personnalit\u00e9, il n'est pas plus une divinit\u00e9 que peut l'\u00eatre la gravit\u00e9. Vous comprenez qu'il est le concept m\u00eame d'entropie thermodynamique de l'univers auquel vous \u00eates confront\u00e9. Il est le d\u00e9clin graduel et in\u00e9vitable de tout syst\u00e8me vers le chaos absolu. Et, selon toute compr\u00e9hension de la physique, il n'y a aucun moyen de l'arr\u00eater.</blockquote><size 20><hr>\n</size>\n<b>Sans tenir compte du fait que c'est la premi\u00e8re fois ou non que vous lisez ceci :</b>\nAvancez l'Acte en cours et mettez de c\u00f4t\u00e9 cette carte, hors-jeu.",
+                "text": "<b>Si c'est la premi\u00e8re fois que vous lisez ceci :</b>\n<blockquote>Finalement, vous tombez sur les corps de plusieurs cultistes. Vous reconnaissez l'\u00e9quipe d'exploration qui avait disparue. Ils ont tous retir\u00e9 leur casque et sont morts d'une d\u00e9compression soudaine. Lorsque vous lisez leurs notes, vos pires craintes sont confirm\u00e9es. Tassilda n'existe plus dans cette dimension, elle s'est \u00e9lev\u00e9e au rang de divinit\u00e9 et r\u00e9side maintenant avec son p\u00e8re, au c\u0153ur des \u00e9toiles, entre les tissus de l'espace-temps.\nVous d\u00e9couvrez quelque chose d'encore plus inqui\u00e9tant, car les notes de l'\u00e9quipe d\u00e9voilent \u00e9galement la v\u00e9ritable nature du Roi en Jaune.\nNos destructions lui donnent une forme, notre violence lui donne un nom, nos cris lui donnent une voix, mais peu importe le nombre de personnes qui l'adorent ou lui attribuent une personnalit\u00e9, il n'est pas plus une divinit\u00e9 que peut l'\u00eatre la gravit\u00e9. Vous comprenez qu'il est le concept m\u00eame d'entropie thermodynamique de l'univers auquel vous \u00eates confront\u00e9. Il est le d\u00e9clin graduel et in\u00e9vitable de tout syst\u00e8me vers le chaos absolu. Et, selon toute compr\u00e9hension de la physique, il n'y a aucun moyen de l'arr\u00eater.</blockquote>\n<hr>\n<b>Sans tenir compte du fait que c'est la premi\u00e8re fois ou non que vous lisez ceci :</b>\nAvancez l'Acte en cours et mettez de c\u00f4t\u00e9 cette carte, hors-jeu.",
                 "flavor_text": null,
                 "subtitle": null,
                 "traits": null
@@ -3549,7 +3542,7 @@
             "name": "R\u00e9alit\u00e9 Bris\u00e9e",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Attachez cette carte au lieu Caverne ou Carcosa avec le moins d'indices et qui n'a pas d\u00e9j\u00e0 un exemplaire de R\u00e9alit\u00e9 Bris\u00e9e attach\u00e9\n<for> Apr\u00e8s avoir retourn\u00e9 le lieu attach\u00e9 : retournez-le sur son c\u00f4t\u00e9 d'origine et d\u00e9faussez cette carte.\n<act> D\u00e9pensez 1 indice : d\u00e9faussez cette carte.",
+                "text": "<rev> Attachez cette carte au lieu <t>Caverne</t> ou <t>Carcosa</t> avec le moins d'indices et qui n'a pas d\u00e9j\u00e0 un exemplaire de <name> attach\u00e9\n<for> Apr\u00e8s avoir retourn\u00e9 le lieu attach\u00e9 : retournez-le sur son c\u00f4t\u00e9 d'origine et d\u00e9faussez cette carte.\n<act> D\u00e9pensez 1 indice : d\u00e9faussez cette carte.",
                 "flavor_text": "",
                 "subtitle": null,
                 "traits": "Risque."
@@ -3560,7 +3553,7 @@
             "name": "Effondrement de la Caverne",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Chaque investigateur dans un lieu Caverne doit effectuer un test de <agi> (3). Chaque investigateur qui \u00e9choue subit 1 d\u00e9g\u00e2t et perd 1 action.",
+                "text": "<rev> Chaque investigateur dans un lieu <t>Caverne</t> doit effectuer un test de <agi> (3). Chaque investigateur qui \u00e9choue subit 1 d\u00e9g\u00e2t et perd 1 action.",
                 "flavor_text": "\u00ab Tout s'\u00e9croule ! Courez ! \u00bb",
                 "subtitle": null,
                 "traits": "Risque."
@@ -3572,8 +3565,8 @@
             "front": {
                 "name": "<name>",
                 "text": "Massif. Chasseur. Riposte.\n<for> Quand le lieu de l'Habitant des Cavernes est retourn\u00e9 : inclinez l'Habitant des Cavernes.",
-                "flavor_text": "Une perversion de ce qui \u00e9tait autrefois un \u00eatre humain.",
-                "subtitle": "Seltsam vertraut",
+                "flavor_text": "\nUne perversion de ce qui \u00e9tait autrefois un \u00eatre humain.",
+                "subtitle": "\u00c9trangement Familier",
                 "victory": "Victoire 1.",
                 "traits": "Monstre. Humano\u00efde. Cultiste."
             },
@@ -3583,7 +3576,7 @@
             "name": "Choisi par Lui",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Attachez Choisi par Lui \u00e0 un soutien Objet, Sort, ou Alli\u00e9 que vous contr\u00f4lez et qui peut quitter le jeu.\n<for> \u00c0 la fin de votre tour : subissez 2 d\u00e9g\u00e2ts directs et m\u00e9langez le soutien attach\u00e9 dans votre deck.\n<act> : Retirez le soutien attach\u00e9 de la partie.",
+                "text": "<rev> Attachez <name> \u00e0 un soutien <t>Objet</t>, <t>Sort</t>, ou <t>Alli\u00e9</t> que vous contr\u00f4lez et qui peut quitter le jeu.\n<for> \u00c0 la fin de votre tour : subissez 2 d\u00e9g\u00e2ts directs et m\u00e9langez le soutien attach\u00e9 dans votre deck.\n<act> : Retirez le soutien attach\u00e9 de la partie.",
                 "flavor_text": "",
                 "subtitle": null,
                 "traits": "Sortil\u00e8ge."
@@ -3594,7 +3587,7 @@
             "name": "\u00c9chos de Tassilda (Corps)",
             "front": {
                 "name": "<name>",
-                "text": "Renfort. P\u00e9ril. Cach\u00e9e.\n<rev> Ajoutez secr\u00e8tement cette carte \u00e0 votre main.\n<reaction> Quand un investigateur devrait \u00eatre vaincu par des horreurs : annulez ces horreurs et ajoutez cette carte \u00e0 la pile de victoire. (Cela ne peut \u00eatre vous que s'il n'y a aucun autre investigateur encore en jeu.)",
+                "text": "Renfort. P\u00e9ril. Cach\u00e9e.\n<rev> Ajoutez secr\u00e8tement cette carte \u00e0 votre main.\n<reaction> Quand un investigateur devrait \u00eatre vaincu par des d\u00e9g\u00e2ts : annulez ces d\u00e9g\u00e2ts et ajoutez cette carte \u00e0 la pile de victoire. (Cela ne peut \u00eatre vous que s'il n'y a aucun autre investigateur encore en jeu.)",
                 "flavor_text": "",
                 "subtitle": null,
                 "victory": "Victoire 1.",
@@ -3606,7 +3599,7 @@
             "name": "\u00c9chos de Tassilda (Esprit)",
             "front": {
                 "name": "<name>",
-                "text": "Renfort. P\u00e9ril. Cach\u00e9e.\n<rev> Ajoutez secr\u00e8tement cette carte \u00e0 votre main.\n<reaction> Quand un investigateur devrait \u00eatre vaincu par des d\u00e9g\u00e2ts : annulez ces d\u00e9g\u00e2ts et ajoutez cette carte \u00e0 la pile de victoire. (Cela ne peut \u00eatre vous que s'il n'y a aucun autre investigateur encore en jeu.)",
+                "text": "Renfort. P\u00e9ril. Cach\u00e9e.\n<rev> Ajoutez secr\u00e8tement cette carte \u00e0 votre main.\n<reaction> Quand un investigateur devrait \u00eatre vaincu par des horreurs : annulez ces horreurs et ajoutez cette carte \u00e0 la pile de victoire. (Cela ne peut \u00eatre vous que s'il n'y a aucun autre investigateur encore en jeu.)",
                 "flavor_text": "",
                 "subtitle": null,
                 "victory": "Victoire 1.",
@@ -3618,7 +3611,7 @@
             "name": "Domaine d'Hastur",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Mettez le Domaine d'Hastur en jeu \u00e0 c\u00f4t\u00e9 du deck Intrigue.\n<for> Apr\u00e8s avoir retourn\u00e9 n'importe quel nombre de lieux : subissez 1 horreur.\n<act> : Effectuez un test de <wil> ou de<agi> (3). En cas de r\u00e9ussite, d\u00e9faussez le Domaine d'Hastur.",
+                "text": "<rev> Mettez le Domaine d'Hastur en jeu \u00e0 c\u00f4t\u00e9 du deck Intrigue.\n<for> Apr\u00e8s avoir retourn\u00e9 n'importe quel nombre de lieux : subissez 1 horreur.\n<act> : Effectuez un test de <wil> (3) ou de <agi> (3). En cas de r\u00e9ussite, d\u00e9faussez le <name>.",
                 "flavor_text": "",
                 "subtitle": null,
                 "traits": "Terreur."
@@ -3629,7 +3622,7 @@
             "name": "Vision Irr\u00e9sistible",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Effectuez un test de <int> (3). Si vous \u00eates dans un lieu Carcosa, vous devez attribuer toutes les cartes Comp\u00e9tence \u00e9ligibles \u00e0 ce test. En cas d'\u00e9chec, subissez 2 horreurs.\n",
+                "text": "<rev> Effectuez un test de <int> (3). Si vous \u00eates dans un lieu <t>Carcosa</t>, vous devez attribuer toutes les cartes Comp\u00e9tence \u00e9ligibles \u00e0 ce test. En cas d'\u00e9chec, subissez 2 horreurs.\n",
                 "flavor_text": "Cela perturbe votre esprit.",
                 "subtitle": null,
                 "traits": "Sortil\u00e8ge."
@@ -3652,7 +3645,7 @@
             "name": "Changement de Sc\u00e8ne",
             "front": {
                 "name": "<name>",
-                "text": "Renfort.\n<rev> Vous devez (choisir une option) :\n<bullet> Placer 1 fatalit\u00e9 sur l'intrigue en cours.\n<bullet> D\u00e9placer chaque ennemi d'1 lieu vers vous. Chaque ennemi dans votre lieu vous attaque imm\u00e9diatement.",
+                "text": "Renfort.\n<rev> Vous devez (choisir une option) :\n<bullet> Placer 1 fatalit\u00e9 sur l'intrigue en cours.\n<bullet> D\u00e9placer chaque ennemi de 1 lieu vers vous. Chaque ennemi dans votre lieu vous attaque imm\u00e9diatement.",
                 "flavor_text": "",
                 "subtitle": null,
                 "traits": "Pr\u00e9sage."
@@ -3674,8 +3667,8 @@
             "name": "\u00c9tranges Clochers",
             "front": {
                 "name": "<name>",
-                "text": "<spawn> Lieu Carcosa le plus proche.\nMassif.\nN'attaque pas pendant la phase des Ennemis.",
-                "flavor_text": "\n\u2026 et minuit sonna aux clochers de la ville noy\u00e9e de brume.\n<right>-- Robert W.Chambers, Le Signe Jaune",
+                "text": "<spawn> Lieu <t>Carcosa</t> le plus proche.\nMassif.\nN'attaque pas pendant la phase des Ennemis.",
+                "flavor_text": "\n\u2026 et minuit sonna aux clochers de la ville noy\u00e9e de brume.<right>-- Robert W.Chambers, Le Signe Jaune",
                 "subtitle": null,
                 "traits": "Obstacle."
             },
@@ -3685,8 +3678,8 @@
             "name": "Rideaux en Lambeaux",
             "front": {
                 "name": "<name>",
-                "text": "<spawn> Lieu Carcosa le plus proche.\nN'attaque pas pendant la phase des Ennemis.\n<for> Apr\u00e8s avoir retourn\u00e9 le lieu o\u00f9 se situent les Rideaux en Lambeaux : d\u00e9placez-les d'un lieu vers vous.",
-                "flavor_text": "Les haillons festonn\u00e9s du Roi en jaune doivent dissimuler Yhtill pour toujours.\n<right>-- Robert W.Chambers, Le Restaurateur de R\u00e9putations",
+                "text": "<spawn> Lieu <t>Carcosa</t> le plus proche.\nN'attaque pas pendant la phase des Ennemis.\n<for> Apr\u00e8s avoir retourn\u00e9 le lieu o\u00f9 se situent les Rideaux en Lambeaux : d\u00e9placez-les de 1 lieu vers vous.",
+                "flavor_text": "Les haillons festonn\u00e9s du Roi en jaune doivent<br> dissimuler Yhtill pour toujours. <br>-- Robert W.Chambers, Le Restaurateur de R\u00e9putations",
                 "subtitle": null,
                 "traits": "Obstacle."
             },
@@ -3707,8 +3700,8 @@
             "name": "Brumes Jaunes",
             "front": {
                 "name": "<name>",
-                "text": "Distant. Chasseur.\nLe lieu o\u00f9 se situent les <name> gagne le trait Carcosa.",
-                "flavor_text": "Tout r\u00e9sonne \u00e0 travers les brumes comme une m\u00e9lodie lointaine et famili\u00e8re \n<right>\u2013 Chanson de Cassilda.",
+                "text": "Distant. Chasseur.\nLe lieu o\u00f9 se situent les <name> gagne le trait <t>Carcosa.</t>",
+                "flavor_text": "Tout r\u00e9sonne \u00e0 travers les brumes comme une m\u00e9lodie lointaine et famili\u00e8re \u2013 Chanson de Cassilda.",
                 "subtitle": null,
                 "victory": "Victoire 1.",
                 "traits": "Obstacle."
@@ -3718,183 +3711,240 @@
         "c2b2daa8-ebe1-40af-ba16-62461cd8b147": {
             "name": "Disparition Astrale",
             "front": {
-                "name": "<name>",
                 "text": null,
                 "flavor_text": null,
+                "subtitle": null,
                 "traits": null,
-                "subtitle": null
+                "entries": [
+                    {
+                        "token": [
+                            "skull"
+                        ],
+                        "text": "-X. X est la moiti\u00e9 du nombre de lieux r\u00e9v\u00e9l\u00e9s sans indices sur eux (arrondi au sup\u00e9rieur)."
+                    },
+                    {
+                        "token": [
+                            "cultist"
+                        ],
+                        "text": "-3. En cas d'\u00e9chec avec une diff\u00e9rence de 2 ou plus, subissez 1 d\u00e9g\u00e2t et 1 horreur."
+                    },
+                    {
+                        "token": [
+                            "tablet"
+                        ],
+                        "text": "Augmentez la difficult\u00e9 de ce test de 1 et r\u00e9v\u00e9lez un autre pion."
+                    },
+                    {
+                        "token": [
+                            "elder_thing"
+                        ],
+                        "text": "-3. En cas d'\u00e9chec, vous devez soit placer 1 fatalit\u00e9 sur l'intrigue en cours, soit subir 1 horreur pour chaque point manquant."
+                    }
+                ],
+                "difficulty": "FACILE / STANDARD"
             },
-            "back": {}
+            "back": {
+                "entries": [
+                    {
+                        "token": [
+                            "skull"
+                        ],
+                        "text": "-X. X est la moiti\u00e9 du nombre de lieux en jeu (arrondi au sup\u00e9rieur)."
+                    },
+                    {
+                        "token": [
+                            "cultist"
+                        ],
+                        "text": "-4. En cas d'\u00e9chec avec une diff\u00e9rence de 2 ou plus, subissez 1 d\u00e9g\u00e2t et 1 horreur."
+                    },
+                    {
+                        "token": [
+                            "tablet"
+                        ],
+                        "text": "Augmentez la difficult\u00e9 de ce test de 1 et r\u00e9v\u00e9lez un autre pion."
+                    },
+                    {
+                        "token": [
+                            "elder_thing"
+                        ],
+                        "text": "-4. En cas d'\u00e9chec, vous devez soit placer 1 fatalit\u00e9 sur l'intrigue en cours, soit subir 1 horreur pour chaque point manquant."
+                    }
+                ],
+                "difficulty": "DIFFICILE / EXPERT"
+            }
         },
         "7d2c714d-a465-4dc7-b400-8546078e3edc": {
             "name": "Voyage dans l'Espace",
             "front": {
                 "name": "<name>",
-                "text": "<free> Streiche w\u00e4hrend einer Fertigkeitsprobe 1 deiner \u00ab Souvenirs \u00bb durch: Senke die Schwierigkeit dieser Probe um 1.",
-                "flavor_text": "Die Sonne wird mit jedem Tag hei\u00dfer\u2026 vielleicht hast du nicht genug Zeit, um alle zu retten. 2C-OES187 hat bereits die Flugrouten zu den drei gr\u00f6\u00dften Bev\u00f6lkerungszentren im Sonnensystem berechnet, aber du musst entscheiden, wem du zuerst helfen willst.",
-                "traits": null,
-                "subtitle": null
+                "text": "<free> Pendant un test de comp\u00e9tence, barrez 1 trait sous la mention <br>\u00ab Souvenirs \u00bb de votre investigateur et diminuez la difficult\u00e9 de ce test de 1.",
+                "flavor_text": "Le soleil devient chaque jour plus instable\u2026 Vous n'aurez peut-\u00eatre pas assez de temps pour sauver tout le monde. K2-PS187 a pr\u00e9par\u00e9 les trajectoires vers les trois principales colonies du syst\u00e8me solaire, mais vous allez devoir d\u00e9cider lesquelles sauver en priorit\u00e9.",
+                "subtitle": null,
+                "traits": null
             },
             "back": {
                 "name": "Soleil",
-                "traits": "Soleil.",
-                "text": "<rev> Mettez ce lieu en jeu.\n<for> Sobald du diesen Ort betrittst: Du wirst sofort <b>get\u00f6tet</b>.",
-                "flavor_text": "Die Sonne strahlt mit unvergleichlicher Intensit\u00e4t am Nachthimmel. In ihrem Kampf um Aufmerksamkeit besiegt sie jeden, der sie herausfordert."
+                "text": "<rev> Mettez ce lieu en jeu.\n<for> Apr\u00e8s \u00eatre entr\u00e9 dans ce lieu : vous \u00eates imm\u00e9diatement <b>tu\u00e9.</b>",
+                "flavor_text": "Le soleil brille dans l'espace avec une intensit\u00e9 in\u00e9gal\u00e9e, d\u00e9fiant les autres astres dans une bataille f\u00e9roce pour attirer l'attention.",
+                "traits": "Soleil."
             }
         },
         "dae67fb9-a56a-437d-8dbd-9938071aa74e": {
             "name": "Soleil Rouge",
             "front": {
                 "name": "<name>",
-                "text": "<free> Streiche w\u00e4hrend einer Fertigkeitsprobe 1 deiner \u00ab Souvenirs \u00bb durch: Senke die Schwierigkeit dieser Probe um 1.",
-                "flavor_text": "Sonnenst\u00fcrme und radioaktive Emissionen sind viel h\u00e4ufiger als die erwarteten Fluktuationen. Trotz der immer gef\u00e4hrlicher werdenden Umgebung l\u00e4sst du dich nicht von deiner Aufgabe abbringen, die Zukunft der Menschheit zu retten.",
-                "traits": null,
-                "subtitle": null
+                "text": "<free> Pendant un test de comp\u00e9tence, barrez 1 trait sous la mention <br>\u00ab Souvenirs \u00bb de votre investigateur et diminuez la difficult\u00e9 de ce test de 1.",
+                "flavor_text": "La fr\u00e9quence des \u00e9ruptions solaires et des \u00e9missions \u00e9lectromagn\u00e9tiques ont augment\u00e9 au-del\u00e0 des fluctuations pr\u00e9vues. Malgr\u00e9 un syst\u00e8me solaire de plus en plus dangereux, vous poursuivez votre qu\u00eate pour sauver l'avenir de l'humanit\u00e9.",
+                "subtitle": null,
+                "traits": null
             },
             "back": {
                 "name": "Disparition du Soleil",
-                "traits": null,
-                "text": "Mische das beiseitegelegt Begegnungsset <i>Hasturs Blick</i> zusammen mit dem Begegnungs-Ablagestapel in das Begegnungsdeck. Dieses Begegnungsset kann an folgendem Symbol erkannt werden:\n<center><image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Begegnungsset-Symbole\\Hasturs Blick.png\" 0.25in>\n\n",
-                "flavor_text": "Monate sind vergangen, seit du aufgebrochen bist, um die Kolonien zu retten. Du bist zwischen den Planeten gereist und hast dabei viele seltsame und interessante Leute kennengelernt. Manche von ihnen waren hilfreich und haben dir dabei geholfen, mit der Technologie der Zukunft zurechtzukommen. Manche haben dir den richtigen Weg gewiesen. Die meisten allerdings waren misstrauisch und vorsichtig, weil man dir deine Vergangenheit leider immer noch deutlich ansieht.\nDie Kolonien der Menschheit suchen eilig nach einer M\u00f6glichkeit, die Explosion irgendwie zu \u00fcberleben. Viele haben beschlossen, ihre Raumschiffe in den interstellaren Raum zu schicken, obwohl die aktuellen Antriebe bei weitem nicht genug Energie besitzen, um der Gefahr rechtzeitig zu entkommen. Die meisten Kolonisten aber haben sich mit dem Ende abgefunden und beschlossen, das Beste aus den letzten Jahren der Menschheit zu machen."
+                "text": "M\u00e9langez la pile de d\u00e9fausse Rencontre et le set de rencontre <br> <i>Regard d'Hastur</i> mis de c\u00f4t\u00e9 dans le deck Rencontre.<size 15> \n\n</size>\n <center><size 120><image src=\".\\images\\Hastur_s Gaze.png\"></size>",
+                "flavor_text": "Des mois se sont \u00e9coul\u00e9s depuis que vous avez commenc\u00e9 votre p\u00e9riple pour sauver les diff\u00e9rentes colonies. Vous avez voyag\u00e9 de plan\u00e8te en plan\u00e8te et fait de nombreuses rencontres. Certaines ont \u00e9t\u00e9 \u00e9tranges, d'autres se sont av\u00e9r\u00e9es int\u00e9ressantes et utiles, vous aidant ainsi \u00e0 comprendre les technologies n\u00e9cessaires \u00e0 votre projet et \u00e0 vous orienter dans la bonne direction. Cependant, dans la plupart des cas, vous avez \u00e9t\u00e9 consid\u00e9r\u00e9 avec suspicion et m\u00e9fiance \u00e0 cause de votre pass\u00e9 que vous devez malheureusement porter sur vos \u00e9paules.\nLes colonies humaines se d\u00e9m\u00e8nent pour tenter de survivre \u00e0 l'explosion. Certains colons ont d\u00e9cid\u00e9 de s'enfuir dans l'espace, au-del\u00e0 du syst\u00e8me solaire, \u00e0 bord de leurs vaisseaux spatiaux dans l'espoir d'\u00e9chapper \u00e0 la supernova, m\u00eame si vous savez - et eux aussi - que la g\u00e9n\u00e9ration actuelle de vaisseaux n'est pas capable d'atteindre la vitesse n\u00e9cessaire pour sortir \u00e0 temps de la zone meurtri\u00e8re. La majorit\u00e9 d'entre eux se savent condamn\u00e9s et s'efforcent de tirer le meilleur parti des derni\u00e8res ann\u00e9es qui restent \u00e0 l'humanit\u00e9.",
+                "traits": null
             }
         },
         "2b42477b-d26a-44f8-b295-01f332d63765": {
             "name": "Supernova",
             "front": {
                 "name": "<name>",
-                "text": "<free> Streiche w\u00e4hrend einer Fertigkeitsprobe 1 deiner \u00ab Souvenirs \u00bb durch: Senke die Schwierigkeit dieser Probe um 1.",
-                "flavor_text": "Das Ende ist nah. Der Kern der Sonne zerf\u00e4llt au\u00dfergew\u00f6hnlich schnell. Die mehreren Milliarden Jahre, von denen man dachte, dass sie der Menschheit noch bleiben, bevor ihr Stern erlischt und stirbt, sind zu wenigen Monaten geworden. Es bleibt nicht mehr viel Zeit, bevor deine ganze Welt ausgel\u00f6scht wird.",
-                "traits": null,
-                "subtitle": null
+                "text": "<free> Pendant un test de comp\u00e9tence, barrez 1 trait sous la mention <br>\u00ab Souvenirs \u00bb de votre investigateur et diminuez la difficult\u00e9 de ce test de 1.",
+                "flavor_text": "La fin est proche. Le noyau du soleil est en train de se d\u00e9composer \u00e0 une vitesse extraordinaire. Le milliard d'ann\u00e9es que les humains croyaient avoir avant que leur \u00e9toile ne s'\u00e9teigne et ne meure a \u00e9t\u00e9 r\u00e9duit \u00e0 seulement quelques mois. Il ne reste plus beaucoup de temps avant que votre monde ne soit an\u00e9anti.",
+                "subtitle": null,
+                "traits": null
             },
             "back": {
                 "name": "La Mort du Soleil",
-                "traits": null,
-                "text": "Jeder verbliebene Ermittler ist besiegt. (<resolution><b>A1</b>)",
-                "flavor_text": "\nDie Zeit ist abgelaufen. Du kannst keinen Schutz mehr vor der Apokalypse finden. Du kannst nur noch nach oben blicken und das majest\u00e4tische Schauspiel mitansehen."
+                "text": "Chaque investigateur restant est vaincu. (<resolution> <b>C1</b>)",
+                "flavor_text": "Vous n'avez plus assez de temps pour vous rendre dans un des abris avant l'arriv\u00e9e de l'apocalypse. Tout ce que vous pouvez faire est lever les yeux au ciel et regarder le spectacle majestueux.",
+                "traits": null
             }
         },
         "76e774e1-6a18-4517-a436-5f996e32615f": {
             "name": "Mati\u00e8re Noire",
             "front": {
                 "name": "<name>",
-                "text": "<for> Wenn 3 oder mehr horreur auf einem Ort liegen: Entferne jenen Ort aus dem Spiel. Alle Ermittler an jenem Ort sind besiegt. Alle Gegner an jenem Ort bewegen sich an den Ort mit den meisten Hinweisen.\n<for> Wenn alle Ermittler aufgegeben haben oder besiegt wurden: R\u00fccke vor.",
-                "flavor_text": "Tassilda von ihrem Thron zu zwingen hat die bevorstehende Supernova nur verz\u00f6gert und ihre Aufmerksamkeit auf die Kolonien gelenkt. Sie will die Zerst\u00f6rung des Sonnensystems in ihre eigenen H\u00e4nde nehmen. Du musst sie aufhalten, bevor der Wahnsinn alles verschlingt!",
-                "traits": null,
-                "subtitle": null
+                "text": "<for> Quand un lieu a 3 horreurs ou plus sur lui : retirez-le de la partie. Chaque investigateur dans ce lieu est vaincu. D\u00e9placez tous les ennemis de ce lieu vers le lieu qui contient le plus d'indices.\n<for> Si tous les investigateurs ont abandonn\u00e9 ou \u00e9t\u00e9 vaincus, avancez. (Continuez \u00e0 ajouter des fatalit\u00e9s \u00e0 cette intrigue.)",
+                "flavor_text": "Le renoncement forc\u00e9 de Tassilda au tr\u00f4ne n'a fait que retarder la supernova et a attir\u00e9 son attention sur les colonies. Elle a d\u00e9cid\u00e9 de s'occuper elle-m\u00eame de la destruction du syst\u00e8me solaire. Vous devez l'arr\u00eater avant que sa folie ne consume tout !",
+                "subtitle": null,
+                "traits": null
             },
             "back": {
                 "name": "Ombres et T\u00e9n\u00e8bres",
-                "traits": null,
-                "text": "Jeder Ermittler wird <b>get\u00f6tet</b>. Die Ermittler haben die Kampagne verloren. Es gibt keine Aufl\u00f6sung.\n\n",
-                "flavor_text": "Eine dunkle Wolke bedeckt die ganze Materie des Sonnensystems und l\u00e4sst die verbliebenen Kolonien in Wahnsinn und Chaos verfallen. Nachdem niemand Tassilda aufhalten konnte, beendet sie ihr Werk mit Sol. Ein gl\u00e4nzendes Licht scheint durch das ganze Sonnensystem. Die verheerende Supernova strahlt durch die Leere, vernichtet alle ungesch\u00fctzten Lebensformen, entrei\u00dft allen Himmelsk\u00f6rpern ihre wertvolle Atmosph\u00e4re und l\u00e4sst sie als ver\u00f6dete Welten zur\u00fcck.\nTrotz all deiner Anstrengungen konntest du deine Schuld nicht wiedergutmachen und den Untergang der Menschheit nicht verhindern. Im letzten Augenblick deines Lebens erscheint eine Gestalt in einem zerschlissenen gelben Kleid vor dir im Licht. Du kniest vor ihr nieder und greifst ihre Hand, als Tassilda dich im finsteren Reich Carcosa willkommen hei\u00dft."
+                "text": "Chaque investigateur est <b>tu\u00e9.</b>\nLes investigateurs ont perdu la campagne.\nIl n'y a aucune conclusion.",
+                "flavor_text": "Un nuage sombre recouvre tout le syst\u00e8me solaire, faisant basculer les colonies restantes dans la folie et le chaos. Souhaitant en finir, Tassilda a d\u00e9cid\u00e9 de d\u00e9truire le soleil imm\u00e9diatement. En un instant, une lumi\u00e8re aveuglante rayonne \u00e0 travers tout le syst\u00e8me solaire. La supernova cataclysmique se propage dans le vide, an\u00e9antissant toute vie et d\u00e9pouillant tous les corps c\u00e9lestes de leur pr\u00e9cieuse atmosph\u00e8re, ne laissant plus que des mondes st\u00e9riles dans son sillage.\nMalgr\u00e9 tous vos efforts, vous n'avez pas pu vous racheter et emp\u00eacher la disparition de l'humanit\u00e9. Dans vos derniers instants, une silhouette v\u00eatue d'une robe jaune en lambeaux se mat\u00e9rialise devant vous, dans la lumi\u00e8re. Vous vous agenouillez devant elle et attrapez sa main. Tassilda vous accueille dans le sombre royaume de Carcosa.",
+                "traits": null
             }
         },
         "15b021b6-d579-4dff-be3b-bc5f6c1e784b": {
             "name": "Fin des Temps",
             "front": {
                 "name": "<name>",
-                "text": "<act> : <b>Analyse.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das Symbol deines Ortes besitzt, und ziehe sie. M\u00e9langez le deck Analyse.\n<obj> Finde und erf\u00fclle so viele Ermittlungsziele wie m\u00f6glich, bevor die Supernova alles vernichtet. Wenn jeder unbesiegte Ermittler aufgegeben hat, r\u00fccke vor.",
-                "flavor_text": "Du reist mit deinen Gef\u00e4hrten an Bord der Tatterdemalion durch das Sonnensystem. Ihr sucht eine M\u00f6glichkeit, zu \u00fcberleben, und so viele wie m\u00f6glich vor dem unausweichlichen Untergang zu retten.",
-                "traits": null,
-                "subtitle": null
+                "text": "<act> : <b>Analyse.</b> Cherchez la carte la plus proche du dessus du deck Analyse avec une ic\u00f4ne identique \u00e0 votre lieu et piochez-la. M\u00e9langez le deck Analyse.\n<obj> Trouvez et remplissez autant d'objectifs que possible avant l'arriv\u00e9e de la supernova. Si chaque investigateur non-vaincu a abandonn\u00e9, avancez.",
+                "flavor_text": "\u00c0 bord de L'\u00c9pouvantail, vous et vos compagnons traversez le syst\u00e8me solaire pour trouver un moyen de survivre \u00e0 l'explosion et de sauver autant de monde que possible avant la fin in\u00e9luctable",
+                "subtitle": null,
+                "traits": null
             },
             "back": {
                 "name": "L'Attente...",
-                "traits": null,
-                "text": "(<resolution><b>A1</b>)\n\n\n",
-                "flavor_text": "Du gehst in einen der Schutzr\u00e4ume und betest, dass die Pl\u00e4ne, mit denen die Beh\u00f6rden die Explosion \u00fcberleben wollen, erfolgreich sein werden."
+                "text": "(<resolution> <b>C1</b>)\n\n\n",
+                "flavor_text": "Vous vous r\u00e9unissez avec les habitants des colonies \u00e0 l'int\u00e9rieur des abris souterrains et priez pour que tous les plans \u00e9labor\u00e9s pour r\u00e9sister \u00e0 l'explosion r\u00e9ussissent.",
+                "traits": null
             }
         },
         "4816ac22-8c77-4f3e-ae6f-fb14d4a409ea": {
             "name": "Le R\u00e9veil de Tassilda",
             "front": {
                 "name": "<name>",
-                "text": "<act> : <b>Analyse.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das Symbol deines Ortes besitzt, und ziehe sie. M\u00e9langez le deck Analyse.\n<act> Platziere 1 deiner Hinweise auf den Ort mit den meisten Hinweisen: <b>Discussion.</b> Du bittest die Kolonien um Hilfe. F\u00fcge Tassilda X d\u00e9g\u00e2t zu. X ist die Anzahl der Storyvorteilskarten im Siegpunktestapel.\n<obj> Wenn Tassilda besiegt wurde, r\u00fccke vor.",
-                "flavor_text": "Wahnsinn und Chaos breiten sich im Weltraum aus. Du musst Tassilda um jeden Preis aufhalten.",
-                "traits": null,
-                "subtitle": null
+                "text": "<act> : <b>Analyse.</b> Cherchez la carte la plus proche du dessus du deck Analyse avec une ic\u00f4ne identique \u00e0 votre lieu et piochez-la. M\u00e9langez le deck Analyse.\n<act> : <b>Discussion</b>. Obtenez de l'aide des colonies. Placez 1 de vos indices sur le lieu qui contient le plus d'indices : infligez X d\u00e9g\u00e2ts \u00e0 Tassilda. X \u00e9tant le nombre de soutiens d'histoire dans la pile de victoire.\n<obj> Quand Tassilda est vaincue, avancez.",
+                "flavor_text": "La folie et le chaos se sont r\u00e9pandus dans l'espace. Vous devez arr\u00eater Tassilda \u00e0 tout prix.",
+                "subtitle": null,
+                "traits": null
             },
             "back": {
                 "name": "Conclusion",
-                "traits": null,
-                "text": "<b>Falls Hope, Yuggoth und New Brooklyn aus dem Spiel entfernt wurden:</b>\n<blockquote>Du hast die sagenumwobene Prinzessin von Carcosa endlich bezwungen \u2013 aber zu welchem Preis?</blockquote>\nR\u00fccke zu Agenda 1d vor (die R\u00fcckseite der Agenda \u00ab Dunkle Materie \u00bb).\n<hr> <b>Sinon :</b>\n<blockquote>Es ist endlich vorbei. Der dunkle Schleier, der von Tassilda \u00fcber das Sonnensystem gelegt wurde, verfl\u00fcchtigt sich im Weltall, und die Sonne scheint wieder.</blockquote>\n(<resolution><b>A2</b>)",
-                "flavor_text": null
+                "text": "<b>Si Espoir, Yuggoth et New-Brooklyn ont \u00e9t\u00e9 retir\u00e9s du <br>jeu :</b>\n<blockquote>Vous avez finalement vaincu la l\u00e9gendaire princesse de Carcosa. Mais \u00e0 quel prix ?</blockquote>\nAvancez \u00e0 l'Intrigue 1d. (Lisez le dos de la carte Intrigue Mati\u00e8re Noire.)<size 20><hr>\n</size>\n<b>Sinon :</b>\n<blockquote>Tout est enfin termin\u00e9\u2026 Le voile sombre recouvrant le syst\u00e8me solaire, laiss\u00e9 par le sillage de Tassilda, se dissipe dans l'espace alors que le soleil brille \u00e0 nouveau\u2026</blockquote>\n(<resolution> <b>C2</b>)",
+                "flavor_text": null,
+                "traits": null
             }
         },
         "50028b29-6b5a-4b7c-b4e8-151c97f61322": {
-            "name": "Die Tatterdemalion",
+            "name": "L'\u00c9pouvantail",
             "front": {
-                "name": null,
-                "text": "<name> ist mit dem Ort verbunden, an den sie angeh\u00e4ngt ist, und umgekehrt. Du musst w\u00e4hrend deines Zuges keine Aktion ausgeben, um dich zwischen diesen Orten zu bewegen.\n<act> : H\u00e4nge die Tatterdemalion an einen beliebigen Ort an. Ermittler an jedem Ort k\u00f6nnen diese F\u00e4higkeit ausl\u00f6sen. (Nur einmal pro Runde.) ",
+                "name": "<name>",
+                "text": "L'\u00c9pouvantail est connexe au lieu qui lui est attach\u00e9 et vice versa. Se d\u00e9placer depuis ou vers L'\u00c9pouvantail ne co\u00fbte pas d'action (<free>).\n<act> : Attachez L'\u00c9pouvantail \u00e0 n'importe quel lieu. Les investigateurs peuvent activer sa capacit\u00e9 depuis n'importe quel lieu. (Limite d'une fois par investigateur et par round.)",
                 "flavor_text": "",
-                "traits": "Raumschiff.",
-                "subtitle": null
+                "traits": "Vaisseau Spatial."
             },
             "back": {
-                "traits": "Raumschiff.",
+                "name": "<name>",
                 "text": "",
-                "flavor_text": "<valign>Die Tatterdemalion ist gro\u00df, klobig und langsam. Ihre Navigation und die meisten internen Systeme werden vom kybernetischen Supercomputer 2C-OES187 kontrolliert.",
-                "name": "<name>"
+                "flavor_text": "<valign>L'\u00c9pouvantail est gigantesque, lourd et peu rapide. Le pilotage et la gestion de la plupart des syst\u00e8mes internes sont contr\u00f4l\u00e9s par le superordinateur cybern\u00e9tique K2-PS187.",
+                "traits": "Vaisseau Spatial."
             }
         },
         "5511e747-588c-4eb4-9f89-81603a77de3f": {
             "name": "New-Brooklyn",
             "front": {
                 "name": "<name>",
-                "text": "<reaction> Am Ende deines Zuges: Heile 1 d\u00e9g\u00e2t.\n<act> : <b>Abandon.</b> Du schlie\u00dft dich wieder dem Vereinten Kolonienbund an und versuchst, ein normales Leben zwischen den Sternen zu f\u00fchren.",
-                "flavor_text": "Der VKB besteht aus ehemaligen Bergbaukolonien und Forschungsstationen und hat nur ein Ziel: das \u00dcberleben der Menschheit um jeden Preis zu sichern.",
-                "traits": "Colonie. Ceinture d'Ast\u00e9ro\u00efdes.",
-                "subtitle": "Bev\u00f6lkerung: 4034 Menschen"
+                "text": "<reaction> \u00c0 la fin de votre tour : soignez 1 d\u00e9g\u00e2t.\n<act> : <b>Abandon.</b> Rejoignez la Coalition des Colonies Unies et essayez de vivre une vie normale parmi les \u00e9toiles.",
+                "flavor_text": "Unifiant l'ensemble des avant-postes miniers et des stations spatiales scientifiques, la CCU n'a qu'un seul objectif : la survie de l'humanit\u00e9, et ce quel qu'en soit le prix !",
+                "subtitle": "Population : 4 034 Humains",
+                "traits": "Colonie. Ceinture d'Ast\u00e9ro\u00efdes."
             },
             "back": {
                 "name": "Ceinture d'Ast\u00e9ro\u00efdes",
-                "traits": "Ceinture d'Ast\u00e9ro\u00efdes.",
                 "text": "",
-                "flavor_text": "<valign>Der Vereinte Kolonienbund bewohnt den Asteroideng\u00fcrtel zwischen Mars und Jupiter. Hier wurde die Tatterdemalion gebaut, bevor sie von den Kultisten \u00fcbernommen wurde."
+                "flavor_text": "<valign>La Coalition des Colonies Unies se trouve dans la ceinture d'ast\u00e9ro\u00efdes entre les plan\u00e8tes Mars et Jupiter. C'est l\u00e0 que L'\u00c9pouvantail a \u00e9t\u00e9 construit, avant d'\u00eatre transform\u00e9 en un vaisseau cultiste.",
+                "subtitle": "Un Spectacle Extraordinaire",
+                "traits": "Ceinture d'Ast\u00e9ro\u00efdes."
             }
         },
         "51e8568c-948d-4da0-a802-1810c0764500": {
             "name": "Espoir",
             "front": {
                 "name": "<name>",
-                "text": "<reaction> Am Ende deines Zuges: Heile 1 horreur.\n<act> : <b>Abandon.</b> Du l\u00e4sst dich im letzten Bollwerk der Menschheit nieder und hoffst auf das Beste.",
-                "flavor_text": "Das erste Geb\u00e4ude der Kolonie wurde im Jahr 2050 errichtet, kurz nachdem die Endzeit begann. Trotz der unwirtlichen Bedingungen wuchs die Kolonie langsam, bis sie zu der Gro\u00dfstadt wurde, die sie heute ist.",
-                "traits": "Colonie. Mars.",
-                "subtitle": "Bev\u00f6lkerung: 138021 Menschen"
+                "text": "<reaction> \u00c0 la fin de votre tour : soignez 1 horreur.\n<act> : <b>Abandon.</b> Installez-vous dans le dernier bastion de l'humanit\u00e9 et vivez heureux.",
+                "flavor_text": "La premi\u00e8re base de la colonie a \u00e9t\u00e9 construite en 2050, peu de temps apr\u00e8s le d\u00e9but de la Fin des Temps sur Terre. Malgr\u00e9 les conditions difficiles, la colonie s'est lentement d\u00e9velopp\u00e9e pour devenir la grande m\u00e9tropole qu'elle est aujourd'hui.",
+                "subtitle": "Population : 138 021 Humains",
+                "traits": "Colonie. Mars."
             },
             "back": {
                 "name": "Mars",
-                "traits": "Mars.",
                 "text": "",
-                "flavor_text": "<valign>Viele sind auf Schiffen der Arche-Klasse auf den Mars geflohen, als die Gro\u00dfen Alten die Erde zerst\u00f6rten. Heute leben die meisten \u00fcberlebenden Menschen hier."
+                "flavor_text": "<valign>Beaucoup sont venus sur Mars \u00e0 bord de vaisseaux de classe Arche lorsque les Grands Anciens ont d\u00e9truit la Terre. Maintenant, c'est ici que vit la plus grande partie de l'humanit\u00e9.",
+                "subtitle": "Une Lueur d'Espoir",
+                "traits": "Mars."
             }
         },
         "0b06f865-b76d-40e1-a4a0-535c6590df76": {
             "name": "Yuggoth",
             "front": {
                 "name": "<name>",
-                "text": "<for> Nachdem Yuggoth enth\u00fcllt wurde: Der beiseitegelegte Gegner Mi-Go-Wache erscheint an diesem Ort.\nSolange sich ein Ermittler an einem <t>Pluto</t>-Ort oder einem daran angeh\u00e4ngten <t>Raumschiff</t>-Ort befindet, muss er w\u00e4hrend seines Zuges bei jeder Fertigkeitsprobe einen zus\u00e4tzlichen Chaosmarker enth\u00fcllen.",
-                "flavor_text": " Die Sonne scheint hier nicht heller als die anderen Sterne, aber die seltsamen pilzartigen Mi-Go brauchen kein Licht.",
-                "traits": "Colonie. Pluton.",
-                "subtitle": "Bev\u00f6lkerung: 23615 Mi-Go",
-                "victory": "Victoire 1."
+                "text": "<for> Apr\u00e8s avoir r\u00e9v\u00e9l\u00e9 Yuggoth : g\u00e9n\u00e9rez la Sentinelle Mi-Go mise de c\u00f4t\u00e9 dans ce lieu.\nLors de votre tour, si vous \u00eates dans un lieu <t>Pluton</t> ou dans un lieu <t>Vaisseau Spatial</t> attach\u00e9 \u00e0 un lieu <t>Pluton</t>, r\u00e9v\u00e9lez et r\u00e9solvez un pion Chaos suppl\u00e9mentaire lors des tests de comp\u00e9tence que vous effectuez.",
+                "flavor_text": "Le soleil n'y brille pas plus qu'une \u00e9toile ordinaire sur Terre, mais l'\u00e9trange esp\u00e8ce fongique Mi-Go n'a pas besoin<br> de lumi\u00e8re.",
+                "subtitle": "Population : 23 615 Mi-Go",
+                "victory": "Victoire 1.",
+                "traits": "Colonie. Pluton."
             },
             "back": {
                 "name": "Pluton... ?",
-                "traits": "Pluton.",
                 "text": "",
-                "flavor_text": "<valign>Auf bestimmten Frequenzen kann man seltsame Klickger\u00e4usche empfangen, die von der kahlen Oberfl\u00e4che dieses Zwergplaneten stammen. Manche Wissenschaftler glauben deshalb, dass es hier Leben geben k\u00f6nnte."
+                "flavor_text": "<valign>D'\u00e9tranges sons \u00e9manant de cette surface \u00e0 l'apparence st\u00e9rile peuvent \u00eatres entendus sur des fr\u00e9quences sp\u00e9cifiques. Les scientifiques pensent qu'il pourrait y avoir de la vie sur cette plan\u00e8te naine.",
+                "subtitle": "Des Signaux Myst\u00e9rieux",
+                "traits": "Pluton."
             }
         },
         "51470951-6ccc-49c6-af6e-8650f01afe54": {
             "name": "Tassilda",
             "front": {
                 "name": "<unique><name>",
-                "text": "Massif. Riposte.\nTassilda bekommt +1<per_large> Ausdauer f\u00fcr jeden Z\u00e4hlstrich unter \u00ab Apocalypse Imminente \u00bb im Kampagnenlogbuch.\n<for> Nachdem eine beliebige Menge Verderben auf eine Karte platziert wurde: Platziere f\u00fcr jeden platzierten Verderbensmarker 1 horreur aus dem Markervorrat auf Tassildas Ort und jeden verbundenen Ort.",
-                "flavor_text": "Mein Vater wird nicht so h\u00f6flich und gn\u00e4dig zu euch sein.",
-                "traits": "Grand Ancien. \u00c9lite.",
-                "subtitle": "Kronprinzessin von Carcosa"
+                "text": "Massif. Riposte.\nPour chaque trait sous la mention \u00ab Apocalypse <br>Imminente \u00bb dans votre Carnet de Campagne, Tassilda gagne +1<per_large> point de vie.\n<for> Apr\u00e8s avoir plac\u00e9 n'importe quel nombre de fatalit\u00e9s sur une carte : pour chaque fatalit\u00e9 plac\u00e9e, placez 1 pion Horreur sur le lieu de Tassilda et sur chaque lieu connexe.",
+                "flavor_text": "Mon p\u00e8re ne vous fera aucune faveur.",
+                "subtitle": "Princesse Royale de Carcosa",
+                "victory": "Victory 1.",
+                "traits": "Grand Ancien. \u00c9lite."
             },
             "back": {}
         },
@@ -3902,27 +3952,27 @@
             "name": "Le Cassilda",
             "front": {
                 "name": "<name>",
-                "text": "<name> ist mit dem Ort verbunden, an den sie angeh\u00e4ngt ist, und umgekehrt. Du musst w\u00e4hrend deines Zuges keine Aktion ausgeben, um dich zwischen diesen Orten zu bewegen.\n<free> Gib 2 Ressourcen aus: H\u00e4nge die Cassilda an einen beliebigen Ort an. Ermittler an jedem Ort k\u00f6nnen diese F\u00e4higkeit ausl\u00f6sen. (Nur einmal pro Runde.) ",
+                "text": "Le Cassilda est connexe au lieu qui lui est attach\u00e9 et vice versa. Se d\u00e9placer depuis ou vers Le Cassilda ne co\u00fbte pas d'action (<free>).\n<free> D\u00e9pensez 2 ressources : attachez Le Cassilda \u00e0 n'importe quel lieu. Les investigateurs depuis n'importe quel lieu peuvent activer sa capacit\u00e9. (Limite d'une fois par investigateur et par round.)",
                 "flavor_text": "",
-                "traits": "Vaisseau Spatial.",
-                "subtitle": null
+                "subtitle": null,
+                "traits": "Vaisseau Spatial."
             },
             "back": {
-                "traits": "Vaisseau Spatial.",
+                "name": "<name>",
                 "text": "",
-                "flavor_text": "<valign>Dieses experimentelle Raumschiff besitzt einen energiehungrigen Antimateriereaktor, durch den es sehr schnell beschleunigen und abbremsen kann. Es wurde f\u00fcr h\u00f6chstm\u00f6gliche Geschwindigkeit und Man\u00f6vrierbarkeit konstruiert.",
-                "name": "<name>"
+                "flavor_text": "<valign>Ce vaisseau exp\u00e9rimental poss\u00e8de un moteur antimati\u00e8re extr\u00eamement puissant, lui donnant des capacit\u00e9s d'acc\u00e9l\u00e9ration et de d\u00e9c\u00e9l\u00e9ration extr\u00eame et lui permettant de maximiser sa vitesse et sa maniabilit\u00e9.",
+                "traits": "Vaisseau Spatial."
             }
         },
         "a2943316-28d0-4b2f-a186-91ffa3d98874": {
             "name": "Garde Yithien",
             "front": {
                 "name": "<name>",
-                "text": "<for> Nachdem du dem Yith-<br>W\u00e4chter eine beliebige Menge d\u00e9g\u00e2t zugef\u00fcgt hast: W\u00e4hle 1 Karte von deiner Hand und lege sie.",
-                "flavor_text": "Es ist nur wenig \u00fcber die Gro\u00dfe Rasse von Yith bekannt. Ger\u00fcchten zufolge sollen sie mit ihren hochentwickelten Gehirnen dazu in der Lage sein, ihren Geist durch Raum und Zeit zu projizieren.",
-                "traits": "Monstre. Yithien.",
+                "text": "<for> Apr\u00e8s avoir inflig\u00e9 n'importe quelle quantit\u00e9 de d\u00e9g\u00e2ts au Garde Yithien : choisissez et d\u00e9faussez 1 carte de votre main.",
+                "flavor_text": "On sait peu de choses sur la Grande Race de Yith. La rumeur dit qu'ils sont capable de projeter leur esprit \u00e0 travers le temps et l'espace.",
+                "subtitle": null,
                 "victory": "Victoire 1.",
-                "subtitle": null
+                "traits": "Monstre. Yithien."
             },
             "back": {}
         },
@@ -3930,11 +3980,11 @@
             "name": "Sentinelle Mi-Go",
             "front": {
                 "name": "<name>",
-                "text": "Distant. Chasseur.\n<for> Nachdem du einen <skull>-, <cultist>-, <tablet>- oder <elder_thing>-<br>Chaosmarker enth\u00fcllt hast, w\u00e4hrend du dich am Ort dieses Gegners befindest: Bewege 1 deiner Hinweise auf diesen Gegner.\n<for> Sobald du diesen Gegner besiegst: \u00dcbernimm die Kontrolle \u00fcber alle Hinweise, die auf ihm liegen.",
+                "text": "Distant. Chasseur.\n<for> Apr\u00e8s avoir r\u00e9v\u00e9l\u00e9 un pion <skull>, <cultist>, <tablet> ou<elder_thing> dans le lieu de la Sentinelle Mi-Go : d\u00e9placez 1 de vos indices sur la Sentinelle Mi-Go.\n<for> Quand vous vainquez la Sentinelle Mi-Go : prenez le contr\u00f4le de tous ses indices.",
                 "flavor_text": "",
-                "traits": "Monstre. Mi-Go.",
                 "subtitle": null,
-                "victory": "Victoire 1."
+                "victory": "Victoire 1.",
+                "traits": "Monstre. Mi-Go."
             },
             "back": {}
         },
@@ -3942,11 +3992,11 @@
             "name": "Domaag T'eel",
             "front": {
                 "name": "<unique><name>",
-                "text": "Massif.\n<for> Nachdem du Domaag T\u2019eel besiegt hast: Du erh\u00e4ltst 3<per_large> Hinweise aus dem Markervorrat.",
-                "flavor_text": "Ein gigantisches au\u00dferirdisches Wesen, das die Mi-Go \u00fcber Jahrhunderte auf dem Mond gez\u00fcchtet hatten, um die R\u00fcckkehr der Gro\u00dfen Alten zu verz\u00f6gern. Als die irdischen Kultisten es befreiten, ver\u00e4nderten sie die Umlaufbahn des Mondes \u2013 und erweckten so die Gro\u00dfen Alten.\n\n",
-                "traits": "Grand Ancien. Abomination. \u00c9lite.",
-                "subtitle": "Der Fehler, durch den die Welt endete",
-                "victory": "Victoire 1."
+                "text": "Massif.\n<for> Apr\u00e8s avoir vaincu Domaag T'eel : gagnez <br>3<per_large> indices pris dans la r\u00e9serve de pions.",
+                "flavor_text": "<size 58>Cette cr\u00e9ature gigantesque a \u00e9t\u00e9 d\u00e9velopp\u00e9e sur la lune par les Mi-Go dans le but de combattre les Grands Anciens. Lorsque les cultistes terriens l'ont lib\u00e9r\u00e9e, la lune a commenc\u00e9 \u00e0 changer d'orbite, r\u00e9veillant ceux qui auraient d\u00fb rester endormis.",
+                "subtitle": "L'Erreur qui a D\u00e9truit notre Monde",
+                "victory": "Victoire 1.",
+                "traits": "Grand Ancien. Abomination. \u00c9lite."
             },
             "back": {}
         },
@@ -3954,48 +4004,51 @@
             "name": "Terre",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Mettez ce lieu en jeu. \u00dcberpr\u00fcfe das Kampagnenlogbuch. Jeder Ermittler, der <i>von der Erde korrumpiert wurde</i>, nimmt 2 d\u00e9g\u00e2t.\n<for> Sobald du diesen Ort betrittst: Du wirst sofort <b>wahnsinnig</b>.",
+                "text": "<rev> Mettez ce lieu en jeu. V\u00e9rifiez votre Carnet de Campagne. Chaque investigateur qui <i>a \u00e9t\u00e9 corrompu par la Terre</i> subit 2 d\u00e9g\u00e2ts.\n<for> Apr\u00e8s \u00eatre entr\u00e9 dans ce lieu : vous devenez imm\u00e9diatement <b>d\u00e9ment.</b>",
                 "flavor_text": "",
-                "traits": "Terre.",
-                "subtitle": "Die Sterne standen richtig",
-                "victory": "Victoire 2."
+                "subtitle": "Les Astres \u00c9taient Favorables",
+                "victory": "Victoire 2.",
+                "traits": "Terre."
             },
             "back": {
-                "name": "<name>"
+                "name": "<name>",
+                "text": ""
             }
         },
         "f0b4e9bf-4b5b-4047-8d6b-8da2820eed1f": {
             "name": "Mont Sina\u00ef",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Mettez ce lieu en jeu.\n<for> Sobald du an diesem Ort scannen w\u00fcrdest: Effectuez un test de <agi> (1). Diese Probe bekommt +2 Schwierigkeit f\u00fcr jeden Hinweis an diesem Ort. Falls die Probe misslingt, heben den Scan auf.",
-                "flavor_text": "Ein wissenschaftliches Hochsicherheitslabor, in dem hunderte Kolonisten arbeiten und leben.",
-                "traits": "Ceinture d'Ast\u00e9ro\u00efdes.",
+                "text": "<rev> Mettez ce lieu en jeu.\n<for> Quand vous devriez analyser au Mont <br>Sina\u00ef : Effectuez un test de <agi> (1). La difficult\u00e9 de ce test augmente de 2 pour chaque indice sur ce lieu. En cas d'\u00e9chec, annulez l'analyse.",
+                "flavor_text": "Un laboratoire scientifique de haute s\u00e9curit\u00e9 avec une \u00e9quipe d'une centaine de colons.",
                 "subtitle": null,
-                "victory": "Victoire 1."
+                "victory": "Victoire 1.",
+                "traits": "Ceinture d'Ast\u00e9ro\u00efdes."
             },
             "back": {
-                "name": "<name>"
+                "name": "<name>",
+                "text": ""
             }
         },
         "f0e28108-1c19-4389-ab9d-64599f7b3838": {
             "name": "Vaisseau Abandonn\u00e9",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Mettez ce lieu en jeu.\nAls zus\u00e4tzliche Kosten, um an diesem Ort zu scannen, musst du die oberste Karte des Begegnungsdecks<br> ziehen.",
-                "flavor_text": "Dieses verlassene Forschungsschiff treibt ziellos am Rand des Sonnensystems. Es gibt keine Anzeichen f\u00fcr Aktivit\u00e4ten jeglicher Art an Bord.",
-                "traits": "Vaisseau Spatial.",
-                "subtitle": null
+                "text": "<rev> Mettez ce lieu en jeu.\nEn tant que co\u00fbt suppl\u00e9mentaire pour analyser dans le Vaisseau Abandonn\u00e9, vous devez piocher la carte du dessus du deck Rencontre.",
+                "flavor_text": "Le navire de recherche flotte \u00e0 la d\u00e9rive dans la bordure ext\u00e9rieure du syst\u00e8me solaire. Il n'y a aucun signe d'activit\u00e9.",
+                "subtitle": null,
+                "traits": "Vaisseau Spatial."
             },
             "back": {
-                "name": "<name>"
+                "name": "<name>",
+                "text": ""
             }
         },
         "76b28543-c959-4e24-928c-b8b37717f223": {
             "name": "Ruines Martiennes",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Mettez ce lieu en jeu et g\u00e9n\u00e9rez le Garde Yithien mis de c\u00f4t\u00e9 dans ce lieu.\nVous ne pouvez pas analyser les <name> tant qu'il y a des ennemis redress\u00e9s dans ce lieu.",
+                "text": "<rev> Mettez ce lieu en jeu et g\u00e9n\u00e9rez le Garde Yithien mis de c\u00f4t\u00e9 dans ce lieu.\nVous ne pouvez pas analyser dans les <name> tant qu'il y a des ennemis redress\u00e9s dans ce lieu.",
                 "flavor_text": "D\u00e9couvertes \u00e0 la fin du 21e si\u00e8cle, les x\u00e9no-arch\u00e9ologues ont d\u00e9termin\u00e9 que ces ruines \u00e9taient d'origine yithienne.",
                 "subtitle": null,
                 "victory": "Victoire 1.",
@@ -4010,67 +4063,70 @@
             "name": "T\u00e9lescope Olympus",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Mettez ce lieu en jeu.\n<act><act> : <b>Enqu\u00eater.</b> W\u00e4hle einen beliebigen enth\u00fcllten Ort. Du ermittelst, als ob du dich am gew\u00e4hlten Ort bef\u00e4ndest.",
-                "flavor_text": "Seit die letzte Arche gestartet ist, hat das Teleskop keine Signale mehr von unserem Heimatplaneten empfangen.",
-                "traits": "Mars.",
-                "subtitle": null
+                "text": "<rev> Mettez ce lieu en jeu.\n<act><act> : <b>Enqu\u00eater.</b> Choisissez n'importe quel lieu r\u00e9v\u00e9l\u00e9. Enqu\u00eatez comme si vous \u00e9tiez dans ce lieu.",
+                "flavor_text": "Depuis que le dernier vaisseau Arche est parti, aucune communication en provenance de notre plan\u00e8te d'origine n'a \u00e9t\u00e9 re\u00e7ue.",
+                "subtitle": null,
+                "traits": "Mars."
             },
             "back": {
-                "name": "<name>"
+                "name": "<name>",
+                "text": ""
             }
         },
         "b5fcca09-60ec-44a7-876f-75764642ad42": {
             "name": "Laboratoire Lunaire",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Mettez ce lieu en jeu.\nSolange sich ein Hinweis an diesem Ort befindet, kannst du an diesem Ort nicht scannen.\n<for> Am Ende der Runde, falls ein <t>Raumschiff</t> an diesen Ort angeh\u00e4ngt ist: Effectuez un test den Ressourcenmarker aus dem Markervorrat auf diesen Ort (bis zu einem Maximum von 3). Falls danach 3 Ressourcen auf diesem Ort liegen, erscheint der beiseitegelegte Gegner Domaag T'eel an diesem Ort.",
+                "text": "<rev> Mettez ce lieu en jeu.\nVous ne pouvez pas analyser le Laboratoire Lunaire tant qu'il y a des indices sur lui.\n<for> \u00c0 la fin du round, s'il y a un <t>Vaisseau Spatial</t> attach\u00e9 \u00e0 ce lieu : placez 1 pion Ressource sur ce lieu (jusqu'\u00e0 un maximum de 3). S'il y a 3 pions Ressource sur lui, g\u00e9n\u00e9rez l'ennemi Domaag T'eel mis de c\u00f4t\u00e9 dans ce lieu.",
                 "flavor_text": "",
-                "traits": "Colonie. Lune.",
                 "subtitle": null,
-                "victory": "Victoire 1."
+                "victory": "Victoire 1.",
+                "traits": "Colonie. Lune."
             },
             "back": {
-                "name": "<name>"
+                "name": "<name>",
+                "text": ""
             }
         },
         "0599f5ae-7e2d-413b-82b4-a818eafcc1a6": {
             "name": "Seuil de Yuggoth",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Mettez ce lieu en jeu.\n<for> Sobald du an diesem Ort scannen w\u00fcrdest: Enth\u00fclle f\u00fcr jeden Hinweis an diesem Ort einen zuf\u00e4lligen Marker aus dem Chaosbeutel. Falls du dabei mindestens einen <skull>-, <cultist>-, <tablet>-, <elder_thing>- oder <auto_fail>-<br>Chaosmarker enth\u00fcllst, hebe den Scan auf und nimm 1 horreur.",
+                "text": "<rev> Mettez ce lieu en jeu.\n<for> Quand vous devriez analyser au Seuil de Yuggoth : r\u00e9v\u00e9lez un pion Chaos pris au hasard pour chaque indice sur lui. Si vous r\u00e9v\u00e9lez un pion <skull>, <cultist>, <tablet>, <elder_thing> ou<auto_fail>, annulez cette analyse et subissez 1 horreur \u00e0 la place.",
                 "flavor_text": "",
-                "traits": "Pluton.",
                 "subtitle": null,
-                "victory": "Victoire 1."
+                "victory": "Victoire 1.",
+                "traits": "Pluton."
             },
             "back": {
-                "name": "<name>"
+                "name": "<name>",
+                "text": ""
             }
         },
         "f776d4c4-2536-445f-823e-88b965619341": {
             "name": "Rituel du Soleil",
             "front": {
                 "name": "<name>",
-                "text": "<b>\u00dcberpr\u00fcfe das Kampagnenlogbuch. Falls <i>die Ermittler von der Abschw\u00f6rung des Throns wissen</i> :</b>\n<blockquote>Nach Monaten der Suche hast du endlich den Ort des Rituals gefunden \u2013 es ist die Sonne selbst. Wenn du dem ganzen Sonnensystem die Chance geben m\u00f6chtest, noch ein paar Jahrtausende zu gedeihen, bevor es verlassen werden muss, musst du dieses Ritual vollziehen.</blockquote>\nH\u00e4nge diese Karte an Sol an.\n<obj> Nur Ermittler an verbundenen Orten k\u00f6nnen als Gruppe 9<per_large> Hinweise ausgeben, um das Ritual zu vollziehen. Wenn das Ritual vollzogen wurde, entferne das Agendadeck und das Szenendeck aus dem Spiel, bringe die beiseitegelegten Agenda- und Szenenkarten \u00ab Dunkle Materie \u00bb und \u00ab Tassildas Erwachen \u00bb ins Spiel, und der beiseitegelegte Gegner Tassilda erscheint auf Sol.\nDie Kosten f\u00fcr das Ritual werden f\u00fcr jeden der folgenden Eintr\u00e4ge im Kampagnenlogbuch um 2<per_large> Hinweise gesenkt:\n<bullet> <i>Die Ermittler haben das Urchaos gesehen.</i>\n<bullet> <i>Die Ermittler haben das unterbewusste Pand\u00e4monium gesehen.</i>\n<bullet> <i>Die Ermittler haben die Verk\u00f6rperung des Wahnsinns gesehen.</i>\n<i>(Warnung: Die Prinzessin direkt herauszufordern ist nicht leicht und k\u00f6nnte das Sonnensystem zu einem noch schlimmeren Schicksal verdammen.)</i>\n<hr> <b>Sinon :</b>\n<blockquote>Leider liefert das Studium der Sonne keine neuen Erkenntnisse oder Ideen daf\u00fcr, wie die Supernova aufgehalten werden kann. Du musst der Menschheit bei der Flucht helfen, bevor es zu sp\u00e4t ist.</blockquote>\nDu erh\u00e4ltst 1<per_large> Hinweise aus dem Markervorrat.\nEntferne diese Karte aus dem Spiel.",
+                "text": "<b>V\u00e9rifiez votre Carnet de Campagne. Si <t>vous \u00eates au courant de la possibilit\u00e9 d'Abjuration au Tr\u00f4ne :</t></b>\n<blockquote>Apr\u00e8s des mois de recherche, vous avez enfin d\u00e9couvert le site du rituel : le soleil lui-m\u00eame. Si vous voulez donner \u00e0 l'ensemble du syst\u00e8me solaire une chance de prosp\u00e9rer pendant encore quelques mill\u00e9naires, ce rituel doit \u00eatre finalis\u00e9.</blockquote>\nAttachez cette carte au Soleil.\n<obj> Les investigateurs situ\u00e9s dans un lieu connexe au Soleil doivent d\u00e9penser collectivement 9<per_large> indices pour pr\u00e9parer le rituel. Une fois cela fait, remplacez le deck Intrigue et le deck Acte par l'Intrigue Mati\u00e8re Noire et l'Acte Le R\u00e9veil de Tassilda mis de c\u00f4t\u00e9 et g\u00e9n\u00e9rez l'ennemi Tassilda mis de c\u00f4t\u00e9 dans le Soleil.\nR\u00e9duisez le co\u00fbt de 2<per_large> indices pour chacune des informations suivantes not\u00e9es dans votre Carnet de Campagne :\n<bullet> <i>Vous avez \u00e9t\u00e9 t\u00e9moin du chaos primordial.</i>\n<bullet> <i>Vous avez \u00e9t\u00e9 t\u00e9moin d'hallucinations corruptrices.</i>\n<bullet> <i>Vous avez \u00e9t\u00e9 t\u00e9moin de la folie incarn\u00e9e.</i>\n<i>(Attention \u2013 Contester l'acc\u00e8s au tr\u00f4ne n'est pas une t\u00e2che facile et peut condamner le syst\u00e8me solaire \u00e0 un sort bien pire.)</i>\n<hr>\n<b>Sinon :</b>\n<blockquote>Malheureusement, l'\u00e9tude du soleil ne donne aucune r\u00e9ponse ou solution quant \u00e0 la mani\u00e8re d'emp\u00eacher la supernova. Vous devez aider l'humanit\u00e9 \u00e0 s'\u00e9chapper avant qu'il ne soit trop tard.</blockquote>\nGagnez 1<per_large> indice pris dans la r\u00e9serve de pions.\nRetirez cette carte de la partie.",
                 "flavor_text": null,
-                "traits": null,
-                "subtitle": null
+                "subtitle": null,
+                "traits": null
             },
             "back": {
                 "name": null,
-                "traits": null,
                 "text": "\n\n\n\n",
-                "flavor_text": null
+                "flavor_text": null,
+                "traits": null
             }
         },
         "34645e61-6392-43a8-b435-190939e4a87a": {
             "name": "Projet Origami",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Mettez diese Karte neben dem Szenendeck ins Spiel.\n<obj> Hilf dem VKB dabei, eine Technik zu entwickeln, mit der sich die Raumzeit falten l\u00e4sst. Falls ein Ermittler am Berg Sinai das Universalarchiv kontrolliert, d\u00fcrfen die Ermittler als Gruppe 2<per_large> Hinweise ausgeben und das Universalarchiv aus dem Spiel entfernen, um <name> dem Siegpunktestapel hinzuzuf\u00fcgen.",
-                "flavor_text": "Die n\u00f6tigen Daten sollen irgendwo am Rand des Sonnensystems entdeckt worden sein.",
-                "traits": "",
-                "subtitle": null
+                "text": "<rev> Mettez Projet Origami en jeu \u00e0 c\u00f4t\u00e9 du deck Acte.\n<obj> Aidez la CCU \u00e0 s'\u00e9chapper en prouvant que l'\u00e9quation pour plier l'espace-temps est juste. Si un investigateur dans le lieu Mont Sina\u00ef contr\u00f4le les Archives Universelles : retirez la carte Archives Universelles de la partie et d\u00e9pensez collectivement <br>2<per_large> indices pour ajouter la carte Projet Origami \u00e0 la pile de victoire.",
+                "flavor_text": "Les donn\u00e9es n\u00e9cessaires ont \u00e9t\u00e9 d\u00e9couvertes quelque part en bordure du syst\u00e8me solaire.",
+                "subtitle": null,
+                "traits": ""
             },
             "back": {}
         },
@@ -4078,10 +4134,10 @@
             "name": "Dernier Espoir",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Mettez diese Karte neben dem Szenendeck ins Spiel.\n<obj> Finde eine M\u00f6glichkeit, Hope zu sch\u00fctzen. Falls ein Ermittler in Hope den Schildgenerator kontrolliert, d\u00fcrfen die Ermittler als Gruppe 2<per_large> Hinweise ausgeben und den Schild-<br>generator aus dem Spiel entfernen, um <name> dem Siegpunktestapel hinzuzuf\u00fcgen.",
-                "flavor_text": "Ger\u00fcchten zufolge hat die Menschheit bereits in irgendeinem Geheimlabor einen elektromagnetischen Schildgenerator entwickelt.",
-                "traits": "",
-                "subtitle": null
+                "text": "<rev> Mettez Dernier Espoir en jeu \u00e0 c\u00f4t\u00e9 du deck Acte.\n<obj> Trouvez une solution pour prot\u00e9ger Espoir. Si un investigateur dans le lieu Espoir contr\u00f4le le Champ de Force : retirez la carte Champ de Force de la partie et d\u00e9pensez collectivement 2<per_large> indices pour ajouter la carte Dernier Espoir \u00e0 la pile de victoire.",
+                "flavor_text": "La rumeur veut que la technologie du champ de force ait d\u00e9j\u00e0 \u00e9t\u00e9 d\u00e9velopp\u00e9e par l'humanit\u00e9 dans des laboratoires secrets.",
+                "subtitle": null,
+                "traits": ""
             },
             "back": {}
         },
@@ -4089,10 +4145,10 @@
             "name": "R\u00e9paration du Seuil",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Mettez diese Karte neben dem Szenendeck ins Spiel.\n<obj> Hilf den Mi-Go, indem du ihnen das verlorene yithianische Artefakt bringst, mit dem sie auf ihre Heimatwelt zur\u00fcckkehren k\u00f6nnen. Falls ein Ermittler an der Schwelle von Yuggoth den Stasisw\u00fcrfel kontrolliert, d\u00fcrfen die Ermittler als Gruppe 2<per_large> Hinweise ausgeben und den Stasisw\u00fcrfel aus dem Spiel entfernen, um <name> dem Siegpunktestapel hinzuzuf\u00fcgen.",
-                "flavor_text": "Die seltsamen Mi-Go berichten, dass sie Mitglieder der Gro\u00dfen Rasse von Yith regelm\u00e4\u00dfig in der N\u00e4he des Mars beobachtet haben.",
-                "traits": "",
-                "subtitle": null
+                "text": "<rev> Mettez R\u00e9paration du Seuil en jeu \u00e0 c\u00f4t\u00e9 du deck Acte.\n<obj> Aidez les Mi-Go \u00e0 retourner dans leur monde d'origine en retrouvant l'artefact perdu Yithien. Si un investigateur dans le lieu Seuil de Yuggoth contr\u00f4le le Cube de Stase : retirez la carte Cube de Stase de la partie et d\u00e9pensez collectivement 2<per_large> indices pour ajouter la carte R\u00e9paration du Seuil \u00e0 la pile de victoire.",
+                "flavor_text": "Les Mi-Go ont indiqu\u00e9 que des membres de la Grande Race de Yith ont \u00e9t\u00e9 r\u00e9guli\u00e8rement rep\u00e9r\u00e9s dans les territoires martiens.",
+                "subtitle": null,
+                "traits": ""
             },
             "back": {}
         },
@@ -4100,10 +4156,10 @@
             "name": "Ar-NO",
             "front": {
                 "name": "<name>",
-                "text": "<rev> H\u00e4nge diese Karte an Berg Sinai an.\n<obj> Falls die Cassilda an Berg Sinai angeh\u00e4ngt ist: Entferne <name> aus dem Spiel und bringe die beiseitegelegte Storyvorteilskarte Projekt Origami neben dem Szenendeck ins Spiel.",
-                "flavor_text": "Das verlorene Forschungsschiff muss immer noch durch das Sonnensystem treiben \u2013 vielleicht k\u00f6nnen die Sensoren der Tatterdemalion es aufsp\u00fcren.",
-                "traits": "IA.",
-                "subtitle": "Unzureichende Daten"
+                "text": "<rev> Attachez Ar-NO au Mont Sina\u00ef.\n<obj> Si Le Cassilda est attach\u00e9 au Mont Sina\u00ef : retirez Ar-NO de la partie et mettez en jeu le soutien d'histoire Projet Origami mis de c\u00f4t\u00e9, \u00e0 c\u00f4t\u00e9 du deck Acte.",
+                "flavor_text": "Le vaisseau de recherche disparu d\u00e9rive quelque part dans le syst\u00e8me solaire. Peut-\u00eatre que les capteurs de L'\u00c9pouvantail pourraient le d\u00e9tecter.",
+                "subtitle": "Au Service de l'Humanit\u00e9",
+                "traits": "IA."
             },
             "back": {}
         },
@@ -4111,10 +4167,10 @@
             "name": "Directeur Cixin",
             "front": {
                 "name": "<unique><name>",
-                "text": "<rev> H\u00e4nge diese Karte an Hope an.\n<obj> Wenn sich die Marsianische Krabbe im Siegpunktestapel befindet: Entferne Direktor Cixin aus dem Spiel und bringe die beiseitegelegte Storyvorteilskarte Letzte Hoffnung neben dem Szenendeck ins Spiel.",
-                "flavor_text": "Da er nur noch wenige Soldaten hat, bittet Direktor Cixin dich, ihm bei der Verteidigung gegen die marsianischen Angreifer zu helfen.",
-                "traits": "Humain.",
-                "subtitle": "Hope ist in Gefahr"
+                "text": "<rev> Attachez le Directeur Cixin \u00e0 Espoir.\n<obj> Si le Crabe Martien est dans la pile de victoire : retirez de la partie le Directeur Cixin et mettez en jeu le soutien d'histoire Dernier Espoir mis de c\u00f4t\u00e9, \u00e0 c\u00f4t\u00e9 du deck Acte.",
+                "flavor_text": "Comme il ne reste que peu de soldats, le directeur Cixin demande votre aide pour se d\u00e9fendre contre l'assaut des Martiens.",
+                "subtitle": "Espoir est en Danger",
+                "traits": "Humain."
             },
             "back": {}
         },
@@ -4122,10 +4178,10 @@
             "name": "Ambassadeur Mi-Go",
             "front": {
                 "name": "<name>",
-                "text": "<rev> H\u00e4nge diese Karte an Schwelle von Yuggoth an.\n<obj> Wenn sich das Mond-Laboratorium im Spiel befindet und keine Hinweise darauf liegen: Entferne den <name> aus dem Spiel und bringe die beiseitegelegte Story-vorteilskarte Reparatur der Schwelle neben dem Szenendeck ins Spiel.",
-                "flavor_text": "Nach dem, was du auf Titan getan hast, misstrauen die Mi-Go dir \u2013 um sie zu \u00fcberzeugen, wieder mit dir zusammenzuarbeiten, sollst du ihnen \u00ab Informationen \u00bb von ihrer verlorenen Station auf dem Mond besorgen.",
-                "traits": "Mi-Go.",
-                "subtitle": "Misstrauisch"
+                "text": "<rev> Attachez l'Ambassadeur Mi-Go au Seuil de Yuggoth.\n<obj> S'il n'y a aucun indice sur le Laboratoire Lunaire : retirez de la partie l'Ambassadeur Mi-Go et mettez en jeu le soutien d'histoire R\u00e9paration du Seuil mis de c\u00f4t\u00e9, \u00e0 c\u00f4t\u00e9 du deck Acte.",
+                "flavor_text": "Les Mi-Go ne vous font pas confiance apr\u00e8s ce que vous avez fait sur Titan. Vous devez vous assurer leur coop\u00e9ration en recueillant des \u00ab informations \u00bb en provenance la station lunaire abandonn\u00e9e.",
+                "subtitle": "M\u00e9fiant",
+                "traits": "Mi-Go."
             },
             "back": {}
         },
@@ -4133,11 +4189,11 @@
             "name": "Vampire Stellaire",
             "front": {
                 "name": "<name>",
-                "text": "Distant. Chasseur.\nDer Schlurfer von den Sternen kann nicht in einen Kampf verwickelt werden, au\u00dfer durch die unten stehende F\u00e4higkeit.\n<for> Nachdem du am Ort des Schlurfers von den Sternen eine <act>-Kosten-F\u00e4higkeit ausgel\u00f6st hast: Der Schlurfer von den Sternen verwickelt dich in einen Kampf und greift dich an. (Nur einmal pro Runde.)\n\n",
+                "text": "Distant. Chasseur.\nLe Vampire Stellaire ne peut pas \u00eatre engag\u00e9 except\u00e9 par la capacit\u00e9 ci-dessous.\n<for> Apr\u00e8s avoir d\u00e9clench\u00e9 une capacit\u00e9 <act> dans son lieu : le Vampire Stellaire vous engage et vous attaque. (Limite d'une fois par round.)\n\n",
                 "flavor_text": "",
-                "traits": "Monstre. \u00c9lite.",
                 "subtitle": null,
-                "victory": "Victoire 1."
+                "victory": "Victoire 1.",
+                "traits": "Monstre. \u00c9lite."
             },
             "back": {}
         },
@@ -4145,10 +4201,10 @@
             "name": "Exoro\u00efde",
             "front": {
                 "name": "<name>",
-                "text": "<spawn> Beliebiger <t>Asteroideng\u00fcrtel</t>-<br>Ort.\nChasseur. Riposte.\n<for> Nachdem du diesen Gegner besiegt hast: Mische diesen Gegner in das Scan-Deck.",
-                "flavor_text": "Das ist kein Asteroid.",
-                "traits": "Monstre.",
-                "subtitle": null
+                "text": "<spawn> N'importe quel lieu <t>Ceinture d'Ast\u00e9ro\u00efdes.</t>\nChasseur. Riposte.\n<for> Apr\u00e8s avoir vaincu l'Exoro\u00efde : m\u00e9langez-le dans le deck Analyse.",
+                "flavor_text": "Ce n'est pas un ast\u00e9ro\u00efde.",
+                "subtitle": null,
+                "traits": "Monstre."
             },
             "back": {}
         },
@@ -4156,26 +4212,27 @@
             "name": "Sans Laisser de Traces",
             "front": {
                 "name": "<name>",
-                "text": "<blockquote>Bei der gr\u00fcndlichen Durchsuchung des Schiffs stellt sich heraus, dass seine Besatzung spurlos verschwunden ist. Es gibt keine Hinweise auf einen Angriff und keine Leichen. Nachdem du die KI des Schiffs neugestartet hast, erf\u00e4hrst du, dass dieses Raumschiff Cassilda hei\u00dft und eine neue Generation von Antimaterieantrieben testen sollte. Die letzten Logbucheintr\u00e4ge vor dem Verschwinden der Crew beschreiben eine nicht identifizierte Biosignatur, die sich der Cassilda mit be\u00e4ngstigender Geschwindigkeit n\u00e4herte.\nTrotz des seltsamen Verschwindens der Crew scheint das Raumschiff in tadellosem Zustand zu sein. Das k\u00f6nntest du nutzen und das Schiff f\u00fcr deine eigenen Ziele verwenden.</blockquote>\nDu darfst entweder (w\u00e4hle eins):\n<bullet> <i>Die Kontrolle \u00fcber das Schiff \u00fcbernehmen:</i> Falls sich keine Hinweise auf dem Raumschiffwrack befinden, ersetze das Raumschiffwrack durch den beiseitegelegten Ort Die Cassilda. (Alle Karten und Marker bleiben dabei an diesem Ort.) F\u00fcge diese Karte dem Siegpunktestapel hinzu.\n<bullet> <i>Auf dem Schiff nach Ersatzteilen suchen:</i> Du ziehst 1 Karte und erh\u00e4ltst 1 Ressource. Mische diese Karte zur\u00fcck in das Scan-Deck.\n<center><b>Victoire 1.</b>",
+                "text": "<size 60><blockquote>Vos recherches approfondies r\u00e9v\u00e8lent que l'\u00e9quipage du vaisseau a disparu sans laisser de trace. Vous ne trouvez aucun signe d'effraction et aucun cadavre. Apr\u00e8s avoir red\u00e9marr\u00e9 l'IA du vaisseau, vous apprenez que le vaisseau s'appelait Le Cassilda. Il s'agit d'un vaisseau spatial exp\u00e9rimental testant une nouvelle g\u00e9n\u00e9ration de moteurs antimati\u00e8re. Les derni\u00e8res entr\u00e9es dans le journal de bord d\u00e9crivent une biosignature non identifi\u00e9e approchant le Cassilda \u00e0 une vitesse alarmante.\nAu-del\u00e0 de ces disparitions myst\u00e9rieuses, le vaisseau semble \u00eatre en parfait \u00e9tat. Vous pourriez profiter de la situation et utiliser le vaisseau pour vos propres besoins.</blockquote>\nVous pouvez d\u00e9cider (choisir une option) :\n<bullet> <i>Assumez le commandement du vaisseau</i> : s'il n'y a aucun indice sur le Vaisseau Abandonn\u00e9, remplacez le Vaisseau Abandonn\u00e9 par le lieu Le Cassilda mis de c\u00f4t\u00e9 (en gardant tous les pions et attachements). Ajoutez cette carte \u00e0 la pile de victoire.\n<bullet> <i>R\u00e9cup\u00e9rez le vaisseau pour ces pi\u00e8ces d\u00e9tach\u00e9es</i> : piochez 1 carte et gagnez 1 ressource. M\u00e9langez cette carte dans le deck Analyse.\n",
                 "flavor_text": null,
-                "traits": null,
-                "subtitle": null
+                "subtitle": null,
+                "victory": "Victoire 1.",
+                "traits": null
             },
             "back": {
                 "name": null,
-                "traits": null,
                 "text": "\n\n\n\n",
-                "flavor_text": null
+                "flavor_text": null,
+                "traits": null
             }
         },
         "737a148e-4424-465e-a00f-709b4a447821": {
             "name": "Le Masque P\u00e2le",
             "front": {
                 "name": "<unique><name>",
-                "text": "<rev> Mettez diese Karte unter der Kontrolle eines Ermittlers an deinem Ort ins Spiel.\n<free> Ersch\u00f6pfe die Bleiche Maske: Effectuez un test de <int>-<br>Probe (3). Falls die Probe gelingt, darfst du dich an einen beliebigen enth\u00fcllten Ort bewegen. Falls die Probe misslingt, subissez 1 direkten horreur.",
+                "text": "<rev> Mettez cette carte en jeu sous le contr\u00f4le d'un investigateur dans votre lieu.\n<free> Inclinez Le Masque P\u00e2le : effectuez un test de <int> (3). En cas de r\u00e9ussite, vous avez le droit de vous d\u00e9placer dans n'importe quel lieu r\u00e9v\u00e9l\u00e9. En cas d'\u00e9chec, subissez 1 horreur directe.",
                 "flavor_text": "",
-                "traits": "Objet. Relique.",
-                "subtitle": null
+                "subtitle": null,
+                "traits": "Objet. Relique."
             },
             "back": {}
         },
@@ -4183,11 +4240,11 @@
             "name": "Crabe Martien",
             "front": {
                 "name": "<name>",
-                "text": "<spawn> Beliebiger <t>Mars</t>-Ort.\nMassif.\n<reaction> Sobald du der Marsianischen Krabbe erfolgreich entkommst, gib 1 Hinweis aus: F\u00fcge der Marsianischen Krabbe 2 d\u00e9g\u00e2t zu, anstatt sie zu ersch\u00f6pfen.",
+                "text": "<spawn> N'importe quel lieu <t>Mars.</t>\nMassif.\n<reaction> Apr\u00e8s avoir \u00e9chapp\u00e9 avec succ\u00e8s au Crabe Martien, d\u00e9pensez 1 indice : infligez-lui 2 d\u00e9g\u00e2ts au lieu de l'incliner.",
                 "flavor_text": "",
-                "traits": "Cr\u00e9ature.",
                 "subtitle": null,
-                "victory": "Victoire 1."
+                "victory": "Victoire 1.",
+                "traits": "Cr\u00e9ature."
             },
             "back": {}
         },
@@ -4195,10 +4252,10 @@
             "name": "Unit\u00e9 d'Enqu\u00eate KN-1",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Mettez diese Karte unter der Kontrolle eines Ermittlers an deinem Ort ins Spiel.\n<act> Ersch\u00f6pfe <name> : <b>Analyse.</b> W\u00e4hle einen verbundenen Ort. Durchsuche das Scan-Deck nach der obersten Karte, die das Symbol des gew\u00e4hlten Ortes besitzt, und ziehe sie. M\u00e9langez le deck Analyse.",
+                "text": "<rev> Mettez cette carte en jeu sous le contr\u00f4le d'un investigateur dans votre lieu.\n<act> Choisissez un lieu connexe et inclinez l'Unit\u00e9 d'Enqu\u00eate KN-1 : <b>Analyse.</b> Cherchez la carte la plus proche du dessus du deck Analyse avec une ic\u00f4ne correspondant au lieu choisi et piochez-la. M\u00e9langez le deck Analyse.",
                 "flavor_text": "",
-                "traits": "Alli\u00e9. IA.",
-                "subtitle": null
+                "subtitle": null,
+                "traits": "Alli\u00e9. IA."
             },
             "back": {}
         },
@@ -4206,10 +4263,10 @@
             "name": "Champ de Force",
             "front": {
                 "name": "<unique><name>",
-                "text": "<rev> Mettez diese Karte unter der Kontrolle eines Ermittlers an deinem Ort ins Spiel.\n<reaction> Sobald einem Ermittler an deinem Ort eine beliebige Menge d\u00e9g\u00e2t und/oder horreur zugef\u00fcgt w\u00fcrde, bezahle 1 Ressource und ersch\u00f6pfe den Schildgenerator: Hebe jenen d\u00e9g\u00e2t und horreur auf.",
+                "text": "<rev> Mettez cette carte en jeu sous le contr\u00f4le d'un investigateur dans votre lieu.\n<reaction> Quand un investigateur dans votre lieu subit n'importe quelle quantit\u00e9 de d\u00e9g\u00e2ts et/ou d'horreurs, d\u00e9pensez 1 ressource et inclinez le Champ de Force : annulez ces d\u00e9g\u00e2ts et/ou horreurs.",
                 "flavor_text": "",
-                "traits": "Objet.",
-                "subtitle": "Elektromagnetische Barriere"
+                "subtitle": "Protection \u00c9lectromagn\u00e9tique",
+                "traits": "Objet."
             },
             "back": {}
         },
@@ -4217,10 +4274,10 @@
             "name": "Cube de Stase",
             "front": {
                 "name": "<unique><name>",
-                "text": "<rev> Mettez diese Karte unter der Kontrolle eines Ermittlers an deinem Ort ins Spiel.\n<act><act> : Effectuez un test de <int> (3). Falls die Probe gelingt, entferne 1 Verderben von der aktuellen Agenda und streiche im Kampagnenlogbuch 1 Z\u00e4hlstrich unter \u00ab Apocalypse Imminente \u00bb durch. (Nur 1 Erfolg pro Spiel f\u00fcr die ganze Gruppe.)",
+                "text": "<rev> Mettez cette carte en jeu sous le contr\u00f4le d'un investigateur dans votre lieu.\n<act><act> : Effectuez un test de <int> (3). En cas de r\u00e9ussite, retirez 1 fatalit\u00e9 de l'intrigue en cours et barrez dans votre Carnet de Campagne 1 trait sous la mention <br>\u00ab Apocalypse Imminente \u00bb. (Limite collective d'1 r\u00e9ussite par partie.)",
                 "flavor_text": "",
-                "traits": "Objet. Relique.",
-                "subtitle": "Zeitloses Artefakt"
+                "subtitle": "Artefact \u00c9ternel",
+                "traits": "Objet. Relique."
             },
             "back": {}
         },
@@ -4228,10 +4285,10 @@
             "name": "Archives Universelles",
             "front": {
                 "name": "<unique><name>",
-                "text": "<rev> Mettez diese Karte unter der Kontrolle eines Ermittlers an deinem Ort ins Spiel.\n<act> Falls die oberste Karte des Scan-Decks das Symbol eines enth\u00fcllten Ortes im Spiel besitzt, ersch\u00f6pfe das Universalarchiv: <b>Analyse.</b> Ziehe die oberste Karte des Scan-Decks. M\u00e9langez le deck Analyse.\n",
+                "text": "<rev> Mettez cette carte en jeu sous le contr\u00f4le d'un investigateur dans votre lieu.\n<act> Si la carte du dessus du deck Analyse a une ic\u00f4ne correspondant \u00e0 n'importe quel lieu r\u00e9v\u00e9l\u00e9, inclinez Archives Universelles : <b>Analyse.</b> Analysez comme si vous \u00e9tiez dans ce lieu. M\u00e9langez le deck Analyse.\n",
                 "flavor_text": "",
-                "traits": "Data.",
-                "subtitle": "Allumfassendes Wissen"
+                "subtitle": "Acc\u00e8s \u00e0 Tout",
+                "traits": "Data."
             },
             "back": {}
         },
@@ -4239,10 +4296,10 @@
             "name": "Ali\u00e9nation",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Mettez <name> en jeu dans votre zone de menace.\nDein Handkartenlimit wird um den Schleierwert deines Ortes gesenkt.\n<act> : <b>Enqu\u00eater.</b> Falls die Probe gelingt, lege <name> ab, anstatt Hinweise zu entdecken.",
+                "text": "<rev> Mettez <name> en jeu dans votre zone de menace.\nLa taille limite de votre main est r\u00e9duite d'un montant \u00e9gal \u00e0 la valeur occulte de votre lieu.\n<act> : <b>Enqu\u00eater.</b> En cas de r\u00e9ussite, au lieu de d\u00e9couvrir des indices, d\u00e9faussez Ali\u00e9nation.",
                 "flavor_text": "",
-                "traits": "Terreur.",
-                "subtitle": null
+                "subtitle": null,
+                "traits": "Terreur."
             },
             "back": {}
         },
@@ -4250,10 +4307,10 @@
             "name": "Cyber-Cultiste",
             "front": {
                 "name": "<name>",
-                "text": "<spawn> Beliebiger <t>Kolonie</t>-Ort.\n<for> Nachdem ein Ermittler erfolgreich gescannt hat: Platziere 1 Verderben auf den Cyberkultisten.",
-                "flavor_text": "Erst war es nur ein kleines Opfer.",
-                "traits": "Humano\u00efde. Cultiste.",
-                "subtitle": null
+                "text": "<spawn> N'importe quel lieu <t>Colonie.</t>\n<for> Apr\u00e8s avoir r\u00e9ussi une analyse : placez 1 fatalit\u00e9 sur le Cyber-Cultiste.",
+                "flavor_text": "\n\nAu d\u00e9but, ce n'\u00e9tait qu'un petit sacrifice.",
+                "subtitle": null,
+                "traits": "Humano\u00efde. Cultiste."
             },
             "back": {}
         },
@@ -4261,10 +4318,10 @@
             "name": "\u00c9clipse Solaire",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Mettez diese Karte neben dem Agendadeck ins Spiel.\n<for> Sobald du eine Ermittlung initiierst: Du musst entweder 1 horreur nehmen oder dein Ort bekommt f\u00fcr diese Ermittlung +2 Schleier.\n<for> Am Ende der Runde: D\u00e9faussez <name>.",
+                "text": "<rev> Mettez l'\u00c9clipse Solaire en jeu \u00e0 c\u00f4t\u00e9 du deck Intrigue.\n<for> Quand vous initiez une enqu\u00eate : vous devez soit subir 1 horreur, soit augmenter de +2 la valeur occulte de votre lieu pour cette enqu\u00eate.\n<for> \u00c0 la fin du round : D\u00e9faussez <name>.",
                 "flavor_text": "",
-                "traits": "Pouvoir.",
-                "subtitle": null
+                "subtitle": null,
+                "traits": "Pouvoir."
             },
             "back": {}
         },
@@ -4272,10 +4329,10 @@
             "name": "La For\u00eat Sombre",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Mettez <name> en jeu dans votre zone de menace.\nAls zus\u00e4tzliche Kosten, um <act>-Kosten-F\u00e4higkeiten auszul\u00f6sen, musst du die obersten beiden Karten des Begegnungsdecks ziehen. D\u00e9faussez <name> danach.\n<for> Am Ende deines Zuges: Effectuez un test de <agi> (4). Falls die Probe gelingt, lege <name>.",
-                "flavor_text": "",
-                "traits": "Pr\u00e9sage. Fin des Temps.",
-                "subtitle": null
+                "text": "<rev> Mettez <name> en jeu dans votre zone de menace.\nEn tant que co\u00fbt suppl\u00e9mentaire pour d\u00e9clencher une capacit\u00e9 <act>, piochez les 2 cartes du dessus du deck Rencontre. Ensuite, d\u00e9faussez cette carte.\n<for> \u00c0 la fin de votre tour : Effectuez un test de <agi> (4). En cas de r\u00e9ussite, d\u00e9faussez cette carte.",
+                "flavor_text": "\u00ab L'Univers est une for\u00eat sombre dans laquelle chaque civilisation est un chasseur arm\u00e9 d'un fusil. \u00bb \u2013 Luo Ji, La For\u00eat Sombre",
+                "subtitle": null,
+                "traits": "Pr\u00e9sage. Fin des Temps."
             },
             "back": {}
         },
@@ -4283,10 +4340,10 @@
             "name": "Pirates de l'Espace",
             "front": {
                 "name": "<name>",
-                "text": "<spawn> N\u00e4chstgelegener <t>Raumschiff</t>-<br>Ort.\n<act> Gib Ressourcen in H\u00f6he der verbliebenen Ausdauer der Raumpiraten aus: <b>Discussion.</b> D\u00e9faussez die Raumpiraten.",
-                "flavor_text": "Auch im Weltraum gibt es noch Gesetze und Vorschriften. Es gibt nur niemanden, der sie durchsetzt.",
-                "traits": "Humano\u00efde. Criminel.",
-                "subtitle": null
+                "text": "<spawn> Lieu <t>Vaisseau Spatial</t> le plus proche.\n<act> D\u00e9pensez un nombre de ressources \u00e9gal aux points de vie restants des Pirates de l'Espace : <b>Discussion.</b>D\u00e9faussez les Pirates de l'Espace.",
+                "flavor_text": "Il y a encore des lois et des r\u00e8glements dans l'espace, mais personne pour les appliquer.",
+                "subtitle": null,
+                "traits": "Humano\u00efde. Criminel."
             },
             "back": {}
         },
@@ -4294,10 +4351,10 @@
             "name": "Les Astres \u00c9taient Favorables",
             "front": {
                 "name": "<name>",
-                "text": "<rev> H\u00e4nge diese Karte an den Ort mit den meisten Hinweisen an, an den noch keine Kopie von <name> angeh\u00e4ngt ist.\n<for> Nachdem dir am Ort mit dieser Verst\u00e4rkung eine Fertigkeitsprobe um 3 oder mehr misslungen ist: Platziere 1 Verderben auf <name>.\n<act> : Effectuez un test de <wil> (3). Falls die Probe gelingt, lege <name>.",
+                "text": "<rev> Attachez cette carte au lieu qui contient le plus d'indices et qui n'a pas un exemplaire de Les Astres \u00c9taient Favorables d\u00e9j\u00e0 attach\u00e9.\n<for> Apr\u00e8s avoir \u00e9chou\u00e9 \u00e0 un test de comp\u00e9tence avec une diff\u00e9rence de 3 ou plus dans le lieu attach\u00e9 : placez 1 fatalit\u00e9 sur Les Astres \u00c9taient Favorables.\n<act> : Effectuez un test de <wil> (3). En cas de r\u00e9ussite, d\u00e9faussez cette carte.",
                 "flavor_text": "",
-                "traits": "Fin des Temps. Pouvoir.",
-                "subtitle": null
+                "subtitle": null,
+                "traits": "Fin des Temps. Pouvoir."
             },
             "back": {}
         },
@@ -4305,10 +4362,10 @@
             "name": "Byakhee du Vide",
             "front": {
                 "name": "<name>",
-                "text": "<spawn> Beliebiger Ort ohne Hinweise.\nChasseur.\nSolange sich das <name> bewegt, werden alle Orte ohne Hinweise behandelt, als ob sie miteinander verbunden w\u00e4ren.",
-                "flavor_text": "Laut einer Theorie sind diese seltsamen au\u00dferirdischen Wesen mit dem galaktischen Magnetfeld verbunden. Dadurch sollen sie sich schneller als das Licht bewegen k\u00f6nnen.",
-                "traits": "Monstre. Byakhee.",
-                "subtitle": null
+                "text": "<spawn> N'importe quel lieu sans indice sur lui.\nChasseur.\nLe Byakhee du Vide se d\u00e9place comme si tous les lieux sans indices \u00e9taient connexes entre eux.",
+                "flavor_text": "Ces \u00e9tranges cr\u00e9atures extraterrestres sont en phase avec le champ magn\u00e9tique galactique, leur conf\u00e9rant ainsi la capacit\u00e9 de voyager plus vite que la lumi\u00e8re.",
+                "subtitle": null,
+                "traits": "Monstre. Byakhee."
             },
             "back": {}
         },
@@ -4316,10 +4373,10 @@
             "name": "\u00c9ruption Solaire",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Effectuez un test de <agi> (4). F\u00fcr jeden Punkt, um den die Probe misslingt, musst du entweder 1 Karte von deiner Hand w\u00e4hlen und ablegen oder 1 d\u00e9g\u00e2t und 1 horreur nehmen.",
-                "flavor_text": "Eine Strahlungseruption umflie\u00dft dich und versucht, dir die Lebenskraft zu entziehen.",
-                "traits": "Risque.",
-                "subtitle": null
+                "text": "<rev> Effectuez un test de <agi> (4). En cas d'\u00e9chec, pour chaque point manquant, vous devez soit choisir et d\u00e9fausser 1 carte de votre main, soit subir 1 d\u00e9g\u00e2t et 1 horreur.",
+                "flavor_text": "Une \u00e9ruption de radiations vous engloutit, d\u00e9truisant votre force vitale.",
+                "subtitle": null,
+                "traits": "Risque."
             },
             "back": {}
         },
@@ -4327,10 +4384,10 @@
             "name": "Couronne Rayonnante",
             "front": {
                 "name": "<name>",
-                "text": "Renfort.\n<rev> Mettez <name> neben dem Agendadeck ins Spiel.\nDie Schwierigkeit jeder Fertigkeitsprobe wird um 1 erh\u00f6ht.\n<for> Am Ende der Runde: D\u00e9faussez <name>.",
+                "text": "Renfort.\n<rev> Mettez <name> en jeu \u00e0 c\u00f4t\u00e9 du deck Intrigue.\nAugmentez de 1 la difficult\u00e9 de tous les tests de comp\u00e9tence.\n<for> \u00c0 la fin du round : D\u00e9faussez <name>.",
                 "flavor_text": "",
-                "traits": "Pouvoir.",
-                "subtitle": null
+                "subtitle": null,
+                "traits": "Pouvoir."
             },
             "back": {}
         },
@@ -4581,7 +4638,7 @@
                 "name": "<name>",
                 "text": "<size 45> <rev> Mettez la <name> dans votre zone de menace.\n<free> D\u00e9pensez 1 charge du Stabilisateur de Flux : cherchez le Marcheur de la Faille parmi vos cartes li\u00e9es, votre pile de d\u00e9fausse ou votre deck et piochez-le.\n<for> Au d\u00e9but de la phase des Ennemis : cherchez le Marcheur de la Faille parmi vos cartes li\u00e9es, votre pile de d\u00e9fausse ou votre deck et piochez-le. \n<for> Si la <name> a 2 d\u00e9g\u00e2ts ou plus sur elle : d\u00e9faussez-la.",
                 "flavor_text": "<size 42> Quand vous regardez dans la <name>, la faille vous regarde \u00e9galement.",
-                "subtitle": null,
+                "subtitle": "%:WEAKNESS",
                 "traits": "B\u00e9vue. Fin des Temps."
             },
             "back": {}
@@ -4857,7 +4914,7 @@
             "name": "B\u00eate d'Ald\u00e9baran",
             "front": {
                 "name": "<name>",
-                "text": "<size 38>Massif.\nTant que vous assignez les d\u00e9g\u00e2ts et les horreurs de l'attaque de la <name>, vous devez assigner autant de d\u00e9g\u00e2ts et d'horreurs que possible \u00e0 une seule carte avant de pouvoir en assigner \u00e0 une autre carte.",
+                "text": "Massif.\nTant que vous assignez les d\u00e9g\u00e2ts et les horreurs de l'attaque de la <name>, vous devez assigner autant de d\u00e9g\u00e2ts et d'horreurs que possible \u00e0 une seule carte avant de pouvoir en assigner \u00e0 une autre carte.",
                 "flavor_text": null,
                 "victory": "Victoire 1.",
                 "traits": "Monstre. \u00c9lite."
@@ -4868,7 +4925,7 @@
             "name": "Rejeton de Hali",
             "front": {
                 "name": "<name>",
-                "text": "<size 40><prey> Le plus d'horreurs.\nRiposte.\n<for> Apr\u00e8s avoir \u00e9chapp\u00e9 avec un succ\u00e8s au <name> avec une diff\u00e9rence de 2 ou moins : subissez 1 horreur.",
+                "text": "<prey> Le plus d'horreurs.\nRiposte.\n<for> Apr\u00e8s avoir \u00e9chapp\u00e9 avec un succ\u00e8s au <name> avec une diff\u00e9rence de 2 ou moins : subissez 1 horreur.",
                 "flavor_text": null,
                 "traits": "Monstre."
             },
@@ -4878,7 +4935,7 @@
             "name": "Observateur Yithien",
             "front": {
                 "name": "<name>",
-                "text": "<size 40><prey> Le moins de cartes en main.\n<for> Quand l'<name> vous attaque : d\u00e9faussez 1 carte prise au hasard dans votre main. Si vous ne pouvez pas, l'<name> inflige +1 d\u00e9g\u00e2t et +1 horreur pour cette attaque.",
+                "text": "<prey> Le moins de cartes en main.\n<for> Quand l'<name> vous attaque : d\u00e9faussez 1 carte prise au hasard dans votre main. Si vous ne pouvez pas, l'<name> inflige +1 d\u00e9g\u00e2t et +1 horreur pour cette attaque.",
                 "flavor_text": null,
                 "victory": "Victoire 1.",
                 "traits": "Monstre. Yithien."
@@ -4902,6 +4959,25 @@
                 "flavor_text": null,
                 "victory": "Victoire 1.",
                 "traits": "Monstre. \u00c9lite."
+            },
+            "back": {}
+        },
+        "7bbea47e-f3fd-4e77-9a1d-e4fc701dec47": {
+            "name": "test story auto",
+            "front": {
+                "text": "dzadq",
+                "flavor_text": "zqdzqdqzdz"
+            },
+            "back": {}
+        },
+        "8fb30aa9-5b0b-42f9-9837-e076b73c8fa5": {
+            "name": "Observateur Yithien (Copy)",
+            "front": {
+                "name": "<name>",
+                "text": "<prey> Le moins de cartes en main.\n<for> Quand l'<name> vous attaque : d\u00e9faussez 1 carte prise au hasard dans votre main. Si vous ne pouvez pas, l'<name> inflige +1 d\u00e9g\u00e2t et +1 horreur pour cette attaque.",
+                "flavor_text": null,
+                "victory": "Victoire 1.",
+                "traits": "Monstre. Yithien."
             },
             "back": {}
         }
