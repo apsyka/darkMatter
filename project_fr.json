@@ -578,7 +578,7 @@
             "name": "Interface Neuronale",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Vous avez le droit de mettre en jeu l'<name> sous le contr\u00f4le de n'importe quel investigateur.\n<act> D\u00e9pensez collectivement 2<per_large> indices : <b>Analyse.</b> Cherchez la carte la plus proche du dessus du deck Analyse avec l'ic\u00f4ne ci-dessous et piochez-la. M\u00e9langez le deck Analyse.\n<center><size 120><image src=\"C:\\Users\\jbalota\\Documents\\GitHub\\darkMatter_Fork\\images\\xx/Clover.png\"></size>",
+                "text": "<rev> Vous avez le droit de mettre en jeu l'<name> sous le contr\u00f4le de n'importe quel investigateur.\n<act> D\u00e9pensez collectivement 2<per_large> indices : <b>Analyse.</b> Cherchez la carte la plus proche du dessus du deck Analyse avec l'ic\u00f4ne ci-dessous et piochez-la. M\u00e9langez le deck Analyse.\n<center><size 120><image src=\".\\images\\xx/Clover.png\"></size>",
                 "flavor_text": "",
                 "subtitle": null,
                 "traits": "Appareil."

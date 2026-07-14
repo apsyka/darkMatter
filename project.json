@@ -837,7 +837,6 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
@@ -847,7 +846,9 @@
                     "square",
                     "double_slash",
                     "diamond"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "1",
             "project_number": "7",
@@ -1001,7 +1002,7 @@
                     }
                 ],
                 "difficulty": "EINFACH / NORMAL",
-                "collection": "<esn>/<est>        <exi> <exn>"
+                "collection_number": "<exn>a"
             },
             "back": {
                 "type": "chaos",
@@ -1019,7 +1020,8 @@
                         "text": "-3. Falls die Probe misslingt, platziere 1 deiner Hinweise auf deinen Ort."
                     }
                 ],
-                "difficulty": "SCHWER / EXPERTE"
+                "difficulty": "SCHWER / EXPERTE",
+                "collection_number": "<exn>b"
             },
             "encounter_number": "1",
             "project_number": "14",
@@ -1038,7 +1040,8 @@
                 "illustration_scale": 1.0,
                 "illustration_pan_x": -1792.0,
                 "illustration_pan_y": -1087.0,
-                "name": "<name>"
+                "name": "<name>",
+                "collection_number": "<exn>a"
             },
             "back": {
                 "type": "act_agenda_full_back",
@@ -1048,7 +1051,8 @@
                 "illustration_pan_x": -1.0,
                 "illustration_pan_y": -492.0,
                 "illustration_scale": 2.02,
-                "index": "1b"
+                "index": "1b",
+                "collection_number": "<exn>b"
             },
             "encounter_number": "2",
             "project_number": "15",
@@ -1067,7 +1071,8 @@
                 "illustration_pan_y": -1087.0,
                 "illustration_pan_x": -1792.0,
                 "illustration_scale": 1.0,
-                "name": "<name>"
+                "name": "<name>",
+                "collection_number": "<exn>a"
             },
             "back": {
                 "type": "enemy",
@@ -1088,7 +1093,7 @@
                 "illustration_pan_x": 2.0,
                 "illustration_pan_y": 920.0,
                 "illustration_scale": 2.68,
-                "collection": "<esn>/<est>            <exi>     <exn>b"
+                "collection_number": "<exn>b"
             },
             "encounter_number": "3",
             "project_number": "16",
@@ -1185,14 +1190,16 @@
                 "name": "<name>",
                 "illustration_pan_y": -117.0,
                 "illustration_pan_x": 542.0,
-                "illustration_scale": 1.84
+                "illustration_scale": 1.84,
+                "collection_number": "<exn>a"
             },
             "back": {
                 "type": "act_agenda_full_back",
                 "illustration": "./images/edited_images/0_gate - unknown.jpg",
                 "name": "<size 75> Durch die Tore der virtuellen Traumlande",
                 "flavor_text": "Indem du die K\u00e4lteschlafkapseln mit dem Hauptcomputer verbindest, kannst du dein bald wieder tr\u00e4umendes Selbst in die gemeinsamen Tr\u00e4ume von 2C-OES187 hochladen. Du legst dich erneut in deinen Sarg und aktivierst die Schlafsequenz der Maschine\u2026</i>(<resolution><b>A1</b>)",
-                "index": "3b"
+                "index": "3b",
+                "collection_number": "<exn>b"
             },
             "encounter_number": "7",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
@@ -1211,7 +1218,7 @@
                 "slot": "Accessory",
                 "flavor_text": "\u201eIm Inneren lag in ein vergilbtes Pergament eingewickelt ein gro\u00dfer mit r\u00e4tselhaften Arabesken bedeckter Schl\u00fcssel aus angelaufenem Silber. Eine weitere Erkl\u00e4rung war jedoch nicht beigef\u00fcgt.\u201c\n<center>-H.P. Lovecraft, Der silberne Schl\u00fcssel</i> ",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "icons": "WQQ",
                 "illustration": "./images/edited_images/key - unknown.jpg",
@@ -1544,7 +1551,7 @@
                 "sanity": "<dash>",
                 "flavor_text": "",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "illustration": "./images/edited_images/space suit - jeff miller.jpg",
@@ -1554,13 +1561,14 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
                     "square",
                     "crescent"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "17",
             "project_number": "30",
@@ -1575,13 +1583,14 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "text": "\n\n\n\n",
                 "connections": [
                     "t"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "18",
             "project_number": "31",
@@ -1604,7 +1613,7 @@
                 "illustration_pan_y": 236.0,
                 "level": "None",
                 "classes": [
-                    "story weakness"
+                    "weakness"
                 ]
             },
             "back": {
@@ -1613,8 +1622,9 @@
                 "connections": [
                     "double_slash"
                 ],
-                "collection": " ",
-                "copyright": " "
+                "copyright": " ",
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "19",
             "project_number": "32",
@@ -1631,11 +1641,12 @@
                 "type": "fullart_scanning",
                 "illustration": "./images/scanningBack.png",
                 "text": "\n\n\n\n",
-                "collection": " ",
                 "copyright": " ",
                 "connections": [
                     "clover"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "20",
             "project_number": "33",
@@ -1667,11 +1678,12 @@
             "back": {
                 "type": "fullart_scanning",
                 "illustration": "./images/scanningBack.png",
-                "collection": " ",
                 "copyright": " ",
                 "connections": [
                     "t"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "21",
             "project_number": "34",
@@ -1688,12 +1700,13 @@
                 "type": "fullart_scanning",
                 "illustration": "./images/scanningBack.png",
                 "text": "\n\n\n\n",
-                "collection": " ",
                 "copyright": " ",
                 "connections": [
                     "t",
                     "clover"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "22",
             "project_number": "35",
@@ -1723,13 +1736,14 @@
             "back": {
                 "type": "fullart_scanning",
                 "illustration": "./images/scanningBack.png",
-                "collection": " ",
                 "copyright": " ",
                 "connections": [
                     "triangle",
                     "circle",
                     "cross"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "23",
             "project_number": "36",
@@ -1745,7 +1759,7 @@
                 "slot": "1 Hand",
                 "flavor_text": "",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "illustration": "./images/edited_images/foam - ivan robert vasquez.jpg",
@@ -1760,11 +1774,12 @@
             "back": {
                 "type": "fullart_scanning",
                 "illustration": "./images/scanningBack.png",
-                "collection": " ",
                 "copyright": " ",
                 "connections": [
                     "heart"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "24",
             "project_number": "37",
@@ -1779,7 +1794,7 @@
                 "text": "<rev> Du darfst diese Karte unter der Kontrolle eines beliebigen Ermittlers ins Spiel bringen.\n<act> Die Ermittler geben als Gruppe 2<per_large> Hinweise aus: <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das unten stehende Symbol besitzt, und ziehe sie. Mische das Scan-Deck.\n<center> bild einf\u00fcgen",
                 "flavor_text": "",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "illustration": "./images/edited_images/mind-machine-interface omen2501.jpg",
                 "illustrator": "Illus. omen2501",
@@ -1788,14 +1803,15 @@
             "back": {
                 "type": "fullart_scanning",
                 "illustration": "./images/scanningBack.png",
-                "collection": " ",
                 "copyright": " ",
                 "connections": [
                     "triangle",
                     "cross",
                     "hourglass",
                     "t"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "25",
             "project_number": "38",
@@ -1810,7 +1826,7 @@
                 "text": "Anwendungen (3 Vorr\u00e4te).\n<rev> Du darfst diese Karte unter der Kontrolle eines beliebigen Ermittlers ins Spiel bringen.\n<free> Gib 1 Vorrat aus: Du bekommst bis zum Ende der Runde +1 <com> und +1 <agi>.",
                 "flavor_text": "",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "illustration": "./images/edited_images/tablet - Margaret Owen.jpg",
@@ -1822,11 +1838,12 @@
             "back": {
                 "type": "fullart_scanning",
                 "illustration": "./images/scanningBack.png",
-                "collection": " ",
                 "copyright": " ",
                 "connections": [
                     "heart"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "26",
             "project_number": "39",
@@ -1842,12 +1859,13 @@
             "back": {
                 "type": "fullart_scanning",
                 "illustration": "./images/scanningBack.png",
-                "collection": " ",
                 "copyright": " ",
                 "text": "\n\n\n\n",
                 "connections": [
                     "star"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "27",
             "project_number": "40",
@@ -1897,13 +1915,14 @@
             "back": {
                 "type": "fullart_scanning",
                 "illustration": "./images/scanningBack.png",
-                "collection": " ",
                 "copyright": " ",
                 "text": "\n\n\n\n",
                 "connections": [
                     "crescent",
                     "hourglass"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "29",
             "project_number": "42",
@@ -1919,12 +1938,13 @@
             "back": {
                 "type": "fullart_scanning",
                 "illustration": "./images/scanningBack.png",
-                "collection": " ",
                 "copyright": " ",
                 "text": "\n\n\n\n",
                 "connections": [
                     "triangle"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "30",
             "project_number": "43",
@@ -2178,7 +2198,8 @@
                         "text": "Enth\u00fclle einen weiteren Marker. Verdopple den Modifikator jenes Markers."
                     }
                 ],
-                "difficulty": "EINFACH / NORMAL"
+                "difficulty": "EINFACH / NORMAL",
+                "collection_number": "<exn>a"
             },
             "back": {
                 "type": "chaos",
@@ -2202,7 +2223,8 @@
                         "text": "Enth\u00fclle einen weiteren Marker. Verdopple den Modifikator jenes Markers."
                     }
                 ],
-                "difficulty": "SCHWER / EXPERTE"
+                "difficulty": "SCHWER / EXPERTE",
+                "collection_number": "<exn>b"
             },
             "encounter_number": "1",
             "project_number": "54",
@@ -2403,11 +2425,11 @@
                 "illustration": "./images/edited_images/Louis Carr.jpg",
                 "illustrator": "Illus. Louis Carr",
                 "name": "<unique><name>",
-                "classes": [
-                    "story"
-                ],
                 "level": "None",
-                "illustration_pan_y": -220.0
+                "illustration_pan_y": -220.0,
+                "classes": [
+                    "neutral"
+                ]
             },
             "back": {
                 "type": "player"
@@ -2423,7 +2445,9 @@
                 "name": "Reintegriert",
                 "type": "story",
                 "text": "<blockquote>Mit Geduld und Umsicht beruhigst du Alma und \u00fcberzeugst sie, ihre Augen zu \u00f6ffnen und den simulierten Albtraum genau zu untersuchen. Durch ihre Finger ersp\u00e4ht sie irgendwann winzige Fehler, die nur aus bestimmten Winkeln sichtbar sind, und durchbricht so die Illusion des furchterregenden Monsters. Ohne die Kraft aus Almas Angst fallen die tausend gelben Z\u00e4hne aus dem klaffenden Maul des Butzemanns und zerbrechen auf dem Keramikboden.\n\u201eDanke, dass du uns hilfst! Ich bin Alma und ich bin f\u00fcr die Umweltkontrollen auf dem Schiff verantwortlich. Es ist so kalt hier\u2026 ich muss mir eine Jacke holen.\u201c Das kleine M\u00e4dchen schlendert ganz ohne Angst aus der Schule.</blockquote>\nF\u00fcge diese Karte dem Siegpunktestapel hinzu und platziere 1 Horror aus dem Markervorrat auf den Butzemann.\nWenn 4 Horror auf dem Butzemann liegen, ist er besiegt.\n<center><b>Sieg 1.</b>",
-                "collection": "<esn>/<est>        <exi>   <exn>b"
+                "collection_icon": " ",
+                "collection_number": " ",
+                "collection_total": " "
             },
             "front": {
                 "type": "asset",
@@ -2435,12 +2459,11 @@
                 "text": "<act> Falls sich der Butzemann an einem Ort befindet, der direkt \u00fcber oder unter Almas Ort liegt: <b>Verhandlung.</b> Lege eine <wil>-Probe (2) ab. Falls die Probe gelingt, drehe diese Karte um und handle den Text auf der R\u00fcckseite ab.",
                 "title": "<unique><name>",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "slot": "None",
                 "level": "None",
-                "illustration_pan_y": -50.0,
-                "collection": "<esn>/<est>        <exi> <exn>a"
+                "illustration_pan_y": -50.0
             },
             "encounter_number": "10",
             "project_number": "63",
@@ -2453,7 +2476,9 @@
                 "name": "Reintegriert",
                 "type": "story",
                 "text": "<blockquote>Du beruhigst den Jungen, der sich unter dem Tisch versteckt, und \u00fcberzeugst ihn, dass der Butzemann gegen eure gemeinsame St\u00e4rke und Selbstsicherheit keine Chance hat. Er steht auf und br\u00fcllt das teuflische Monstrum an: \u201eWir haben keine Angst vor dir. Du bist doch nur ein Clown!\u201c Die Abscheulichkeit schreit vor Schmerz und seine Spritzenklauen schrumpfen und werden zu labbrigen roten Handschuhen.\nDer Junge stellt sich als David vor. \u201eIch bin f\u00fcr den Antrieb und die Energieversorgung verantwortlich. In letzter Zeit war ich sehr krank, aber jetzt habe ich zum Gl\u00fcck keine Bauchschmerzen mehr.\u201c Du sagst David, dass er vor der Schule warten soll, und er rennt rasch davon.</blockquote>\nF\u00fcge diese Karte dem Siegpunktestapel hinzu und platziere 1 Horror aus dem Markervorrat auf den Butzemann. \nWenn 4 Horror auf dem Butzemann liegen, ist er besiegt.\n<center><b>Sieg 1.</b>",
-                "collection": "<esn>/<est>        <exi>   <exn>b"
+                "collection_icon": " ",
+                "collection_number": " ",
+                "collection_total": " "
             },
             "front": {
                 "type": "asset",
@@ -2463,13 +2488,12 @@
                 "traits": "Avatar.",
                 "text": "<act> Falls sich der Butzemann an einem Ort befindet, der direkt \u00fcber oder unter Davids Ort liegt: <b>Verhandlung.</b> Lege eine <com>-Probe (2) ab. Falls die Probe gelingt, drehe diese Karte um und handle den Text auf der R\u00fcckseite ab.",
                 "title": "<unique><name>",
-                "classes": [
-                    "story"
-                ],
                 "slot": "None",
                 "level": "None",
                 "illustration_pan_y": -50.0,
-                "collection": "<esn>/<est>        <exi> <exn>a"
+                "classes": [
+                    "neutral"
+                ]
             },
             "encounter_number": "11",
             "project_number": "63",
@@ -2482,7 +2506,9 @@
                 "name": "Reintegriert",
                 "type": "story",
                 "text": "<blockquote>Du \u00fcberzeugst das \u00e4ngstliche M\u00e4dchen davon, dass man die schwache k\u00fcnstliche Intelligenz des Monsters leicht \u00fcberlisten kann. Sie beobachtet die Bewegungen des Butzemanns und nickt dir dann zu. Gemeinsam seht ihr, wie der Kopf des Butzemanns schlaff wie ein Ballon wird und er nur noch unverst\u00e4ndliche Worte babbeln kann.\nDas M\u00e4dchen dankt dir f\u00fcr deine Hilfe. \u201eMein Name ist Tilde. Ich bin f\u00fcr den Hauptserver und die Cybersicherheit des Schiffs verantwortlich. Ich hatte lange Kopfschmerzen, aber jetzt geht es mir viel besser.\u201c Gewissenhaft umgeht sie den Butzemann und verl\u00e4sst die Schule.</blockquote>\nF\u00fcge diese Karte dem Siegpunktestapel hinzu und platziere 1 Horror aus dem Markervorrat auf den Butzemann. \nWenn 4 Horror auf dem Butzemann liegen, ist er besiegt.\n<center><b>Sieg 1.</b>",
-                "collection": "<esn>/<est>        <exi>   <exn>b"
+                "collection_icon": " ",
+                "collection_number": " ",
+                "collection_total": " "
             },
             "front": {
                 "type": "asset",
@@ -2493,12 +2519,11 @@
                 "text": "<act> Falls sich der Butzemann an einem Ort befindet, der direkt \u00fcber oder unter Tildes Ort liegt: <b>Verhandlung.</b> Lege eine <int>-Probe (2) ab. Falls die Probe gelingt, drehe diese Karte um und handle den Text auf der R\u00fcckseite ab.",
                 "title": "<unique><name>",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "slot": "None",
                 "level": "None",
-                "illustration_pan_y": -100.0,
-                "collection": "<esn>/<est>        <exi> <exn>a"
+                "illustration_pan_y": -100.0
             },
             "encounter_number": "12",
             "project_number": "63",
@@ -2511,7 +2536,9 @@
                 "name": "Reintegriert",
                 "type": "story",
                 "text": "<blockquote>Du holst den Jungen ein, der panisch umherrennt, und beruhigst ihn, indem du ihm sagst, dass der Butzemann ihn nie verletzen wird, weil er ihm nur Angst machen will. Als der Albtraum genau vor euch einfach stehen bleibt, atmet der Junge erleichtert auf. Ohne die Kraft aus der Angst des Kindes schrumpfen die abartig gro\u00dfen Arme und Beine der Kreatur auf eine sehr viel normalere Gr\u00f6\u00dfe.\n\u201eNenn\u2018 mich Will. Ich bin f\u00fcr die Navigationssysteme und die Andockprozeduren des Schiffs verantwortlich.\u201c Du sagst ihm, dass er drau\u00dfen warten soll, und er h\u00f6rt ohne zu z\u00f6gern auf dich.</blockquote>\nF\u00fcge diese Karte dem Siegpunktestapel hinzu und platziere 1 Horror aus dem Markervorrat auf den Butzemann. \nWenn 4 Horror auf dem Butzemann liegen, ist er besiegt.\n<center><b>Sieg 1.</b>",
-                "collection": "<esn>/<est>        <exi>   <exn>b"
+                "collection_icon": " ",
+                "collection_number": " ",
+                "collection_total": " "
             },
             "front": {
                 "type": "asset",
@@ -2522,14 +2549,14 @@
                 "text": "<act> Falls sich der Butzemann an einem Ort befindet, der direkt \u00fcber oder unter Williams Ort liegt: <b>Verhandlung.</b> Lege eine <agi>-Probe (2) ab. Falls die Probe gelingt, drehe diese Karte um und handle den Text auf der R\u00fcckseite ab.",
                 "title": "<unique><name>",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "slot": "None",
                 "level": "None",
-                "collection": "<esn>/<est>        <exi> <exn>a",
                 "illustration_pan_x": -171.0,
                 "illustration_pan_y": 53.0,
-                "illustration_scale": 1.62
+                "illustration_scale": 1.62,
+                "collection_number": "<exn>a"
             },
             "encounter_number": "13",
             "project_number": "63",
@@ -2571,7 +2598,7 @@
                 "illustration": "./images/edited_images/hal2 - unknown.jpg",
                 "name": "<unique><name>",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "illustration_pan_y": 150.0,
                 "level": "None"
@@ -2594,7 +2621,7 @@
                 "text": "Dauerhaft.\n<free>: W\u00e4hle einen Ermittler. Der gew\u00e4hlte Ermittler darf in seinem Zug in dieser Runde eine zus\u00e4tzliche Aktion nehmen, die nur f\u00fcr <b>Scannen</b>-F\u00e4higkeiten verwendet werden kann. (Nur einmal pro Runde.)",
                 "flavor_text": "",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "illustration": "./images/edited_images/hal2 - unknown.jpg",
@@ -2619,7 +2646,7 @@
                 "text": "Dauerhaft.\n<free>: W\u00e4hle einen Ermittler. Der gew\u00e4hlte Ermittler darf in seinem Zug in dieser Runde eine zus\u00e4tzliche Aktion nehmen, die nur f\u00fcr <b>Scannen</b>-F\u00e4higkeiten verwendet werden kann. (Nur einmal pro Runde.)\n<reaction>Nachdem einem Ermittler ein Scan misslungen ist: Jener Ermittler zieht 1 Karte oder erh\u00e4lt 1 Ressource.",
                 "flavor_text": "",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "illustration": "./images/edited_images/hal2 - unknown.jpg",
@@ -2644,7 +2671,7 @@
                 "text": "Dauerhaft.\n<free>: W\u00e4hle einen Ermittler. Der gew\u00e4hlte Ermittler darf in seinem Zug in dieser Runde eine zus\u00e4tzliche Aktion nehmen, die nur f\u00fcr <b>Scannen</b>-F\u00e4higkeiten verwendet werden kann. (Nur einmal pro Runde.)\n<reaction> Nachdem ein Ermittler gescannt hat: Jener Ermittler zieht 1 Karte oder erh\u00e4lt 1 Ressource. (Nur einmal pro Runde.)",
                 "flavor_text": "",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "illustration": "./images/edited_images/hal2 - unknown.jpg",
@@ -3178,7 +3205,8 @@
                         "text": "-3. Ziehe eine zuf\u00e4llige verdeckte Begegnungskarte aus deiner Bedrohungszone."
                     }
                 ],
-                "difficulty": "EINFACH / NORMAL"
+                "difficulty": "EINFACH / NORMAL",
+                "collection_number": "<exn>a"
             },
             "back": {
                 "type": "chaos",
@@ -3208,7 +3236,8 @@
                         "text": "-4. Ziehe eine zuf\u00e4llige verdeckte Begegnungskarte aus deiner Bedrohungszone."
                     }
                 ],
-                "difficulty": "SCHWER / EXPERTE"
+                "difficulty": "SCHWER / EXPERTE",
+                "collection_number": "<exn>b"
             },
             "encounter_number": "1",
             "project_number": "89",
@@ -3226,9 +3255,10 @@
                 "index": "1a",
                 "illustrator": "Illus. Mark Garlick",
                 "name": "<name>",
-                "collection": "2-4/<est>        <exi> <exn>",
                 "illustration_pan_x": -409.0,
-                "illustration_pan_y": 9.0
+                "illustration_pan_y": 9.0,
+                "collection_icon": "2-4/<est>",
+                "collection_number": "<exi> <exn>"
             },
             "back": {
                 "type": "agenda_back",
@@ -3253,9 +3283,10 @@
                 "index": "1a",
                 "illustrator": "Illus. Mark Garlick",
                 "name": "<name>",
-                "collection": "2-4/<est>        <exi> <exn>",
                 "illustration_pan_y": 9.0,
-                "illustration_pan_x": -409.0
+                "illustration_pan_x": -409.0,
+                "collection_icon": "2-4/<est>",
+                "collection_number": "<exi> <exn>"
             },
             "back": {
                 "type": "agenda_back",
@@ -3280,9 +3311,10 @@
                 "index": "1a",
                 "illustrator": "Illus. Mark Garlick",
                 "name": "<name>",
-                "collection": "2-4/<est>        <exi> <exn>",
                 "illustration_pan_y": 9.0,
-                "illustration_pan_x": -409.0
+                "illustration_pan_x": -409.0,
+                "collection_icon": "2-4/<est>",
+                "collection_number": "<exi> <exn>"
             },
             "back": {
                 "type": "agenda_back",
@@ -3385,7 +3417,7 @@
                 "text": "<rev> Bringe diese Karte unter deiner Kontrolle ins Spiel.\n<for> Am Ende der Runde oder sobald du aufgibst, falls sich mindestens 1 verdeckte Begegnungskarte in der Bedrohungs-<br>zone eines Ermittlers befindet: Verdecke Erwin Simmons und mische ihn mit allen verdeckten Begegnungskarten aus den Bedrohungszonen aller Ermittler zusammen. Verteile diese Karten danach m\u00f6glichst gleichm\u00e4\u00dfig auf die Bedrohungszonen aller Ermittler.",
                 "flavor_text": "",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "illustration": "./images/edited_images/scientist ben-olson.jpg",
@@ -3416,7 +3448,7 @@
                 "sanity": "1",
                 "flavor_text": "",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "icons": "QQ",
@@ -3455,10 +3487,11 @@
             "back": {
                 "type": "fullart_scanning",
                 "illustration": "./images/scanningBack.png",
-                "collection": " ",
                 "copyright": " ",
                 "text": "",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "10",
             "project_number": "96",
@@ -3489,10 +3522,11 @@
             "back": {
                 "type": "fullart_scanning",
                 "illustration": "./images/scanningBack.png",
-                "collection": " ",
                 "copyright": " ",
                 "text": "",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "11",
             "project_number": "97",
@@ -3521,11 +3555,12 @@
             "back": {
                 "type": "fullart_scanning",
                 "illustration": "./images/scanningBack.png",
-                "collection": " ",
                 "copyright": " ",
                 "text": "",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "12",
             "project_number": "98",
@@ -3554,10 +3589,11 @@
             "back": {
                 "type": "fullart_scanning",
                 "illustration": "./images/scanningBack.png",
-                "collection": " ",
                 "copyright": " ",
                 "text": "",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "13",
             "project_number": "99",
@@ -3588,10 +3624,11 @@
             "back": {
                 "type": "fullart_scanning",
                 "illustration": "./images/scanningBack.png",
-                "collection": " ",
                 "copyright": " ",
                 "text": "",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "14",
             "project_number": "100",
@@ -3621,10 +3658,11 @@
             "back": {
                 "type": "fullart_scanning",
                 "illustration": "./images/scanningBack.png",
-                "collection": " ",
                 "copyright": " ",
                 "text": "",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "15",
             "project_number": "101",
@@ -3655,14 +3693,15 @@
             "back": {
                 "type": "fullart_scanning",
                 "illustration": "./images/scanningBack.png",
-                "collection": " ",
                 "copyright": " ",
                 "text": "",
                 "connections": [
                     "square",
                     "crescent",
                     "double_slash"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "16",
             "project_number": "102",
@@ -3692,10 +3731,11 @@
             "back": {
                 "type": "fullart_scanning",
                 "illustration": "./images/scanningBack.png",
-                "collection": " ",
                 "copyright": " ",
                 "text": "",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "17",
             "project_number": "103",
@@ -3917,7 +3957,8 @@
                         "text": "0. Nimm entweder 2 Schaden oder die Probe misslingt<br> automatisch."
                     }
                 ],
-                "difficulty": "EINFACH / NORMAL"
+                "difficulty": "EINFACH / NORMAL",
+                "collection_number": "<exn>a"
             },
             "back": {
                 "type": "chaos",
@@ -3947,7 +3988,8 @@
                         "text": "0. Nimm entweder 3 Schaden oder die Probe misslingt <br>automatisch."
                     }
                 ],
-                "difficulty": "SCHWER / EXPERTE"
+                "difficulty": "SCHWER / EXPERTE",
+                "collection_number": "<exn>b"
             },
             "encounter_number": "1",
             "project_number": "112",
@@ -4144,7 +4186,7 @@
                 "cost": "4",
                 "flavor_text": "",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "icons": "CCC",
@@ -4512,7 +4554,7 @@
                 "flavor_text": "",
                 "victory": "Sieg 1.",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "illustration": "./images/edited_images/Reversion_Scientist_CostumeStudy_130611.jpg-nggid03268-ngg0dyn-0x0x100-00f0w010c010r110f110r010t010.jpg",
@@ -4525,12 +4567,13 @@
             "back": {
                 "type": "fullart_scanning",
                 "illustration": "./images/scanningBack.png",
-                "collection": " ",
                 "copyright": " ",
                 "connections": [
                     "diamond",
                     "double_slash"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "19",
             "project_number": "130",
@@ -4549,7 +4592,7 @@
                 "flavor_text": "",
                 "victory": "Sieg 1.",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "illustration": "./images/edited_images/burr_by_sharpwriter_d6b2hck-fullview.jpg",
@@ -4561,13 +4604,14 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
                     "t",
                     "hourglass"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "20",
             "project_number": "131",
@@ -4586,7 +4630,7 @@
                 "flavor_text": "",
                 "victory": "Sieg 1.",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "illustration": "./images/edited_images/01Untitled.jpg",
@@ -4598,13 +4642,14 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
                     "clover",
                     "diamond"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "21",
             "project_number": "132",
@@ -4622,26 +4667,27 @@
                 "sanity": "1",
                 "flavor_text": "",
                 "victory": "Sieg 1.",
-                "classes": [
-                    "story"
-                ],
                 "level": "None",
                 "illustration": "./images/edited_images/Reversion_Lilith_CostumeStudy_130611.jpg-nggid03263-ngg0dyn-0x0x100-00f0w010c010r110f110r010t010.jpg",
                 "illustrator": "Illus. Deiv Calviz",
                 "name": "<unique><name>",
                 "illustration_pan_x": -108.0,
                 "illustration_pan_y": 44.0,
-                "illustration_scale": 2.38
+                "illustration_scale": 2.38,
+                "classes": [
+                    "neutral"
+                ]
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
                     "double_slash",
                     "t"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "22",
             "project_number": "133",
@@ -4659,25 +4705,26 @@
                 "sanity": "<dash>",
                 "flavor_text": "",
                 "victory": "Sieg 1.",
-                "classes": [
-                    "story"
-                ],
                 "level": "None",
                 "illustration": "./images/edited_images/192eded67c3b9087c3b85b5b575d3b00.jpg",
                 "name": "<unique><name>",
                 "illustration_pan_x": 120.0,
                 "illustration_pan_y": 24.0,
-                "illustration_scale": 1.02
+                "illustration_scale": 1.02,
+                "classes": [
+                    "neutral"
+                ]
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
                     "square",
                     "clover"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "23",
             "project_number": "134",
@@ -4696,7 +4743,7 @@
                 "flavor_text": "",
                 "victory": "Sieg 1.",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "illustration": "./images/edited_images/Reversion_Cannibal_CostumeStudy_130611.jpg-nggid03247-ngg0dyn-0x0x100-00f0w010c010r110f110r010t010.jpg",
@@ -4708,13 +4755,14 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
                     "hourglass",
                     "square"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "24",
             "project_number": "135",
@@ -5095,7 +5143,8 @@
                         "text": "-3. Falls dies ein Angriff oder Entkommen-Versuch gegen einen <i><b>Byakhee</b></i>-Gegner ist, enth\u00fclle einen weiteren Marker."
                     }
                 ],
-                "difficulty": "EINFACH / NORMAL"
+                "difficulty": "EINFACH / NORMAL",
+                "collection_number": "<exn>a"
             },
             "back": {
                 "type": "chaos",
@@ -5125,7 +5174,8 @@
                         "text": "-4. Falls dies ein Angriff oder Entkommen-Versuch gegen einen <i><b>Byakhee</b></i>-Gegner ist, enth\u00fclle einen weiteren Marker."
                     }
                 ],
-                "difficulty": "SCHWER / EXPERTE"
+                "difficulty": "SCHWER / EXPERTE",
+                "collection_number": "<exn>b"
             },
             "encounter_number": "1",
             "project_number": "153",
@@ -5196,7 +5246,8 @@
                 "illustrator": "Illus. Julian Baum",
                 "name": "<name>",
                 "illustration_pan_y": -5.0,
-                "illustration_pan_x": -225.0
+                "illustration_pan_x": -225.0,
+                "collection_number": "<exn>a"
             },
             "back": {
                 "type": "enemy",
@@ -5218,7 +5269,7 @@
                 "illustration_pan_x": -252.0,
                 "illustration_pan_y": 1120.0,
                 "illustration_scale": 0.94,
-                "collection": "<esn>/<est>        <exi>   <exn>b"
+                "collection_number": "<exn>b"
             },
             "encounter_number": "4",
             "project_number": "156",
@@ -5312,7 +5363,7 @@
                 "sanity": "<dash>",
                 "flavor_text": "Die au\u00dferirdische Beschriftung dieses Zylinders ist bis zur Unleserlichkeit verblasst \u2013 er muss schon Jahrzehnte alt sein.",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "illustration": "./images/edited_images/brain in a jar.jpg",
@@ -5337,7 +5388,7 @@
                 "sanity": "<dash>",
                 "flavor_text": "Wenn deine grobe \u00dcbersetzung der au\u00dferirdischen Beschriftung richtig ist, ist dieses Gehirn \u201eunbrauchbar\u201c. Du fragst dich, was damit gemeint ist.",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "illustration": "./images/edited_images/brain in a jar.jpg",
@@ -5362,7 +5413,7 @@
                 "sanity": "<dash>",
                 "flavor_text": "In das Glas dieses Zylinders ist ein eindeutig menschliches Symbol eingeritzt. Du kennst es als das Gelbe Zeichen.",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "illustration": "./images/edited_images/brain in a jar.jpg",
@@ -5393,7 +5444,8 @@
                 "attack": "4",
                 "illustration_pan_x": 0.0,
                 "illustration_pan_y": 1156.0,
-                "illustration_scale": 1.98
+                "illustration_scale": 1.98,
+                "collection_number": "<exn>a"
             },
             "back": {
                 "type": "enemy",
@@ -5409,7 +5461,8 @@
                 "horror": 1,
                 "attack": "4",
                 "illustration_pan_x": -4.0,
-                "illustration_pan_y": 988.0
+                "illustration_pan_y": 988.0,
+                "collection_number": "<exn>b"
             },
             "encounter_number": "11",
             "project_number": "163",
@@ -5655,14 +5708,15 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "text": "",
                 "connections": [
                     "triangle",
                     "square"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "18",
             "project_number": "170",
@@ -5692,14 +5746,15 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "text": "",
                 "connections": [
                     "triangle",
                     "diamond"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "19",
             "project_number": "171",
@@ -5729,14 +5784,15 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "text": "",
                 "connections": [
                     "clover",
                     "double_slash"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "20",
             "project_number": "172",
@@ -5766,14 +5822,15 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "text": "",
                 "connections": [
                     "triangle",
                     "double_slash"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "21",
             "project_number": "173",
@@ -5797,18 +5854,22 @@
                     "clover",
                     "triangle"
                 ],
-                "illustrator": "Illus. Frej Agelli"
+                "illustrator": "Illus. Frej Agelli",
+                "illustration_pan_x": -340.0,
+                "illustration_pan_y": -440.0,
+                "illustration_scale": 1.2
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "text": "",
                 "connections": [
                     "clover",
                     "square"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "22",
             "project_number": "174",
@@ -5838,14 +5899,15 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "text": "",
                 "connections": [
                     "clover",
                     "diamond"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "23",
             "project_number": "175",
@@ -5860,13 +5922,14 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
                     "hourglass",
                     "diamond"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "24",
             "project_number": "176",
@@ -5881,13 +5944,14 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
                     "hourglass",
                     "double_slash"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "25",
             "project_number": "177",
@@ -5901,13 +5965,14 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
                     "hourglass",
                     "square"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "26",
             "project_number": "178",
@@ -6191,7 +6256,8 @@
                         "text": "-4. Du darfst stattdessen 1 deiner \u201eErinnerungen\u201c durchstreichen, damit die Probe automatisch<br> gelingt."
                     }
                 ],
-                "difficulty": "EINFACH / NORMAL"
+                "difficulty": "EINFACH / NORMAL",
+                "collection_number": "<exn>a"
             },
             "back": {
                 "type": "chaos",
@@ -6221,7 +6287,8 @@
                         "text": "-6. Du darfst stattdessen 1 deiner \u201eErinnerungen\u201c durchstreichen, damit die Probe automatisch<br> gelingt."
                     }
                 ],
-                "difficulty": "SCHWER / EXPERTE"
+                "difficulty": "SCHWER / EXPERTE",
+                "collection_number": "<exn>b"
             },
             "encounter_number": "1",
             "project_number": "190",
@@ -6310,7 +6377,8 @@
                 "illustration_pan_y": -108.0,
                 "illustration_pan_x": -329.0,
                 "illustration_scale": 2.88,
-                "name": "<name>"
+                "name": "<name>",
+                "collection_number": "<exn>a"
             },
             "back": {
                 "type": "enemy",
@@ -6327,7 +6395,7 @@
                 "damage": 1,
                 "horror": 1,
                 "attack": "3",
-                "collection": "<esn>/<est>        <exi> <exn>b"
+                "collection_number": "<exn>b"
             },
             "encounter_number": "5",
             "project_number": "194",
@@ -6686,7 +6754,8 @@
                         "text": "-2. Falls du dich an einem <i><b>Carcosa</b></i>-Ort befindest, platziere entweder 1 Verderben auf die aktuelle Agenda, oder die Probe misslingt automatisch."
                     }
                 ],
-                "difficulty": "EINFACH / NORMAL"
+                "difficulty": "EINFACH / NORMAL",
+                "collection_number": "<exn>a"
             },
             "back": {
                 "type": "chaos",
@@ -6716,7 +6785,8 @@
                         "text": "-3. Falls du dich an einem <i><b>Carcosa</b></i>-Ort befindest, platziere entweder 1 Verderben auf die aktuelle Agenda, oder die Probe misslingt automatisch."
                     }
                 ],
-                "difficulty": "SCHWER / EXPERTE"
+                "difficulty": "SCHWER / EXPERTE",
+                "collection_number": "<exn>b"
             },
             "encounter_number": "1",
             "project_number": "209",
@@ -6784,7 +6854,7 @@
                 "clues": "<dash>",
                 "index": "1a",
                 "name": "<name>",
-                "illustration_pan_x": -18.0,
+                "illustration_pan_x": 18.0,
                 "illustration_pan_y": 17.0,
                 "illustration_scale": 2.3
             },
@@ -7336,8 +7406,11 @@
                 "text": "Nachr\u00fcsten. Wagnis. Verborgen.\n<rev> F\u00fcge diese Karte geheim deiner Hand hinzu.\n<reaction> Sobald ein anderer Ermittler Schaden erleidet, der ihn besiegen w\u00fcrde: Hebe jenen Schaden auf und f\u00fcge diese Karte dem Siegpunktestapel hinzu.\n(Falls du der einzige unbesiegte Ermittler im Spiel bist, kannst du die obige F\u00e4higkeit auch ausl\u00f6sen, sobald du Schaden erleidest, der dich besiegen w\u00fcrde.)",
                 "flavor_text": "",
                 "victory": "Sieg 1.",
-                "illustration": "./images/610ffa079bc6cb4623848cfd998b74e2.jfif",
-                "illustrator": "Illus. SpongeLex "
+                "illustration": "./images/echoes_von_tassilda_01.jpg",
+                "illustrator": "Illus. SpongeLex ",
+                "illustration_pan_y": -330.0,
+                "illustration_scale": 0.0,
+                "illustration_pan_x": 150.0
             },
             "back": {
                 "type": "encounter"
@@ -7355,8 +7428,10 @@
                 "text": "Nachr\u00fcsten. Wagnis. Verborgen.\n<rev> F\u00fcge diese Karte geheim deiner Hand hinzu.\n<reaction> Sobald ein anderer Ermittler Horror erleidet, der ihn besiegen w\u00fcrde: Hebe jenen Horror auf und f\u00fcge diese Karte dem Siegpunktestapel hinzu.\n(Falls du der einzige unbesiegte Ermittler im Spiel bist, kannst du die obige F\u00e4higkeit auch ausl\u00f6sen, sobald du Horror erleidest, der dich besiegen w\u00fcrde.)",
                 "flavor_text": "",
                 "victory": "Sieg 1.",
-                "illustration": "./images/610ffa079bc6cb4623848cfd998b74e2.jfif",
-                "illustrator": "Illus. SpongeLex "
+                "illustration": "./images/echoes_von_tassilda_02.jpg",
+                "illustrator": "Illus. SpongeLex ",
+                "illustration_pan_y": -330.0,
+                "illustration_pan_x": -150.0
             },
             "back": {
                 "type": "encounter"
@@ -7603,7 +7678,8 @@
                         "text": "-3. Falls die Probe misslingt, platziere entweder 1 Verderben auf die aktuelle Agenda oder nimm 1 Horror f\u00fcr jeden Punkt, um den die Probe misslungen ist."
                     }
                 ],
-                "difficulty": "EINFACH / NORMAL"
+                "difficulty": "EINFACH / NORMAL",
+                "collection_number": "<exn>a"
             },
             "back": {
                 "type": "chaos",
@@ -7633,7 +7709,8 @@
                         "text": "-4. Falls die Probe misslingt, platziere entweder 1 Verderben auf die aktuelle Agenda oder nimm 1 Horror f\u00fcr jeden Punkt, um den die Probe misslungen ist."
                     }
                 ],
-                "difficulty": "SCHWER / EXPERTE"
+                "difficulty": "SCHWER / EXPERTE",
+                "collection_number": "<exn>b"
             },
             "encounter_number": "1",
             "project_number": "243",
@@ -7650,7 +7727,8 @@
                 "doom": "12",
                 "index": "1a",
                 "illustration_pan_x": -500.0,
-                "name": "<name>"
+                "name": "<name>",
+                "collection_number": "<exn>a"
             },
             "back": {
                 "type": "location",
@@ -7665,7 +7743,8 @@
                 "illustration_pan_x": -236.0,
                 "illustration_pan_y": 48.0,
                 "illustration_scale": 1.44,
-                "collection": "<esn>/<est>          <exi>      <exn>b"
+                "collection_icon": "<esn>/<est>",
+                "collection_number": "<exi>      <exn>b"
             },
             "encounter_number": "2",
             "project_number": "244",
@@ -7706,7 +7785,8 @@
                 "doom": "6",
                 "index": "3a",
                 "illustration_pan_x": -500.0,
-                "name": "<name>"
+                "name": "<name>",
+                "collection_number": "<exn>a"
             },
             "back": {
                 "type": "act_agenda_full_back",
@@ -7716,7 +7796,8 @@
                 "flavor_text": "\nDie Zeit ist abgelaufen. Du kannst keinen Schutz mehr vor der Apokalypse finden. Du kannst nur noch nach oben blicken und das majest\u00e4tische Schauspiel mitansehen.",
                 "illustration_pan_x": -938.0,
                 "illustration_pan_y": -34.0,
-                "illustration_scale": 3.52
+                "illustration_scale": 3.52,
+                "collection_number": "<exn>b"
             },
             "encounter_number": "4",
             "project_number": "246",
@@ -8105,14 +8186,15 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "text": "",
                 "connections": [
                     "t",
                     "triangle"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "17",
             "project_number": "259",
@@ -8138,11 +8220,12 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "text": "",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "18",
             "project_number": "260",
@@ -8167,14 +8250,15 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "text": "",
                 "connections": [
                     "t",
                     "triangle"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "19",
             "project_number": "261",
@@ -8201,11 +8285,12 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "text": "",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "20",
             "project_number": "262",
@@ -8234,11 +8319,12 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "text": "",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "21",
             "project_number": "263",
@@ -8263,7 +8349,6 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "text": "",
@@ -8271,7 +8356,9 @@
                 "connections": [
                     "t",
                     "triangle"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "22",
             "project_number": "264",
@@ -8299,11 +8386,12 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "text": "",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "23",
             "project_number": "265",
@@ -8318,13 +8406,14 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "text": "\n\n\n\n",
                 "connections": [
                     "cross"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "24",
             "project_number": "266",
@@ -8339,7 +8428,7 @@
                 "text": "<rev> Bringe diese Karte neben dem Szenendeck ins Spiel.\n<obj> Hilf dem VKB dabei, eine Technik zu entwickeln, mit der sich die Raumzeit falten l\u00e4sst. Falls ein Ermittler am Berg Sinai das Universalarchiv kontrolliert, d\u00fcrfen die Ermittler als Gruppe 2<per_large> Hinweise ausgeben und das Universalarchiv aus dem Spiel entfernen, um <name> dem Siegpunktestapel hinzuzuf\u00fcgen.",
                 "flavor_text": "Die n\u00f6tigen Daten sollen irgendwo am Rand des Sonnensystems entdeckt worden sein.",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "illustration": "./images/edited_images/wormhole-harald-ritschscience-photo-library.jpg",
@@ -8348,12 +8437,13 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
                     "diamond"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "25",
             "project_number": "267",
@@ -8368,7 +8458,7 @@
                 "text": "<rev> Bringe diese Karte neben dem Szenendeck ins Spiel.\n<obj> Finde eine M\u00f6glichkeit, Hope zu sch\u00fctzen. Falls ein Ermittler in Hope den Schildgenerator kontrolliert, d\u00fcrfen die Ermittler als Gruppe 2<per_large> Hinweise ausgeben und den Schild-<br>generator aus dem Spiel entfernen, um <name> dem Siegpunktestapel hinzuzuf\u00fcgen.",
                 "flavor_text": "Ger\u00fcchten zufolge hat die Menschheit bereits in irgendeinem Geheimlabor einen elektromagnetischen Schildgenerator entwickelt.",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "illustration": "./images/edited_images/hope life ROBERT MURRAY.jpg",
@@ -8376,13 +8466,14 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
                     "triangle",
                     "circle"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "26",
             "project_number": "268",
@@ -8397,7 +8488,7 @@
                 "text": "<rev> Bringe diese Karte neben dem Szenendeck ins Spiel.\n<obj> Hilf den Mi-Go, indem du ihnen das verlorene yithianische Artefakt bringst, mit dem sie auf ihre Heimatwelt zur\u00fcckkehren k\u00f6nnen. Falls ein Ermittler an der Schwelle von Yuggoth den Stasisw\u00fcrfel kontrolliert, d\u00fcrfen die Ermittler als Gruppe 2<per_large> Hinweise ausgeben und den Stasisw\u00fcrfel aus dem Spiel entfernen, um <name> dem Siegpunktestapel hinzuzuf\u00fcgen.",
                 "flavor_text": "Die seltsamen Mi-Go berichten, dass sie Mitglieder der Gro\u00dfen Rasse von Yith regelm\u00e4\u00dfig in der N\u00e4he des Mars beobachtet haben.",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "illustration": "./images/edited_images/mi_go_swarm_by_jarling_art.jpg",
@@ -8407,12 +8498,13 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
                     "clover"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "27",
             "project_number": "269",
@@ -8428,7 +8520,7 @@
                 "text": "<rev> H\u00e4nge diese Karte an Berg Sinai an.\n<obj> Falls die Cassilda an Berg Sinai angeh\u00e4ngt ist: Entferne <name> aus dem Spiel und bringe die beiseitegelegte Storyvorteilskarte Projekt Origami neben dem Szenendeck ins Spiel.",
                 "flavor_text": "Das verlorene Forschungsschiff muss immer noch durch das Sonnensystem treiben \u2013 vielleicht k\u00f6nnen die Sensoren der Tatterdemalion es aufsp\u00fcren.",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "illustration": "./images/edited_images/HPU_2.0_1260x539.jpg",
@@ -8436,12 +8528,13 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
                     "diamond"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "28",
             "project_number": "270",
@@ -8458,7 +8551,7 @@
                 "text": "<rev> H\u00e4nge diese Karte an Hope an.\n<obj> Wenn sich die Marsianische Krabbe im Siegpunktestapel befindet: Entferne Direktor Cixin aus dem Spiel und bringe die beiseitegelegte Storyvorteilskarte Letzte Hoffnung neben dem Szenendeck ins Spiel.",
                 "flavor_text": "Da er nur noch wenige Soldaten hat, bittet Direktor Cixin dich, ihm bei der Verteidigung gegen die marsianischen Angreifer zu helfen.",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "illustration": "./images/edited_images/bf47b3bdbd99b5923a84894f092ee495.jpg",
@@ -8469,13 +8562,14 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
                     "triangle",
                     "circle"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "29",
             "project_number": "271",
@@ -8490,24 +8584,25 @@
                 "traits": "Mi-Go.",
                 "text": "<rev> H\u00e4nge diese Karte an Schwelle von Yuggoth an.\n<obj> Wenn sich das Mond-Laboratorium im Spiel befindet und keine Hinweise darauf liegen: Entferne den <name> aus dem Spiel und bringe die beiseitegelegte Story-vorteilskarte Reparatur der Schwelle neben dem Szenendeck ins Spiel.",
                 "flavor_text": "Nach dem, was du auf Titan getan hast, misstrauen die Mi-Go dir \u2013 um sie zu \u00fcberzeugen, wieder mit dir zusammenzuarbeiten, sollst du ihnen \u201eInformationen\u201c von ihrer verlorenen Station auf dem Mond besorgen.",
-                "classes": [
-                    "story"
-                ],
                 "level": "None",
                 "illustration": "./images/edited_images/8bf02232faefee8e85ec7404cafb0248.jpg",
                 "illustrator": "Illus. Berulieu",
                 "illustration_pan_x": -16.0,
                 "illustration_pan_y": -268.0,
-                "illustration_scale": 1.14
+                "illustration_scale": 1.14,
+                "classes": [
+                    "neutral"
+                ]
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
                     "clover"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "30",
             "project_number": "272",
@@ -8535,7 +8630,6 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
@@ -8543,7 +8637,9 @@
                     "triangle",
                     "double_slash",
                     "hourglass"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "31",
             "project_number": "273",
@@ -8571,13 +8667,14 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
                     "heart",
                     "diamond"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "32",
             "project_number": "274",
@@ -8592,13 +8689,14 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "text": "\n\n\n\n",
                 "connections": [
                     "hourglass"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "33",
             "project_number": "275",
@@ -8614,7 +8712,7 @@
                 "text": "<rev> Bringe diese Karte unter der Kontrolle eines Ermittlers an deinem Ort ins Spiel.\n<free> Ersch\u00f6pfe die Bleiche Maske: Lege eine <int>-<br>Probe (3) ab. Falls die Probe gelingt, darfst du dich an einen beliebigen enth\u00fcllten Ort bewegen. Falls die Probe misslingt, nimmst du 1 direkten Horror.",
                 "flavor_text": "",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "illustration": "./images/edited_images/palid mask.jpg",
@@ -8625,13 +8723,14 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
                     "quote",
                     "cross"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "34",
             "project_number": "276",
@@ -8660,14 +8759,15 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
                     "triangle",
                     "circle",
                     "square"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "35",
             "project_number": "277",
@@ -8682,7 +8782,7 @@
                 "text": "<rev> Bringe diese Karte unter der Kontrolle eines Ermittlers an deinem Ort ins Spiel.\n<act> Ersch\u00f6pfe <name>: <b>Scannen.</b> W\u00e4hle einen verbundenen Ort. Durchsuche das Scan-Deck nach der obersten Karte, die das Symbol des gew\u00e4hlten Ortes besitzt, und ziehe sie. Mische das Scan-Deck.",
                 "flavor_text": "",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "illustration": "./images/edited_images/k9 soft-h.jpg",
@@ -8692,13 +8792,14 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
                     "double_slash",
                     "hourglass"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "36",
             "project_number": "278",
@@ -8715,7 +8816,7 @@
                 "text": "<rev> Bringe diese Karte unter der Kontrolle eines Ermittlers an deinem Ort ins Spiel.\n<reaction> Sobald einem Ermittler an deinem Ort eine beliebige Menge Schaden und/oder Horror zugef\u00fcgt w\u00fcrde, bezahle 1 Ressource und ersch\u00f6pfe den Schildgenerator: Hebe jenen Schaden und Horror auf.",
                 "flavor_text": "",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "illustration": "./images/edited_images/forcefield.jpg",
@@ -8726,13 +8827,14 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
                     "double_slash",
                     "diamond"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "37",
             "project_number": "279",
@@ -8749,7 +8851,7 @@
                 "text": "<rev> Bringe diese Karte unter der Kontrolle eines Ermittlers an deinem Ort ins Spiel.\n<act><act>: Lege eine <int>-Probe (3) ab. Falls die Probe gelingt, entferne 1 Verderben von der aktuellen Agenda und streiche im Kampagnenlogbuch 1 Z\u00e4hlstrich unter \u201eDrohendes Unheil\u201c durch. (Nur 1 Erfolg pro Spiel f\u00fcr die ganze Gruppe.)",
                 "flavor_text": "",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "illustration": "./images/edited_images/stasis cube.jpg",
@@ -8759,13 +8861,14 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
                     "square",
                     "quote"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "38",
             "project_number": "280",
@@ -8782,7 +8885,7 @@
                 "text": "<rev> Bringe diese Karte unter der Kontrolle eines Ermittlers an deinem Ort ins Spiel.\n<act> Falls die oberste Karte des Scan-Decks das Symbol eines enth\u00fcllten Ortes im Spiel besitzt, ersch\u00f6pfe das Universalarchiv: <b>Scannen.</b> Ziehe die oberste Karte des Scan-Decks. Mische das Scan-Deck.\n",
                 "flavor_text": "",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "illustration": "./images/edited_images/Alienartefact yoogyart.jpg",
@@ -8792,14 +8895,15 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
                     "crescent",
                     "clover",
                     "hourglass"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "39",
             "project_number": "281",
@@ -9050,7 +9154,7 @@
                 "slot": "1 Hand",
                 "flavor_text": "",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "icons": "II",
                 "illustration": "./images/xx/Purchasable Science Cards/3_Germanium_Detector-1.png",
@@ -9076,7 +9180,7 @@
                 "cost": "0",
                 "flavor_text": "",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "icons": "Q",
@@ -9102,7 +9206,7 @@
                 "cost": "2",
                 "flavor_text": "",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "icons": "CC",
@@ -9126,7 +9230,7 @@
                 "cost": "0",
                 "flavor_text": "",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "icons": "Q",
@@ -9149,7 +9253,7 @@
                 "cost": "0",
                 "flavor_text": "",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "icons": "Q",
@@ -9178,7 +9282,7 @@
                 "slot": "1 Hand",
                 "flavor_text": "",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "icons": "QQ",
@@ -9205,7 +9309,7 @@
                 "cost": "1",
                 "flavor_text": "",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "icons": "WW",
@@ -9229,7 +9333,7 @@
                 "cost": "0",
                 "flavor_text": "",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "illustration": "./images/edited_images/particleAccelerator.jpg",
@@ -9255,7 +9359,7 @@
                 "slot": "1 Hand",
                 "flavor_text": "",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "level": "None",
                 "icons": "AA",
@@ -9285,11 +9389,12 @@
                 ],
                 "icons": "II",
                 "illustration": "./images/edited_images/MarcSimonetti.jpg",
-                "collection": "<image src=\"./images/Flask.png\"> <exn>",
                 "illustrator": "Illus. Marc Simonetti",
                 "illustration_pan_x": -250.0,
                 "illustration_pan_y": -1.0,
-                "illustration_scale": 1.16
+                "illustration_scale": 1.16,
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Flask.png\">",
+                "collection_number": "<exn>"
             },
             "back": {
                 "type": "player"
@@ -9314,8 +9419,9 @@
                 "illustration": "./images/xx/Kate Winthrop/Flux-Stabilizer-Front-Face.jpg",
                 "illustration_pan_x": -27.0,
                 "illustration_pan_y": 15.0,
-                "collection": "<image src=\"./images/Flask.png\"> <exn>",
-                "illustrator": "Illus. Micah Epstein"
+                "illustrator": "Illus. Micah Epstein",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Flask.png\">",
+                "collection_number": "<exn>"
             },
             "back": {
                 "type": "player"
@@ -9343,8 +9449,9 @@
                 "illustration_pan_x": 60.0,
                 "illustration_pan_y": 288.0,
                 "illustration_scale": 1.16,
-                "collection": "<image src=\"./images/Flask.png\"> <exn>",
-                "illustrator": "Illus. Cristi Balanescu"
+                "illustrator": "Illus. Cristi Balanescu",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Flask.png\">",
+                "collection_number": "<exn>"
             },
             "back": {
                 "type": "investigator_back",
@@ -9392,14 +9499,15 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "text": "\n\n\n\n",
                 "connections": [
                     "quote",
                     "double_slash"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "2",
             "project_number": "302",
@@ -9414,7 +9522,6 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "text": "\n\n\n\n",
@@ -9422,7 +9529,9 @@
                     "crescent",
                     "clover",
                     "hourglass"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "3",
             "project_number": "303",
@@ -9437,7 +9546,6 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "text": "\n\n\n\n",
@@ -9445,7 +9553,9 @@
                     "circle",
                     "triangle",
                     "square"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "4",
             "project_number": "304",
@@ -9460,13 +9570,14 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "text": "\n\n\n\n",
                 "connections": [
                     "quote"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "1",
             "project_number": "301",
@@ -9489,10 +9600,10 @@
                     "weakness"
                 ],
                 "attack": "2",
-                "collection": "<image src=\"./images/Flask.png\"> <exn>",
                 "illustrator": "Illus. Borja Pindado",
                 "illustration_pan_y": 900.0,
-                "subtitle": "SCHW\u00c4CHE"
+                "subtitle": "SCHW\u00c4CHE",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Flask.png\">"
             },
             "back": {
                 "type": "player"
@@ -9512,9 +9623,10 @@
                     "weakness"
                 ],
                 "illustration": "./images/edited_images/nele-diel-dreamworld.jpg",
-                "collection": "<image src=\"./images/Flask.png\"> <exn>",
                 "illustration_pan_x": -200.0,
-                "illustrator": "Illus. Nele Diel"
+                "illustrator": "Illus. Nele Diel",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Flask.png\">",
+                "collection_number": "<exn>"
             },
             "back": {
                 "type": "player"
@@ -9541,7 +9653,7 @@
                 "illustration_pan_x": -43.0,
                 "illustration_pan_y": 39.0,
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "name": "<unique><name>"
             },
@@ -9565,7 +9677,7 @@
                 "sanity": "1",
                 "flavor_text": "Die Mi-Go retteten sie vor den fr\u00fchen unmenschlichen Tierversuchen. Sie hofften, dass die Menschheit danach streben w\u00fcrde, freundlicher zu allen Lebewesen und ihrem eigenen Planeten zu werden.",
                 "classes": [
-                    "story"
+                    "neutral"
                 ],
                 "illustration": "./images/edited_images/Laika.jpg",
                 "name": "<unique><name>",
@@ -9574,13 +9686,14 @@
             },
             "back": {
                 "type": "fullart_scanning",
-                "collection": " ",
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
                     "heart",
                     "diamond"
-                ]
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "5",
             "project_number": "305",
@@ -10176,34 +10289,6 @@
             "encounter_set": "50658ed6-c84e-4498-be4e-1df4309d5bc9",
             "encounter_number": "3-4",
             "project_number": "335"
-        },
-        {
-            "amount": 2,
-            "front": {
-                "type": "chapter_2/enemy",
-                "attack": "4",
-                "health": "4",
-                "evade": "3",
-                "damage": "1",
-                "horror": "1",
-                "traits": "Monstre. Yithien.",
-                "text": "<prey> Le moins de cartes en main.\n<for> Quand l'<name> vous attaque : d\u00e9faussez 1 carte prise au hasard dans votre main. Si vous ne pouvez pas, l'<name> inflige +1 d\u00e9g\u00e2t et +1 horreur pour cette attaque.",
-                "illustrator": "Illus. Chun Lo",
-                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_all_german_export_v11_flavor_dark_matter_3.png",
-                "name": "<name>",
-                "flavor_text": null,
-                "illustration_pan_y": 400.0,
-                "illustration_scale": 2.0,
-                "victory": "Victoire 1."
-            },
-            "back": {
-                "type": "encounter"
-            },
-            "encounter_set": "50658ed6-c84e-4498-be4e-1df4309d5bc9",
-            "name": "Observateur Yithien (Copy)",
-            "project_number": "334",
-            "encounter_number": "1-2",
-            "id": "8fb30aa9-5b0b-42f9-9837-e076b73c8fa5"
         }
     ],
     "guides": [
