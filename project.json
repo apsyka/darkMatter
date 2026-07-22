@@ -2296,8 +2296,7 @@
             "back": {
                 "type": "act_back",
                 "name": "Zerstreute Geister",
-                "text": "Bringe alle beiseitegelegten Kopien von Undefinierter Raum ins Spiel. Ordne sie dabei nach folgendem Muster um die Eingangshalle herum an:\n<center><image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationCross.png\" 0.22in> <image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationMoon.png\" 0.22in> <image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationTriangle.png\" 0.22in>\n<image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationSquare.png\" 0.22in> <image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationSlash.png\" 0.22in> <image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationCircle.png\" 0.22in>\n\n(<image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationSlash.png\" 0.11in bottom> ist die Eingangshalle.)</i>\n\n\n",
-                "flavor_text": "Du merkst schnell, dass hier etwas v\u00f6llig falsch ist. Die Flure sind zu einem unm\u00f6glichen Labyrinth verflochten und f\u00fchren in alle m\u00f6glichen und unm\u00f6glichen Richtungen. Die Simulation der Schule ist vollkommen fehlerhaft. Du wirst die Kinder erst finden k\u00f6nnen, wenn du den Aufbau der Schule wiederhergestellt hast, ein Codest\u00fcck nach dem anderen.",
+                "text": "<blockquote>Du merkst schnell, dass hier etwas v\u00f6llig falsch ist. Die Flure sind zu einem unm\u00f6glichen Labyrinth verflochten und f\u00fchren in alle m\u00f6glichen und unm\u00f6glichen Richtungen. Die Simulation der Schule ist vollkommen fehlerhaft. Du wirst die Kinder erst finden k\u00f6nnen, wenn du den Aufbau der Schule wiederhergestellt hast, ein Codest\u00fcck nach dem anderen.</blockquote>\nBringe alle beiseitegelegten Kopien von Undefinierter Raum ins Spiel. Ordne sie dabei nach folgendem Muster um die Eingangshalle herum an:\n<center><image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationCross.png\" 0.22in> <image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationMoon.png\" 0.22in> <image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationTriangle.png\" 0.22in>\n<image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationSquare.png\" 0.22in> <image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationSlash.png\" 0.22in> <image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationCircle.png\" 0.22in>\n\n(<image \"D:\\Brettspiele\\Strange Eons Projects\\Dunkle Materie\\Bilder\\LocationSlash.png\" 0.11in bottom> ist die Eingangshalle.)</i>\n\n\n",
                 "index": "1b"
             },
             "encounter_number": "4",
@@ -6876,8 +6875,7 @@
             "back": {
                 "type": "act_back",
                 "name": "Wo alles verloren ist",
-                "text": "<hr> <b>\u00dcberpr\u00fcfe das Kampagnenlogbuch. Falls <i>du die Auff\u00fchrung von Carcosas Erbin angesehen hast</i>:</b>\n<blockquote>Die Palastr\u00e4ume, die auf der Karte eingezeichnet sind\u2026 es sind dieselben, die auch im virtuellen Theaterst\u00fcck vorkamen. Du nimmst die Karte mit und machst dich auf den Weg zum H\u00f6hleneingang \u2013 dem Eingang ins Reich Carcosa.</blockquote>\nJeder Ermittler erh\u00e4lt 1 Hinweis aus dem Markervorrat.\nBringe alle beiseitegelegten Orte mit der <t>H\u00f6hle</t>-Seite nach oben ins Spiel.\n<hr> <b>Ansonsten:</b>\n<blockquote>Die Untersuchung der Karte weckt keine Erinnerungen in dir. Du nimmst die Karte mit und beginnst, die H\u00f6hlen zu durchsuchen \u2013 irgendwo hier muss der Eingang ins Reich Carcosa sein.</blockquote>\nBringe alle beiseitegelegten Orte mit der <i><b>H\u00f6hle</b></i>-Seite nach oben ins Spiel.\nDer beiseitegelegte Gegner Bestie von Aldebaran erscheint in der Zyklopischen H\u00f6hle.",
-                "flavor_text": "Verborgen in einem Fach des verlassenen Shuttles liegt eine beidseitig beschriftete Karte des Asteroiden, die von den Kultisten w\u00e4hrend ihrer Erkundungen angefertigt wurde. Auf die eine Seite der Karte wurde ein weitl\u00e4ufiges Netz aus H\u00f6hlen und Tunneln gezeichnet, das sich durch das ganze Bruchst\u00fcck zieht. Als du die Karte umdrehst, siehst du auf ihrer R\u00fcckseite etwas ganz anderes \u2013 einen gro\u00dfen Palast, der anstelle der Tunnel prunkvolle Flure besitzt, und majest\u00e4tische Kammern, wo vorher unterirdische H\u00f6hlen waren. Scheinbar gibt es d\u00fcnne Stellen im Schleier der Realit\u00e4t, durch die die Entdecker zeitweise in die Paralleldimension Carcosa reisen konnten.",
+                "text": "<blockquote>Verborgen in einem Fach des verlassenen Shuttles liegt eine beidseitig beschriftete Karte des Asteroiden, die von den Kultisten w\u00e4hrend ihrer Erkundungen angefertigt wurde. Auf die eine Seite der Karte wurde ein weitl\u00e4ufiges Netz aus H\u00f6hlen und Tunneln gezeichnet, das sich durch das ganze Bruchst\u00fcck zieht. Als du die Karte umdrehst, siehst du auf ihrer R\u00fcckseite etwas ganz anderes \u2013 einen gro\u00dfen Palast, der anstelle der Tunnel prunkvolle Flure besitzt, und majest\u00e4tische Kammern, wo vorher unterirdische H\u00f6hlen waren. Scheinbar gibt es d\u00fcnne Stellen im Schleier der Realit\u00e4t, durch die die Entdecker zeitweise in die Paralleldimension Carcosa reisen konnten.</blockquote>\n<hr> \n<b>\u00dcberpr\u00fcfe das Kampagnenlogbuch. Falls <i>du die Auff\u00fchrung von Carcosas Erbin angesehen hast</i>:</b>\n<blockquote>Die Palastr\u00e4ume, die auf der Karte eingezeichnet sind\u2026 es sind dieselben, die auch im virtuellen Theaterst\u00fcck vorkamen. Du nimmst die Karte mit und machst dich auf den Weg zum H\u00f6hleneingang \u2013 dem Eingang ins Reich Carcosa.</blockquote>\nJeder Ermittler erh\u00e4lt 1 Hinweis aus dem Markervorrat.\nBringe alle beiseitegelegten Orte mit der <t>H\u00f6hle</t>-Seite nach oben ins Spiel.\n<hr> \n<b>Ansonsten:</b>\n<blockquote>Die Untersuchung der Karte weckt keine Erinnerungen in dir. Du nimmst die Karte mit und beginnst, die H\u00f6hlen zu durchsuchen \u2013 irgendwo hier muss der Eingang ins Reich Carcosa sein.</blockquote>\nBringe alle beiseitegelegten Orte mit der <i><b>H\u00f6hle</b></i>-Seite nach oben ins Spiel.\nDer beiseitegelegte Gegner Bestie von Aldebaran erscheint in der Zyklopischen H\u00f6hle.",
                 "index": "1b"
             },
             "encounter_number": "4",
@@ -8484,8 +8482,8 @@
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
-                    "triangle",
-                    "circle"
+                    "circle",
+                    "triangle"
                 ],
                 "collection_icon": "",
                 "collection_number": ""
@@ -8580,8 +8578,8 @@
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
-                    "triangle",
-                    "circle"
+                    "circle",
+                    "triangle"
                 ],
                 "collection_icon": "",
                 "collection_number": ""
@@ -8777,8 +8775,8 @@
                 "copyright": " ",
                 "illustration": "./images/scanningBack.png",
                 "connections": [
-                    "triangle",
                     "circle",
+                    "triangle",
                     "square"
                 ],
                 "collection_icon": "",
@@ -9176,7 +9174,10 @@
                 "illustration_scale": 2.04,
                 "illustration_pan_x": 31.0,
                 "illustration_pan_y": 81.0,
-                "level": "None"
+                "level": "None",
+                "slots": [
+                    "hand"
+                ]
             },
             "back": {
                 "type": "player"
@@ -9380,7 +9381,10 @@
                 "icons": "AA",
                 "illustration": "./images/xx/Purchasable Science Cards/4_Sub-Electron_Noise_Sensor-1.png",
                 "illustration_pan_x": 6.0,
-                "illustration_pan_y": 15.0
+                "illustration_pan_y": 15.0,
+                "slots": [
+                    "hand"
+                ]
             },
             "back": {
                 "type": "player"
@@ -9670,7 +9674,10 @@
                 "classes": [
                     "neutral"
                 ],
-                "name": "<unique><name>"
+                "name": "<unique><name>",
+                "slots": [
+                    "hand"
+                ]
             },
             "back": {
                 "type": "player"

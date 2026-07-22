@@ -265,7 +265,7 @@
             "name": "Le Vaisseau Fant\u00f4me",
             "front": {
                 "name": "<name>",
-                "text": "<act> S'il n'y a aucun indice sur votre<br> lieu : <b>Analyse.</b> Cherchez la carte la plus proche du dessus du deck Analyse avec une ic\u00f4ne correspondant \u00e0 votre lieu actuel et piochez-la. M\u00e9langez le deck Analyse.\n\n",
+                "text": "<act> S'il n'y a aucun indice sur votre<br> lieu : <b>Analyser.</b> Cherchez la carte la plus proche du dessus du deck Analyse avec une ic\u00f4ne correspondant \u00e0 votre lieu actuel et piochez-la. M\u00e9langez le deck Analyse.\n\n",
                 "flavor_text": "Des voix synth\u00e9tiques sanglotent en chantant des comptines enfantines. Les lumi\u00e8res du vaisseau clignotent et les sas automatiques s'ouvrent et se referment tous seuls. L'\u00c9pouvantail semble avoir son propre esprit. "
             },
             "back": {
@@ -281,7 +281,7 @@
             "name": "Le Soul\u00e8vement des Machines",
             "front": {
                 "name": "<name>",
-                "text": "<act> S'il n'y a aucun indice sur votre   lieu : <b>Analyse.</b> Cherchez la carte la plus proche du dessus du deck Analyse avec une ic\u00f4ne correspondant \u00e0 votre lieu actuel et piochez-la. M\u00e9langez le deck Analyse.\n\n",
+                "text": "<act> S'il n'y a aucun indice sur votre   lieu : <b>Analyser.</b> Cherchez la carte la plus proche du dessus du deck Analyse avec une ic\u00f4ne correspondant \u00e0 votre lieu actuel et piochez-la. M\u00e9langez le deck Analyse.\n\n",
                 "flavor_text": "L'IA du vaisseau est connect\u00e9e \u00e0 chaque machine et est capable de toutes les contr\u00f4ler. D\u00e9sesp\u00e9r\u00e9e et perdue dans sa propre folie, elle ne reculera devant rien pour exterminer les intrus qui l'envahissent."
             },
             "back": {
@@ -411,7 +411,7 @@
             "name": "Infirmerie",
             "front": {
                 "name": "<name>",
-                "text": "<act> : <b>Analyse.</b> Recherchez des fournitures m\u00e9dicales. Cherchez la carte la plus proche du dessus du deck Analyse avec l'ic\u00f4ne ci-dessous et piochez-la. M\u00e9langez le deck Analyse.\n\n<center><size 120><image src=\".\\images\\xx\\svg\\connection_heart.svg\"></size>\n",
+                "text": "<act> : <b>Analyser.</b> Recherchez des fournitures m\u00e9dicales. Cherchez la carte la plus proche du dessus du deck Analyse avec l'ic\u00f4ne ci-dessous et piochez-la. M\u00e9langez le deck Analyse.\n\n<center><size 120><image src=\".\\images\\xx\\svg\\connection_heart.svg\"></size>\n",
                 "flavor_text": "",
                 "subtitle": null,
                 "traits": "L'\u00c9pouvantail."
@@ -443,7 +443,7 @@
             "name": "Passerelle de Commandement",
             "front": {
                 "name": "<name>",
-                "text": "<for> Apr\u00e8s avoir effectu\u00e9 une action analyse dans ce lieu, s'il n'y a aucun indice dessus : ajoutez 1<per_large> indice (pris dans la r\u00e9serve de pions) sur ce lieu.",
+                "text": "<for> Apr\u00e8s avoir effectu\u00e9 une action Analyser dans ce lieu, s'il n'y a aucun indice dessus : ajoutez 1<per_large> indice (pris dans la r\u00e9serve de pions) sur ce lieu.",
                 "flavor_text": "Il y a tout un panneau rempli de boutons de commande et de syst\u00e8mes de contr\u00f4le. Il faudra un certain temps pour comprendre comment les lire et les utiliser.",
                 "subtitle": null,
                 "traits": "L'\u00c9pouvantail. Acc\u00e8s."
@@ -471,7 +471,7 @@
             "name": "Combinaison EVA",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Vous avez le droit de mettre en jeu <name> sous le contr\u00f4le de n'importe quel investigateur. \n<act><act> Si vous \u00eates dans un lieu <t>Acc\u00e8s</t> : d\u00e9placez-vous dans un autre lieu <t>Acc\u00e8s</t>. Ensuite, effectuez une <b>Analyse</b>. Cherchez la carte la plus proche du dessus du deck Analyse avec l'ic\u00f4ne ci-dessous et piochez-la. M\u00e9langez le deck Analyse.\n<size 40> \n</size><center><size 120><image src=\".\\images\\xx\\svg\\connection_star.svg\"></size><size 20>\n </size>",
+                "text": "<rev> Vous avez le droit de mettre en jeu <name> sous le contr\u00f4le de n'importe quel investigateur. \n<act><act> Si vous \u00eates dans un lieu <t>Acc\u00e8s</t> : d\u00e9placez-vous dans un autre lieu <t>Acc\u00e8s</t>. Ensuite, effectuez une action Analyser. Cherchez la carte la plus proche du dessus du deck Analyse avec l'ic\u00f4ne ci-dessous et piochez-la. M\u00e9langez le deck Analyse.\n<size 40> \n</size><center><size 120><image src=\".\\images\\xx\\svg\\connection_star.svg\"></size><size 20>\n </size>",
                 "flavor_text": "",
                 "subtitle": null,
                 "traits": "Armure. Objet."
@@ -527,7 +527,7 @@
             "name": "JV-7 \u00ab Hyades \u00bb",
             "front": {
                 "name": "<unique><name>",
-                "text": "Distant. Alerte.\n<act> : <b>Discussion.</b> Effectuez un test de <wil> (3). En cas d'\u00e9chec, <name> vous attaque. En cas de r\u00e9ussite, choisissez une des ic\u00f4nes ci-dessous et effectuez une <b>Analyse.</b> Cherchez la carte la plus proche du dessus du deck Analyse avec l'ic\u00f4ne choisie et piochez-la. M\u00e9langez le deck Analyse.\n\n<center><size 120>  <image src=\".\\images\\xx\\svg\\connection_clover.svg\"> <image src=\".\\images\\xx\\svg\\connection_t.svg\"></size>\n",
+                "text": "Distant. Alerte.\n<act> : <b>Discussion.</b> Effectuez un test de <wil> (3). En cas d'\u00e9chec, <name> vous attaque. En cas de r\u00e9ussite, choisissez une des ic\u00f4nes ci-dessous et effectuez une action Analyse. Cherchez la carte la plus proche du dessus du deck Analyse avec l'ic\u00f4ne choisie et piochez-la. M\u00e9langez le deck Analyse.\n\n<center><size 120>  <image src=\".\\images\\xx\\svg\\connection_clover.svg\"> <image src=\".\\images\\xx\\svg\\connection_t.svg\"></size>\n",
                 "flavor_text": "",
                 "subtitle": "Copilote Automatique",
                 "victory": "Victoire 0.",
@@ -556,7 +556,7 @@
             "name": "LR-02 \u00ab Hali \u00bb",
             "front": {
                 "name": "<unique><name>",
-                "text": "Distant. Riposte\n<for> Apr\u00e8s avoir vaincu <name> : <b>Analyse.</b> Cherchez la carte la plus proche du dessus du deck Analyse avec l'ic\u00f4ne ci-dessous et piochez-la. M\u00e9langez le deck Analyse.\n\n<center><size 120><image src=\".\\images\\xx\\svg\\connection_clover.svg\"></size>\n",
+                "text": "Distant. Riposte\n<for> Apr\u00e8s avoir vaincu <name> : <b>Analyser.</b> Cherchez la carte la plus proche du dessus du deck Analyse avec l'ic\u00f4ne ci-dessous et piochez-la. M\u00e9langez le deck Analyse.\n\n<center><size 120><image src=\".\\images\\xx\\svg\\connection_clover.svg\"></size>\n",
                 "flavor_text": "",
                 "victory": "Victoire 1.",
                 "traits": "Humano\u00efde. IA. Machine."
@@ -578,7 +578,7 @@
             "name": "Interface Neuronale",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Vous avez le droit de mettre en jeu l'<name> sous le contr\u00f4le de n'importe quel investigateur.\n<act> D\u00e9pensez collectivement 2<per_large> indices : <b>Analyse.</b> Cherchez la carte la plus proche du dessus du deck Analyse avec l'ic\u00f4ne ci-dessous et piochez-la. M\u00e9langez le deck Analyse.\n<size 40> \n</size><center><size 120><image src=\".\\images\\xx\\svg\\connection_clover.svg\"></size><size 20>\n </size>",
+                "text": "<rev> Vous avez le droit de mettre en jeu l'<name> sous le contr\u00f4le de n'importe quel investigateur.\n<act> D\u00e9pensez collectivement 2<per_large> indices : <b>Analyser.</b> Cherchez la carte la plus proche du dessus du deck Analyse avec l'ic\u00f4ne ci-dessous et piochez-la. M\u00e9langez le deck Analyse.\n<size 40> \n</size><center><size 120><image src=\".\\images\\xx\\svg\\connection_clover.svg\"></size><size 20>\n </size>",
                 "flavor_text": "",
                 "subtitle": null,
                 "traits": "Appareil."
@@ -697,7 +697,7 @@
             "name": "D\u00e9compression",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Attachez <name> au         lieu <t>Acc\u00e8s</t> le plus proche.\n<for> \u00c0la fin du round : chaque investigateur dans le lieu attach\u00e9 sans le soutien d'histoire Combinaison EVA sous son contr\u00f4le subit <br>3 d\u00e9g\u00e2ts directs. D\u00e9faussez <name>.",
+                "text": "<rev> Attachez <name> au lieu <t>Acc\u00e8s</t> le plus proche.\n<for> \u00c0 la fin du round : chaque investigateur dans le lieu attach\u00e9 sans le soutien d'histoire Combinaison EVA sous son contr\u00f4le subit <br>3 d\u00e9g\u00e2ts directs. D\u00e9faussez <name>.",
                 "flavor_text": "\u00ab Splash ! \u00bb",
                 "subtitle": null,
                 "traits": "Risque."
@@ -719,7 +719,7 @@
             "name": "L'\u0152il qui Voit Tout",
             "front": {
                 "name": "<name>",
-                "text": "<size 60><rev> Mettez <name> dans votre zone de menace.\nEn tant que co\u00fbt suppl\u00e9mentaire pour effectuer une action Analyse, d\u00e9faussez des cartes du dessus du deck Rencontre jusqu'\u00e0 ce qu'une carte Rencontre <t>IA</t> soit d\u00e9fauss\u00e9e et piochez-la.\n<for> \u00c0 la fin de votre tour : effectuez un test de <agi> (3). En cas de r\u00e9ussite, d\u00e9faussez <name>.\n",
+                "text": "<size 60><rev> Mettez <name> dans votre zone de menace.\nEn tant que co\u00fbt suppl\u00e9mentaire pour effectuer une action Analyser, d\u00e9faussez des cartes du dessus du deck Rencontre jusqu'\u00e0 ce qu'une carte Rencontre <t>IA</t> soit d\u00e9fauss\u00e9e et piochez-la.\n<for> \u00c0 la fin de votre tour : effectuez un test de <agi> (3). En cas de r\u00e9ussite, d\u00e9faussez <name>.\n",
                 "flavor_text": "",
                 "subtitle": null,
                 "traits": "IA."
@@ -833,7 +833,7 @@
                 "traits": null
             },
             "back": {
-                "name": "TERREUR NOCTURNE",
+                "name": "<font \"./fonts/Bonechiller.ttf\">TERREUR NOCTURNE",
                 "text": "Si vous \u00eates \u00e0 l'Acte 1, g\u00e9n\u00e9rez l'ennemi Le Croque-Mitaine mis de c\u00f4t\u00e9 dans la Cour d'\u00c9cole, inclin\u00e9.\nSi vous \u00eates \u00e0 l'Acte 2, g\u00e9n\u00e9rez l'ennemi Le Croque-Mitaine mis de c\u00f4t\u00e9 dans le Hall d'Entr\u00e9e, inclin\u00e9.\nQuel que soit l'acte en cours, m\u00e9langez la pile de d\u00e9fausse Rencontre et le set de rencontre <i>Le Croque-Mitaine</i> mis de c\u00f4t\u00e9 dans le deck Rencontre.<size 10><br></size>\n<center><size 120><image src=\".\\images\\The Boogeyman.png\"></size>",
                 "flavor_text": "Vous entendez un rire sordide qui r\u00e9sonne dans le paysage virtuel, puis des bruits de pas dont vous ne situez pas l'origine se rapprochant irr\u00e9m\u00e9diablement de vous. Un d\u00e9mon cauchemardesque sort de l'ombre. Mesurant plus de 2 m\u00e8tres, avec un visage peint en blanc, des yeux jaunes cern\u00e9s de noir et des cheveux boucl\u00e9s d'un rouge contre-nature, la chose ressemblerait presque \u00e0 un clown. Mais un vrai clown ne porterait jamais un costume de couleur jaune moisie et noir, encore moins en lambeaux tel que le sien. Aucun regard de clown ne serait jamais rempli d'une haine aussi folle. Il sourit m\u00e9chamment, montrant deux rang\u00e9es de dents pointues. Vous remarquez ses doigts anormalement longs se terminant par des ongles noirs et ac\u00e9r\u00e9s.\nVous savez instinctivement quelle est cette cr\u00e9ature. C'est le pire cauchemar de tous les enfants : le Croque-Mitaine !",
                 "traits": null
@@ -1029,7 +1029,7 @@
             "name": "K2-PS187",
             "front": {
                 "name": "<unique><name>",
-                "text": "Permanent.\n<reaction> Au d\u00e9but du round, choisissez un investigateur : cet investigateur gagne une action suppl\u00e9mentaire durant son tour, qui ne peut \u00eatre utilis\u00e9e que pour une action analyse.",
+                "text": "Permanent.\n<reaction> Au d\u00e9but du round, choisissez un investigateur : cet investigateur gagne une action suppl\u00e9mentaire durant son tour, qui ne peut \u00eatre utilis\u00e9e que pour Analyser.",
                 "flavor_text": "",
                 "subtitle": "Capacit\u00e9 \u00e0 25%",
                 "traits": "IA."
@@ -1040,7 +1040,7 @@
             "name": "K2-PS187",
             "front": {
                 "name": "<unique><name>",
-                "text": "\nPermanent.\n<free> Lors de la phase d'Investigation, choisissez un investigateur : cet investigateur gagne une action suppl\u00e9mentaire durant son tour, qui ne peut \u00eatre utilis\u00e9e que pour une action Analyse. (Limite d'une fois par round.)",
+                "text": "\nPermanent.\n<free> Lors de la phase d'Investigation, choisissez un investigateur : cet investigateur gagne une action suppl\u00e9mentaire durant son tour, qui ne peut \u00eatre utilis\u00e9e que pour Analyser. (Limite d'une fois par round.)",
                 "flavor_text": "",
                 "subtitle": " Capacit\u00e9 \u00e0 50%",
                 "traits": "IA."
@@ -1051,7 +1051,7 @@
             "name": "K2-PS187",
             "front": {
                 "name": "<unique><name>",
-                "text": "Permanent.\n<free> Lors de la phase d'Investigation, choisissez un investigateur : cet investigateur gagne une action suppl\u00e9mentaire durant son tour, qui ne peut \u00eatre utilis\u00e9e que pour une action Analyse. (Limite d'une fois par round.)\n<reaction> Apr\u00e8s qu'un investigateur a effectu\u00e9 une action Analyse manqu\u00e9e : cet investigateur peut soit piocher 1 carte, soit gagner 1 ressource.",
+                "text": "Permanent.\n<free> Lors de la phase d'Investigation, choisissez un investigateur : cet investigateur gagne une action suppl\u00e9mentaire durant son tour, qui ne peut \u00eatre utilis\u00e9e que pour Analyser. (Limite d'une fois par round.)\n<reaction> Apr\u00e8s qu'un investigateur a effectu\u00e9 une action Analyser infructueuse : cet investigateur peut soit piocher 1 carte, soit gagner 1 ressource.",
                 "flavor_text": "",
                 "subtitle": "Capacit\u00e9 \u00e0 75%",
                 "traits": "IA."
@@ -1062,7 +1062,7 @@
             "name": "K2-PS187",
             "front": {
                 "name": "<unique><name>",
-                "text": "Permanent.\n<free> Lors de la phase d'Investigation, choisissez un investigateur : cet investigateur gagne une action suppl\u00e9mentaire durant son tour, qui ne peut \u00eatre utilis\u00e9e que pour une action Analyse. (Limite d'une fois par round.)\n<reaction> Apr\u00e8s qu'un investigateur a effectu\u00e9 une action Analyse : cet investigateur peut soit piocher 1 carte, soit gagner 1 ressource. (Limite d'une fois par round.)",
+                "text": "Permanent.\n<free> Lors de la phase d'Investigation, choisissez un investigateur : cet investigateur gagne une action suppl\u00e9mentaire durant son tour, qui ne peut \u00eatre utilis\u00e9e que pour Analyser. (Limite d'une fois par round.)\n<reaction> Apr\u00e8s qu'un investigateur a effectu\u00e9 une action Analyser : cet investigateur peut soit piocher 1 carte, soit gagner 1 ressource. (Limite d'une fois par round.)",
                 "flavor_text": "",
                 "subtitle": "Capacit\u00e9 \u00e0 100%",
                 "traits": "IA."
@@ -1089,7 +1089,7 @@
             "name": "Salle de Classe K2",
             "front": {
                 "name": "<name>",
-                "text": "<act> Si la Salle de Classe K2 est adjacente \u00e0 4 autres lieux : chaque investigateur dans la Salle de Classe K2 inscrit 1 trait sous la mention de ses \u00ab Souvenirs \u00bb. (Limite collective d'une fois par partie.)",
+                "text": "<act> Si la Salle de Classe K2 est adjacente \u00e0 4 autres lieux : chaque investigateur dans la Salle de Classe K2 inscrit 1 trait sous la mention de ses<br> \u00ab Souvenirs \u00bb. (Limite collective d'une fois par partie.)",
                 "flavor_text": "Les textures et les mat\u00e9riaux qui composent cette classe sont particuli\u00e8rement d\u00e9taill\u00e9s.",
                 "subtitle": null,
                 "victory": "Victoire 1.",
@@ -1122,7 +1122,7 @@
             "name": "Gymnase",
             "front": {
                 "name": "<name>",
-                "text": "<reaction> Quand un ennemi devrait entrer dans ce lieu : effectuez un test de <agi> (3). En cas de r\u00e9ussite, cet ennemi ne vous engage pas et ne vous attaque pas jusqu'\u00e0 la fin du round.",
+                "text": "<reaction> Quand un ennemi devrait entrer dans ce lieu : effectuez un test de <agi> (3). En cas de r\u00e9ussite, cet ennemi ne peut ni vous attaquer ni vous engager jusqu'\u00e0 la fin du round.",
                 "flavor_text": "Ce grand espace offre beaucoup de place pour courir, mais rien pour vous cacher.",
                 "subtitle": null,
                 "traits": "\u00c9cole."
@@ -1154,7 +1154,7 @@
             "name": "Biblioth\u00e8que",
             "front": {
                 "name": "<name>",
-                "text": "X est le nombre de lieux adjacents \u00e0 la Biblioth\u00e8que.<br><free> S'il n'y a aucun indice sur la Biblioth\u00e8que : \u00e9changez la Biblioth\u00e8que avec un autre lieu <t>\u00c9cole</t> et placez dessus 1<per_large> indice pris dans la r\u00e9serve de pions.",
+                "text": "X est le nombre de lieux adjacents \u00e0 la Biblioth\u00e8que.\n<Act> S'il n'y a aucun indice sur la Biblioth\u00e8que : \u00e9changez la Biblioth\u00e8que avec un autre lieu <t>\u00c9cole</t> et placez dessus 1<per_large> indice pris dans la r\u00e9serve de pions.",
                 "flavor_text": "",
                 "subtitle": null,
                 "victory": "Victoire 1.",
@@ -1199,7 +1199,7 @@
             "name": "Ombre Psychique",
             "front": {
                 "name": "<unique><name>",
-                "text": "<spawn> N'importe quel lieu vide.\nRiposte.\nX est la valeur occulte du lieu de cet ennemi.<br><for> Apr\u00e8s que le lieu de cet ennemi a \u00e9t\u00e9 \u00e9chang\u00e9 avec un autre lieu : d\u00e9placez cet ennemi de 1 lieu vers l'investigateur le plus proche.",
+                "text": "Riposte.\nX est la valeur occulte du lieu de cet ennemi.\n<spawn> N'importe quel lieu vide.\n<for> Apr\u00e8s que le lieu de cet ennemi a \u00e9t\u00e9 \u00e9chang\u00e9 avec un autre lieu : d\u00e9placez cet ennemi de 1 lieu vers l'investigateur le plus proche.",
                 "flavor_text": "",
                 "subtitle": null,
                 "victory": "Victoire 1.",
@@ -1266,7 +1266,7 @@
             "name": "Byakhee Virtuel",
             "front": {
                 "name": "<name>",
-                "text": "<spawn> Lieu le plus \u00e9loign\u00e9 de vous.\nChasseur.\n<for> Quand le Byakhee Virtuel devrait se d\u00e9placer entre deux lieux sans investigateur : \u00e9changez ces lieux entre eux \u00e0 la place.",
+                "text": "Chasseur.\n<spawn> Lieu le plus \u00e9loign\u00e9 de vous.\n<for> Quand le Byakhee Virtuel devrait se d\u00e9placer entre deux lieux sans investigateur : \u00e9changez ces lieux entre eux \u00e0 la place.",
                 "flavor_text": "",
                 "subtitle": null,
                 "traits": "Virtuel. Monstre. Byakhee."
@@ -1277,7 +1277,7 @@
             "name": "LE CROQUE-MITAINE",
             "front": {
                 "name": "<unique><font \"./fonts/Bonechiller.ttf\"><name>",
-                "text": "Massif. Chasseur.\nNe peut pas subir des d\u00e9g\u00e2ts ou \u00eatre attaqu\u00e9. Vous ne pouvez pas \u00e9chapper au Croque-Mitaine.\n",
+                "text": "Massif. Chasseur.\nNe peut pas subir des d\u00e9g\u00e2ts ou \u00eatre attaqu\u00e9. \nVous ne pouvez pas \u00e9chapper au Croque-Mitaine.\n",
                 "flavor_text": "Un condens\u00e9 des plus grandes peurs enfantines. Le Croque-Mitaine remplit les Contr\u00e9es du R\u00eave Virtuel de son rire sinistre.",
                 "subtitle": "<font \"./fonts/Bonechiller.ttf\">Somme de Toutes les Peurs",
                 "traits": "Virtuel. Monstre. \u00c9lite."
@@ -1299,7 +1299,7 @@
             "name": "APPROCHE-TOI...",
             "front": {
                 "name": "<font \"./fonts/Bonechiller.ttf\"><name>",
-                "text": "<rev> Mettez Approche Toi\u2026 en jeu dans votre zone de menace.<br><for> \u00c0 la fin de votre tour, si vous n'\u00eates pas dans le lieu o\u00f9 se situe Le Croque-Mitaine : d\u00e9faussez Approche Toi\u2026 et effectuez un test <br>de <willpower> (3). En cas d'\u00e9chec, d\u00e9placez-vous d'un<br> lieu vers Le Croque-Mitaine.",
+                "text": "<rev> Mettez Approche Toi\u2026 en jeu dans votre zone de menace.<br><for> \u00c0 la fin de votre tour, si vous n'\u00eates pas dans le lieu o\u00f9 se situe Le Croque-Mitaine : d\u00e9faussez Approche Toi\u2026 et effectuez un test <br>de <willpower> (3). En cas d'\u00e9chec, d\u00e9placez-vous de 1 lieu vers Le Croque-Mitaine.",
                 "flavor_text": "<font \"./fonts/Bonechiller.ttf\">Tu veux un ballon ?",
                 "subtitle": null,
                 "traits": "Cauchemar. Terreur."
@@ -1321,7 +1321,7 @@
             "name": "SURPRISE !",
             "front": {
                 "name": "<font \"./fonts/Bonechiller.ttf\"><name>",
-                "text": "P\u00e9ril.\n<rev> Effectuez un test de <willpower> (4) ou <br>de <agi> (4). En cas d'\u00e9chec, soit vous d\u00e9placez Le Croque-Mitaine dans votre lieu, soit Le Croque-Mitaine vous attaque imm\u00e9diatement (<i>depuis n'importe quel lieu</i>).",
+                "text": "P\u00e9ril.\n<rev> Effectuez un test de <willpower> (4) ou <br>de <agi> (4). En cas d'\u00e9chec, soit vous d\u00e9placez Le Croque-Mitaine dans votre lieu, soit Le Croque-Mitaine vous attaque imm\u00e9diatement <br>(<i>depuis n'importe quel lieu</i>).",
                 "flavor_text": "Ne regarde pas derri\u00e8re toi.",
                 "subtitle": null,
                 "traits": "Virtuel. Cauchemar."
@@ -1397,14 +1397,14 @@
             "name": "Le Maelstr\u00f6m Quantique (v. II)",
             "front": {
                 "name": "<name>",
-                "text": "<left><act> : <b>Analyse.</b> Cherchez la carte la plus proche du dessus du deck Analyse avec une ic\u00f4ne identique \u00e0 votre lieu et piochez-la. Si c'est un lieu, mettez-le en jeu et d\u00e9placez-vous vers lui. M\u00e9langez le deck Analyse.\n",
+                "text": "<left><act> : <b>Analyser.</b> Cherchez la carte la plus proche du dessus du deck Analyse avec une ic\u00f4ne identique \u00e0 votre lieu et piochez-la. Si c'est un lieu, mettez-le en jeu et d\u00e9placez-vous vers lui. M\u00e9langez le deck Analyse.\n",
                 "flavor_text": "<center>\u00ab Je crois pouvoir affirmer que personne ne comprend vraiment la physique quantique. \u00bb\n</center><right>-- Richard Feynman,\nPrix Nobel de physique, 1964",
                 "subtitle": null,
                 "traits": null
             },
             "back": {
                 "name": "Tunnel Quantique",
-                "text": "Si le deck Analyse n'est pas vide, regardez la carte du dessus du deck Analyse. Si c'est un lieu, mettez-le en jeu et d\u00e9placez chaque investigateur et chaque ennemi non-<b>Liminaire</b> dans ce lieu.\nM\u00e9langez tous les lieux vides (sans ennemi ou investigateur) et sans pion Ressource dessus dans le deck Analyse.\nS'il y a une autre intrigue sous celle-ci, mettez de c\u00f4t\u00e9 cette intrigue, hors-jeu. Sinon, inscrivez dans votre Carnet de Campagne 1 trait sous la mention \u00ab Apocalypse Imminente \u00bb et m\u00e9langez cette intrigue avec les intrigues mises de c\u00f4t\u00e9 pour former un nouveau deck Intrigue.",
+                "text": "Si le deck Analyse n'est pas vide, regardez la carte du dessus du deck Analyse. Si c'est un lieu, mettez-le en jeu et d\u00e9placez chaque investigateur et chaque ennemi non-<b>Liminaire</b> dans ce lieu.\nM\u00e9langez tous les lieux vides (sans ennemi ou investigateur) et sans pion Ressource dessus dans le deck Analyse.\nS'il y a une autre intrigue sous celle-ci, mettez de c\u00f4t\u00e9 cette intrigue, hors-jeu. Sinon, inscrivez dans votre Carnet de Campagne 1 trait sous la mention \u00ab Apocalypse <br>Imminente \u00bb et m\u00e9langez cette intrigue avec les intrigues mises de c\u00f4t\u00e9 pour former un nouveau deck Intrigue.",
                 "flavor_text": "Vous r\u00e9alisez seulement maintenant que chaque fois que vous clignez des yeux, quelque chose change autour de vous. Parfois, ce sont les rochers qui se d\u00e9placent de quelques m\u00e8tres. D'autres fois, vous vous retrouvez dans un environnement compl\u00e8tement nouveau.",
                 "traits": null
             }
@@ -1413,15 +1413,14 @@
             "name": "Le Maelstr\u00f6m Quantique (v. III)",
             "front": {
                 "name": "<name>",
-                "text": "<left><act> : <b>Analyse.</b> Cherchez la carte la plus proche du dessus du deck Analyse avec une ic\u00f4ne identique \u00e0 votre lieu et piochez-la. Si c'est un lieu, mettez-le en jeu et d\u00e9placez-vous vers lui. M\u00e9langez le deck Analyse.",
+                "text": "<left><act> : <b>Analyser.</b> Cherchez la carte la plus proche du dessus du deck Analyse avec une ic\u00f4ne identique \u00e0 votre lieu et piochez-la. Si c'est un lieu, mettez-le en jeu et d\u00e9placez-vous vers lui. M\u00e9langez le deck Analyse.",
                 "flavor_text": "<center>\u00ab Je crois pouvoir affirmer que personne ne comprend vraiment la physique quantique. \u00bb\n</center><right>-- Richard Feynman,\nPrix Nobel de physique, 1964",
                 "subtitle": null,
                 "traits": null
             },
             "back": {
-                "name": "Observation",
-                "text": "M\u00e9langez la pile de d\u00e9fausse Rencontre dans le deck Rencontre.\nDans l'ordre des joueurs, chaque investigateur place la carte du dessus du deck Rencontre dans sa zone de menace, face cach\u00e9e.\nS'il y a une autre intrigue sous celle-ci, mettez de c\u00f4t\u00e9 cette intrigue, hors-jeu. Sinon, inscrivez dans votre Carnet de Campagne 1 trait sous la mention \u00ab Apocalypse Imminente \u00bb et m\u00e9langez cette intrigue avec les intrigues mises de c\u00f4t\u00e9 pour former un nouveau deck Intrigue.",
-                "flavor_text": "Les propri\u00e9t\u00e9s fondamentales des mat\u00e9riaux quantiques peuvent s'expliquer par une manifestation de la dualit\u00e9 onde-corpuscule. Vous ne savez jamais vraiment \u00e0 quoi vous avez affaire jusqu'au moment o\u00f9 vous le savez.",
+                "name": "Principe d'Incertitude",
+                "text": "<blockquote>Les propri\u00e9t\u00e9s fondamentales des mat\u00e9riaux quantiques peuvent s'expliquer par une manifestation de la dualit\u00e9 onde-corpuscule. Vous ne savez jamais vraiment \u00e0 quoi vous avez affaire jusqu'au moment o\u00f9 vous le savez.</blockquote>\nM\u00e9langez la pile de d\u00e9fausse Rencontre dans le deck Rencontre.\nDans l'ordre des joueurs, chaque investigateur place la carte du dessus du deck Rencontre dans sa zone de menace, face cach\u00e9e.\nS'il y a une autre intrigue sous celle-ci, mettez de c\u00f4t\u00e9 cette intrigue, hors-jeu. Sinon, inscrivez dans votre Carnet de Campagne 1 trait sous la mention \u00ab Apocalypse <br>Imminente \u00bb et m\u00e9langez cette intrigue avec les intrigues mises de c\u00f4t\u00e9 pour former un nouveau deck Intrigue.",
                 "traits": null
             }
         },
@@ -1429,7 +1428,7 @@
             "name": "Le Maelstr\u00f6m Quantique (v. I)",
             "front": {
                 "name": "<name>",
-                "text": "<left><act> : <b>Analyse.</b> Cherchez la carte la plus proche du dessus du deck Analyse avec une ic\u00f4ne identique \u00e0 votre lieu et piochez-la. Si c'est un lieu, mettez-le en jeu et d\u00e9placez-vous vers lui. M\u00e9langez le deck Analyse.\n",
+                "text": "<left><act> : <b>Analyser.</b> Cherchez la carte la plus proche du dessus du deck Analyse avec une ic\u00f4ne identique \u00e0 votre lieu et piochez-la. Si c'est un lieu, mettez-le en jeu et d\u00e9placez-vous vers lui. M\u00e9langez le deck Analyse.\n",
                 "flavor_text": "<center>\u00ab Je crois pouvoir affirmer que personne ne comprend vraiment la physique quantique. \u00bb\n</center><right>-- Richard Feynman,\nPrix Nobel de physique, 1964",
                 "subtitle": null,
                 "traits": null
@@ -1445,14 +1444,14 @@
             "front": {
                 "name": "<name>",
                 "text": null,
-                "flavor_text": "<center><font \"./fonts/AgencyFB Bold Italic.ttf\">CHAMP QUANTIQUE INSTABLE.\n\u00c9VACUEZ IMM\u00c9DIATEMENT LA STATION ELBRUS.</font>\n</center>\nLe message d'alarme vous r\u00e9veille en sursaut. La navette a finalement r\u00e9ussi \u00e0 se poser dans l'un des crat\u00e8res, avec un minimum de d\u00e9g\u00e2ts. Il semble que la majeure partie de l'ast\u00e9ro\u00efde ait d\u00e9j\u00e0 \u00e9t\u00e9 \u00e9vacu\u00e9e. Mais alors, qui vous a envoy\u00e9 ce message pendant votre descente ?",
+                "flavor_text": "\n<center><font \"./fonts/AgencyFB Bold Italic.ttf\">CHAMP QUANTIQUE INSTABLE.\n\u00c9VACUEZ IMM\u00c9DIATEMENT LA STATION ELBRUS.</font>\n</center>\nLe message d'alarme vous r\u00e9veille en sursaut. La navette a finalement r\u00e9ussi \u00e0 se poser dans l'un des crat\u00e8res, avec un minimum de d\u00e9g\u00e2ts. Il semble que la majeure partie de l'ast\u00e9ro\u00efde ait d\u00e9j\u00e0 \u00e9t\u00e9 \u00e9vacu\u00e9e. Mais alors, qui vous a envoy\u00e9 ce message pendant votre descente ?",
                 "subtitle": null,
                 "traits": null
             },
             "back": {
                 "name": "Manigances Quantiques",
-                "text": "\n<hr>\n <b>V\u00e9rifiez votre Carnet de Campagne. S'il y a au moins 3 traits sous la mention <br>\u00ab Apocalypse Imminente \u00bb :</b>\n<blockquote>\u00ab Malheureusement, il est trop tard, le maelstr\u00f6m est en train d'affecter notre r\u00e9alit\u00e9. Vous devez partir imm\u00e9diatement si vous ne voulez pas \u00eatre pi\u00e9g\u00e9s avec moi ! \u00bb<br>Avant que vous ne puissiez r\u00e9agir, le physicien dispara\u00eet juste devant vous.</blockquote>\nM\u00e9langez la pile de d\u00e9fausse Rencontre dans le deck Rencontre.\nM\u00e9langez Erwin Simmons (Maniaque) avec les 3 <per_large> cartes du dessus du deck Rencontre. Ensuite, r\u00e9partissez-les de mani\u00e8re aussi \u00e9quitable que possible dans les zones de menace de chaque investigateur, face cach\u00e9e.\nPassez \u00e0 l'Acte 2a \u2013 D\u00e9stabilisation et retirez l'autre Acte 2a de la partie.<size 20>\n<hr>\n</size>\n<b>Sinon :</b>\n<blockquote>Malgr\u00e9 la situation critique, il pense que le laboratoire peut \u00eatre sauv\u00e9, mais seulement vous arrivez \u00e0 d\u00e9ployer les \u00e9clats de cristaux quantiques modifi\u00e9s sur tout l'ast\u00e9ro\u00efde.</blockquote>\nMettez en jeu le soutien d'histoire Erwin Simmons (Physicien Quantique) mis de c\u00f4t\u00e9 sous le contr\u00f4le de n'importe quel investigateur. Pour le reste de ce sc\u00e9nario, ce soutien d'histoire n'occupe pas d'emplacement d'alli\u00e9.\nPassez \u00e0 l'Acte 2a \u2013 Z\u00e9non Quantique et retirez l'autre Acte 2a de la partie.",
-                "flavor_text": "Vous trouvez enfin le scientifique restant de l'ast\u00e9ro\u00efde. Il se pr\u00e9sente comme Erwin Simmons, chercheur responsable des sujets quantiques au sein du centre. Il vous explique les r\u00e9cents \u00e9v\u00e9nements. \u00ab Ils ont vol\u00e9 les \u00e9clats de stabilisation ! Les cultistes ! Sans ces \u00e9clats, l'ast\u00e9ro\u00efde <br> va rentrer dans un \u00e9tat instable. Tout le monde a \u00e9t\u00e9 \u00e9vacu\u00e9, mais je suis rest\u00e9 pour contenir l'anomalie. \u00bb",
+                "text": "<hr>\n <b>V\u00e9rifiez votre Carnet de Campagne. S'il y a au moins 3 traits sous la mention <br>\u00ab Apocalypse Imminente \u00bb :</b>\n<blockquote>\u00ab Malheureusement, il est trop tard, le maelstr\u00f6m est en train d'affecter notre r\u00e9alit\u00e9. Vous devez partir imm\u00e9diatement si vous ne voulez pas \u00eatre pi\u00e9g\u00e9s avec moi ! \u00bb<br>Avant que vous ne puissiez r\u00e9agir, le physicien dispara\u00eet juste devant vous.</blockquote>\nM\u00e9langez la pile de d\u00e9fausse Rencontre dans le deck Rencontre.\nM\u00e9langez Erwin Simmons (Maniaque) avec les 3 <per_large> cartes du dessus du deck Rencontre. Ensuite, r\u00e9partissez-les de mani\u00e8re aussi \u00e9quitable que possible dans les zones de menace de chaque investigateur, face cach\u00e9e.\nPassez \u00e0 l'Acte 2a \u2013 D\u00e9stabilisation et retirez l'autre Acte 2a de la partie.\n<hr>\n<b>Sinon :</b>\n<blockquote>Malgr\u00e9 la situation critique, il pense que le laboratoire peut \u00eatre sauv\u00e9, mais seulement vous arrivez \u00e0 d\u00e9ployer les \u00e9clats de cristaux quantiques modifi\u00e9s sur tout l'ast\u00e9ro\u00efde.</blockquote>\nMettez en jeu le soutien d'histoire Erwin Simmons (Physicien Quantique) mis de c\u00f4t\u00e9 sous le contr\u00f4le de n'importe quel investigateur. Pour le reste de ce sc\u00e9nario, ce soutien d'histoire n'occupe pas d'emplacement d'alli\u00e9.\nPassez \u00e0 l'Acte 2a \u2013 Z\u00e9non Quantique et retirez l'autre Acte 2a de la partie.",
+                "flavor_text": "Vous trouvez enfin le scientifique restant de l'ast\u00e9ro\u00efde. Il se pr\u00e9sente comme Erwin Simmons, chercheur responsable des sujets quantiques au sein du centre. Il vous explique les r\u00e9cents \u00e9v\u00e9nements. \u00ab Ils ont vol\u00e9 les \u00e9clats de stabilisation ! Les cultistes ! Sans ces \u00e9clats, l'ast\u00e9ro\u00efde va rentrer dans un \u00e9tat instable. Tout le monde a \u00e9t\u00e9 \u00e9vacu\u00e9, mais je suis rest\u00e9 pour contenir l'anomalie. \u00bb",
                 "traits": null
             }
         },
@@ -1460,7 +1459,7 @@
             "name": "Z\u00e9non Quantique",
             "front": {
                 "name": "<name>",
-                "text": "<free> D\u00e9pensez collectivement 1<per_large> indice : placez 1 pion Ressource (pris dans la r\u00e9serve de pions) sur votre lieu en tant qu'\u00e9clat.\n<obj> S'il y a 8 lieux <i>Elbrus</i> en jeu avec 1 pion Ressource dessus, vous pouvez avancer.",
+                "text": "<free> D\u00e9pensez collectivement 1<per_large> indice : placez 1 pion Ressource (pris dans la r\u00e9serve de pions) sur votre lieu en tant qu'\u00e9clat.\n<obj> S'il y a 8 lieux <t>Elbrus</t> en jeu avec 1 pion Ressource dessus, vous pouvez avancer.",
                 "flavor_text": "Pour r\u00e9tablir un \u00e9quilibre dans la mati\u00e8re et sauver l'installation, vous devez aider Erwin \u00e0 installer les \u00e9clats quantiques sur tout l'ast\u00e9ro\u00efde. De cette mani\u00e8re, le ph\u00e9nom\u00e8ne d'instabilit\u00e9 s'effondrera.",
                 "subtitle": null,
                 "traits": null
@@ -1483,7 +1482,7 @@
             },
             "back": {
                 "name": "Incertitude",
-                "text": "<b>Si un investigateur a abandonn\u00e9 avec Erwin Simmons sous son contr\u00f4le :</b>\n<blockquote>La navette d\u00e9colle bruyamment et \u00e9chappe de justesse au champ quantique qui s'effondre. Erwin regarde avec m\u00e9lancolie le laboratoire et des ann\u00e9es de recherches se perdre dans cette non-r\u00e9alit\u00e9. Malgr\u00e9 cette trag\u00e9die, il vous est reconnaissant pour votre efficacit\u00e9.</blockquote>\n(<resolution> <b>C3</b>)<size 20>\n<hr>\n</size>\n<b>Sinon :</b>\n<blockquote>La navette d\u00e9colle sans accroc et s'\u00e9chappe du champ quantique. La radio \u00e0 courte port\u00e9e cr\u00e9pite \u00e0 nouveau et vous entendez les derniers mots d'Erwin Simmons.\n\u00ab Adieu mes amis ! J'esp\u00e8re que vous avez appr\u00e9ci\u00e9 votre s\u00e9jour ! Sachez que\u2026 \u00bb. La communication s'arr\u00eate, laissant place \u00e0 un gr\u00e9sillement.</blockquote>\n(<resolution> <b>C1</b>)",
+                "text": "<b>Si un investigateur a abandonn\u00e9 avec Erwin Simmons sous son contr\u00f4le :</b>\n<blockquote>La navette d\u00e9colle bruyamment et \u00e9chappe de justesse au champ quantique qui s'effondre. Erwin regarde avec m\u00e9lancolie le laboratoire et des ann\u00e9es de recherches se perdre dans cette non-r\u00e9alit\u00e9. Malgr\u00e9 cette trag\u00e9die, il vous est reconnaissant pour votre efficacit\u00e9.</blockquote>\n(<resolution> <b>C3</b>)\n<hr>\n<b>Sinon :</b>\n<blockquote>La navette d\u00e9colle sans accroc et s'\u00e9chappe du champ quantique. La radio \u00e0 courte port\u00e9e cr\u00e9pite \u00e0 nouveau et vous entendez les derniers mots d'Erwin Simmons.\n\u00ab Adieu mes amis ! J'esp\u00e8re que vous avez appr\u00e9ci\u00e9 votre s\u00e9jour ! Sachez que\u2026 \u00bb. La communication s'arr\u00eate, laissant place \u00e0 un gr\u00e9sillement.</blockquote>\n(<resolution> <b>C1</b>)",
                 "flavor_text": null,
                 "traits": null
             }
@@ -1491,7 +1490,7 @@
         "9f3f1074-b9ce-48ab-843b-036e9e25e181": {
             "name": "Erwin Simmons",
             "front": {
-                "name": "<name>",
+                "name": "<unique><name>",
                 "text": "<rev> Mettez en jeu cette carte sous votre contr\u00f4le.\n<for> \u00c0 la fin du round ou quand vous devriez abandonner, s'il y a une carte Rencontre face cach\u00e9e dans la zone de menace de n'importe quel investigateur : m\u00e9langez <name> avec toutes les cartes Rencontre face cach\u00e9e et r\u00e9partissez-les dans les zones de menace de chaque investigateur de mani\u00e8re aussi \u00e9quitable que possible.",
                 "flavor_text": "",
                 "subtitle": "Maniaque",
@@ -1514,7 +1513,7 @@
             "name": "\u00c9tendues Gel\u00e9es",
             "front": {
                 "name": "<name>",
-                "text": "En tant que co\u00fbt suppl\u00e9mentaire pour analyser les <name>, vous devez soit d\u00e9penser 2 ressources, soit choisir et d\u00e9fausser 2 cartes de votre main.",
+                "text": "En tant que co\u00fbt suppl\u00e9mentaire pour analyser dans les <name>, vous devez soit d\u00e9penser 2 ressources, soit choisir et d\u00e9fausser 2 cartes de votre main.",
                 "flavor_text": "Des d\u00e9serts de glace couvrent ce quantum perdu.",
                 "subtitle": null,
                 "traits": "Elbrus."
@@ -1528,11 +1527,11 @@
             "name": "Montagne de Cristal",
             "front": {
                 "name": "<name>",
-                "text": "<for> \u00c0 la fin du round, si ce lieu est vide (sans ennemi ou investigateur) et sans pion Ressource dessus : m\u00e9langez-le dans le deck Analyse.\n<free> S'il n'y a aucun indice sur ce lieu : indiquez dans votre Carnet de Campagne que <i>vous avez \u00e9t\u00e9 t\u00e9moin du chaos primordial</i>. (Max. une fois par partie.)",
+                "text": "<for> \u00c0 la fin du round, si ce lieu est vide (<i>sans ennemi ou investigateur</i>) et sans pion Ressource dessus : m\u00e9langez-le dans le deck Analyse.\n<free> S'il n'y a aucun indice sur ce lieu : indiquez dans votre Carnet de Campagne que <i>vous avez \u00e9t\u00e9 t\u00e9moin du chaos primordial</i>. (Max. une fois par partie.)",
                 "flavor_text": "",
                 "subtitle": null,
                 "victory": "Victoire 2.",
-                "traits": "Elbrus. Extra-Dimensionnel."
+                "traits": "Elbrus. Extradimensionnel."
             },
             "back": {
                 "name": "<name>",
@@ -1543,7 +1542,7 @@
             "name": "Fl\u00e8ches de Glace",
             "front": {
                 "name": "<name>",
-                "text": "<for> Apr\u00e8s avoir analys\u00e9 dans ce lieu : m\u00e9langez un lieu vide <i>(sans ennemi ou investigateur)</i> <br>et sans pion Ressource dessus dans le deck Analyse.",
+                "text": "<for> Apr\u00e8s avoir analys\u00e9 dans les <name> : m\u00e9langez un lieu vide <i>(sans ennemi ou investigateur)</i> <br>et sans pion Ressource dessus dans le deck Analyse.",
                 "flavor_text": "Les fl\u00e8ches embrum\u00e9es d'Elbrus sont un spectacle formidable.\n",
                 "subtitle": null,
                 "victory": "Victoire 1.",
@@ -1558,7 +1557,7 @@
             "name": "Navette d'Atterrissage",
             "front": {
                 "name": "<name>",
-                "text": "<free> : Placez 1 de vos indices sur ce lieu.\nTant qu'il y a au moins 2 <per_large> indices sur ce lieu, il gagne \u00ab <action> : Abandon. \u00c9chappez-vous de cet ast\u00e9ro\u00efde de malheur. \u00bb",
+                "text": "<free> : Placez 1 de vos indices sur ce lieu.\nTant qu'il y a au moins 2 <per_large> indices sur ce lieu, il gagne \u00ab <action> : <b>Abandon</b>. \u00c9chappez-vous de cet ast\u00e9ro\u00efde de malheur. \u00bb",
                 "flavor_text": "Le train d'atterrissage a subi des d\u00e9g\u00e2ts, mais rien que vous ne puissiez r\u00e9parer avec un peu de temps et de mat\u00e9riel.",
                 "subtitle": null,
                 "traits": "Elbrus."
@@ -1572,7 +1571,7 @@
             "name": "Installation Principale",
             "front": {
                 "name": "<name>",
-                "text": "X est le nombre de lieux connexes \u00e0 ce lieu.\n<action><action> Choisissez un lieu r\u00e9v\u00e9l\u00e9 sans indice dessus : placez 1 pion Ressource (<i>pris dans la r\u00e9serve de pions</i>) sur ce lieu en tant qu'\u00e9clat. (Max. une fois par partie.)",
+                "text": "X est le nombre de lieux connexes \u00e0 ce lieu.\n<action><action> Choisissez un lieu r\u00e9v\u00e9l\u00e9 sans indice dessus : placez 1 pion Ressource (<i>pris dans la r\u00e9serve de <br>pions</i>) sur ce lieu en tant qu'\u00e9clat. (Max. une fois par partie.)",
                 "flavor_text": "Ensemble du personnel \u00e9vacu\u00e9.",
                 "subtitle": null,
                 "victory": "Victoire 1.",
@@ -1641,7 +1640,7 @@
             "name": "Chien de Tindalos",
             "front": {
                 "name": "<name>",
-                "text": "<spawn> Mettez le <name> en jeu \u00e0 c\u00f4t\u00e9 du deck Acte.\nMassif. Alerte. Riposte.\nLe <name> est consid\u00e9r\u00e9 comme \u00e9tant en jeu mais n'est dans aucun lieu. Tant que vous avez un nombre impair de cartes dans votre main, le <name> est consid\u00e9r\u00e9 comme engag\u00e9 avec vous.",
+                "text": "Massif. Alerte. Riposte.\n<spawn> Mettez le <name> en jeu \u00e0 c\u00f4t\u00e9 du deck Acte.\nLe <name> est consid\u00e9r\u00e9 comme \u00e9tant en jeu mais n'est dans aucun lieu. Tant que vous avez un nombre impair de cartes dans votre main, le <name> est consid\u00e9r\u00e9 comme engag\u00e9 avec vous.",
                 "flavor_text": "",
                 "subtitle": null,
                 "victory": "Victoire 1.",
@@ -1698,7 +1697,7 @@
             "front": {
                 "name": "<name>",
                 "text": "<for> Quand le Fant\u00f4me Quantique est vaincu par des d\u00e9g\u00e2ts (sauf en provenance d'un <b>Sort</b> ou d'une <b>Relique</b>) : au lieu de le d\u00e9fausser, placez-le dans votre zone de menace, face cach\u00e9e.",
-                "flavor_text": "Ni mort ni vivant, plut\u00f4t les deux \u00e0 la fois.",
+                "flavor_text": "<valign>Ni mort ni vivant, plut\u00f4t les deux \u00e0 la fois.",
                 "subtitle": null,
                 "traits": "Quantique. Geist."
             },
@@ -1784,7 +1783,7 @@
             "name": "Le Nostalgie II",
             "front": {
                 "name": "<name>",
-                "text": "<action> : <b>Analyse.</b> Si la carte du dessus du deck Analyse a une ic\u00f4ne identique \u00e0 votre lieu, d\u00e9pensez collectivement 1<per_large> indice : piochez la carte du dessus du deck Analyse.\n<for> Quand un soutien d'histoire <t>\u00c9quipage</t> est vaincu ou d\u00e9fauss\u00e9 : retirez-le de la partie.",
+                "text": "<action> : <b>Analyser.</b> Si la carte du dessus du deck Analyse a une ic\u00f4ne identique \u00e0 votre lieu, d\u00e9pensez collectivement 1<per_large> indice : piochez la carte du dessus du deck Analyse.\n<for> Quand un soutien d'histoire <t>\u00c9quipage</t> est vaincu ou d\u00e9fauss\u00e9 : retirez-le de la partie.",
                 "flavor_text": "Vous entrez prudemment dans le vaisseau en passant par le sas d'entr\u00e9e du Nostalgie II. Tout est anormalement calme. Vous n'entendez que les sifflements occasionnels de l'air conditionn\u00e9.",
                 "subtitle": null,
                 "traits": null
@@ -1800,7 +1799,7 @@
             "name": "La Chose de la Terre",
             "front": {
                 "name": "<name>",
-                "text": "<action> : <b>Analyser</b>. Si la carte du dessus du deck Analyse a une ic\u00f4ne identique \u00e0 votre lieu, d\u00e9pensez collectivement 1<per_large> indice : piochez la carte du dessus du deck Analyse.\n<for> Quand un soutien d'histoire <t>\u00c9quipage</t> est vaincu ou d\u00e9fauss\u00e9 : retirez-le de la partie.",
+                "text": "<action> : <b>Analyser.</b> Si la carte du dessus du deck Analyse a une ic\u00f4ne identique \u00e0 votre lieu, d\u00e9pensez collectivement 1<per_large> indice : piochez la carte du dessus du deck Analyse.\n<for> Quand un soutien d'histoire <t>\u00c9quipage</t> est vaincu ou d\u00e9fauss\u00e9 : retirez-le de la partie.",
                 "flavor_text": "Une abomination r\u00f4de dans le vaisseau, consommant toute mati\u00e8re biologique ou m\u00e9canique \u00e0 sa port\u00e9e et cr\u00e9ant des imitations corrompues.",
                 "subtitle": null,
                 "traits": null
@@ -1816,7 +1815,7 @@
             "name": "Les Cris des Morts",
             "front": {
                 "name": "<name>",
-                "text": "<action> : <b>Analyser</b>. Si la carte du dessus du deck Analyse a une ic\u00f4ne identique \u00e0 votre lieu, d\u00e9pensez collectivement 1<per_large> indice : piochez la carte du dessus du deck Analyse.\n<for> Quand un soutien d'histoire <t>\u00c9quipage</t> est vaincu ou d\u00e9fauss\u00e9 : retirez-le de la partie.",
+                "text": "<action> : <b>Analyser.</b> Si la carte du dessus du deck Analyse a une ic\u00f4ne identique \u00e0 votre lieu, d\u00e9pensez collectivement 1<per_large> indice : piochez la carte du dessus du deck Analyse.\n<for> Quand un soutien d'histoire <t>\u00c9quipage</t> est vaincu ou d\u00e9fauss\u00e9 : retirez-le de la partie.",
                 "flavor_text": "Il ne fait aucun doute que si vous restez trop longtemps dans ce vaisseau, l'abomination s'en prendra \u00e0 vous.",
                 "subtitle": null,
                 "traits": null
@@ -1985,7 +1984,7 @@
             "name": "Fermes Hydroponiques",
             "front": {
                 "name": "<name>",
-                "text": "<free> S'il n'y a aucun indice sur les Fermes Hydroponiques et qu'il vous reste moins de 3 points de sant\u00e9 mentale : chaque investigateur dans votre lieu inscrit 1 trait sous la mention de ses \u00ab Souvenirs \u00bb. (Limite collective d'une fois par partie.)",
+                "text": "<free> S'il n'y a aucun indice sur les Fermes Hydroponiques et qu'il vous reste moins de 3 points de sant\u00e9 mentale : chaque investigateur dans votre lieu inscrit 1 trait sous la mention de ses <br>\u00ab Souvenirs \u00bb. (Limite collective d'une fois par partie.)",
                 "flavor_text": "Cela faisait trop longtemps que vous n'aviez pas senti le parfum de l'herbe fra\u00eeche.",
                 "subtitle": null,
                 "traits": "Nostalgie II."
@@ -2283,8 +2282,8 @@
             "name": "M\u00e9tamorphe",
             "front": {
                 "name": "<name>",
-                "text": "Le <name> gagne les traits du soutien <t>Alli\u00e9</t> le plus proche du sommet de votre pile de d\u00e9fausse.\nLe <name> inflige un nombre d'horreurs suppl\u00e9mentaires \u00e9gal \u00e0 la sant\u00e9 mentale du soutien <t>Alli\u00e9</t> le plus proche du dessus de votre pile de d\u00e9fausse.",
-                "flavor_text": "\u00ab Blrrrrblll\u2026 \u00bb",
+                "text": "Le <name> gagne les traits du soutien <br><t>Alli\u00e9</t> le plus proche du sommet de votre pile de d\u00e9fausse.\nLe <name> inflige un nombre d'horreurs suppl\u00e9mentaires \u00e9gal \u00e0 la sant\u00e9 mentale du soutien <br><t>Alli\u00e9</t> le plus proche du dessus de votre pile de d\u00e9fausse.",
+                "flavor_text": "\n\u00ab Blrrrrblll\u2026 \u00bb",
                 "subtitle": null,
                 "traits": "Monstre."
             },
@@ -2317,7 +2316,7 @@
             "front": {
                 "name": "<name>",
                 "text": "Chasseur.\n<for> Apr\u00e8s avoir vaincu <name> : piochez la carte du dessus du deck Rencontre.",
-                "flavor_text": "Une horde de choses cruelles s'\u00e9lance telle une vague ondulante de griffes, de dents et de\u2026 fourrures tachet\u00e9es ?",
+                "flavor_text": "\nUne horde de choses cruelles s'\u00e9lance telle une vague ondulante de griffes, de dents et de\u2026 fourrures tachet\u00e9es ?",
                 "subtitle": null,
                 "traits": "Monstre. Cr\u00e9ature."
             },
@@ -2453,7 +2452,7 @@
             "name": "Face au Soleil",
             "front": {
                 "name": "<name>",
-                "text": "<for> Quand un soutien d'histoire <t>Cerveau</t> est vaincu : retirez-le de la partie et inscrivez dans votre Carnet de Campagne 1 trait sous la mention \u00ab Apocalypse Imminente \u00bb.\n<i>(Indice : ce sc\u00e9nario ne se terminera pas quand cette intrigue avancera.)</i>",
+                "text": "<for> Quand un soutien d'histoire <t>Cerveau</t> est vaincu : retirez-le de la partie et inscrivez dans votre Carnet de Campagne 1 trait sous la mention <br>\u00ab Apocalypse Imminente \u00bb.\n<i>(Indice : ce sc\u00e9nario ne se terminera pas quand cette intrigue avancera.)</i>",
                 "flavor_text": "Les d\u00e9mons ail\u00e9s semblent descendre le long des rayons du soleil. Les minutes d\u00e9filent et leur nombre ne fait qu'augmenter. Bient\u00f4t, vous serez compl\u00e8tement submerg\u00e9.",
                 "subtitle": null,
                 "traits": null
@@ -2707,7 +2706,7 @@
             "name": "Cit\u00e9 des Chats",
             "front": {
                 "name": "<name>",
-                "text": "<act> : <b>Discussion.</b> D\u00e9faussez 1 carte de chaque type (Soutien, \u00c9v\u00e9nement, Comp\u00e9tence) de votre main et soignez 1 traumatisme mental. (Limite collective d'une fois par partie.)",
+                "text": "<act> : <b>Discussion.</b> D\u00e9faussez 1 carte de chaque type (Soutien, \u00c9v\u00e9nement et Comp\u00e9tence) de votre main et soignez 1 traumatisme mental. (Limite collective d'une fois par partie.)",
                 "flavor_text": "C'est comme un r\u00eave que vous auriez d\u00e9j\u00e0 fait.",
                 "subtitle": null,
                 "victory": "Victoire 1.",
@@ -3157,7 +3156,7 @@
             "name": "Persistance de la M\u00e9moire",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Effectuez un test de <agi> (3). En cas d'\u00e9chec, barrez 1 trait sous la mention \u00ab Souvenirs \u00bb de votre investigateur et pour chaque point manquant, subissez 1 horreur.",
+                "text": "<rev> Effectuez un test de <agi> (3). En cas d'\u00e9chec, barrez 1 trait sous la mention <br>\u00ab Souvenirs \u00bb de votre investigateur et pour chaque point manquant, subissez 1 horreur.",
                 "flavor_text": "Vous sentez vos pens\u00e9es s'\u00e9chapper. Peux-\u00eatre que votre autre vous essaie de cacher quelque chose dans votre inconscient.",
                 "subtitle": null,
                 "traits": ""
@@ -3361,7 +3360,7 @@
             "name": "Surface du Fragment",
             "front": {
                 "name": "<name>",
-                "text": "Ne peut pas \u00eatre retourn\u00e9.",
+                "text": "La <name> ne peut pas \u00eatre retourn\u00e9e.",
                 "flavor_text": "La surface rocheuse est douce au toucher, recouverte d'une fine couche de poussi\u00e8re dor\u00e9e. M\u00eame sans l'effet de la gravit\u00e9, chaque pas que vous faites laisse une empreinte dans le sol.",
                 "subtitle": null,
                 "traits": "Surface."
@@ -3384,7 +3383,7 @@
             },
             "back": {
                 "name": "Escalier en Colima\u00e7on",
-                "text": "<for> Quand l'Escalier en Colima\u00e7on se retourne : d\u00e9placez chaque investigateur dans l'Escalier en Colima\u00e7on dans un lieu connexe.",
+                "text": "<for> Quand l'Escalier en Colima\u00e7on est retourn\u00e9 : d\u00e9placez chaque investigateur dans l'Escalier en Colima\u00e7on dans un lieu connexe.",
                 "flavor_text": "Juste quelques marches de plus\u2026",
                 "traits": "Carcosa."
             }
@@ -3400,7 +3399,7 @@
             },
             "back": {
                 "name": "Grand Salon",
-                "text": "<free> Si ce lieu est le seul lieu <t>Carcosa</t> en <br>jeu : lisez la carte Histoire \u00ab Arriv\u00e9e du Roi \u00bb mise de c\u00f4t\u00e9. (Max. une fois par partie.)",
+                "text": "<free> Si ce lieu est le seul lieu <t>Carcosa</t> en <br>jeu : lisez la carte Histoire \u00ab L'Arriv\u00e9e du Roi \u00bb mise de c\u00f4t\u00e9. (Max. une fois par partie.)",
                 "flavor_text": "Il n'y a personne ici pour vous accueillir, seulement des statues et des peintures.",
                 "traits": "Carcosa."
             }
@@ -3565,11 +3564,11 @@
             "name": "Habitant des Cavernes",
             "front": {
                 "name": "<name>",
-                "text": "Massif. Chasseur. Riposte.\n<for> Quand le lieu de l'Habitant des Cavernes est retourn\u00e9 : inclinez l'Habitant des Cavernes.",
+                "text": "Massif. Riposte. Chasseur. \n<for> Quand le lieu de l'Habitant des Cavernes est retourn\u00e9 : inclinez l'Habitant des Cavernes.",
                 "flavor_text": "\nUne perversion de ce qui \u00e9tait autrefois un \u00eatre humain.",
                 "subtitle": "\u00c9trangement Familier",
                 "victory": "Victoire 1.",
-                "traits": "Monstre. Humano\u00efde. Cultiste."
+                "traits": "Monstre. Cultiste. Humano\u00efde. "
             },
             "back": {}
         },
@@ -3577,7 +3576,7 @@
             "name": "Choisi par Lui",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Attachez <name> \u00e0 un soutien <t>Objet</t>, <t>Sort</t>, ou <t>Alli\u00e9</t> que vous contr\u00f4lez et qui peut quitter le jeu.\n<for> \u00c0 la fin de votre tour : subissez 2 d\u00e9g\u00e2ts directs et m\u00e9langez le soutien attach\u00e9 dans votre deck.\n<act> : Retirez le soutien attach\u00e9 de la partie.",
+                "text": "<rev> Attachez <name> \u00e0 un soutien <t>Objet</t>, <t>Sort</t>, ou <t>Alli\u00e9</t> que vous contr\u00f4lez et qui peut quitter le jeu.\n<for> \u00c0 la fin de votre tour : subissez 2 d\u00e9g\u00e2ts directs et m\u00e9langez le soutien attach\u00e9 dans votre deck. Ensuite, d\u00e9faussez <name>.\n<act> : Retirez le soutien attach\u00e9 de la partie.",
                 "flavor_text": "",
                 "subtitle": null,
                 "traits": "Sortil\u00e8ge."
@@ -3588,7 +3587,7 @@
             "name": "\u00c9chos de Tassilda (Corps)",
             "front": {
                 "name": "<name>",
-                "text": "Renfort. P\u00e9ril. Cach\u00e9e.\n<rev> Ajoutez secr\u00e8tement cette carte \u00e0 votre main.\n<reaction> Quand un investigateur devrait \u00eatre vaincu par des d\u00e9g\u00e2ts : annulez ces d\u00e9g\u00e2ts et ajoutez cette carte \u00e0 la pile de victoire. (Cela ne peut \u00eatre vous que s'il n'y a aucun autre investigateur encore en jeu.)",
+                "text": "Renfort. P\u00e9ril. Cach\u00e9e.\n<rev> Ajoutez secr\u00e8tement cette carte \u00e0 votre main.\n<reaction> Quand un investigateur devrait \u00eatre vaincu par des d\u00e9g\u00e2ts : annulez ces d\u00e9g\u00e2ts et ajoutez cette carte \u00e0 la pile de victoire. <i>(Cela ne peut \u00eatre vous que s'il n'y a aucun autre investigateur encore en jeu.)</i>\n ",
                 "flavor_text": "",
                 "subtitle": null,
                 "victory": "Victoire 1.",
@@ -3600,7 +3599,7 @@
             "name": "\u00c9chos de Tassilda (Esprit)",
             "front": {
                 "name": "<name>",
-                "text": "Renfort. P\u00e9ril. Cach\u00e9e.\n<rev> Ajoutez secr\u00e8tement cette carte \u00e0 votre main.\n<reaction> Quand un investigateur devrait \u00eatre vaincu par des horreurs : annulez ces horreurs et ajoutez cette carte \u00e0 la pile de victoire. (Cela ne peut \u00eatre vous que s'il n'y a aucun autre investigateur encore en jeu.)",
+                "text": "Renfort. P\u00e9ril. Cach\u00e9e.\n<rev> Ajoutez secr\u00e8tement cette carte \u00e0 votre main.\n<reaction> Quand un investigateur devrait \u00eatre vaincu par des horreurs : annulez ces horreurs et ajoutez cette carte \u00e0 la pile de victoire. <i>(Cela ne peut \u00eatre vous que s'il n'y a aucun autre investigateur encore en jeu.)</i>\n ",
                 "flavor_text": "",
                 "subtitle": null,
                 "victory": "Victoire 1.",
@@ -3680,7 +3679,7 @@
             "front": {
                 "name": "<name>",
                 "text": "<spawn> Lieu <t>Carcosa</t> le plus proche.\nN'attaque pas pendant la phase des Ennemis.\n<for> Apr\u00e8s avoir retourn\u00e9 le lieu o\u00f9 se situent les Rideaux en Lambeaux : d\u00e9placez-les de 1 lieu vers vous.",
-                "flavor_text": "Les haillons festonn\u00e9s du Roi en jaune doivent<br> dissimuler Yhtill pour toujours. <br>-- Robert W.Chambers, Le Restaurateur de R\u00e9putations",
+                "flavor_text": "\nLes haillons festonn\u00e9s du Roi en jaune doivent dissimuler Yhtill pour toujours.\n-- Robert W.Chambers, Le Restaurateur de R\u00e9putations",
                 "subtitle": null,
                 "traits": "Obstacle."
             },
@@ -3842,7 +3841,7 @@
             "name": "Fin des Temps",
             "front": {
                 "name": "<name>",
-                "text": "<act> : <b>Analyse.</b> Cherchez la carte la plus proche du dessus du deck Analyse avec une ic\u00f4ne identique \u00e0 votre lieu et piochez-la. M\u00e9langez le deck Analyse.\n<obj> Trouvez et remplissez autant d'objectifs que possible avant l'arriv\u00e9e de la supernova. Si chaque investigateur non-vaincu a abandonn\u00e9, avancez.",
+                "text": "<act> : <b>Analyser.</b> Cherchez la carte la plus proche du dessus du deck Analyse avec une ic\u00f4ne identique \u00e0 votre lieu et piochez-la. M\u00e9langez le deck Analyse.\n<obj> Trouvez et remplissez autant d'objectifs que possible avant l'arriv\u00e9e de la supernova. Si chaque investigateur non-vaincu a abandonn\u00e9, avancez.",
                 "flavor_text": "\u00c0 bord de L'\u00c9pouvantail, vous et vos compagnons traversez le syst\u00e8me solaire pour trouver un moyen de survivre \u00e0 l'explosion et de sauver autant de monde que possible avant la fin in\u00e9luctable",
                 "subtitle": null,
                 "traits": null
@@ -4050,7 +4049,7 @@
             "front": {
                 "name": "<name>",
                 "text": "<rev> Mettez ce lieu en jeu et g\u00e9n\u00e9rez le Garde Yithien mis de c\u00f4t\u00e9 dans ce lieu.\nVous ne pouvez pas analyser dans les <name> tant qu'il y a des ennemis redress\u00e9s dans ce lieu.",
-                "flavor_text": "D\u00e9couvertes \u00e0 la fin du 21e si\u00e8cle, les x\u00e9no-arch\u00e9ologues ont d\u00e9termin\u00e9 que ces ruines \u00e9taient d'origine yithienne.",
+                "flavor_text": "D\u00e9couvertes \u00e0 la fin du 21e si\u00e8cle, les x\u00e9no-arch\u00e9ologues ont d\u00e9termin\u00e9 que ces ruines \u00e9taient d'origine yithienne.\n ",
                 "subtitle": null,
                 "victory": "Victoire 1.",
                 "traits": "Mars."
@@ -4078,7 +4077,7 @@
             "name": "Laboratoire Lunaire",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Mettez ce lieu en jeu.\nVous ne pouvez pas analyser le Laboratoire Lunaire tant qu'il y a des indices sur lui.\n<for> \u00c0 la fin du round, s'il y a un <t>Vaisseau Spatial</t> attach\u00e9 \u00e0 ce lieu : placez 1 pion Ressource sur ce lieu (jusqu'\u00e0 un maximum de 3). S'il y a 3 pions Ressource sur lui, g\u00e9n\u00e9rez l'ennemi Domaag T'eel mis de c\u00f4t\u00e9 dans ce lieu.",
+                "text": "<rev> Mettez ce lieu en jeu.\nVous ne pouvez pas analyser dans le Laboratoire Lunaire tant qu'il y a des indices sur lui.\n<for> \u00c0 la fin du round, s'il y a un <t>Vaisseau Spatial</t> attach\u00e9 \u00e0 ce lieu : placez 1 pion Ressource sur ce lieu (jusqu'\u00e0 un maximum de 3). S'il y a 3 pions Ressource sur lui, g\u00e9n\u00e9rez l'ennemi Domaag T'eel mis de c\u00f4t\u00e9 dans ce lieu.",
                 "flavor_text": "",
                 "subtitle": null,
                 "victory": "Victoire 1.",
@@ -4180,7 +4179,7 @@
             "front": {
                 "name": "<name>",
                 "text": "<rev> Attachez l'Ambassadeur Mi-Go au Seuil de Yuggoth.\n<obj> S'il n'y a aucun indice sur le Laboratoire Lunaire : retirez de la partie l'Ambassadeur Mi-Go et mettez en jeu le soutien d'histoire R\u00e9paration du Seuil mis de c\u00f4t\u00e9, \u00e0 c\u00f4t\u00e9 du deck Acte.",
-                "flavor_text": "Les Mi-Go ne vous font pas confiance apr\u00e8s ce que vous avez fait sur Titan. Vous devez vous assurer leur coop\u00e9ration en recueillant des \u00ab informations \u00bb en provenance la station lunaire abandonn\u00e9e.",
+                "flavor_text": "Les Mi-Go ne vous font pas confiance apr\u00e8s ce que vous avez fait sur Titan. Vous devez vous assurer leur coop\u00e9ration en recueillant des <br>\u00ab informations \u00bb en provenance la station lunaire abandonn\u00e9e.",
                 "subtitle": "M\u00e9fiant",
                 "traits": "Mi-Go."
             },
@@ -4203,7 +4202,7 @@
             "front": {
                 "name": "<name>",
                 "text": "<spawn> N'importe quel lieu <t>Ceinture d'Ast\u00e9ro\u00efdes.</t>\nChasseur. Riposte.\n<for> Apr\u00e8s avoir vaincu l'Exoro\u00efde : m\u00e9langez-le dans le deck Analyse.",
-                "flavor_text": "Ce n'est pas un ast\u00e9ro\u00efde.",
+                "flavor_text": "\nCe n'est pas un ast\u00e9ro\u00efde.",
                 "subtitle": null,
                 "traits": "Monstre."
             },
@@ -4253,7 +4252,7 @@
             "name": "Unit\u00e9 d'Enqu\u00eate KN-1",
             "front": {
                 "name": "<name>",
-                "text": "<rev> Mettez cette carte en jeu sous le contr\u00f4le d'un investigateur dans votre lieu.\n<act> Choisissez un lieu connexe et inclinez l'Unit\u00e9 d'Enqu\u00eate KN-1 : <b>Analyse.</b> Cherchez la carte la plus proche du dessus du deck Analyse avec une ic\u00f4ne correspondant au lieu choisi et piochez-la. M\u00e9langez le deck Analyse.",
+                "text": "<rev> Mettez cette carte en jeu sous le contr\u00f4le d'un investigateur dans votre lieu.\n<act> Choisissez un lieu connexe et inclinez l'Unit\u00e9 d'Enqu\u00eate KN-1 : <b>Analyser.</b> Cherchez la carte la plus proche du dessus du deck Analyse avec une ic\u00f4ne correspondant au lieu choisi et piochez-la. M\u00e9langez le deck Analyse.",
                 "flavor_text": "",
                 "subtitle": null,
                 "traits": "Alli\u00e9. IA."
@@ -4286,7 +4285,7 @@
             "name": "Archives Universelles",
             "front": {
                 "name": "<unique><name>",
-                "text": "<rev> Mettez cette carte en jeu sous le contr\u00f4le d'un investigateur dans votre lieu.\n<act> Si la carte du dessus du deck Analyse a une ic\u00f4ne correspondant \u00e0 n'importe quel lieu r\u00e9v\u00e9l\u00e9, inclinez Archives Universelles : <b>Analyse.</b> Analysez comme si vous \u00e9tiez dans ce lieu. M\u00e9langez le deck Analyse.\n",
+                "text": "<rev> Mettez cette carte en jeu sous le contr\u00f4le d'un investigateur dans votre lieu.\n<act> Si la carte du dessus du deck Analyse a une ic\u00f4ne correspondant \u00e0 n'importe quel lieu r\u00e9v\u00e9l\u00e9, inclinez Archives Universelles : <b>Analyser.</b> Analysez comme si vous \u00e9tiez dans ce lieu. M\u00e9langez le deck Analyse.\n",
                 "flavor_text": "",
                 "subtitle": "Acc\u00e8s \u00e0 Tout",
                 "traits": "Data."
@@ -4407,7 +4406,7 @@
             "name": "La Science Avant Tout",
             "front": {
                 "name": "<name>",
-                "text": "\u00c9tudi\u00e9e (3 points d'exp\u00e9rience et 1 \u00ab Souvenir \u00bb).\n<act> D\u00e9faussez une carte <b>Sort</b> ou <b>Rituel</b> sous votre contr\u00f4le ou dans votre main : piochez 1 carte et gagnez X ressources, X \u00e9tant le co\u00fbt en ressources de la carte d\u00e9fauss\u00e9e.",
+                "text": "\u00c9tudi\u00e9e (3 points d'exp\u00e9rience et 1 \u00ab Souvenir \u00bb).\n<act> D\u00e9faussez une carte <t>Sort</t> ou <t>Rituel</t> sous votre contr\u00f4le ou dans votre main : piochez 1 carte et gagnez X ressources, X \u00e9tant le co\u00fbt en ressources de la carte d\u00e9fauss\u00e9e.",
                 "flavor_text": "",
                 "subtitle": null,
                 "traits": "Talent. Science."
@@ -4418,7 +4417,7 @@
             "name": "D\u00e9tecteur de Germanium",
             "front": {
                 "name": "<name>",
-                "text": "\u00c9tudi\u00e9e (3 points d'exp\u00e9rience et 1 \u00ab Souvenir \u00bb).\n<act> Inclinez le D\u00e9tecteur de Germanium : choisissez un lieu r\u00e9v\u00e9l\u00e9. Jusqu'\u00e0 la fin du round, ce lieu perd -2 de valeur occulte et les investigateurs peuvent effectuer des actions <b>Analyse</b> comme s'ils \u00e9taient dans ce lieu.",
+                "text": "\u00c9tudi\u00e9e (3 points d'exp\u00e9rience et 1 \u00ab Souvenir \u00bb).\n<act> Inclinez le D\u00e9tecteur de Germanium : choisissez un lieu r\u00e9v\u00e9l\u00e9. Jusqu'\u00e0 la fin du round, ce lieu perd -2 de valeur occulte et les investigateurs peuvent effectuer des actions Analyser comme s'ils \u00e9taient dans ce lieu.",
                 "flavor_text": "",
                 "subtitle": null,
                 "traits": "Objet. Outil. Science."
@@ -4429,7 +4428,7 @@
             "name": "Capteur de Particules Subatomiques",
             "front": {
                 "name": "<name>",
-                "text": "\u00c9tudi\u00e9e (3 points d'exp\u00e9rience et 1 \u00ab Souvenir \u00bb).\n<act> : Choisissez un lieu r\u00e9v\u00e9l\u00e9 avec exactement 1 indice restant. Vous pouvez (choisir une option) :\n<bullet> <b>Enqu\u00eater.</b> Enqu\u00eatez avec +2 <int> comme si vous \u00e9tiez dans ce lieu.\n<bullet> Effectuer une action <b>Analyse</b> dans ce lieu.",
+                "text": "\u00c9tudi\u00e9e (3 points d'exp\u00e9rience et 1 \u00ab Souvenir \u00bb).\n<act> : Choisissez un lieu r\u00e9v\u00e9l\u00e9 avec exactement 1 indice restant. Vous pouvez (choisir une option) :\n<bullet> <b>Enqu\u00eater.</b> Enqu\u00eatez avec +2 <int> comme si vous \u00e9tiez dans ce lieu.\n<bullet> Effectuer une action Analyser dans ce lieu.",
                 "flavor_text": "",
                 "subtitle": null,
                 "traits": "Objet. Outil. Science."
@@ -4462,7 +4461,7 @@
             "name": "Collaboration Internationale",
             "front": {
                 "name": "<name>",
-                "text": "\u00c9tudi\u00e9e (2 points d'exp\u00e9rience et 1 \u00ab Souvenir \u00bb).\n<reaction> Quand vous devriez gagner une ou plusieurs ressources ou piocher une ou plusieurs cartes par les effets d'une carte Joueur, inclinez <name> : choisissez un investigateur. Cet investigateur peut gagner le m\u00eame nombre de ressources ou piocher le m\u00eame nombre de cartes \u00e0 la place.",
+                "text": "\u00c9tudi\u00e9e (2 points d'exp\u00e9rience et 1 \u00ab Souvenir \u00bb).\n<reaction> Quand vous devriez gagner une ou plusieurs ressources ou piocher une ou plusieurs cartes par les effets d'une carte Joueur, inclinez <name> : choisissez un investigateur. Cet investigateur peut gagner le m\u00eame nombre de ressources ou piocher le m\u00eame nombre de cartes \u00e0 votre place.",
                 "flavor_text": "",
                 "subtitle": null,
                 "traits": "Science."
@@ -4570,7 +4569,7 @@
             "name": "La\u00efka",
             "front": {
                 "name": "<unique><name>",
-                "text": "<rev> Mettez cette carte en jeu sous le contr\u00f4le d'un investigateur dans votre lieu.<br>Vous gagnez +2 vies.",
+                "text": "<rev> Mettez cette carte en jeu sous le contr\u00f4le d'un investigateur dans votre lieu.<br>Vous gagnez +2 sant\u00e9 mentale.",
                 "flavor_text": "Les Mi-Go l'ont sauv\u00e9e des premi\u00e8res exp\u00e9riences scientifiques inhumaines sur les animaux. Ils esp\u00e9raient que l'humanit\u00e9 s'efforcerait de devenir plus empathique avec toutes les cr\u00e9atures vivantes et leur propre plan\u00e8te.",
                 "subtitle": "La Premi\u00e8re Cosmonaute",
                 "traits": "Alli\u00e9. Cr\u00e9ature. Science."
@@ -4615,7 +4614,7 @@
             "name": "Connaissances Inter-Dimensionnelles",
             "front": {
                 "name": "<name>",
-                "text": "   Deck de Kate Winthrop uniquement.\n<reaction> Quand vous cherchez dans votre deck et que <name> est parmi les cartes consult\u00e9es, piochez-la. (Max. une capacit\u00e9 <t>Recherche</t> par recherche.)\nChoisissez un ennemi non-<t>\u00c9lite</t> dans votre lieu et effectuez un test de <int> (X), X \u00e9tant la valeur de combat de cet ennemi. En cas de r\u00e9ussite, vainquez cet ennemi ou \u00e9chappez \u00e0 cet ennemi et d\u00e9placez-le dans un lieu connexe. Cette action ne provoque d'attaques d'opportunit\u00e9. ",
+                "text": "   Deck de Kate Winthrop uniquement.\n<reaction> Quand vous cherchez dans votre deck et que Connaissance Inter-Dimensionnelles est parmi les cartes consult\u00e9es, piochez-la. (Max. une capacit\u00e9 <t>Recherche</t> par recherche.)\nChoisissez un ennemi non-<t>\u00c9lite</t> dans votre lieu et effectuez un test de <int> (X), X \u00e9tant la valeur de combat de cet ennemi. En cas de r\u00e9ussite, vainquez cet ennemi ou \u00e9chappez \u00e0 cet ennemi et d\u00e9placez-le dans un lieu connexe. Cette action ne provoque d'attaques d'opportunit\u00e9. ",
                 "flavor_text": "",
                 "subtitle": null,
                 "traits": "Perspicacit\u00e9. Recherche."
@@ -4626,7 +4625,7 @@
             "name": "Stabilisateur de Flux",
             "front": {
                 "name": "<name>",
-                "text": "Permanent. Deck de Kate Winthrop uniquement. Utilisations (2 charges).\n<reaction> Apr\u00e8s avoir avez r\u00e9ussi un test de comp\u00e9tence <intellect> avec une diff\u00e9rence de <br>2 ou plus, placez 1 charge sur le <name>.\n<reaction> Quand vous abandonnez ou que la partie se termine : pour chaque groupe de 4 charges sur le <name>, r\u00e9duisez de 1 le co\u00fbt en exp\u00e9rience de la premi\u00e8re carte Recherche que vous am\u00e9liorez avant le prochain sc\u00e9nario.\n<free> D\u00e9pensez 2 charges : cherchez la carte Connaissances Inter-Dimensionnelles dans votre pile de d\u00e9fausse et m\u00e9langez-la dans votre deck.",
+                "text": "Permanent. Deck de Kate Winthrop uniquement. Utilisations (2 charges).\n<reaction> Apr\u00e8s avoir avez r\u00e9ussi un test de comp\u00e9tence <intellect> avec une diff\u00e9rence de <br>2 ou plus, placez 1 charge sur le <name>.\n<reaction> Quand vous abandonnez ou que la partie se termine : pour chaque groupe de 4 charges sur le <name>, r\u00e9duisez de 1 le co\u00fbt en exp\u00e9rience de la premi\u00e8re carte \u00c9tudi\u00e9e que vous am\u00e9liorez avant le prochain sc\u00e9nario.\n<free> D\u00e9pensez 2 charges : cherchez la carte Connaissances Inter- Dimensionnelles dans votre pile de d\u00e9fausse et m\u00e9langez-la dans votre deck.",
                 "flavor_text": "",
                 "subtitle": "H\u00e9rit\u00e9 du Dr. Young",
                 "traits": "Science."
@@ -4649,9 +4648,9 @@
             "front": {
                 "name": "<name>",
                 "text": "Li\u00e9e (Faille Dimensionnelle, Stabilisateur de Flux).\n<for> \u00c0 la fin du round : mettez de c\u00f4t\u00e9 le <name>, hors jeu. D\u00e9placez tous les d\u00e9g\u00e2ts du <name> vers la Faille Dimensionnelle.",
-                "flavor_text": "Cette cr\u00e9ature extra-dimensionnelle, responsable de la mort du professeur Young, semble capable de pister Kate \u00e0 travers les dimensions.",
+                "flavor_text": "Cette cr\u00e9ature extradimensionnelle, responsable de la mort du professeur Young, semble capable de pister Kate \u00e0 travers les dimensions.",
                 "subtitle": "%:WEAKNESS",
-                "traits": "Monstre. Extra-Dimensionnel."
+                "traits": "Monstre. Extradimensionnel."
             },
             "back": {}
         },
