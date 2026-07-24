@@ -337,7 +337,7 @@
             "front": {
                 "name": "<unique><name>",
                 "text": "<reaction> Quand vous devriez subir des horreurs, inclinez <br> la <name> : annulez 1 de ces horreurs.",
-                "flavor_text": "\u00ab \u00c0 l'int\u00e9rieur, envelopp\u00e9e dans un parchemin d\u00e9color\u00e9, se trouvait une grosse cl\u00e9 d'argent terni, couverte de myst\u00e9rieuses arabesques. Mais point d'explication lisible, de quelque sorte que ce f\u00fbt. \u00bb <right>-- H.P. Lovecraft, La Cl\u00e9 d'Argent</i> ",
+                "flavor_text": "<size 57>\u00ab \u00c0 l'int\u00e9rieur, envelopp\u00e9e dans un parchemin d\u00e9color\u00e9, se trouvait une grosse cl\u00e9 d'argent terni, couverte de myst\u00e9rieuses arabesques. Mais point d'explication lisible, de quelque sorte que ce f\u00fbt. \u00bb <br><right>-- H.P. Lovecraft, La Cl\u00e9 d'Argent",
                 "subtitle": "Cl\u00e9 d'Acc\u00e8s aux R\u00eaves",
                 "traits": "Objet. Charme. Relique."
             },
@@ -460,7 +460,7 @@
             "front": {
                 "name": "<name>",
                 "text": "P\u00e9ril. Cach\u00e9e.\n<rev> Ajoutez secr\u00e8tement cette carte \u00e0 votre main.\n<for> Apr\u00e8s avoir d\u00e9couvert le dernier indice restant dans n'importe quel lieu : g\u00e9n\u00e9rez le <name> engag\u00e9 avec vous.",
-                "flavor_text": "<size 56><valign>Les virus techno-organiques sont hautement virulents et souvent utilis\u00e9s par les ordinateurs comme un m\u00e9canisme de d\u00e9fense physique contre des envahisseurs virtuels.",
+                "flavor_text": "<size 52>Les virus techno-organiques sont hautement virulents et souvent utilis\u00e9s par les ordinateurs comme un m\u00e9canisme de d\u00e9fense physique contre des envahisseurs virtuels.",
                 "subtitle": null,
                 "victory": "Victoire 1.",
                 "traits": "Virtuel."
@@ -527,8 +527,7 @@
             "name": "JV-7 \u00ab Hyades \u00bb",
             "front": {
                 "name": "<unique><name>",
-                "text": "Distant. Alerte.\n<act> : <b>Discussion.</b> Effectuez un test de <wil> (3). En cas d'\u00e9chec, <name> vous attaque. En cas de r\u00e9ussite, choisissez une des ic\u00f4nes ci-dessous et effectuez une action Analyse. Cherchez la carte la plus proche du dessus du deck Analyse avec l'ic\u00f4ne choisie et piochez-la. M\u00e9langez le deck Analyse.\n\n<center><size 120>  <image src=\".\\images\\xx\\svg\\connection_clover.svg\"> <image src=\".\\images\\xx\\svg\\connection_t.svg\"></size>\n",
-                "flavor_text": "",
+                "text": "Alerte. Distant.\n<act> : <b>Discussion.</b> Effectuez un test de <wil> (3). En cas d'\u00e9chec, <name> vous attaque. En cas de r\u00e9ussite, choisissez une des ic\u00f4nes ci-dessous et effectuez une action Analyse. Cherchez la carte la plus proche du dessus du deck Analyse avec l'ic\u00f4ne choisie et piochez-la. M\u00e9langez le deck Analyse. \n\n<center><size 120>  <image src=\".\\images\\xx\\svg\\connection_clover.svg\"> <image src=\".\\images\\xx\\svg\\connection_t.svg\"></size>\n ",
                 "subtitle": "Copilote Automatique",
                 "victory": "Victoire 0.",
                 "traits": "IA. Machine."
@@ -556,8 +555,7 @@
             "name": "LR-02 \u00ab Hali \u00bb",
             "front": {
                 "name": "<unique><name>",
-                "text": "Distant. Riposte\n<for> Apr\u00e8s avoir vaincu <name> : <b>Analyser.</b> Cherchez la carte la plus proche du dessus du deck Analyse avec l'ic\u00f4ne ci-dessous et piochez-la. M\u00e9langez le deck Analyse.\n\n<center><size 120><image src=\".\\images\\xx\\svg\\connection_clover.svg\"></size>\n",
-                "flavor_text": "",
+                "text": "Distant. Riposte\n<for> Apr\u00e8s avoir vaincu <name> : <b>Analyser.</b> Cherchez la carte la plus proche du dessus du deck Analyse avec l'ic\u00f4ne ci-dessous et piochez-la. M\u00e9langez le deck Analyse.\n<size 20>\n<center><size 120><image src=\".\\images\\xx\\svg\\connection_clover.svg\"></size>",
                 "victory": "Victoire 1.",
                 "traits": "Humano\u00efde. IA. Machine."
             },
@@ -764,7 +762,7 @@
             "front": {
                 "name": "<name>",
                 "text": "<spawn> Lieu le plus proche sans indice.\n<for>  Apr\u00e8s que le <name> est entr\u00e9 en jeu : placez 1 indice (pris dans la r\u00e9serve de pions) sur son lieu.",
-                "flavor_text": "Les robots araign\u00e9es, mod\u00e8le ATL-4, peuvent se faufiler dans les machines pour en r\u00e9parer les dysfonctionnements de l'int\u00e9rieur.",
+                "flavor_text": "<size 30>\n<size 60>Les robots araign\u00e9es, mod\u00e8le ATL-4, peuvent se faufiler dans les machines pour en r\u00e9parer les dysfonctionnements de l'int\u00e9rieur.",
                 "subtitle": null,
                 "traits": "IA. Araign\u00e9e. Machine."
             },
@@ -1040,7 +1038,7 @@
             "name": "K2-PS187",
             "front": {
                 "name": "<unique><name>",
-                "text": "\nPermanent.\n<free> Lors de la phase d'Investigation, choisissez un investigateur : cet investigateur gagne une action suppl\u00e9mentaire durant son tour, qui ne peut \u00eatre utilis\u00e9e que pour Analyser. (Limite d'une fois par round.)",
+                "text": "Permanent.\n<free> Lors de la phase d'Investigation, choisissez un investigateur : cet investigateur gagne une action suppl\u00e9mentaire durant son tour, qui ne peut \u00eatre utilis\u00e9e que pour Analyser. (Limite d'une fois par round.)",
                 "flavor_text": "",
                 "subtitle": " Capacit\u00e9 \u00e0 50%",
                 "traits": "IA."
@@ -1244,8 +1242,8 @@
             "name": "Chuchotements Manifestes",
             "front": {
                 "name": "<name>",
-                "text": "P\u00e9ril. Cach\u00e9e.\n<rev> Ajoutez secr\u00e8tement cette carte \u00e0 votre main.\n<for> \u00c0 la fin du round, s'il n'y a pas d'autre investigateur dans votre lieu et que les Chuchotements Manifestes sont dans votre main : g\u00e9n\u00e9rez-les dans votre lieu.",
-                "flavor_text": "Qu'est-ce qui est r\u00e9el ?",
+                "text": "<size 60>P\u00e9ril. Cach\u00e9e.\n<rev> Ajoutez secr\u00e8tement cette carte \u00e0 votre main.\n<for> \u00c0 la fin du round, s'il n'y a pas d'autre investigateur dans votre lieu et que les Chuchotements Manifestes sont dans votre main : g\u00e9n\u00e9rez-les dans votre lieu.",
+                "flavor_text": "\n<size 60>Qu'est-ce qui est r\u00e9el ?",
                 "subtitle": null,
                 "traits": "Monstre."
             },
@@ -1421,6 +1419,7 @@
             "back": {
                 "name": "Principe d'Incertitude",
                 "text": "<blockquote>Les propri\u00e9t\u00e9s fondamentales des mat\u00e9riaux quantiques peuvent s'expliquer par une manifestation de la dualit\u00e9 onde-corpuscule. Vous ne savez jamais vraiment \u00e0 quoi vous avez affaire jusqu'au moment o\u00f9 vous le savez.</blockquote>\nM\u00e9langez la pile de d\u00e9fausse Rencontre dans le deck Rencontre.\nDans l'ordre des joueurs, chaque investigateur place la carte du dessus du deck Rencontre dans sa zone de menace, face cach\u00e9e.\nS'il y a une autre intrigue sous celle-ci, mettez de c\u00f4t\u00e9 cette intrigue, hors-jeu. Sinon, inscrivez dans votre Carnet de Campagne 1 trait sous la mention \u00ab Apocalypse <br>Imminente \u00bb et m\u00e9langez cette intrigue avec les intrigues mises de c\u00f4t\u00e9 pour former un nouveau deck Intrigue.",
+                "flavor_text": null,
                 "traits": null
             }
         },
@@ -1640,7 +1639,7 @@
             "name": "Chien de Tindalos",
             "front": {
                 "name": "<name>",
-                "text": "Massif. Alerte. Riposte.\n<spawn> Mettez le <name> en jeu \u00e0 c\u00f4t\u00e9 du deck Acte.\nLe <name> est consid\u00e9r\u00e9 comme \u00e9tant en jeu mais n'est dans aucun lieu. Tant que vous avez un nombre impair de cartes dans votre main, le <name> est consid\u00e9r\u00e9 comme engag\u00e9 avec vous.",
+                "text": "<size 63>Alerte. Massif. Riposte.\n<spawn> Mettez le <name> en jeu \u00e0 c\u00f4t\u00e9 du deck Acte.\nLe <name> est consid\u00e9r\u00e9 comme \u00e9tant en jeu mais n'est dans aucun lieu. Tant que vous avez un nombre impair de cartes dans votre main, le <name> est consid\u00e9r\u00e9 comme engag\u00e9 avec vous.",
                 "flavor_text": "",
                 "subtitle": null,
                 "victory": "Victoire 1.",
@@ -1663,8 +1662,8 @@
             "name": "Stabilisateur Mi-Go",
             "front": {
                 "name": "<name>",
-                "text": "<spawn> Lieu qui contient le plus d'indices.\nChasseur.\n<for> Apr\u00e8s que le <name> vous a attaqu\u00e9 : piochez 1 carte Rencontre face cach\u00e9e depuis votre zone de menace.",
-                "flavor_text": "Un drone extraterrestre corrigeant les erreurs du pass\u00e9.",
+                "text": "Chasseur.\n<spawn> Lieu qui contient le plus d'indices.\n<for> Apr\u00e8s que le <name> vous a attaqu\u00e9 : piochez 1 carte Rencontre face cach\u00e9e depuis votre zone de menace.",
+                "flavor_text": "<size 30>\n<size 60>Un drone extraterrestre corrigeant les erreurs du pass\u00e9.",
                 "subtitle": null,
                 "traits": "Mi-Go. Machine."
             },
@@ -1697,7 +1696,7 @@
             "front": {
                 "name": "<name>",
                 "text": "<for> Quand le Fant\u00f4me Quantique est vaincu par des d\u00e9g\u00e2ts (sauf en provenance d'un <b>Sort</b> ou d'une <b>Relique</b>) : au lieu de le d\u00e9fausser, placez-le dans votre zone de menace, face cach\u00e9e.",
-                "flavor_text": "<valign>Ni mort ni vivant, plut\u00f4t les deux \u00e0 la fois.",
+                "flavor_text": "<size 30>\n\n\n<size 60>Ni mort ni vivant, plut\u00f4t les deux \u00e0 la fois.",
                 "subtitle": null,
                 "traits": "Quantique. Geist."
             },
@@ -1906,7 +1905,7 @@
             "name": "L'Entit\u00e9",
             "front": {
                 "name": "<unique><name>",
-                "text": "Massif. Chasseur. Alerte.\nL'Entit\u00e9 gagne +2<per_large> vies pour chaque carte face cach\u00e9e attach\u00e9e \u00e0 elle.\nLes d\u00e9g\u00e2ts et les horreurs inflig\u00e9s par L'Entit\u00e9 doivent d'abord \u00eatre assign\u00e9s aux soutiens <t>Alli\u00e9</t>.",
+                "text": "Alerte. Chasseur. Massif. \nL'Entit\u00e9 gagne +2<per_large> vies pour chaque carte face cach\u00e9e attach\u00e9e \u00e0 elle.\nLes d\u00e9g\u00e2ts et les horreurs inflig\u00e9s par L'Entit\u00e9 doivent d'abord \u00eatre assign\u00e9s aux soutiens <t>Alli\u00e9</t>.",
                 "flavor_text": "",
                 "subtitle": null,
                 "victory": "Victoire 2.",
@@ -2239,7 +2238,7 @@
             "front": {
                 "name": "<name>",
                 "text": "<spawn> Lieu qui contient le plus d'indices.\n<act> : <b>Discussion.</b> Effectuez un test de <wil> (3). En cas de r\u00e9ussite, d\u00e9faussez Machine Corrompue. En cas d'\u00e9chec, elle vous attaque imm\u00e9diatement.",
-                "flavor_text": "\u00ab Suis-je toujours humain ? \u00bb",
+                "flavor_text": "<size 30>\n<size 60>\u00ab Suis-je toujours humain ? \u00bb",
                 "subtitle": null,
                 "traits": "Machine."
             },
@@ -2282,8 +2281,8 @@
             "name": "M\u00e9tamorphe",
             "front": {
                 "name": "<name>",
-                "text": "Le <name> gagne les traits du soutien <br><t>Alli\u00e9</t> le plus proche du sommet de votre pile de d\u00e9fausse.\nLe <name> inflige un nombre d'horreurs suppl\u00e9mentaires \u00e9gal \u00e0 la sant\u00e9 mentale du soutien <br><t>Alli\u00e9</t> le plus proche du dessus de votre pile de d\u00e9fausse.",
-                "flavor_text": "\n\u00ab Blrrrrblll\u2026 \u00bb",
+                "text": "<size 63>Le <name> gagne les traits du soutien <br><t>Alli\u00e9</t> le plus proche du sommet de votre pile de d\u00e9fausse.\nLe <name> inflige un nombre d'horreurs suppl\u00e9mentaires \u00e9gal \u00e0 la sant\u00e9 mentale du soutien <br><t>Alli\u00e9</t> le plus proche du dessus de votre pile de d\u00e9fausse.",
+                "flavor_text": "<size 30>\n<size 60>\u00ab Blrrrrblll\u2026 \u00bb",
                 "subtitle": null,
                 "traits": "Monstre."
             },
@@ -2316,7 +2315,7 @@
             "front": {
                 "name": "<name>",
                 "text": "Chasseur.\n<for> Apr\u00e8s avoir vaincu <name> : piochez la carte du dessus du deck Rencontre.",
-                "flavor_text": "\nUne horde de choses cruelles s'\u00e9lance telle une vague ondulante de griffes, de dents et de\u2026 fourrures tachet\u00e9es ?",
+                "flavor_text": "\n<size 60>Une horde de choses cruelles s'\u00e9lance telle une vague ondulante de griffes, de dents et de\u2026 fourrures tachet\u00e9es ?",
                 "subtitle": null,
                 "traits": "Monstre. Cr\u00e9ature."
             },
@@ -2534,7 +2533,7 @@
             "front": {
                 "name": "<name>",
                 "text": "Distant.\n<act> : <b>Discussion.</b> Effectuez un test de <wil> + <int> (3). R\u00e9v\u00e9lez et r\u00e9solvez un pion Chaos suppl\u00e9mentaire pour ce test. En cas de r\u00e9ussite, placez 1 indice (pris dans la r\u00e9serve de pions) sur l'acte en cours.",
-                "flavor_text": "C'est la repr\u00e9sentation typique d'un extraterrestre comme les humains l'ont imagin\u00e9 pendant des si\u00e8cles.",
+                "flavor_text": "<size 30>\n<size 60>C'est la repr\u00e9sentation typique d'un extraterrestre comme les humains l'ont imagin\u00e9 pendant des si\u00e8cles.",
                 "subtitle": null,
                 "traits": "Extraterrestre. Humano\u00efde."
             },
@@ -2828,7 +2827,7 @@
             "front": {
                 "name": "<name>",
                 "text": "Ne peut pas \u00eatre d\u00e9sengag\u00e9. ",
-                "flavor_text": "\nUne b\u00eate effrayante s'\u00e9lance vers vous telle une vague ondulante de griffes, de dents et d'\u00e9cailles.",
+                "flavor_text": "\n\n<size 60>Une b\u00eate effrayante s'\u00e9lance vers vous telle une vague ondulante de griffes, de dents et d'\u00e9cailles.",
                 "subtitle": null,
                 "traits": "Monstre."
             },
@@ -2871,7 +2870,7 @@
             "name": "Traqueur Byakhee",
             "front": {
                 "name": "<name>",
-                "text": "<spawn> Tunnel d'Entr\u00e9e.\nChasseur. Alerte.\n<for> Apr\u00e8s que le <name> vous a <br> attaqu\u00e9 : d\u00e9placez-le dans le lieu connexe avec le moins d'investigateurs.",
+                "text": "<spawn> Tunnel d'Entr\u00e9e.\nAlerte. Chasseur. \n<for> Apr\u00e8s que le <name> vous a <br> attaqu\u00e9 : d\u00e9placez-le dans le lieu connexe avec le moins d'investigateurs.",
                 "flavor_text": "",
                 "subtitle": null,
                 "traits": "Monstre. Byakhee."
@@ -2882,7 +2881,7 @@
             "name": "Byakhee Vicieux",
             "front": {
                 "name": "<name>",
-                "text": "<spawn> Tunnel d'Entr\u00e9e.\nPatrouille (lieu le plus proche avec un soutien d'histoire <t>Cerveau</t> attach\u00e9).\n<for> Au d\u00e9but de la phase des Ennemis, si le <name> est redress\u00e9 : infligez 2 d\u00e9g\u00e2ts \u00e0 chaque ennemi <t>Mi-Go</t> et \u00e0 chaque soutien d'histoire <t>Cerveau</t> pr\u00e9sent dans son lieu.",
+                "text": "Patrouille (lieu le plus proche avec un soutien d'histoire <t>Cerveau</t> attach\u00e9).\n<spawn> Tunnel d'Entr\u00e9e.\n<for> Au d\u00e9but de la phase des Ennemis, si le <name> est redress\u00e9 : infligez 2 d\u00e9g\u00e2ts \u00e0 chaque ennemi <t>Mi-Go</t> et \u00e0 chaque soutien d'histoire <t>Cerveau</t> pr\u00e9sent dans son lieu.",
                 "flavor_text": "",
                 "subtitle": null,
                 "traits": "Monstre. Byakhee."
@@ -3067,8 +3066,8 @@
             "name": "D\u00e9mon de Nis",
             "front": {
                 "name": "<unique><name>",
-                "text": "<size 61><prey> Le plus de \u00ab Souvenirs \u00bb uniquement.\nChasseur. Alerte.\n<for> Quand le <name> vous attaque : barrez 1 trait sous la mention \u00ab Souvenirs \u00bb de votre investigateur.",
-                "flavor_text": "<size 50>\u00ab Le D\u00e9mon de la Vall\u00e9e ne sait ni pourquoi ses eaux sont rouges ni vers quel aval elles coulent. \u00bb \u2013 H.P. Lovecraft, Souvenir",
+                "text": "<size 60>Alerte. Chasseur. \n<prey> Le plus de \u00ab Souvenirs \u00bb uniquement.\n<for> Quand le <name> vous attaque : barrez 1 trait sous la mention \u00ab Souvenirs \u00bb de votre investigateur.",
+                "flavor_text": "<size 30>\n<size 60>\u00ab Le D\u00e9mon de la Vall\u00e9e ne sait ni pourquoi ses eaux sont rouges ni vers quel aval elles coulent. \u00bb <br>\u2013 H.P. Lovecraft, Souvenir",
                 "subtitle": "Le D\u00e9voreur de Souvenirs",
                 "victory": "Victoire 1.",
                 "traits": "Abomination. Monstre."
@@ -3178,8 +3177,8 @@
             "name": "Esprit de Than",
             "front": {
                 "name": "<unique><name>",
-                "text": "<prey> Le moins de \u00ab Souvenirs \u00bb uniquement.\nChasseur. Riposte.\n<for> Quand l'<name> vous attaque, il inflige 1 horreur pour chaque groupe de 2 traits sous la mention \u00ab Souvenirs \u00bb de votre investigateur.",
-                "flavor_text": "Qui \u00eates-vous ?",
+                "text": "Chasseur. Riposte.\n<prey> Le moins de \u00ab Souvenirs \u00bb uniquement.\n<for> Quand l'<name> vous attaque, il inflige 1 horreur pour chaque groupe de 2 traits sous la mention \u00ab Souvenirs \u00bb de votre investigateur.",
+                "flavor_text": "<size 30>\n<size 60>Qui \u00eates-vous ?",
                 "subtitle": "Celui qui est Parti",
                 "victory": "Victoire 1.",
                 "traits": "Abomination. Geist."
@@ -3564,8 +3563,8 @@
             "name": "Habitant des Cavernes",
             "front": {
                 "name": "<name>",
-                "text": "Massif. Riposte. Chasseur. \n<for> Quand le lieu de l'Habitant des Cavernes est retourn\u00e9 : inclinez l'Habitant des Cavernes.",
-                "flavor_text": "\nUne perversion de ce qui \u00e9tait autrefois un \u00eatre humain.",
+                "text": "Chasseur. Massif. Riposte.\n<for> Quand le lieu de l'Habitant des Cavernes est retourn\u00e9 : inclinez l'Habitant des Cavernes.",
+                "flavor_text": "<size 30>\n\n\n\n<size 60>Une perversion de ce qui \u00e9tait autrefois un \u00eatre humain.",
                 "subtitle": "\u00c9trangement Familier",
                 "victory": "Victoire 1.",
                 "traits": "Monstre. Cultiste. Humano\u00efde. "
@@ -3667,8 +3666,8 @@
             "name": "\u00c9tranges Clochers",
             "front": {
                 "name": "<name>",
-                "text": "<spawn> Lieu <t>Carcosa</t> le plus proche.\nMassif.\nN'attaque pas pendant la phase des Ennemis.",
-                "flavor_text": "\n\u2026 et minuit sonna aux clochers de la ville noy\u00e9e de brume.<right>-- Robert W.Chambers, Le Signe Jaune",
+                "text": "Massif.\n<spawn> Lieu <t>Carcosa</t> le plus proche.\nN'attaque pas pendant la phase des Ennemis.",
+                "flavor_text": "<size 30>\n\n<size 60>\u00ab \u2026 et minuit sonna aux clochers de la ville noy\u00e9e de brume. \u00bb\n-- Robert W.Chambers, Le Signe Jaune",
                 "subtitle": null,
                 "traits": "Obstacle."
             },
@@ -3679,7 +3678,7 @@
             "front": {
                 "name": "<name>",
                 "text": "<spawn> Lieu <t>Carcosa</t> le plus proche.\nN'attaque pas pendant la phase des Ennemis.\n<for> Apr\u00e8s avoir retourn\u00e9 le lieu o\u00f9 se situent les Rideaux en Lambeaux : d\u00e9placez-les de 1 lieu vers vous.",
-                "flavor_text": "\nLes haillons festonn\u00e9s du Roi en jaune doivent dissimuler Yhtill pour toujours.\n-- Robert W.Chambers, Le Restaurateur de R\u00e9putations",
+                "flavor_text": "<size 30>\n<size 56>\u00ab Les haillons festonn\u00e9s du Roi en jaune doivent dissimuler Yhtill pour toujours. \u00bb \n-- Robert W.Chambers, \nLe Restaurateur de R\u00e9putations\n</size>",
                 "subtitle": null,
                 "traits": "Obstacle."
             },
@@ -3701,7 +3700,7 @@
             "front": {
                 "name": "<name>",
                 "text": "Distant. Chasseur.\nLe lieu o\u00f9 se situent les <name> gagne le trait <t>Carcosa.</t>",
-                "flavor_text": "Tout r\u00e9sonne \u00e0 travers les brumes comme une m\u00e9lodie lointaine et famili\u00e8re \u2013 Chanson de Cassilda.",
+                "flavor_text": "<size 30>\n\n<size 60>Tout r\u00e9sonne \u00e0 travers les brumes comme une m\u00e9lodie lointaine et famili\u00e8re \u2013 Chanson de Cassilda.",
                 "subtitle": null,
                 "victory": "Victoire 1.",
                 "traits": "Obstacle."
@@ -3940,8 +3939,8 @@
             "name": "Tassilda",
             "front": {
                 "name": "<unique><name>",
-                "text": "Massif. Riposte.\nPour chaque trait sous la mention \u00ab Apocalypse <br>Imminente \u00bb dans votre Carnet de Campagne, Tassilda gagne +1<per_large> point de vie.\n<for> Apr\u00e8s avoir plac\u00e9 n'importe quel nombre de fatalit\u00e9s sur une carte : pour chaque fatalit\u00e9 plac\u00e9e, placez 1 pion Horreur sur le lieu de Tassilda et sur chaque lieu connexe.",
-                "flavor_text": "Mon p\u00e8re ne vous fera aucune faveur.",
+                "text": "<size 54>Massif. Riposte.\nPour chaque trait sous la mention \u00ab Apocalypse <br>Imminente \u00bb dans votre Carnet de Campagne, Tassilda gagne +1<per_large> point de vie.\n<for> Apr\u00e8s avoir plac\u00e9 n'importe quel nombre de fatalit\u00e9s sur une carte : pour chaque fatalit\u00e9 plac\u00e9e, placez 1 pion Horreur sur le lieu de Tassilda et sur chaque lieu connexe.",
+                "flavor_text": "<size 10>\n<size 58>Mon p\u00e8re ne vous fera aucune faveur.",
                 "subtitle": "Princesse Royale de Carcosa",
                 "victory": "Victory 1.",
                 "traits": "Grand Ancien. \u00c9lite."
@@ -3969,7 +3968,7 @@
             "front": {
                 "name": "<name>",
                 "text": "<for> Apr\u00e8s avoir inflig\u00e9 n'importe quelle quantit\u00e9 de d\u00e9g\u00e2ts au Garde Yithien : choisissez et d\u00e9faussez 1 carte de votre main.",
-                "flavor_text": "On sait peu de choses sur la Grande Race de Yith. La rumeur dit qu'ils sont capable de projeter leur esprit \u00e0 travers le temps et l'espace.",
+                "flavor_text": "<size 30>\n\n\n<size 58>On sait peu de choses sur la Grande Race de Yith. La rumeur dit qu'ils sont capable de projeter leur esprit \u00e0 travers le temps et l'espace.",
                 "subtitle": null,
                 "victory": "Victoire 1.",
                 "traits": "Monstre. Yithien."
@@ -3993,7 +3992,7 @@
             "front": {
                 "name": "<unique><name>",
                 "text": "Massif.\n<for> Apr\u00e8s avoir vaincu Domaag T'eel : gagnez <br>3<per_large> indices pris dans la r\u00e9serve de pions.",
-                "flavor_text": "<size 58>Cette cr\u00e9ature gigantesque a \u00e9t\u00e9 d\u00e9velopp\u00e9e sur la lune par les Mi-Go dans le but de combattre les Grands Anciens. Lorsque les cultistes terriens l'ont lib\u00e9r\u00e9e, la lune a commenc\u00e9 \u00e0 changer d'orbite, r\u00e9veillant ceux qui auraient d\u00fb rester endormis.",
+                "flavor_text": "<size 30>\n<size 54>Cette cr\u00e9ature gigantesque a \u00e9t\u00e9 d\u00e9velopp\u00e9e sur la lune par les Mi-Go dans le but de combattre les Grands Anciens. Lorsque les cultistes terriens l'ont lib\u00e9r\u00e9e, la lune a commenc\u00e9 \u00e0 changer d'orbite, r\u00e9veillant ceux qui auraient d\u00fb rester endormis.",
                 "subtitle": "L'Erreur qui a D\u00e9truit notre Monde",
                 "victory": "Victoire 1.",
                 "traits": "Grand Ancien. Abomination. \u00c9lite."
@@ -4201,8 +4200,8 @@
             "name": "Exoro\u00efde",
             "front": {
                 "name": "<name>",
-                "text": "<spawn> N'importe quel lieu <t>Ceinture d'Ast\u00e9ro\u00efdes.</t>\nChasseur. Riposte.\n<for> Apr\u00e8s avoir vaincu l'Exoro\u00efde : m\u00e9langez-le dans le deck Analyse.",
-                "flavor_text": "\nCe n'est pas un ast\u00e9ro\u00efde.",
+                "text": "Chasseur. Riposte.\n<spawn> N'importe quel lieu <t>Ceinture d'Ast\u00e9ro\u00efdes.</t>\n<for> Apr\u00e8s avoir vaincu l'Exoro\u00efde : m\u00e9langez-le dans le deck Analyse.",
+                "flavor_text": "<size 30>\n<size 60>Ce n'est pas un ast\u00e9ro\u00efde.",
                 "subtitle": null,
                 "traits": "Monstre."
             },
@@ -4240,7 +4239,7 @@
             "name": "Crabe Martien",
             "front": {
                 "name": "<name>",
-                "text": "<spawn> N'importe quel lieu <t>Mars.</t>\nMassif.\n<reaction> Apr\u00e8s avoir \u00e9chapp\u00e9 avec succ\u00e8s au Crabe Martien, d\u00e9pensez 1 indice : infligez-lui 2 d\u00e9g\u00e2ts au lieu de l'incliner.",
+                "text": "Massif.\n<spawn> N'importe quel lieu <t>Mars.</t>\n<reaction> Apr\u00e8s avoir \u00e9chapp\u00e9 avec succ\u00e8s au Crabe Martien, d\u00e9pensez 1 indice : infligez-lui 2 d\u00e9g\u00e2ts au lieu de l'incliner.",
                 "flavor_text": "",
                 "subtitle": null,
                 "victory": "Victoire 1.",
@@ -4308,7 +4307,7 @@
             "front": {
                 "name": "<name>",
                 "text": "<spawn> N'importe quel lieu <t>Colonie.</t>\n<for> Apr\u00e8s avoir r\u00e9ussi une analyse : placez 1 fatalit\u00e9 sur le Cyber-Cultiste.",
-                "flavor_text": "\n\nAu d\u00e9but, ce n'\u00e9tait qu'un petit sacrifice.",
+                "flavor_text": "<size 30>\n\n\n\n<size 60>Au d\u00e9but, ce n'\u00e9tait qu'un petit sacrifice.",
                 "subtitle": null,
                 "traits": "Humano\u00efde. Cultiste."
             },
@@ -4341,7 +4340,7 @@
             "front": {
                 "name": "<name>",
                 "text": "<spawn> Lieu <t>Vaisseau Spatial</t> le plus proche.\n<act> D\u00e9pensez un nombre de ressources \u00e9gal aux points de vie restants des Pirates de l'Espace : <b>Discussion.</b>D\u00e9faussez les Pirates de l'Espace.",
-                "flavor_text": "Il y a encore des lois et des r\u00e8glements dans l'espace, mais personne pour les appliquer.",
+                "flavor_text": "<size 30>\n<size 60>Il y a encore des lois et des r\u00e8glements dans l'espace, mais personne pour les appliquer.",
                 "subtitle": null,
                 "traits": "Humano\u00efde. Criminel."
             },
@@ -4362,8 +4361,8 @@
             "name": "Byakhee du Vide",
             "front": {
                 "name": "<name>",
-                "text": "<spawn> N'importe quel lieu sans indice sur lui.\nChasseur.\nLe Byakhee du Vide se d\u00e9place comme si tous les lieux sans indices \u00e9taient connexes entre eux.",
-                "flavor_text": "Ces \u00e9tranges cr\u00e9atures extraterrestres sont en phase avec le champ magn\u00e9tique galactique, leur conf\u00e9rant ainsi la capacit\u00e9 de voyager plus vite que la lumi\u00e8re.",
+                "text": "Chasseur.\n<spawn> N'importe quel lieu sans indice sur lui.\nLe Byakhee du Vide se d\u00e9place comme si tous les lieux sans indices \u00e9taient connexes entre eux.",
+                "flavor_text": "<size 20>\n<size 60>Ces \u00e9tranges cr\u00e9atures extraterrestres sont en phase avec le champ magn\u00e9tique galactique, leur conf\u00e9rant ainsi la capacit\u00e9 de voyager plus vite que la lumi\u00e8re.",
                 "subtitle": null,
                 "traits": "Monstre. Byakhee."
             },

@@ -1660,8 +1660,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "17",
-            "project_number": 17,
+            "encounter_number": "20",
+            "project_number": 20,
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "ed1e7595-27db-4c01-9c86-57ff179cb62d"
         },
@@ -1697,8 +1697,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "33",
-            "project_number": 28,
+            "encounter_number": "35",
+            "project_number": 30,
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "9730b57e-d666-4135-8206-889841a5b11f"
         },
@@ -1720,8 +1720,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "18",
-            "project_number": 18,
+            "encounter_number": "21",
+            "project_number": 21,
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "c57b247d-a3fd-43f9-a3aa-fd23a191f92d"
         },
@@ -1757,8 +1757,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "34",
-            "project_number": 29,
+            "encounter_number": "36",
+            "project_number": 31,
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "685d5002-96dd-43ea-99c8-c6c8f8a8ad64"
         },
@@ -1879,8 +1879,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "19",
-            "project_number": 19,
+            "encounter_number": "22",
+            "project_number": 22,
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "2c335ca4-8640-45eb-84d5-9f1d21d23e82"
         },
@@ -1913,8 +1913,8 @@
                     "cross"
                 ]
             },
-            "encounter_number": "15",
-            "project_number": 15,
+            "encounter_number": "19",
+            "project_number": 19,
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "2f8d710f-5102-4f04-b3e5-ef757053ecff"
         },
@@ -1936,8 +1936,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "20",
-            "project_number": 20,
+            "encounter_number": "23",
+            "project_number": 23,
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "fb7ef4c4-22a8-491e-9194-c2b19dd11171"
         },
@@ -1958,8 +1958,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "21",
-            "project_number": 21,
+            "encounter_number": "24",
+            "project_number": 24,
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "a52e37aa-d60d-49e3-b512-e9cfabfdda7e"
         },
@@ -1979,8 +1979,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "22-23",
-            "project_number": 22,
+            "encounter_number": "25-26",
+            "project_number": 25,
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "de758b88-4e1c-4a7e-9ae3-35908b80740d",
             "amount": 2
@@ -2000,8 +2000,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "24-25",
-            "project_number": 23,
+            "encounter_number": "27-28",
+            "project_number": 26,
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "3e19a352-a71c-4fa9-a7e0-d7911db533bf",
             "amount": 2
@@ -2022,8 +2022,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "26-27",
-            "project_number": 24,
+            "encounter_number": "29-30",
+            "project_number": 27,
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "f69152ef-2b0d-4d13-b419-4e56b0af7c84",
             "amount": 2
@@ -2043,8 +2043,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "28-29",
-            "project_number": 25,
+            "encounter_number": "31-32",
+            "project_number": 28,
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "00611aac-7426-4bba-878a-9e0d0d62ce05",
             "amount": 2
@@ -2064,8 +2064,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "30-31",
-            "project_number": 26,
+            "encounter_number": "33-34",
+            "project_number": 29,
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "4f2c9b3d-aa24-4333-81f4-d16fad37ad41",
             "amount": 2
@@ -2087,7 +2087,7 @@
                 "type": "encounter"
             },
             "encounter_number": "1-3",
-            "project_number": 273,
+            "project_number": 269,
             "encounter_set": "b69ef0b1-85ab-4a2a-9112-49abc03ea938",
             "id": "21235b47-c5e4-44dd-99e4-3f777f7a07b9",
             "amount": 3
@@ -2109,7 +2109,7 @@
                 "type": "encounter"
             },
             "encounter_number": "4-5",
-            "project_number": 274,
+            "project_number": 270,
             "encounter_set": "b69ef0b1-85ab-4a2a-9112-49abc03ea938",
             "id": "10fec7f7-10f9-4e49-812f-15f9c1066beb",
             "amount": 2
@@ -2131,7 +2131,7 @@
                 "type": "encounter"
             },
             "encounter_number": "6-7",
-            "project_number": 275,
+            "project_number": 271,
             "encounter_set": "b69ef0b1-85ab-4a2a-9112-49abc03ea938",
             "id": "25e07e17-7653-42e2-8209-e2e497dd2c98",
             "amount": 2
@@ -2153,7 +2153,7 @@
                 "type": "encounter"
             },
             "encounter_number": "8-9",
-            "project_number": 276,
+            "project_number": 272,
             "encounter_set": "b69ef0b1-85ab-4a2a-9112-49abc03ea938",
             "id": "2ba11b43-5f45-4deb-bfb5-c8f57fd565c5",
             "amount": 2
@@ -2181,7 +2181,7 @@
                 "type": "encounter"
             },
             "encounter_number": "10-12",
-            "project_number": 277,
+            "project_number": 273,
             "encounter_set": "b69ef0b1-85ab-4a2a-9112-49abc03ea938",
             "id": "8ca9af5f-bfcb-4464-b3d2-353527379722",
             "amount": 3
@@ -3131,7 +3131,7 @@
                 "type": "encounter"
             },
             "encounter_number": "7",
-            "project_number": 272,
+            "project_number": 277,
             "encounter_set": "3b1b9f85-9e36-4509-b838-955642e5bc0a",
             "id": "67426cc3-4128-45da-8a32-0e4ddc2f3807"
         },
@@ -3150,7 +3150,7 @@
                 "type": "encounter"
             },
             "encounter_number": "1-2",
-            "project_number": 269,
+            "project_number": 274,
             "encounter_set": "3b1b9f85-9e36-4509-b838-955642e5bc0a",
             "id": "6f206aab-5765-4c9c-b012-48a3745e5d3a",
             "amount": 2
@@ -3173,7 +3173,7 @@
                 "type": "encounter"
             },
             "encounter_number": "3-4",
-            "project_number": 270,
+            "project_number": 275,
             "encounter_set": "3b1b9f85-9e36-4509-b838-955642e5bc0a",
             "id": "a7ed5ea6-769c-4cdc-951c-ffa19bf7bd04",
             "amount": 2
@@ -3196,7 +3196,7 @@
                 "type": "encounter"
             },
             "encounter_number": "5-6",
-            "project_number": 271,
+            "project_number": 276,
             "encounter_set": "3b1b9f85-9e36-4509-b838-955642e5bc0a",
             "id": "58b59fb2-bb65-409a-af9a-f6b41aff0762",
             "amount": 2
@@ -3306,9 +3306,7 @@
                 "illustrator": "Illus. Mark Garlick",
                 "name": "<name>",
                 "illustration_pan_x": -409.0,
-                "illustration_pan_y": 9.0,
-                "collection_icon": "2-4/<est>",
-                "collection_number": "<exi> <exn>"
+                "illustration_pan_y": 9.0
             },
             "back": {
                 "type": "agenda_back",
@@ -3334,9 +3332,7 @@
                 "illustrator": "Illus. Mark Garlick",
                 "name": "<name>",
                 "illustration_pan_y": 9.0,
-                "illustration_pan_x": -409.0,
-                "collection_icon": "2-4/<est>",
-                "collection_number": "<exi> <exn>"
+                "illustration_pan_x": -409.0
             },
             "back": {
                 "type": "agenda_back",
@@ -3361,9 +3357,7 @@
                 "illustrator": "Illus. Mark Garlick",
                 "name": "<name>",
                 "illustration_pan_y": 9.0,
-                "illustration_pan_x": -409.0,
-                "collection_icon": "2-4/<est>",
-                "collection_number": "<exi> <exn>"
+                "illustration_pan_x": -409.0
             },
             "back": {
                 "type": "agenda_back",
@@ -9304,7 +9298,9 @@
                 "level": "None",
                 "slots": [
                     "hand"
-                ]
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
+                "collection_number": "6"
             },
             "back": {
                 "type": "player"
@@ -9329,7 +9325,9 @@
                 "icons": "Q",
                 "illustration": "./images/internationalCollaboration.jpeg",
                 "illustration_pan_x": -214.0,
-                "illustration_pan_y": 231.0
+                "illustration_pan_y": 231.0,
+                "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
+                "collection_number": "8"
             },
             "back": {
                 "type": "player"
@@ -9353,7 +9351,9 @@
                 ],
                 "level": "None",
                 "icons": "CC",
-                "illustration": "./images/nuclearPowerBank.jpg"
+                "illustration": "./images/nuclearPowerBank.jpg",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
+                "collection_number": "10"
             },
             "back": {
                 "type": "player"
@@ -9377,7 +9377,9 @@
                 ],
                 "level": "None",
                 "icons": "Q",
-                "illustration": "./images/edited_images/machineLearningAlgorithm.jpg"
+                "illustration": "./images/edited_images/machineLearningAlgorithm.jpg",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
+                "collection_number": "9"
             },
             "back": {
                 "type": "player"
@@ -9403,7 +9405,9 @@
                 "illustration": "./images/edited_images/rationalMind.jpg",
                 "illustration_scale": 1.4,
                 "illustration_pan_x": 50.0,
-                "illustration_pan_y": 80.0
+                "illustration_pan_y": 80.0,
+                "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
+                "collection_number": "12"
             },
             "back": {
                 "type": "player"
@@ -9433,7 +9437,9 @@
                 "name": "<unique><name>",
                 "slots": [
                     "hand"
-                ]
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
+                "collection_number": "14"
             },
             "back": {
                 "type": "player"
@@ -9457,7 +9463,9 @@
                 "level": "None",
                 "icons": "WW",
                 "illustration": "./images/scienceOverMysticism.png",
-                "illustration_pan_x": 0.0
+                "illustration_pan_x": 0.0,
+                "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
+                "collection_number": "13"
             },
             "back": {
                 "type": "player"
@@ -9482,7 +9490,9 @@
                 "illustration": "./images/edited_images/particleAccelerator.jpg",
                 "illustration_pan_x": -320.0,
                 "illustration_pan_y": 146.0,
-                "illustration_scale": 1.62
+                "illustration_scale": 1.62,
+                "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
+                "collection_number": "11"
             },
             "back": {
                 "type": "player"
@@ -9511,7 +9521,9 @@
                 "illustration_pan_y": 15.0,
                 "slots": [
                     "hand"
-                ]
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
+                "collection_number": "15"
             },
             "back": {
                 "type": "player"
@@ -9540,7 +9552,7 @@
                 "illustration_pan_y": -1.0,
                 "illustration_scale": 1.16,
                 "collection_icon": "<image color=\"inverted\" src=\"./images/Flask.png\">",
-                "collection_number": "<exn>"
+                "collection_number": "3"
             },
             "back": {
                 "type": "player"
@@ -9567,7 +9579,7 @@
                 "illustration_pan_y": 15.0,
                 "illustrator": "Illus. Micah Epstein",
                 "collection_icon": "<image color=\"inverted\" src=\"./images/Flask.png\">",
-                "collection_number": "<exn>"
+                "collection_number": "2"
             },
             "back": {
                 "type": "player"
@@ -9597,7 +9609,7 @@
                 "illustration_scale": 1.16,
                 "illustrator": "Illus. Cristi Balanescu",
                 "collection_icon": "<image color=\"inverted\" src=\"./images/Flask.png\">",
-                "collection_number": "<exn>"
+                "collection_number": "1"
             },
             "back": {
                 "type": "investigator_back",
@@ -9635,13 +9647,17 @@
             },
             "id": "6b8d08d9-df88-4163-89b8-4b54779bbce7",
             "investigator": "Kate Winthrop",
-            "project_number": 335
+            "project_number": 335,
+            "encounter_number": "1",
+            "enumerated": "manual"
         },
         {
             "name": "A Webb Of Discovery",
             "front": {
                 "type": "story",
-                "text": "<blockquote>Du findest ein Objekt, das aus mehreren makellos gl\u00e4nzenden Sechsecken besteht. Es ist ein altes Teleskop, mit dem die Grenzen des bekannten Universums beobachtet wurden.\n\u201eDas James Webb-Weltraumteleskop (JWST) ist ein Weltraumteleskop, das haupts\u00e4chlich f\u00fcr die Infrarotastronomie entwickelt wurde. Es ist das gr\u00f6\u00dfte optische Teleskop im Weltraum, und seine hohe Infrarotaufl\u00f6sung und Empfindlichkeit machen es m\u00f6glich, Objekte zu sehen, die zu alt, zu weit entfernt oder zu blass f\u00fcr das Hubble-Weltraumteleskop sind. Dadurch erm\u00f6glicht es eine gro\u00dfe Bandbreite an Untersuchungen auf den Gebieten der Astronomie und Kosmologie, wie z.B. die Beobachtung der ersten Sterne und der Entstehung der ersten Galaxien, und die genaue Beschreibung der Atmosph\u00e4ren potenziell bewohnbarer Exoplaneten.\u201c\n<right>-Maja, Informationsarchiv</blockquote>\n\n<left>Falls ein Ermittler an deinem Ort eine <t>Wissenschaft</t>-<br>Karte im Spiel kontrolliert oder besitzt, h\u00e4nge <name> an einen beliebigen Ort an. Entferne diese Karte ansonsten aus dem Spiel. Ermittler d\u00fcrfen den Ort mit dieser Verst\u00e4rkung behandeln, als ob sein aufgedrucktes Textfeld leer w\u00e4re."
+                "text": "<blockquote>Du findest ein Objekt, das aus mehreren makellos gl\u00e4nzenden Sechsecken besteht. Es ist ein altes Teleskop, mit dem die Grenzen des bekannten Universums beobachtet wurden.\n\u201eDas James Webb-Weltraumteleskop (JWST) ist ein Weltraumteleskop, das haupts\u00e4chlich f\u00fcr die Infrarotastronomie entwickelt wurde. Es ist das gr\u00f6\u00dfte optische Teleskop im Weltraum, und seine hohe Infrarotaufl\u00f6sung und Empfindlichkeit machen es m\u00f6glich, Objekte zu sehen, die zu alt, zu weit entfernt oder zu blass f\u00fcr das Hubble-Weltraumteleskop sind. Dadurch erm\u00f6glicht es eine gro\u00dfe Bandbreite an Untersuchungen auf den Gebieten der Astronomie und Kosmologie, wie z.B. die Beobachtung der ersten Sterne und der Entstehung der ersten Galaxien, und die genaue Beschreibung der Atmosph\u00e4ren potenziell bewohnbarer Exoplaneten.\u201c\n<right>-Maja, Informationsarchiv</blockquote>\n\n<left>Falls ein Ermittler an deinem Ort eine <t>Wissenschaft</t>-<br>Karte im Spiel kontrolliert oder besitzt, h\u00e4nge <name> an einen beliebigen Ort an. Entferne diese Karte ansonsten aus dem Spiel. Ermittler d\u00fcrfen den Ort mit dieser Verst\u00e4rkung behandeln, als ob sein aufgedrucktes Textfeld leer w\u00e4re.",
+                "collection_icon": "<image src=\"./images/science.png\">",
+                "collection_number": "1"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -9664,7 +9680,9 @@
             "name": "Voyage Beyond Space",
             "front": {
                 "type": "story",
-                "text": "<blockquote>Du kannst ein leises piependes Ger\u00e4usch aus den Weiten des Alls h\u00f6ren.\n\u201eVoyager 1 ist eine Raumsonde, die am 5. September 1977 als Teil des Voyager-Programms der NASA gestartet wurde, um das \u00e4u\u00dfere Sonnensystem und den interstellaren Raum jenseits der Heliosph\u00e4re der Sonne zu erforschen. Voyager 1 entdeckte einen schwach ausgepr\u00e4gten Planetenring um den Jupiter und zwei neue Jupitermonde: Thebe und Metis. Am Saturn entdeckte Voyager 1 f\u00fcnf neue Monde und einen neuen Ring, der als G-Ring bezeichnet wurde. Voyager 1 ist das erste von Menschen gebaute Objekt, das in den interstellaren Raum eintrat, und ist auch heute noch das menschen-gemachte Objekt, das am weitesten von der Erde entfernt ist.\u201c\n<right>-Maja, Informationsarchiv</blockquote>\n\n<left>Jeder Ermittler erh\u00e4lt f\u00fcr jede <t>Wissenschaft</t>-Karte im Spiel, die er kontrolliert oder besitzt, 1 Ressource. Entferne <name> aus dem Spiel."
+                "text": "<blockquote>Du kannst ein leises piependes Ger\u00e4usch aus den Weiten des Alls h\u00f6ren.\n\u201eVoyager 1 ist eine Raumsonde, die am 5. September 1977 als Teil des Voyager-Programms der NASA gestartet wurde, um das \u00e4u\u00dfere Sonnensystem und den interstellaren Raum jenseits der Heliosph\u00e4re der Sonne zu erforschen. Voyager 1 entdeckte einen schwach ausgepr\u00e4gten Planetenring um den Jupiter und zwei neue Jupitermonde: Thebe und Metis. Am Saturn entdeckte Voyager 1 f\u00fcnf neue Monde und einen neuen Ring, der als G-Ring bezeichnet wurde. Voyager 1 ist das erste von Menschen gebaute Objekt, das in den interstellaren Raum eintrat, und ist auch heute noch das menschen-gemachte Objekt, das am weitesten von der Erde entfernt ist.\u201c\n<right>-Maja, Informationsarchiv</blockquote>\n\n<left>Jeder Ermittler erh\u00e4lt f\u00fcr jede <t>Wissenschaft</t>-Karte im Spiel, die er kontrolliert oder besitzt, 1 Ressource. Entferne <name> aus dem Spiel.",
+                "collection_icon": "<image src=\"./images/science.png\">",
+                "collection_number": "4"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -9688,7 +9706,9 @@
             "name": "Curious Discovery",
             "front": {
                 "type": "story",
-                "text": "<blockquote>Du findest eine gl\u00e4serne Vitrine, die eines der wertvollsten Relikte der Mars-Kolonien enth\u00e4lt - einen alten Marsrover.\n\u201eCuriosity ist ein automobilgro\u00dfer Marsrover, der entwickelt wurde, um als Teil der Mars Science Laboratoty (MSL)-Mission der NASA den Gale-Krater auf dem Mars zu erkunden. Curiosity wurde im Jahr 2011 von der CCAFS am Cape Canaveral ins All geschossen und landete 2012 im Aeolis Palus innerhalb des Gale-Kraters auf dem Mars. Zu seinen Missionszielen z\u00e4hlen die Untersuchung des Klimas und der Geologie auf dem Mars, die Pr\u00fcfung, ob Gale jemals g\u00fcnstige Bedingungen f\u00fcr mikrobielles Leben bot (und welche Rolle Wasser bei der Enstehung solchen Lebens spielt) und die Einsch\u00e4tzung der Bewohnbarkeit des Planeten zur Vorbereitung sp\u00e4terer bemannter Missionen.\u201c\n<right>-Maja, Informationsarchiv</blockquote>\n\n<left>Jeder Ermittler zieht f\u00fcr jede <t>Wissenschaft</t>-Karte im Spiel, die er kontrolliert oder besitzt, 1 Karte. (Max. 3 Karten f\u00fcr jeden Ermittler.)\nEntferne <name> aus dem Spiel."
+                "text": "<blockquote>Du findest eine gl\u00e4serne Vitrine, die eines der wertvollsten Relikte der Mars-Kolonien enth\u00e4lt - einen alten Marsrover.\n\u201eCuriosity ist ein automobilgro\u00dfer Marsrover, der entwickelt wurde, um als Teil der Mars Science Laboratoty (MSL)-Mission der NASA den Gale-Krater auf dem Mars zu erkunden. Curiosity wurde im Jahr 2011 von der CCAFS am Cape Canaveral ins All geschossen und landete 2012 im Aeolis Palus innerhalb des Gale-Kraters auf dem Mars. Zu seinen Missionszielen z\u00e4hlen die Untersuchung des Klimas und der Geologie auf dem Mars, die Pr\u00fcfung, ob Gale jemals g\u00fcnstige Bedingungen f\u00fcr mikrobielles Leben bot (und welche Rolle Wasser bei der Enstehung solchen Lebens spielt) und die Einsch\u00e4tzung der Bewohnbarkeit des Planeten zur Vorbereitung sp\u00e4terer bemannter Missionen.\u201c\n<right>-Maja, Informationsarchiv</blockquote>\n\n<left>Jeder Ermittler zieht f\u00fcr jede <t>Wissenschaft</t>-Karte im Spiel, die er kontrolliert oder besitzt, 1 Karte. (Max. 3 Karten f\u00fcr jeden Ermittler.)\nEntferne <name> aus dem Spiel.",
+                "collection_icon": "<image src=\"./images/science.png\">",
+                "collection_number": "2"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -9712,7 +9732,9 @@
             "name": "Hidden Signals",
             "front": {
                 "type": "story",
-                "text": "<blockquote>Die Oberfl\u00e4che der Erde ist nur noch ein zerst\u00f6rtes \u00d6dland voller abscheulicher Wesen und unaussprechlicher Sch\u00f6pfungen. Dein Sensor empf\u00e4ngt jedoch ein leises Hoffnungsfl\u00fcstern aus den Tr\u00fcmmern.\nW\u00e4hrend der vielen Jahre des Wohlstands, die die Menschheit vor dem Erscheinen der Gro\u00dfen Alten durchlebte, haben die Menschen zusammengearbeitet und gemeinsam mehrere unterirdische Labore gebaut, um die Wahrheiten des Universums zu ergr\u00fcnden. Was sind Neutrinos? K\u00f6nnen wir die ungreifbare Dunkle Materie finden? Was sind die grundlegenden Kr\u00e4fte, die das Universum zusammenhalten?\nDiese gemeinsamen Forschungsprojekte f\u00fchrten zu neuen Entdeckungen und haben das Wissen der ganzen Menschheit erweitert. Trotz der Schrecken, die \u00fcber ihnen lauern, senden die Labore dieses Wissen immer noch ins All.</blockquote>\nJeder Ermittler erh\u00e4lt f\u00fcr jede <t>Wissenschaft</t>-Karte im Spiel, die er kontrolliert oder besitzt, 1 Hinweis aus dem Markervorrat. (Max. 2 Hinweise f\u00fcr jeden Ermittler.)\nEntferne <name> aus dem Spiel."
+                "text": "<blockquote>Die Oberfl\u00e4che der Erde ist nur noch ein zerst\u00f6rtes \u00d6dland voller abscheulicher Wesen und unaussprechlicher Sch\u00f6pfungen. Dein Sensor empf\u00e4ngt jedoch ein leises Hoffnungsfl\u00fcstern aus den Tr\u00fcmmern.\nW\u00e4hrend der vielen Jahre des Wohlstands, die die Menschheit vor dem Erscheinen der Gro\u00dfen Alten durchlebte, haben die Menschen zusammengearbeitet und gemeinsam mehrere unterirdische Labore gebaut, um die Wahrheiten des Universums zu ergr\u00fcnden. Was sind Neutrinos? K\u00f6nnen wir die ungreifbare Dunkle Materie finden? Was sind die grundlegenden Kr\u00e4fte, die das Universum zusammenhalten?\nDiese gemeinsamen Forschungsprojekte f\u00fchrten zu neuen Entdeckungen und haben das Wissen der ganzen Menschheit erweitert. Trotz der Schrecken, die \u00fcber ihnen lauern, senden die Labore dieses Wissen immer noch ins All.</blockquote>\nJeder Ermittler erh\u00e4lt f\u00fcr jede <t>Wissenschaft</t>-Karte im Spiel, die er kontrolliert oder besitzt, 1 Hinweis aus dem Markervorrat. (Max. 2 Hinweise f\u00fcr jeden Ermittler.)\nEntferne <name> aus dem Spiel.",
+                "collection_icon": "<image src=\"./images/science.png\">",
+                "collection_number": "3"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -9749,7 +9771,8 @@
                 "illustrator": "Illus. Borja Pindado",
                 "illustration_pan_y": 900.0,
                 "subtitle": "SCHW\u00c4CHE",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/Flask.png\">"
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Flask.png\">",
+                "collection_number": "4"
             },
             "back": {
                 "type": "player"
@@ -9772,7 +9795,7 @@
                 "illustration_pan_x": -200.0,
                 "illustrator": "Illus. Nele Diel",
                 "collection_icon": "<image color=\"inverted\" src=\"./images/Flask.png\">",
-                "collection_number": "<exn>"
+                "collection_number": "5"
             },
             "back": {
                 "type": "player"
@@ -9804,7 +9827,9 @@
                 "name": "<unique><name>",
                 "slots": [
                     "hand"
-                ]
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
+                "collection_number": "7"
             },
             "back": {
                 "type": "player"
@@ -9831,7 +9856,9 @@
                 "illustration": "./images/edited_images/Laika.jpg",
                 "name": "<unique><name>",
                 "level": "None",
-                "illustration_pan_x": -100.0
+                "illustration_pan_x": -100.0,
+                "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
+                "collection_number": "5"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -9862,18 +9889,22 @@
                 ],
                 "connection": "circle",
                 "illustrator": "Illus. Mark Molnar",
-                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_1.png"
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_1.png",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">",
+                "collection_total": "9/20",
+                "collection_number": "49"
             },
             "back": {
                 "type": "fullart_location_back",
                 "flavor_text": "<valign>Das muss eine h\u00f6llische Pause gewesen sein. ",
                 "illustrator": "Illus. Mark Molnar",
-                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_1.png"
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_1.png",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">"
             },
             "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
             "name": "Theatre",
-            "project_number": 318,
-            "encounter_number": "10"
+            "encounter_number": "10",
+            "project_number": 318
         },
         {
             "name": "Lobby",
@@ -9891,16 +9922,20 @@
                     "cross"
                 ],
                 "illustrator": "Illus. Mark Molnar",
-                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_3.png"
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_3.png",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">",
+                "collection_number": "50",
+                "collection_total": "10/20"
             },
             "back": {
                 "type": "fullart_location_back",
                 "flavor_text": "<valign>Durch die hohe Glast\u00fcr zum Foyer kannst du erkennen, dass der Raum bei weitem nicht so schlimm verw\u00fcstet ist wie der Zuschauerraum. Werbeplakate f\u00fcr </i>Der K\u00f6nig in Gelb<i> h\u00e4ngen an den W\u00e4nden des Raumes und scheinen dich zu verspotten. ",
-                "illustrator": "Illus. Mark Molnar"
+                "illustrator": "Illus. Mark Molnar",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">"
             },
             "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
-            "project_number": 316,
-            "encounter_number": "8"
+            "project_number": 315,
+            "encounter_number": "7"
         },
         {
             "name": "Balcony",
@@ -9918,12 +9953,16 @@
                 ],
                 "victory": "Sieg 1.",
                 "illustrator": "Illus. Mark Molnar",
-                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_6.png"
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_6.png",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">",
+                "collection_number": "51",
+                "collection_total": "11/20"
             },
             "back": {
                 "type": "fullart_location_back",
                 "flavor_text": "<valign>Mit Teppich ausgelegte Stufen f\u00fchren zur Empore hinauf. Aber durch den steilen Aufgang weht dir ein hei\u00dfer Luftzug entgegen.",
-                "illustrator": "Illus. Mark Molnar"
+                "illustrator": "Illus. Mark Molnar",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">"
             },
             "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
             "project_number": 310,
@@ -9944,13 +9983,17 @@
                 "illustrator": "Illus. Mark Molnar",
                 "text": "<for> Sobald Bereich hinter der B\u00fchne enth\u00fcllt wird: Bringe 2 zuf\u00e4llig bestimmte beiseitegelegten Orte namens Zugang zum hinteren Teil des Theaters ins Spiel.\nSolange du im Bereich hinter der B\u00fchne bist, z\u00e4hlt jede Verborgen-Verratskarte auf deiner Hand bei der Bestimmung deiner Handkarten als 3 Karten statt als 1 Karte.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_8.png",
-                "illustration_scale": 2.06
+                "illustration_scale": 2.06,
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">",
+                "collection_number": "52",
+                "collection_total": "12/20"
             },
             "back": {
                 "type": "fullart_location_back",
                 "flavor_text": "<valign>Das B\u00fchnenbild unterscheidet sich von dem, an das du dich aus dem ersten Akt erinnerst. Die Kulisse zeigt einen verst\u00f6rend wirkenden Sonnenuntergang.",
                 "illustrator": "Illus. Mark Molnar",
-                "illustration_scale": 2.06
+                "illustration_scale": 2.06,
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">"
             },
             "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
             "project_number": 309,
@@ -9973,7 +10016,10 @@
                 "traits": "Privat.",
                 "flavor_text": "\u00dcber eine schmale Treppe, die klaustrophobische Gef\u00fchle in dir ausl\u00f6st, erreichst du den an einen Wandschrank erinnernden Arbeitsraum der Beleuchter \u00fcber der Empore. Dieser Raum ist mit teurer Beleuchtungsausr\u00fcstung vollgestopft. Besonders beeindruckend sind die riesigen Scheinwerfer.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_9.png",
-                "illustration_pan_x": -10.0
+                "illustration_pan_x": -10.0,
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">",
+                "collection_number": "53",
+                "collection_total": "13/20"
             },
             "back": {
                 "type": "fullart_location_back",
@@ -9982,11 +10028,12 @@
                 "name": "Personalzugang",
                 "traits": "Privat.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png",
-                "illustration_pan_x": 0.0
+                "illustration_pan_x": 0.0,
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">"
             },
             "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
-            "project_number": 315,
-            "encounter_number": "7"
+            "project_number": 314,
+            "encounter_number": "6"
         },
         {
             "name": "Box Office",
@@ -10003,7 +10050,10 @@
                 "traits": "Privat.",
                 "flavor_text": "Regen durchn\u00e4sst deine Kleidung, als du aus dem Bereich der Theaterkassen trittst. Einen Moment sp\u00e4ter f\u00e4llt dir auf, dass du deine Eintrittskarten im Geb\u00e4ude gekauft hast. Du siehst zur Decke hoch, durch die Regen in die Halle f\u00e4llt.",
                 "clues": "0",
-                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_11.png"
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_11.png",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">",
+                "collection_number": "54",
+                "collection_total": "14/20"
             },
             "back": {
                 "type": "fullart_location_back",
@@ -10011,7 +10061,8 @@
                 "illustrator": "Illus. Yoann Boissonnet",
                 "name": "Personalzugang",
                 "traits": "Privat.",
-                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png"
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">"
             },
             "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
             "project_number": 311,
@@ -10033,7 +10084,10 @@
                 "flavor_text": "Dieser Aufenthaltsraum soll eigentlich als gem\u00fctlicher Ort zur Erholung der angespannten Darsteller dienen, aber du kannst dir nicht vorstellen, dass irgendjemand in diesem Schweinestall auch nur einen Moment der Ruhe finden kann. ",
                 "clues": "1<per>",
                 "victory": "Sieg 1.",
-                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_13.png"
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_13.png",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">",
+                "collection_number": "55",
+                "collection_total": "15/20"
             },
             "back": {
                 "type": "fullart_location_back",
@@ -10041,7 +10095,8 @@
                 "illustrator": "Illus. Yoann Boissonnet",
                 "name": "Personalzugang",
                 "traits": "Privat.",
-                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png"
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">"
             },
             "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
             "project_number": 313,
@@ -10062,7 +10117,10 @@
                 "traits": "Privat.",
                 "flavor_text": "In der Garderobe der Schauspieler findest du diverse Kost\u00fcme und Accessoires, aber das zerschlissene gelbe Kleid auf der anderen Seite des Raumes zieht deine Aufmerksamkeit auf sich. Es sieht zu zerissen und derangiert aus, um getragen zu werden, aber dennoch wirkt es unglaublich anziehend. ",
                 "clues": "0",
-                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_15.png"
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_15.png",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">",
+                "collection_number": "56",
+                "collection_total": "16/20"
             },
             "back": {
                 "type": "fullart_location_back",
@@ -10070,7 +10128,8 @@
                 "illustrator": "Illus. Yoann Boissonnet",
                 "name": "<size 82>Zugang zum hinteren Teil des Theaters",
                 "traits": "Privat.",
-                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png"
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">"
             },
             "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
             "project_number": 312,
@@ -10092,7 +10151,10 @@
                 "flavor_text": "In der Garderobe der Schauspieler findest du diverse Kost\u00fcme und Accessoires, aber das zerschlissene gelbe Kleid auf der anderen Seite des Raumes zieht deine Aufmerksamkeit auf sich. Es sieht zu zerissen und derangiert aus, um getragen zu werden, aber dennoch wirkt es unglaublich anziehend. ",
                 "clues": "1<per>",
                 "victory": "Sieg 1.",
-                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_17.png"
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_17.png",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">",
+                "collection_number": "57",
+                "collection_total": "17/20"
             },
             "back": {
                 "type": "fullart_location_back",
@@ -10100,11 +10162,12 @@
                 "illustrator": "Illus. Yoann Boissonnet",
                 "name": "<size 82>Zugang zum hinteren Teil des Theaters",
                 "traits": "Privat.",
-                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png"
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">"
             },
             "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
-            "project_number": 317,
-            "encounter_number": "9"
+            "project_number": 316,
+            "encounter_number": "8"
         },
         {
             "name": "Trap Room",
@@ -10122,7 +10185,10 @@
                 "clues": "1<per>",
                 "victory": "Sieg 1.",
                 "flavor_text": "Ganz sicher hat niemand in den letzten Monaten die Requisitenkammer unter der B\u00fchne geputzt.",
-                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_19.png"
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_19.png",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">",
+                "collection_number": "58",
+                "collection_total": "18/20"
             },
             "back": {
                 "type": "fullart_location_back",
@@ -10130,7 +10196,8 @@
                 "illustrator": "Illus. Yoann Boissonnet",
                 "name": "<size 82>Zugang zum hinteren Teil des Theaters",
                 "traits": "Privat.",
-                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png"
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">"
             },
             "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
             "project_number": 319,
@@ -10146,14 +10213,17 @@
                 "text": "Wagnis. Verborgen.\n<rev> F\u00fcge diese Karte geheim deiner Hand zu.\nDu kannst keine Fertigkeitskarten zu Fertigkeitsproben beitragen.\n<action><action>: Lege diese Karte von deiner Hand ab.",
                 "traits": "Schrecken.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_4.png",
-                "illustration_scale": 2.0
+                "illustration_scale": 2.0,
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">",
+                "collection_number": "84"
             },
             "back": {
                 "type": "encounter"
             },
             "encounter_set": "4fb0482a-feda-4c9d-96a2-3ea2c801c8e0",
             "project_number": 322,
-            "encounter_number": "4"
+            "enumerated": "manual",
+            "encounter_number": "1"
         },
         {
             "name": "Whispers in Your Head (Dread)",
@@ -10165,14 +10235,17 @@
                 "text": "Wagnis. Verborgen.\n<rev> F\u00fcge diese Karte geheim deiner Hand zu.\nDu kannst dich nicht mehr als ein Mal pro Zug bewegen.\n<action><action>: Lege diese Karte von deiner Hand ab.",
                 "traits": "Schrecken.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_5.png",
-                "illustration_scale": 2.0
+                "illustration_scale": 2.0,
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">",
+                "collection_number": "84"
             },
             "back": {
                 "type": "encounter"
             },
             "encounter_set": "4fb0482a-feda-4c9d-96a2-3ea2c801c8e0",
             "project_number": 324,
-            "encounter_number": "6"
+            "enumerated": "manual",
+            "encounter_number": "2"
         },
         {
             "name": "Whispers in Your Head (Anxiety)",
@@ -10184,14 +10257,17 @@
                 "text": "Wagnis. Verborgen.\n<rev> F\u00fcge diese Karte geheim deiner Hand zu.\nDu kannst keine <free>-F\u00e4higkeiten ausl\u00f6sen.\n<action><action>: Lege diese Karte von deiner Hand ab.",
                 "traits": "Schrecken.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_6.png",
-                "illustration_scale": 2.0
+                "illustration_scale": 2.0,
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">",
+                "collection_number": "84"
             },
             "back": {
                 "type": "encounter"
             },
             "encounter_set": "4fb0482a-feda-4c9d-96a2-3ea2c801c8e0",
             "project_number": 321,
-            "encounter_number": "3"
+            "encounter_number": "3",
+            "enumerated": "manual"
         },
         {
             "name": "Whispers in Your Head (Doubt)",
@@ -10203,14 +10279,17 @@
                 "text": "Wagnis. Verborgen.\n<rev> F\u00fcge diese Karte geheim deiner Hand zu.\nDu kannst keine Ereignisse spielen.\n<action><action>: Lege diese Karte von deiner Hand ab.",
                 "traits": "Schrecken.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_7.png",
-                "illustration_scale": 2.0
+                "illustration_scale": 2.0,
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">",
+                "collection_number": "84"
             },
             "back": {
                 "type": "encounter"
             },
             "encounter_set": "4fb0482a-feda-4c9d-96a2-3ea2c801c8e0",
             "project_number": 323,
-            "encounter_number": "5"
+            "enumerated": "manual",
+            "encounter_number": "4"
         },
         {
             "name": "Descent into Madness",
@@ -10223,14 +10302,17 @@
                 "flavor_text": "Sie erstarrte und ihre Kehle f\u00fchlte sich an wie zugeschn\u00fcrt. Tr\u00e4nden stiegen ihr in die Augen. Ihr Sichtfeld wurde immer enger und alles verschwamm vor ihren Augen. Dann verstand sie schlie\u00dflich.",
                 "traits": "Schrecken.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_9.png",
-                "illustration_scale": 2.0
+                "illustration_scale": 2.0,
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">",
+                "collection_number": "85"
             },
             "back": {
                 "type": "encounter"
             },
             "encounter_set": "4fb0482a-feda-4c9d-96a2-3ea2c801c8e0",
             "project_number": 320,
-            "encounter_number": "1-2"
+            "encounter_number": "5-6",
+            "enumerated": "manual"
         },
         {
             "name": "Swarm of Rats",
@@ -10246,7 +10328,9 @@
                 "flavor_text": "Eine Horde aggressiver Ratten jagt wie eine Welle aus Klauen, Z\u00e4hnen und fleckigem Fell auf dich zu.",
                 "damage": "1",
                 "illustrator": "Illus. Bill Thompson",
-                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_all_german_export_v11_flavor_dark_matter_2.png"
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_all_german_export_v11_flavor_dark_matter_2.png",
+                "collection_number": "159",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/core.svg\">"
             },
             "back": {
                 "type": "encounter"
@@ -10265,14 +10349,17 @@
                 "text": "Wagnis. Verborgen.\n<rev> F\u00fcge diese Karte geheim deiner Hand hinzu.\n<for> Sobald dein Zug endet, falls du nicht mindestens 1 Ressourcen-Aktion w\u00e4hrend deines Zuges durchgef\u00fchrt hast: Lege diese Karte von deiner Hand ab und nimm 1 direkten Schaden und 1 direkten Horror.",
                 "traits": "Schrecken.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_11.png",
-                "illustration_scale": 2.0
+                "illustration_scale": 2.0,
+                "collection_icon": "<image color=\"inverted\" src=\"./images/return_to_the_path_to_carcosa.svg\">",
+                "collection_number": "72"
             },
             "back": {
                 "type": "encounter"
             },
             "encounter_set": "e60b0554-920a-4c7d-8b9f-9a634e7c7ec7",
             "project_number": 328,
-            "encounter_number": "4"
+            "enumerated": "manual",
+            "encounter_number": "2"
         },
         {
             "name": "Visions in Your Mind (Horrors)",
@@ -10284,14 +10371,17 @@
                 "text": "Wagnis. Verborgen.\n<rev> F\u00fcge diese Karte geheim deiner Hand hinzu.\n<for> Sobald dein Zug endet, falls du nicht mindestens 1 Spielen-Aktion w\u00e4hrend deines Zuges durchgef\u00fchrt hast: Lege diese Karte von deiner Hand ab und nimm 1 direkten Schaden und 1 direkten Horror.",
                 "traits": "Schrecken.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_10.png",
-                "illustration_scale": 2.0
+                "illustration_scale": 2.0,
+                "collection_icon": "<image color=\"inverted\" src=\"./images/return_to_the_path_to_carcosa.svg\">",
+                "collection_number": "71"
             },
             "back": {
                 "type": "encounter"
             },
             "encounter_set": "e60b0554-920a-4c7d-8b9f-9a634e7c7ec7",
             "project_number": 330,
-            "encounter_number": "6"
+            "encounter_number": "1",
+            "enumerated": "manual"
         },
         {
             "name": "Visions in Your Mind (Death)",
@@ -10303,14 +10393,17 @@
                 "text": "Wagnis. Verborgen.\n<rev> F\u00fcge diese Karte geheim deiner Hand hinzu.\n<for> Sobald dein Zug endet, falls du nicht mindestens 1 Bewegungsaktion w\u00e4hrend deines Zuges durchgef\u00fchrt hast: Lege diese Karte von deiner Hand ab und nimm 1 direkten Schaden und 1 direkten Horror.",
                 "traits": "Schrecken.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_12.png",
-                "illustration_scale": 2.0
+                "illustration_scale": 2.0,
+                "collection_icon": "<image color=\"inverted\" src=\"./images/return_to_the_path_to_carcosa.svg\">",
+                "collection_number": "73"
             },
             "back": {
                 "type": "encounter"
             },
             "encounter_set": "e60b0554-920a-4c7d-8b9f-9a634e7c7ec7",
             "project_number": 327,
-            "encounter_number": "3"
+            "encounter_number": "4",
+            "enumerated": "manual"
         },
         {
             "name": "Visions in Your Mind (Hatred)",
@@ -10322,14 +10415,17 @@
                 "text": "Wagnis. Verborgen.\n<rev> F\u00fcge diese Karte geheim deiner Hand hinzu.\n<for> Sobald dein Zug endet, falls du nicht mindestens 1 Ziehen-Aktion w\u00e4hrend deines Zuges durchgef\u00fchrt hast: Lege diese Karte von deiner Hand ab und nimm 1 direkten Schaden und 1 direkten Horror.",
                 "traits": "Schrecken.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_13.png",
-                "illustration_scale": 2.0
+                "illustration_scale": 2.0,
+                "collection_icon": "<image color=\"inverted\" src=\"./images/return_to_the_path_to_carcosa.svg\">",
+                "collection_number": "74"
             },
             "back": {
                 "type": "encounter"
             },
             "encounter_set": "e60b0554-920a-4c7d-8b9f-9a634e7c7ec7",
             "project_number": 329,
-            "encounter_number": "5"
+            "encounter_number": "4",
+            "enumerated": "manual"
         },
         {
             "name": "Maddening Delusions",
@@ -10341,14 +10437,17 @@
                 "text": "Nachr\u00fcsten.\n<rev> Falls du 1 oder mehr Verborgen-Karten auf deiner Hand hast, nimmst du 1 Horror.",
                 "traits": "Schrecken.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_14.png",
-                "illustration_scale": 2.0
+                "illustration_scale": 2.0,
+                "collection_number": "75",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/return_to_the_path_to_carcosa.svg\">"
             },
             "back": {
                 "type": "encounter"
             },
             "encounter_set": "e60b0554-920a-4c7d-8b9f-9a634e7c7ec7",
             "project_number": 326,
-            "encounter_number": "1-2"
+            "encounter_number": "5-6",
+            "enumerated": "manual"
         },
         {
             "name": "Beast of Aldebaran",
@@ -10365,7 +10464,9 @@
                 "horror": "1",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_1.png",
                 "illustration_scale": 2.0,
-                "illustrator": "Illus.  Chun Lo"
+                "illustrator": "Illus.  Chun Lo",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/carcosa.svg\">",
+                "collection_number": "88"
             },
             "back": {
                 "type": "encounter"
@@ -10387,7 +10488,9 @@
                 "damage": "1",
                 "horror": "2",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_3.png",
-                "illustrator": "Illus.  Sedone Thongvilay"
+                "illustrator": "Illus.  Sedone Thongvilay",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/carcosa.svg\">",
+                "collection_number": "89"
             },
             "back": {
                 "type": "encounter"
@@ -10411,7 +10514,9 @@
                 "traits": "Monster. Yith.",
                 "text": "<size 40><prey> Die wenigsten Handkarten.\n<for> Sobald dich Yith-Beobachter angreift: Lege 1 zuf\u00e4llige Karte von deiner Hand ab. Falls du dies nicht kannst, f\u00fcgt Yith-Beobachter bei diesem Angriff +1 Schaden und +1 Horror zu.",
                 "illustrator": "Illus. Chun Lo",
-                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_all_german_export_v11_flavor_dark_matter_3.png"
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_all_german_export_v11_flavor_dark_matter_3.png",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/core.svg\">",
+                "collection_number": "177"
             },
             "back": {
                 "type": "encounter"
@@ -10419,7 +10524,8 @@
             "encounter_set": "50658ed6-c84e-4498-be4e-1df4309d5bc9",
             "name": "Yithian Observer",
             "project_number": 334,
-            "encounter_number": "3-4"
+            "encounter_number": "1-2",
+            "enumerated": "manual"
         },
         {
             "name": "Offer of Power",
@@ -10430,17 +10536,20 @@
                 "traits": "Pakt.",
                 "text": "Wagnis.\n<rev> Du musst entweder (w\u00e4hle eins): Ziehe 2 Karten und platziere 2 Verderbensmarker auf der aktuellen Agenda (durch diese Aktion kann die aktuelle Agenda vorr\u00fccken), oder nimm 2 Horror.",
                 "illustrator": "Illus. Stephen Somers",
-                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_all_german_export_v11_flavor_dark_matter_1.png"
+                "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_all_german_export_v11_flavor_dark_matter_1.png",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/core.svg\">",
+                "collection_number": "178"
             },
             "back": {
                 "type": "encounter"
             },
             "encounter_set": "50658ed6-c84e-4498-be4e-1df4309d5bc9",
-            "encounter_number": "1-2",
-            "project_number": 333
+            "encounter_number": "3-4",
+            "project_number": 333,
+            "enumerated": "manual"
         },
         {
-            "name": "K\u00f6niglicher Sendbote",
+            "name": "Royal Emissary",
             "id": "fdc52c25-fbf0-437b-a46d-bc152aaeb6d3",
             "amount": 1,
             "front": {
@@ -10456,14 +10565,18 @@
                 "illustration": "./images/Replacements Carcosa and Core/ahc11-060 Royal Emissary - Sam Lamont.jpg",
                 "illustrator": "Illus. Sam Lamont",
                 "illustration_pan_x": -590.0,
-                "illustration_scale": 1.2
+                "illustration_scale": 1.2,
+                "name": "<unique><name>",
+                "collection_total": "20/20",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">",
+                "collection_number": "60"
             },
             "back": {
                 "type": "encounter"
             },
             "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
-            "encounter_number": "6",
-            "project_number": 314
+            "encounter_number": "9",
+            "project_number": 317
         }
     ],
     "guides": [
