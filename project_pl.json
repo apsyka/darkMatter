@@ -1,0 +1,1057 @@
+{
+  "language": "pl",
+  "project": "project.json",
+  "project_name": "Dark Matter - PL",
+  "encounter_sets": {
+    "9a89917a-ef9e-45d6-929c-6dc5f6f02010": {
+      "name": "The Tatterdemalion"
+    },
+    "0af7e611-4ded-4a60-a2ee-3c47bfa213ef": {
+      "name": "Electric Nightmare"
+    }
+  },
+  "cards": {
+    "387c5bbd-c81a-415d-b6d7-de8dfc7788d0": {
+      "name": "Łachmaniarz",
+      "front": {
+        "name": "<dbl><name></dbl>",
+        "entries": [
+          {
+            "token": [
+              "skull"
+            ],
+            "text": {
+              "token": "skull",
+              "text": "-X. X is the number of <t>AI</t> encounter cards in your threat area."
+            }
+          },
+          {
+            "token": [
+              "cultist"
+            ],
+            "text": {
+              "token": "cultist",
+              "text": "-2. If you fail, place 1 of your clues onto your current location. "
+            }
+          },
+          {
+            "token": [
+              "cultist"
+            ],
+            "text": {
+              "token": "cultist",
+              "text": "-2. If you fail, place 1 of your clues onto your current location. "
+            }
+          }
+        ],
+        "difficulty": "ŁATWY / STANDARDOWY"
+      },
+      "back": {
+        "entries": [
+          {
+            "token": [
+              "skull"
+            ],
+            "text": {
+              "token": "skull",
+              "text": "-X. X is the number of <t>AI</t> encounter cards in play."
+            }
+          },
+          {
+            "token": [
+              "cultist"
+            ],
+            "text": {
+              "token": "cultist",
+              "text": "-3. If you fail, place 1 of your clues onto your current location. "
+            }
+          },
+          {
+            "token": [
+              "cultist"
+            ]
+          }
+        ],
+        "difficulty": "TRUDNY / EKSPERCKI"
+      }
+    },
+    "26f44b98-8795-4c9f-a311-a1d8f3ed6d44": {
+      "name": "Statek widmo",
+      "front": {
+        "name": "<name>",
+        "text": "<act> Jeśli w twojej obecnej lokalizacji nie ma żadnych wskazówek: <b>Skanuj.</b> Przeszukaj talię skanów w poszukiwaniu najbliższej wierzchu karty z symbolem zgodnym z symbolem twojej obecnej lokalizacji i dobierz tę kartę. Potasuj talię skanów.",
+        "flavor_text": "Korytarze statku wypełniają się sztucznym, komputerowym głosem, który szlocha i wyśpiewuje fragmenty dziecięcych rymowanek. Światła chwilami migoczą, a zautomatyzowane śluzy samoczynnie otwierają się i zamykają. Wydaje się, że Łachmaniarz posiada swój własny umysł."
+      },
+      "back": {
+        "name": "UPL-A21 'Demhe'",
+        "text": "<b>Rozstawienie</b> – Ładownia.\nŁowca.\nKiedy UPL-A21 porusza się lub wchodzi w zwarcie, ignoruje badaczy, którzy nie posiadają karty spotkań z cechą <t>SI</t> w swoim obszarze zagrożenia.",
+        "flavor_text": "<center><size 70><font \"./fonts/AgencyFB.ttf\">„CEL NAMIERZONY”</i></size>",
+        "subtitle": "Bezzałogowa maszyna załadowcza",
+        "victory": "Zwycięstwo 1.",
+        "traits": "SI. Maszyna. Elitarny."
+      }
+    },
+    "5a1e8bf5-dc3a-4159-88d3-6369a466858c": {
+      "name": "Procedura awaryjna",
+      "front": {
+        "name": "<name>",
+        "text": "<left>Nie możesz zrezygnować.\n<i>(Ostrzeżenie – Jeśli aktualna tajemnica postąpi, statek eksploduje zabijając wszystkich pasażerów.)</i>",
+        "flavor_text": "Kiedy staracie się zrozumieć sytuację, ogłuszające wycie alarmu niesie się przez pomieszczenia i rozprasza wasze myśli.. \n<center><font \"./fonts/AGENCYB.ttf\">UWAGA.\nSTABILNOSC SILNIKA NA POZIOMIE 7%.\nMOC SYSTEMU KRYTYCZNA.\nWYMAGANA NATYCHMIASTOWA\nINTERWENCJA."
+      },
+      "back": {
+        "name": "Przeciążenie reaktora",
+        "text": "<i>Rdzeń reaktora topi się i wybucha, a eksplozja obraca Łachmaniarza w nicość. W ostatnich chwilach waszego życia dostrzegacie jaśniejącą, żółtą koronę, która zdaje się władać niezmierzoną kosmiczną pustką.</i>\nKażdy badacz zostaje <b>zabity</b>. Badacze przegrywają kampanię. Nie następuje żadne zakończenie."
+      }
+    },
+    "0c0c448f-2432-41db-a491-64b8e51ad56c": {
+      "name": "Bunt maszyn",
+      "front": {
+        "name": "<name>",
+        "text": "<act> Jeśli w twojej obecnej lokalizacji nie ma żadnych wskazówek: <b>Skanuj.</b> Przeszukaj talię skanów w poszukiwaniu najbliższej wierzchu karty z symbolem zgodnym z symbolem twojej obecnej lokalizacji i dobierz tę kartę. Potasuj talię skanów.",
+        "flavor_text": "Sztuczna inteligencja Łachmaniarza sięga swoimi mackami do każdej dostępnej maszyny, żeby przejąć nad nią kontrolę. Beznadziejnie pogrążona w swoim szaleństwie nie cofnie się przed niczym, byle zniszczyć intruzów, którzy wtargnęli do jej domu."
+      },
+      "back": {
+        "name": "Nieprzytomni",
+        "text": "Bez żadnego ostrzeżenia, nagle wszystkie światła gasną. Zgrzyt jakiegoś mechanizmu, głuchy odgłos uderzenia i ostry ból z tyłu głowy są ostatnimi rzeczami, które zapamiętaliście zanim upadliście na podłogę tracąc świadomość.\nKażdy pozostały w grze, niepokonany badacz zostaje pokonany i otrzymuje 1 punkt traumy fizycznej.",
+        "flavor_text": null
+      }
+    },
+    "f0085fba-c985-444b-ba0e-69ec3895b4b5": {
+      "name": "Horyzont zdarzeń",
+      "front": {
+        "name": "<name>",
+        "text": "<b>Cel</b> – Badacze znajdujący się w Komorze napędu mogą, jako grupa, wydać wymaganą liczbę wskazówek, by usunąć awarię statku i spowodować postęp aktu.",
+        "flavor_text": "Wasze ciała są całe obolałe i zesztywniałe z powodu tak długiego zamrożenia. Jak długo byliście pogrążeni we śnie w tym lodowym sarkofagu? Gdzie jest reszta załogi statku? Odpowiedzi na te pytania muszą poczekać, gdyż w tej chwili najważniejsze jest znaleźć sposób na naprawę Łachmaniarza, zanim jego reaktor przegrzeje się."
+      },
+      "back": {
+        "name": "Systemy włączone",
+        "text": "Wtasuj odłożony na bok zestaw spotkań <i>Sztuczna inteligencja</i> oraz stos odrzuconych kart spotkań do talii spotkań. Ten zestaw oznaczony jest następującym symbolem:\n\n<center><size 140><image src=\"C:\\Users\\krawc\\Desktop\\SCEDPL\\Tłumaczenia\\darkMatter\\images\\Artificial Intelligence.png\"></size><br>\n<left>Spowoduj postęp do tajemnicy 2a oraz do aktu 2a. Nie usuwaj żetonów zagłady z gry. Przenieś wszystkie żetony zagłady z tajemnicy 1a na tajemnicę 2a.",
+        "flavor_text": "Kiedy silnik jonowo-nuklearny rozpoczyna procedurę restartu, światła awaryjne gasną i pozostawiają was w całkowitych ciemnościach.\nWidzicie przebłyski obrazów – fragmenty wspomnień. Przed wami wznosi się olbrzymi, złoty pałac starszy niż sam czas. Tron godny Królowej, rządzącej nieskończoną pustką w przestrzeni, gdzie nie ma słońca.\nKiedy na pokładzie zapala się główne oświetlenie – fluorescencyjne lampy – z głośników interkomu wydobywa się świdrujący w uszach krzyk. Dźwięk składający się z kilku dziecięcych, zrobotyzowanych głosów, które zawodzą unisono. „Intruzi wykryci! Odejdźcie stąd! Prosimy, zostawcie nas w spokoju!”"
+      }
+    },
+    "26298129-dec0-43b6-99d5-82b29692faa6": {
+      "name": "Sztuczna niepoczytalność",
+      "front": {
+        "name": "<name>",
+        "text": "<b>Cel</b> – Musicie dowiedzieć się, jak naprawić lub wyłączyć to szalone, cybernetyczne SI.\n<i>(Gra poinformuje was, kiedy spowodować postęp aktu.)</i>\n",
+        "flavor_text": "Przywracając zasilanie systemów na Łachmaniarzu napotykacie nowy problem. SI statku zaczyna funkcjonować, ujawniając tym samym swoje błędne algorytmy. Zaczyna traktować was jak intruzów i stara się was pozbyć. Musicie znaleźć jakiś sposób, by ją naprawić lub wyłączyć zanim ona wyłączy was."
+      },
+      "back": {
+        "name": "Wymiar snów",
+        "text": "Umieść w grze atut fabularny Wirtualny klucz dostępu pod kontrolą dowolnego badacza. Ten badacz może zdecydować się dodać tę kartę do swojej talii. Karta nie wlicza się do limitu talii.",
+        "flavor_text": "Okazuje się czymś niemożliwym fizyczne obejść lub zmienić okablowanie K2-PS187. Jakkolwiek jest inna droga, by naprawić ów „komputer”. Gdyby udało wam się przeprogramować protokoły snu w kapsułach kriogenicznych, tak by stanowiły interfejs dla K2-PS187, wówczas stworzylibyście kieszonkowy wymiar, w którym moglibyście wirtualnie wejść w interakcję z K2-PS187, będąc wewnątrz jego snu. Z tego poziomu bylibyście w stanie przywrócić te cierpiące umysły z powrotem do poczytalności.\nZ tym, że wejście do wirtualnej rzeczywistości bez odpowiedniego treningu psychologicznego, może być uszkadzające dla waszej tożsamości i możecie pozostać w stanie dekoherencji. Pomimo, że odczuwacie częściowy powrót pamięci proceduralnej, to jednak wasza samoświadomość nadal pozostaje w rozszczepieniu. W tej sytuacji możecie chcieć nadal eksplorować statek, by dowiedzieć się kim byliście kiedyś."
+      }
+    },
+    "4ebdd5e2-540c-4960-b01b-c0bfa073ca26": {
+      "name": "Przywrócono połączenie",
+      "front": {
+        "name": "<name>",
+        "text": "<b>Cel</b> – Po tym, jak badacz znajdujący się w lokalizacji Kapsuły kriogeniczne wykona akcję skanowania pasującą do poniższego symbolu, niezależnie czy skanowanie zakończy się sukcesem, czy nie, można spowodować postęp aktu.\n\n\n<left><i>(Pamiętajcie, by zgromadzić możliwie jak najwięcej wspomnień.)</i>",
+        "flavor_text": "Musicie znaleźć sposób na przeprogramowanie kapsuły kriogenicznej, by zdobyć dostęp do wirtualnego wymiaru snów K2-PS187 i uspokoić maszynę."
+      },
+      "back": {
+        "name": "Poprzez bramy wirtualnych Krain Snów",
+        "text": "Poprzez połączenie się z głównym komputerem Łachmaniarza przystosowujecie kapsuły kriogeniczne do przetransferowania waszej, wkrótce śniącej, jaźni w obszar współdzielonych snów K2-PS187. Ponownie kładziecie się w swoich lodowych trumnach i jeszcze raz uruchamiacie sekwencję indukowania snu... <b>(<resolution>Z1)</b>",
+        "flavor_text": null
+      }
+    },
+    "124d387b-f389-4f94-8b14-8036b516611d": {
+      "name": "Kapsuły kriogeniczne",
+      "front": {
+        "text": "<act>: <b>Rezygnacja.</b> Wracasz do swojej kapsuły, mając nadzieję, że kiedyś wybudzisz się z tego koszmaru.",
+        "flavor_text": "To pomieszczenie kojarzy się z domem pogrzebowym. Wzdłuż ściany ustawiono sześć pojemników wysokości dorosłego człowieka. Z sufitowych lamp spływa zimny blask, oświetlając każdy zakamarek.",
+        "traits": "Łachmaniarz."
+      },
+      "back": {
+        "text": "",
+        "flavor_text": "<br>Podróże międzygwiezdne stały się możliwe dla człowieka tylko z powodu wynalezienia kapsuł kriogenicznych, zdolnych do zawieszenia autonomicznych funkcji fizjologicznych organizmu, podczas gdy żywotność każdej komórki ciała jest podtrzymywana w stanie hibernacji."
+      }
+    },
+    "22ea5204-e5a6-4c88-8001-9503799cb538": {
+      "name": "Ładownia",
+      "front": {
+        "text": "<b>Wymuszony</b> – Po tym, jak wejdziesz do Ładowni: wykonaj test <wil> (2). Jeśli test zakończył się porażką, otrzymujesz 1 punkt przerażenia.",
+        "flavor_text": "Przechodząc przez drzwi, spostrzegacie tuziny zmiażdżonych i zmasakrowanych ciał. Rozsmarowany na podłodze obraz z krwi i wnętrzności ma dla was jedno przesłanie: „nie ma nadziei”.",
+        "traits": "Łachmaniarz. Dostęp."
+      },
+      "back": {
+        "text": "<br><center>Aby dostać się na tyły statku należy przepiąć okablowanie drzwi ciśnieniowych. Jako dodatkowy koszt wejścia do Ładowni, badacze znajdujący się w Kantynie muszą, jako grupa, wydać 1<per_large> wskazówek."
+      }
+    },
+    "3187cde0-a49d-457d-9524-1f733259b197": {
+      "name": "Mostek nawigacyjny",
+      "front": {
+        "text": "<b>Wymuszony</b> – Po tym, jak wykonasz skanowanie w tej lokalizacji, jeśli w lokalizacji nie ma żadnych wskazówek: umieść 1<per_large> wskazówkę w tej lokalizacji (z puli żetonów).",
+        "flavor_text": "Znajdujecie tutaj ogromne nagromadzenie przeróżnych wskaźników, ekranów, przycisków, pokręteł i dźwigni. Zorientowanie się, jak to wszystko działa, zajmie wam trochę czasu.",
+        "traits": "Łachmaniarz. Dostęp."
+      },
+      "back": {
+        "text": "<center><br><br>Badacze nie mogą przemieścić się do lokalizacji Mostek nawigacyjny. Wasz poziom dostępu jest ograniczony. Musicie znaleźć inną drogę, by wejść do środka."
+      }
+    },
+    "292d677f-3f7c-402d-b721-44096d679baf": {
+      "name": "Kantyna",
+      "front": {
+        "text": "<reaction> Kiedy zyskujesz dowolną liczbę zasobów podczas twojej tury, będąc w lokalizacji Kantyna: zyskujesz 1 dodatkowy zasób. (Limit raz na rundę.)",
+        "flavor_text": "Żadnych śladów ludzkiej aktywności. Znajdujecie tutaj wystarczająco dużo żywności, by korzystać z niej przez miesiące, a nawet lata.",
+        "traits": "Łachmaniarz."
+      },
+      "back": {
+        "text": "",
+        "flavor_text": "<br>Kantyna jest sercem statku. Zarówno w fizycznym sensie, gdyż leży w jego centrum, jak i w sensie duchowym, gdyż bez więzi społecznych poczucie izolacji w kosmosie odciska swe piętno na każdym."
+      }
+    },
+    "ee173399-bbae-45d6-9bcd-f08bb3878376": {
+      "name": "Ambulatorium",
+      "front": {
+        "text": "<act>: <b>Skanuj.</b> Poszukujesz zaopatrzenia medycznego. Przeszukaj talię skanów w poszukiwaniu najbliższej wierzchu karty z poniższym symbolem i dobierz ją. Potasuj talię <br>skanów.\n",
+        "flavor_text": "",
+        "traits": "Łachmaniarz."
+      },
+      "back": {
+        "text": "",
+        "flavor_text": "<br>Ambulatorium na przeciętnym statku kolonizacyjnym jest przeważnie dobrze zaopatrzone w różnego rodzaju sprzęt medyczny. Regulują to przepisy o kosmicznej ekspansji.",
+        "traits": "Tatterdemalion."
+      }
+    },
+    "57d2aecd-7aae-422c-b958-5847b7504acb": {
+      "name": "Hangar kapsuł ratunkowych",
+      "front": {
+        "text": "<reaction> Po tym jak z sukcesem wymkniesz się wrogowi w tej lokalizacji: pokonaj tego wroga. (Limit grupowy 3 razy na grę.)",
+        "flavor_text": "Widzicie trzy puste kapsuły ratunkowe, zbite razem, ciasno niczym zęby. Trzy puste trumny. Późniejsze oględziny ujawniły, że wszystkie kapsuły zostały uszkodzone.",
+        "traits": "Łachmaniarz. Dostęp."
+      },
+      "back": {
+        "text": "",
+        "flavor_text": "<br>Kapsuły ratunkowe są niezbędnym wyposażeniem każdego statku kosmicznego. Nawet jeśli szanse na znalezienie takiej kapsuły dryfującej w bezkresnej pustce są nieskończenie mikroskopijne, to jednak oferują podróżującym spokój umysłu i nadzieję."
+      }
+    },
+    "4a321229-3925-4775-98c1-7393cfe650c1": {
+      "name": "Maszynownia",
+      "front": {
+        "text": "<size 65><b>Wymuszony</b> – Na koniec twojej tury, jeśli znajdujesz się w Maszynowni i nie kontrolujesz Pigułek radiacyjnych: otrzymujesz 1 obrażenie.</size>",
+        "flavor_text": "W tym olbrzymim pomieszczeniu słychać szum. Poprzez podeszwy obuwia czujecie intensywne i silne drżenie spod podłogi, które przenika was na wskroś. Tutaj wszystko wygląda na bardzo rozgrzane i takie właśnie jest.",
+        "traits": "Łachmaniarz."
+      },
+      "back": {
+        "text": "",
+        "flavor_text": "Pomimo, że silniki jonowo-nuklearne pozwalają na względnie bezpieczne podróże wewnątrz Układu Słonecznego i potrafią zasilić nominalne funkcje statku kosmicznego klasy Kepler, to jednak ten typ generatora jest dosyć podatny na przegrzewanie się."
+      }
+    },
+    "9c1ffe41-6de8-4bd6-8b56-7fff72b473dd": {
+      "name": "Wirtualny klucz dostępu",
+      "front": {
+        "name": "<unique><name>",
+        "text": "<reaction> Jeśli miałbyś otrzymać przerażenie, wyczerp Wirtualny klucz dostępu: anuluj 1 punkt z otrzymanego przerażenia.",
+        "flavor_text": "„Wewnątrz, owinięty w odbarwiony pergamin, spoczywał sporych rozmiarów klucz wykonany ze srebra, które zdążyło już sczernieć i zmatowieć, pokryty zagadkowymi arabeskami, dla których nie było żadnego przekonującego wyjaśnienia.”\n– H. P. Lovecraft, \"Srebrny klucz\"",
+        "subtitle": "Klucz do bramy snów",
+        "traits": "Przedmiot. Amulet. Relikwia."
+      },
+      "back": {}
+    },
+    "4b77c16d-682b-40ba-8616-6fded96689b4": {
+      "name": "Skafander EVA",
+      "front": {
+        "text": "<b>Odkrycie</b> – Możesz umieścić Skafander EVA w grze pod kontrolą dowolnego badacza.\n<action><action> Jeśli znajdujesz się w lokalizacji z cechą <t>Dostęp</t>: porusz się do innej lokalizacji z cechą <t>Dostęp</t>. Następnie, <b>Skanowanie.</b> Przeszukaj talię skanów w poszukiwaniu najbliższej wierzchu karty z poniższym symbolem i dobierz ją. Potasuj talię skanów.\n<br>",
+        "flavor_text": "",
+        "traits": "Pancerz. Przedmiot."
+      },
+      "back": {}
+    },
+    "2057ce5a-d417-4070-918f-cf5070352034": {
+      "name": "Ostateczne przeznaczenie",
+      "front": {
+        "text": "<blockquote>Uzyskujecie dostęp do konsoli Łachmaniarza, a w znalezionych danych odkrywacie jego trasę podróży. Ponad rok temu statek wyleciał poza orbitę Saturna w poszukiwaniu asteroidy przybyłej spoza Układu Słonecznego, którą nazwano „Fragment”. Załoga ostatecznie odnalazła tajemniczy obiekt, sporządziła kilka badań oraz w niewiadomym celu wysłała na niego kilka ekip wykopaliskowych. Misja przebiegała sprawnie, dopóki Łachmaniarz niespodziewanie nie utracił kontaktu z jedną z grup badawczych, znajdującą się głęboko w jaskiniach pod powierzchnią Fragmentu.\nPomimo zaginięcia ekipy, misja najwidoczniej została uznana za sukces i statek otrzymał polecenie powrotu.\nMgliście przypominacie sobie moment wyjścia poza lądownik, wprost na kamienistą powierzchnię złotej asteroidy. Gwiazdy nad wami lśniące czerwonym blaskiem. Musicie być jedną z ekip badawczych Łachmaniarza.</blockquote>\nKażdy badacz w twojej lokalizacji dodaje jedną kreskę do swoich Wspomnień.\nMożesz zyskać do 3 żetonów zasobów.\nDodaj tę kartę do puli zwycięstwa.<br><br>\n<center><b>Zwycięstwo 1.</b>"
+      },
+      "back": {
+        "text": "<center><image \"C:\\Users\\eddie\\Documents\\The Tatterdemalion\\location icons\\t.png\" 0.59cm> <vs>"
+      }
+    },
+    "eed7b35f-3f27-41e8-9f41-7f0742ee9aa1": {
+      "name": "Tabletki radiacyjne",
+      "front": {
+        "text": "<b>Odkrycie</b> – Możesz umieścić tę kartę w grze, pod kontrolą dowolnego badacza.\nZużywalny (3 zapasy).\n<free> Wydaj 1 zasób: otrzymujesz +1 <com> oraz <br>+1 <agi> do końca rundy.",
+        "flavor_text": "",
+        "traits": "Medyczny. Nauka. Przedmiot."
+      },
+      "back": {}
+    },
+    "24840873-efc6-4445-ba54-9faf5b25fde2": {
+      "name": "Medyczna pianka",
+      "front": {
+        "text": "<b>Odkrycie</b> – Możesz umieścić tę kartę w grze, pod kontrolą dowolnego badacza.\nZużywalny (3 zapasy).\n<reaction> Po tym, jak badacz w twojej lokalizacji otrzyma jakąkolwiek liczbę obrażeń, wyczerp Medyczną piankę i wydaj 1 zapas: wylecz tę liczbę obrażeń z tego badacza.\n",
+        "flavor_text": "",
+        "traits": "Medyczny. Nauka. Przedmiot."
+      },
+      "back": {}
+    },
+    "6ed86948-043d-426a-bd4c-79ce79070022": {
+      "name": "Interfejs umysł-maszyna",
+      "front": {
+        "text": "<b>Odkrycie</b> – Możesz umieścić tę kartę w grze, pod kontrolą dowolnego badacza.\n<act> Wydaj 2<per_large> wskazówki, jako grupa: <b>Skanowanie.</b> Przeszukaj talię skanów w poszukiwaniu najbliższej wierzchu karty z poniższym symbolem i dobierz tę kartę. Potasuj talię skanów.\n<br>",
+        "flavor_text": "",
+        "traits": "Urządzenie."
+      },
+      "back": {}
+    },
+    "e6772fc2-cab8-4614-a630-fd6ef34344cd": {
+      "name": "K2-PS187 Cybernetyczne mózgi",
+      "front": {
+        "text": "<blockquote>W końcu odnajdujecie punkt bezpośredniego dostępu do interfejsu głównego komputera na Łachmaniarzu, oznaczonego jako K2-PS187. Jednak szybko rozumiecie, że wyłączenie go lub przeprogramowanie nie będzie takie proste, jak zakładaliście.\nOkazuje się bowiem, że K2-PS187 nie jest czystą maszyną, tylko czymś w rodzaju cybernetycznego organizmu. Maszyneria mostku nawigacyjnego skrywa, głęboko ukryty, główny rdzeń komputera, na który składa się sześć dziecięcych mózgów, pozbawionych ciał i połączonych ze sobą tak, by utworzyć jeden, bardzo potężny superkomputer.\nTo odkrycie wstrząsa wami do głębi. Kto mógłby dokonać, czegoś tak potwornego? Ludzkie, młode umysły skazane po wieczność na obliczenia trajektorii lotu statku lub procedowanie algorytmów. Macie wyrzuty sumienia wiedząc, że musieliście stanowić część tej ohydnej załogi.</blockquote>\nKażdy badacz dodaje jedną kreskę do swoich Wspomnień, niezależnie od lokalizacji, w której się znajduje.\nSpowoduj postęp do aktu 2b.\nDodaj tę kartę do puli zwycięstwa.<br><br>\n<center><b>Zwycięstwo 1.</b>"
+      },
+      "back": {
+        "text": "<center><image \"C:\\Users\\eddie\\Documents\\The Tatterdemalion\\location icons\\t.png\" 0.59cm> <vs><center><image \"C:\\Users\\eddie\\Documents\\The Tatterdemalion\\location icons\\clover.png\" 0.59cm> <vs>"
+      }
+    },
+    "f246606b-3f02-4577-857a-d078b9d346e5": {
+      "name": "Przeszukując archiwa",
+      "front": {
+        "text": "<blockquote>Mając dostęp do cyfrowej sieci statku docieracie do archiwum zawierającego petabajty niezaszyfrowanych danych. Wygląda na to, że na Łachmaniarzu przechowywane są skany mózgów i historie setek osób żyjących w XX i XXI wieku. Zaciekawieni, wyszukujecie własnych danych i zdumieni odkrywacie istnienie plików, które korespondują z waszym przeszłym życiem.\nZgodnie z odnalezionymi danymi, zostaliście osadzeni w zakładzie psychiatrycznym po tym, jak próbowaliście dokonać sabotażu przedstawienia teatralnego. Resztę życia przeżyliście w odosobnieniu ostrzegając kogo się dało przed „Carcosą” i przed czymś o imieniu: „Hastur”. Gdy zakończyliście swój żywot, wasze mózgi zostały zakonserwowane, a ostatecznie zeskanowane dla celów naukowych.\nPomimo przygnębienia, jakie czujecie, gdy poznaliście swoją przeszłość, możecie w końcu w pełni zaakceptować aktualną rzeczywistość. Nawet jeśli nie jest to świat, jakiego oczekiwaliście, to jednak macie drugie życie i możecie skupić się na tym, by nie popełnić tych samych błędów.</blockquote>\nKażdy badacz w twojej lokalizacji dodaje jedną kreskę do swoich Wspomnień.\nMożesz wyleczyć do 2 punktów przerażenia.\nDodaj tę kartę do puli zwycięstwa.<br><br>\n<center><b>Zwycięstwo 1.</b>"
+      },
+      "back": {
+        "text": "<center><image \"C:\\Users\\eddie\\Documents\\The Tatterdemalion\\location icons\\clover.png\" 0.59cm> <vs>"
+      }
+    },
+    "62d05a36-1b59-4c36-9917-fa52b43ce664": {
+      "name": "Dziwna jest noc",
+      "front": {
+        "text": "<blockquote>Założywszy skafander EVA, opuszczasz wypełnione powietrzem i stabilnym ciśnieniem wnętrza statku, by poprzez właz wyjść w kosmiczną przestrzeń. Z zewnątrz Łachmaniarz wygląda na znacznie większy i ledwo udaje ci się zlokalizować punkt dostępu znajdujący się po drugiej stronie statku. Droga, którą musisz przemierzyć w jego kierunku zajmie ci sporo czasu.\nW stanie nieważkości suniesz przed siebie, kiedy twoją uwagę przykuwa rozbłysk w górze. Żółte i zielone światła wydają się falować na rozpiętym wokół płótnie kosmosu. Kolory tańczą w przestrzeni, splatając się w pojedynczy wzór – pierścienie z koncentrycznych półokręgów pokryte tajemniczymi runami, zaś w ich centrum para falujących linii. Widziałeś ten symbol już wcześniej – podczas przedstawienia Król w żółci. Z tym, że nie było to przedstawienie w Teatrze Warda, tylko amatorski spektakl wystawiony w ciasnym, industrialnym wnętrzu Łachmaniarza.\nGdy tajemnicze światła zgasły, spostrzegłeś, że całkowicie wypuściłeś z rąk liny grawitacyjne i zaczynasz odpływać w pustkę. Przy pomocy odrzutu wbudowanego w system kontroli reakcji skafandra udaje ci się ponownie uchwycić się statku, by jak najszybciej, wytężając wszystkie siły, wspiąć się do najbliższej śluzy powietrznej.</blockquote>\nDodaj dwie kreski do swoich Wspomnień.\nDodaj tę kartę do puli zwycięstwa.\n<center><b>Zwycięstwo 1.</b>"
+      },
+      "back": {
+        "text": "\n\n\n\n"
+      }
+    },
+    "254dd981-f7e3-47f4-9299-30429b930510": {
+      "name": "Dziedzictwo Carcosy",
+      "front": {
+        "name": "<unique><name>",
+        "text": "<b>Odkrycie</b> – Dodaj Dziedzictwo Carcosy do swojej talii.\nTrwały.\nKiedy zdobywasz doświadczenie podczas rozpatrywania zakończenia scenariusza, badacz z najmniejszą wartością traumy psychicznej (wybierz jednego, jeśli jest ich więcej niż jeden) otrzymuje 1 dodatkowy punkt doświadczenia za każdy posiadany punkt traumy psychicznej.",
+        "flavor_text": "",
+        "subtitle": "Nieprzetłumaczone runy",
+        "traits": "Księga."
+      },
+      "back": {}
+    },
+    "cf8f36ce-4e49-46aa-91ac-c12cb65fe2da": {
+      "name": "Szyb wentylacyjny",
+      "front": {
+        "text": "<b>Odkrycie</b> – Umieść tę lokalizację w grze.\n<b>Wymuszony</b> – Kiedy miałbyś wejść do Szybu wentylacyjnego: Wykonaj test <agi> (3). Jeśli test zakończy się porażką, anuluj efekty poruszenia się.",
+        "flavor_text": "<br>Nieskończony labirynt ciasnych i brudnych tuneli.",
+        "traits": "Łachmaniarz."
+      },
+      "back": {
+        "text": ""
+      }
+    },
+    "49e6c16e-ffae-4e5b-8d26-19af843e6f3d": {
+      "name": "Co to za rodzaj statku?",
+      "front": {
+        "text": "<blockquote>W pobliżu rufy statku znajdujecie olbrzymią strukturę złożoną z ludzkich kości i czaszek. Na samej górze tej konstrukcji spostrzegacie woskową rzeźbę przedstawiającą kobietę w żółtej sukni. Sama rzeźba musi mieć co najmniej sto lat. To wszystko wydaje się wam takie nierzeczywiste, i smutne.\nPrzed tym dziwnym ołtarzem znajduje się zwój, który zawiera pierwszą wersję nowej modlitwy spisanej dla „Tassildy, Królewskiej Księżniczki Carcosy”. Jesteście przekonani, że słyszeliście to imię już wcześniej, jednak nie potraficie sobie przypomnieć kiedy.</blockquote>\nKażdy badacz w twojej lokalizacji dodaje jedną kreskę do swoich Wspomnień.\nMusisz wybrać (wybierz jedno):\n<bullet> Umieść 1 żeton zagłady na obecnej tajemnicy i dodaj tę kartę do puli zwycięstwa. Ten efekt może spowodować postęp aktualnej tajemnicy.\n<bullet> Usuń tę kartę z gry.\n<br><center><b>Zwycięstwo 2.</b>"
+      },
+      "back": {
+        "text": "<center><image \"C:\\Users\\eddie\\Documents\\The Tatterdemalion\\location icons\\square.png\" 0.59cm> <center><image \"C:\\Users\\eddie\\Documents\\The Tatterdemalion\\location icons\\moon.png\" 0.59cm> <vs>"
+      }
+    },
+    "5c450fcb-0da3-4425-a234-d799947c2855": {
+      "name": "Kim jestem?",
+      "front": {
+        "text": "<blockquote>Teraz, kiedy zasilanie statku jest już przywrócone, a zbliżające się zagrożenie powstrzymane, możesz ponownie zbadać protokoły komory kriogenicznej, w której byłeś zahibernowany. Baza danych zawiera nazwy i daty, o których nie słyszałeś wcześniej, lecz instynktownie wiesz, że odnoszą się do ciebie i twojej prawdziwej historii. Zgodnie ze wskazaniami panelu operacyjnego byłeś obywatelem Zjednoczonej Koalicji Kolonialnej i urodziłeś się w 2127 roku, w mieście zwanym Nowy Brooklyn.\nDalsze szczegółowe informacje sugerują, że SI statku uruchomiło symulację u niektórych zahibernowanych członków załogi. Próbujesz uzyskać więcej informacji na ten temat, jednak główna sieć wykryła twoje działania i wyłączyła ekran panelu, zanim zdążyłeś dowiedzieć się czegoś więcej.</blockquote>\nKażdy badacz w twojej lokalizacji dodaje jedną kreskę do swoich Wspomnień.\nMożesz przeszukać 6 wierzchnich kart z twojej talii w poszukiwaniu dowolnej karty i dobrać ją.\nDodaj tę kartę do puli zwycięstwa.\n<br><center><b>Zwycięstwo 1.</b>"
+      },
+      "back": {
+        "text": "\n\n\n\n"
+      }
+    },
+    "d58b842a-3adf-4a71-a9f0-386ff24bfcc8": {
+      "name": "Awaria sztucznej grawitacji",
+      "front": {
+        "text": "<b>Odkrycie</b> – Dołącz tę kartę do twojej obecnej lokalizacji. \nKiedy znajdujesz się w lokalizacji, do której dołączono tę kartę, każda akcja ruchu oraz zdolności aktywowane <act> kosztują 1 dodatkową akcję.\n<reaction> Na koniec rundy, jeśli jesteś w lokalizacji, do której dołączono tę kartę: odrzuć Awarię sztucznej grawitacji.",
+        "flavor_text": "",
+        "traits": "Niebezpieczeństwo."
+      },
+      "back": {}
+    },
+    "ab16e27e-e822-4105-889d-2096eb764e9d": {
+      "name": "Ciśnienie w kabinie",
+      "front": {
+        "text": "Ukryta. Zagrożenie.\n<b>Odkrycie</b> – Dodaj w tajemnicy tę kartę do twojej<br>ręki.\n<b>Wymuszony</b> – Na koniec twojej tury, jeśli w twojej lokalizacji znajduje się 1 lub więcej wskazówek: otrzymujesz 2 obrażenia, a następnie odrzuć Ciśnienie w kabinie.\n<act><act>: Odrzuć Ciśnienie w kabinie.",
+        "flavor_text": "",
+        "traits": "Szaleństwo."
+      },
+      "back": {}
+    },
+    "f7971251-8111-4cd2-968b-52b2fb2638eb": {
+      "name": "Wyciek chłodziwa",
+      "front": {
+        "text": "<b>Odkrycie</b> – Wykonaj test <agi> (4). Za każdy punkt, o który test się nie powiódł albo wybierz i odrzuć 1 kartę z twojej ręki albo otrzymujesz 1 obrażenie. Jeśli kontrolujesz atut fabularny Skafander EVA, test automatycznie kończy się sukcesem.",
+        "flavor_text": "Bez czynnika chłodzącego wszystkie umieszczone w próżni maszyny i struktury generujące ciepło błyskawicznie rozgrzewają się do bardzo wysokich temperatur.",
+        "traits": "Niebezpieczeństwo."
+      },
+      "back": {}
+    },
+    "8161c583-0186-45f7-a9ff-ac4c06f41530": {
+      "name": "Cyberwirus",
+      "front": {
+        "text": "Zagrożenie. Ukryta.\n<b>Odkrycie</b> – Dodaj w tajemnicy tę kartę do twojej ręki.\n<b>Wymuszony</b> – Po tym, jak odkryjesz ostatnią wskazówkę w lokalizacji: rozstaw cyberwirusa w zwarciu ze sobą.",
+        "flavor_text": "Wysoce zakaźne technoorganiczne wirusy są często wykorzystywane przez komputery jako naturalne mechanizmy obronne wymierzone przeciwko wirtualnym intruzom.<br>",
+        "victory": "Zwycięstwo 1.",
+        "traits": "Wirtualny."
+      },
+      "back": {}
+    },
+    "cd37d3ab-05c9-48e0-98bd-8c53809fc4a0": {
+      "name": "Dekompresja",
+      "front": {
+        "text": "<b>Odkrycie</b> – Dołącz Dekompresję do najbliższej lokalizacji z cechą Dostęp.\n<b>Wymuszony</b> – Na koniec rundy: każdy badacz znajdujący się w lokalizacji, do której dołączono tę kartę, który nie kontroluje atutu fabularnego Skafander EVA, otrzymuje 3 bezpośrednie obrażenia. Odrzuć Dekompresję.",
+        "flavor_text": "„Plask!”",
+        "traits": "Niebezpieczeństwo."
+      },
+      "back": {}
+    },
+    "1666d108-65c6-4873-9809-d02667900ea6": {
+      "name": "Wysokie poziomy radiacji",
+      "front": {
+        "text": "<b>Odkrycie</b> – Wykonaj test <agi> lub <com> (3). Jeśli test zakończył się porażką, otrzymujesz 1 bezpośrednie obrażenie oraz zadaj 1 obrażenie każdemu atutowi z cechą Sprzymierzeniec, który kontrolujesz. Jeśli kontrolujesz atut fabularny Pigułki radiacyjne, test automatycznie kończy się sukcesem.",
+        "flavor_text": "Największe źródła promieniowania jonizującego pochodzą ze zdarzeń cząstek słonecznych. Takie są konsekwencje posiadania Słońca.",
+        "traits": "Niebezpieczeństwo."
+      },
+      "back": {}
+    },
+    "ba10d7c7-7d6a-4a75-9f9f-93dad2d7dabf": {
+      "name": "JV-7 „Hiady”",
+      "front": {
+        "name": "<unique><name>",
+        "text": "Powściągliwy. Czujny.\n<act>: <b>Pertraktacje.</b> Wykonaj test <wil> (3). Jeśli test zakończy się porażką, JV-7 „Hiady” atakuje cię. Jeśli test zakończy się sukcesem, wybierz jeden z symboli poniżej. <b>Skanowanie.</b> Przeszukaj talię skanów w poszukiwaniu najbliższej wierzchu karty z wybranym symbolem i dobierz tę kartę. Potasuj talię skanów.<br><br><br><br>",
+        "flavor_text": "",
+        "subtitle": "Sztuczny drugi pilot",
+        "victory": "Zwycięstwo 0.",
+        "traits": "SI. Maszyna."
+      },
+      "back": {}
+    },
+    "6eaf6f8c-b925-447a-a033-4f0837924141": {
+      "name": "LR-02 „Hali”",
+      "front": {
+        "name": "<unique><name>",
+        "text": "Powściągliwy. Mściwy.\n<b>Wymuszony</b> – Po tym, jak pokonasz tego wroga: <b>Skanowanie.</b> Przeszukaj talię skanów w poszukiwaniu najbliższej wierzchu karty z poniższym symbolem i dobierz ją. Potasuj talię skanów.",
+        "flavor_text": "",
+        "victory": "Zwycięstwo 1.",
+        "traits": "Humanoid. SI. Maszyna."
+      },
+      "back": {}
+    },
+    "e4a38217-a26b-4e81-bad4-174eddbb3c63": {
+      "name": "Anachronizm",
+      "front": {
+        "text": "<b>Odkrycie</b> – Wykonaj test <wil> (3). Za każdy punkt, o który test się nie powiódł, albo odrzuć jeden niefabularny atut, który kontrolujesz albo otrzymujesz 1 punkt przerażenia.",
+        "flavor_text": "<br>„Babuniu Orne? Dlaczego jesteś w kosmosie?”",
+        "traits": "Szaleństwo. Paradoks."
+      },
+      "back": {}
+    },
+    "07738060-8467-478b-a714-39087a1f9ece": {
+      "name": "Dręcząca przeszłość",
+      "front": {
+        "text": "Zagrożenie.\n<b>Odkrycie</b> – Wykonaj test <wil> (X). X to liczba twoich Wspomnień. Jeśli test zakończył się porażką, przeszukaj talię spotkań w poszukiwaniu najbliższej wierzchu karty ze słowem kluczowym Ukryta i dobierz tę kartę. Potasuj talię spotkań.",
+        "flavor_text": "",
+        "traits": "Zamiar."
+      },
+      "back": {}
+    },
+    "0f7ad74d-b0a1-41f5-a75d-9c3b1ddae86d": {
+      "name": "Reminiscencja (Przymierze)",
+      "front": {
+        "text": "Ukryta. Zagrożenie.\n<b>Odkrycie</b> – Dodaj w tajemnicy tę kartę do twojej ręki.\n<reaction> Kiedy badacz miałby wymknąć się (z sukcesem) wrogowi w twojej lokalizacji, zamiast tego ten wróg wykonuje natychmiastowy atak przeciwko temu badaczowi: odrzuć tę kartę.\n<b>Wymuszony</b> – Kiedy gra się zakończy lub zostałeś wyeliminowany, jeśli ta karta jest na twojej ręce: dodaj tę kartę do puli zwycięstwa.\n<br><center><b>Zwycięstwo 0.</b> ",
+        "flavor_text": "",
+        "traits": "Pakt."
+      },
+      "back": {}
+    },
+    "e9040561-54ee-4884-8dfa-31cf10e30313": {
+      "name": "Reminiscencja (Przysięga)",
+      "front": {
+        "text": "Ukryta. Zagrożenie.\n<b>Odkrycie</b> – Dodaj w tajemnicy tę kartę do twojej ręki.\n<reaction> Kiedy badacz miałby pokonać wroga w twojej lokalizacji, zamiast tego wylecz wszystkie obrażenia z tego wroga: odrzuć tę kartę.\n<b>Wymuszony</b> – Kiedy gra się zakończy lub zostałeś wyeliminowany, jeśli ta karta jest na twojej ręce: dodaj tę kartę do puli zwycięstwa.\n<br><center><b>Zwycięstwo 0.</b> ",
+        "flavor_text": "",
+        "traits": "Pakt."
+      },
+      "back": {}
+    },
+    "ac299345-6f64-428d-a000-d714253f95aa": {
+      "name": "Reminiscencja (Sekrety)",
+      "front": {
+        "text": "Ukryta. Zagrożenie.\n<b>Odkrycie</b> – Dodaj w tajemnicy tę kartę do twojej ręki.\n<reaction> Kiedy badacz miałby odkryć dowolną liczbę wskazówek w twojej lokalizacji, zamiast odkrywać wskazówki umieść jedną ze wskazówek tego badacza na lokalizacji: odrzuć tę kartę.\n<b>Wymuszony</b> – Kiedy gra się zakończy lub zostałeś wyeliminowany, jeśli ta karta jest na twojej ręce: dodaj tę kartę do puli zwycięstwa.\n<br><center><b>Zwycięstwo 0.</b> ",
+        "flavor_text": "",
+        "traits": "Pakt."
+      },
+      "back": {}
+    },
+    "0700e7c9-af6d-4077-8d24-6b0d9def550a": {
+      "name": "Wszystkowidzące oko",
+      "front": {
+        "text": "<b>Odkrycie</b> – Umieść kartę w grze, w twoim obszarze zagrożenia.\nJako dodatkowy koszt wykonania akcji skanowania, odrzucaj karty z wierzchu talii spotkań dopóki nie odrzucisz karty z cechą SI. Dobierz tę kartę.\n<b>Wymuszony</b> – Na koniec twojej tury: Wykonaj test <agi> (3). Jeśli test zakończył się sukcesem, odrzuć Wszystkowidzące oko.<br>",
+        "flavor_text": "",
+        "traits": "SI."
+      },
+      "back": {}
+    },
+    "8f9370da-e0e1-46c5-8f8c-bd98229cc332": {
+      "name": "Wyładowanie elektryczne",
+      "front": {
+        "text": "<b>Odkrycie</b> – Wykonaj test <agi> (2). Ten test otrzymuje +1 do poziomu trudności za każdą kartę spotkania z cechą <t>SI </t> w twoim obszarze zagrożenia. Jeśli test zakończył się porażką, każdy badacz w twojej lokalizacji otrzymuje 1 obrażenie, a Wyładowanie elektryczne zyskuje słowo kluczowe Mroczna fala.",
+        "flavor_text": "Łuki elektryczne wystrzeliwują z najbliższej maszyny w twoim kierunku.",
+        "traits": "Niebezpieczeństwo."
+      },
+      "back": {}
+    },
+    "fb39b07e-fc2c-47f3-be32-49e6eeca8015": {
+      "name": "Halucynogenne hologramy",
+      "front": {
+        "text": "Ukryta. Zagrożenie.\n<b>Odkrycie</b> – Dodaj w tajemnicy tę kartę do twojej ręki.\n<b>Wymuszony</b> – Na koniec twojej tury, jeśli w twoim obszarze zagrożenia znajduje się przynajmniej 1 karta spotkania z cechą SI: otrzymujesz 2 punkty przerażenia, a następnie odrzuć Halucynogenne <br>hologramy.\n<act><act>: Odrzuć Halucynogenne hologramy.",
+        "flavor_text": "",
+        "traits": "Koszmar."
+      },
+      "back": {}
+    },
+    "e6e75557-07f4-4c9a-b3ec-1675fe8341d6": {
+      "name": "Algorytm predykcyjny",
+      "front": {
+        "text": "<b>Odkrycie</b> – Umieść Algorytm predykcyjny w grze, w twoim obszarze zagrożenia.\nOtrzymujesz -1 do wartości każdej umiejętności podczas walki lub wymykania się wrogom z cechą SI.\n<act> Wybierz i odrzuć 2 karty z twojej ręki: odrzuć Algorytm predykcyjny.",
+        "flavor_text": "",
+        "traits": "SI. Zamiar."
+      },
+      "back": {}
+    },
+    "3d904ce6-5737-4c84-a632-e572831bb712": {
+      "name": "Robak systemowy",
+      "front": {
+        "text": "<b>Rozstawienie</b> – Najbliższa lokalizacja bez <br>wskazówek.\n<b>Wymuszony</b> – Po tym jak Robak systemowy wejdzie do gry: umieść 1 żeton wskazówki na jego lokalizacji (z puli żetonów).\n",
+        "flavor_text": "Arachnobot, model ATL-4 jest wyposażony w funkcję wślizgiwania się w szczeliny maszyn i posiada procedury pozwalające na naprawę mechanizmu od wewnątrz.",
+        "traits": "SI. Pająk. Maszyna."
+      },
+      "back": {}
+    },
+    "6e30daeb-0d61-4efd-bf06-5df4e804aba8": {
+      "name": "Elektryczny koszmar",
+      "front": {
+        "entries": [
+          {
+            "token": [
+              "skull"
+            ],
+            "text": "-X. X to połowa wartości twoich Wspomnień (zaokrąglona w dół)."
+          },
+          {
+            "token": [
+              "cultist"
+            ],
+            "text": "-2. Jeśli test zakończył się porażką i masz na ręku kartę ze słowem kluczowym Ukryta, otrzymujesz 1 punkt przerażenia."
+          },
+          {
+            "token": [
+              "tablet"
+            ],
+            "text": "Odkryj kolejny żeton. Podwój modyfikator z tego żetonu."
+          }
+        ],
+        "difficulty": "ŁATWY / STANDARDOWY"
+      },
+      "back": {
+        "entries": [
+          {
+            "token": [
+              "skull"
+            ],
+            "text": "-X. X to wartość twoich Wspomnień."
+          },
+          {
+            "token": [
+              "cultist"
+            ],
+            "text": "-3. Jeśli test zakończył się porażką i masz na ręku kartę ze słowem kluczowym Ukryta, otrzymujesz 1 punkt przerażenia."
+          },
+          {
+            "token": [
+              "tablet"
+            ],
+            "text": "Odkryj kolejny żeton. Podwój modyfikator z tego żetonu."
+          }
+        ],
+        "difficulty": "TRUDNY / EKSPERCKI"
+      }
+    },
+    "4c7386bc-6147-45d3-a682-4ce775956f67": {
+      "name": "Wytwór twojej wyobraźni",
+      "front": {
+        "name": "<name>",
+        "text": "Każda lokalizacja jest połączona z każdą sąsiadującą lokalizacją.",
+        "flavor_text": "Wirtualna kraina snu stworzona przez K2-PS187 okazuje się być uderzająco realistyczna. Czujecie nawet takie detale, jak poruszenie każdego włosa na waszym ciele oraz zapach dżdżownic w mokrej ziemi. Wszystkie te doznania są wzmacniane przez bezpośrednią stymulację kory czuciowo-ruchowej. W tym świecie trudno odróżnić symulację od halucynacji."
+      },
+      "back": {
+        "name": "<font \\\"./fonts/chiller.ttf\\\">NOCNY KOSZMAR",
+        "text": "Słyszycie chichoczący śmiech odbijający się echem w całym wirtualnym otoczeniu. Niedaleko was rozlega się szuranie czyichś kroków, które stają się coraz głośniejsze. Koszmarne diabelstwo wypełza spośród cieni. Wysokie na ponad dwa metry, z twarzą pomalowaną na biało, z krwistoczerwonym makijażem wokół oczu i nienaturalnie żółtymi, kręconymi włosami, to coś wyglądem przypomina klauna. Jednak żaden prawdziwy klaun nie założyłby tak złachmanionego i zapleśniałego kostiumu w kolorach żółci i czerni, w jaki odziane jest to stworzenie. Żaden klaun nie miałby spojrzenia wypełnionego tak przerażającym szaleństwem. Istota uśmiecha się nienaturalnie szeroko, ukazując rzędy ostrych, trójkątnych zębów. Na głowie nosi staroświecką, lekarską lampę czołową, a z szyi zwisa jej stetoskop. Podnosi swoje palce i spostrzegacie, że każdy z nich zakończony jest starą, szklaną strzykawką z długą igłą.\nTo coś może być wyłącznie jednym. Najgorszym koszmarem każdego dziecka. Natychmiast, niemal instynktownie zdajecie sobie sprawę, czym jest ta kreatura. To właśnie Czarny Lud.\nJeśli trwa Akt 1, rozstaw odłożonego na bok wroga Potwór z szafy wyczerpanego, w lokalizacji Szkolny dziedziniec.\nJeśli trwa Akt 2, rozstaw odłożonego na bok wroga Potwór z szafy wyczerpanego, w lokalizacji Hol wejściowy.\nNiezależnie od tego, który akt jest aktualnie w grze, wtasuj odłożony na bok zestaw spotkań <i>Straszydło</i> oraz stos odrzuconych kart spotkań do talii spotkań. Ten zestaw posiada następujący symbol:<br>\n<center><size 140><image src=\"C:\\Users\\krawc\\Desktop\\SCEDPL\\Tłumaczenia\\darkMatter\\images\\set_boogey.png\">",
+        "flavor_text": null
+      }
+    },
+    "7897d8d4-1e11-441d-8101-3f79d70dcf55": {
+      "name": "TO",
+      "front": {
+        "name": "<font \"./fonts/Bonechiller.ttf\"><name>",
+        "text": "<center><font \"./fonts/Bonechiller.ttf\">CHA! CHA! CHA! \n<center>Nie chcesz sie ze mna pobawic??</font></center>\n<left>Każda lokalizacja jest połączona z każdą sąsiadującą lokalizacją.\n<b>Wymuszony</b> – Na początku fazy wrogów, jeśli Potwór z szafy jest w tej samej lokalizacji, co atut fabularny z cechą <t>Wcielenie</t>: umieść 1 żeton zagłady na tym atucie fabularnym.",
+        "flavor_text": ""
+      },
+      "back": {
+        "name": "<font \"./fonts/Bonechiller.ttf\">STRACH",
+        "text": "<center><font \"./fonts/Bonechiller.ttf\">\nCo        tak     dlugo?\n\nTeraz mozemy      sie bawic       w nieskonczonosc.\n\nI      na      wieki      wieków.\n\nKazdy                                  badacz,\n\nktory              nie             zrezygnowal \n\nzostaje        pokonany."
+      }
+    },
+    "b1c9f295-3f3d-4c69-ba98-af735e9d01cd": {
+      "name": "Szkoła publiczna nr 187 (w. 1.0)",
+      "front": {
+        "name": "<name>",
+        "text": "Lokalizacje nie mogą być zamieniane ze sobą.\n<b>Cel</b> – Po tym, jak badacz odkryje lokalizację Hol wejściowy, talia aktów natychmiast postępuje.",
+        "flavor_text": "Zbliżacie się w kierunku wirtualnego budynku szkoły, ciągniecie ku sobie podwójne drzwi tylko po to, by odkryć za nimi ceglany mur. Wygląda na to, że ktoś majstrował przy tej symulacji. Potrzebujecie znaleźć inny sposób na wejście."
+      },
+      "back": {
+        "name": "Pomieszane umysły",
+        "text": "<blockquote>Coś tutaj jest źle w najgorszy możliwy sposób – to odkrycie nie zabiera wam zbyt wiele czasu. Wnętrze stanowi plątaninę korytarzy, prawdziwy labirynt rozciągający się w każdym kierunku. Symulacja szkoły najwyraźniej jest kompletnie uszkodzona. Nie będzie możliwe odszukanie dzieci bez wcześniejszej naprawy uszkodzonego kodu i uporządkowania pomieszczeń. </blockquote>\nUmieść w grze odłożone na bok karty lokalizacji Nieodkryte pomieszczenie tak, by otaczały lokalizację Hol wejściowy według poniższego schematu:\n<br><br><br><br>\n\n<i>(Gdzie          to Hol wejściowy)\n\n\n"
+      }
+    },
+    "2d847b18-242d-487d-bdf4-4888151f8ce3": {
+      "name": "Szkoła publiczna nr 187 (w. 2.0)",
+      "front": {
+        "name": "<name>",
+        "text": "Lokalizacje nie mogą być zamieniane ze sobą.\n<b>Cel</b> – Po tym, jak badacz odkryje lokalizację Hol wejściowy, talia aktów natychmiast postępuje.",
+        "flavor_text": "Zbliżacie się w kierunku wirtualnego budynku szkoły, ciągniecie ku sobie podwójne drzwi tylko po to, by odkryć za nimi ceglany mur. Wygląda na to, że ktoś majstrował przy tej symulacji. Potrzebujecie znaleźć inny sposób na wejście."
+      },
+      "back": {
+        "name": "Pomieszane umysły",
+        "text": "<blockquote>Coś tutaj jest źle w najgorszy możliwy sposób – to odkrycie nie zabiera wam zbyt wiele czasu. Wnętrze stanowi plątaninę korytarzy, prawdziwy labirynt rozciągający się w każdym kierunku. Symulacja szkoły najwyraźniej jest kompletnie uszkodzona. Nie będzie możliwe odszukanie dzieci bez wcześniejszej naprawy uszkodzonego kodu i uporządkowania pomieszczeń.</blockquote>\nUmieść w grze odłożone na bok karty lokalizacji Nieodkryte pomieszczenie tak, by otaczały lokalizację Hol wejściowy według poniższego schematu:<br><br><br><br><br>\n\n<i>(Gdzie          to Hol wejściowy)\n\n\n",
+        "flavor_text": null
+      }
+    },
+    "afa72efb-75d0-439d-b973-53c622c0d08b": {
+      "name": "Szkoła publiczna nr 187 (w. 3.0)",
+      "front": {
+        "name": "<name>",
+        "text": "Lokalizacje nie mogą być zamieniane ze sobą.\n<b>Cel</b> – Po tym, jak badacz odkryje lokalizację Hol wejściowy, talia aktów natychmiast postępuje.",
+        "flavor_text": "Zbliżacie się w kierunku wirtualnego budynku szkoły, ciągniecie ku sobie podwójne drzwi tylko po to, by odkryć za nimi ceglany mur. Wygląda na to, że ktoś majstrował przy tej symulacji. Potrzebujecie znaleźć inny sposób na wejście."
+      },
+      "back": {
+        "name": "Scrambled Minds",
+        "text": "<blockquote>Coś tutaj jest źle w najgorszy możliwy sposób – to odkrycie nie zabiera wam zbyt wiele czasu. Wnętrze stanowi plątaninę korytarzy, prawdziwy labirynt rozciągający się w każdym kierunku. Symulacja szkoły najwyraźniej jest kompletnie uszkodzona. Nie będzie możliwe odszukanie dzieci bez wcześniejszej naprawy uszkodzonego kodu i uporządkowania pomieszczeń.</blockquote><br><br>Umieść w grze odłożone na bok karty lokalizacji Nieodkryte pomieszczenie tak, by otaczały lokalizację Hol wejściowy według poniższego schematu:<br><br><br>\n<br><br>\n<i>(Gdzie          to Hol wejściowy)\n\n\n",
+        "flavor_text": null
+      }
+    },
+    "bcd4d816-40d0-4581-a96c-6c029d2d19ec": {
+      "name": "Psychoanaliza",
+      "front": {
+        "name": "<name>",
+        "text": "<free> Badacze wydają, jako grupa, 1<per_large> wskazówek: Zamień miejscami dwie sąsiadujące ze sobą lokalizacje.\n<b>Cel</b> – Na koniec rundy, jeśli układ lokalizacji z cechą <t>Szkoła</t> odpowiada poniższemu schematowi, talia aktów postępuje.\n<br><br><br><br>",
+        "flavor_text": "Pomieszczenia wymieszały się ze sobą tworząc nieprawdopodobny labirynt. Zanim zaczniecie poszukiwania dzieci, musicie przywrócić szkole jej wcześniejszy obraz."
+      },
+      "back": {
+        "name": "To tylko zły sen",
+        "text": "<blockquote>„Kiedy udaje wam się naprawić kod symulacji i przywrócić szkołę do jej pierwotnej postaci, ze szkolnego radiowęzła dobiega do was chór dziecięcych głosów, w którym płacz przeplata się ze zgrozą i szaleństwem. „Co narobiliście? Pomieszałyśmy szkołę, żeby Potwór z szafy nie mógł nas dorwać! Teraz on nadchodzi i pożre nas wszystkich!”\nZaczynacie rozumieć, że uszkodzenie symulacji szkoły i sam Potwór z szafy nie mają źródła na zewnątrz, tylko wewnątrz. To manifestacja obłąkanych umysłów dzieci oraz ucieleśnienie ich najgłębszych lęków. Co mogło sprawić, że te umysły dotarły na krawędź szaleństwa? Niezależnie od odpowiedzi, jeśli przekonacie dzieciaki, że owo monstrum to wyłącznie element symulacji, projekcja ich wyobraźni, to być może uda się wam ocalić je, zanim pochłonie je koszmar”.</blockquote>\nJeśli Potwór z szafy nie znajduje się w grze, rozstaw odłożonego na bok wroga Potwór z szafy w lokalizacji Hol wejściowy.\nOdkryj wszystkie nieodkryte lokalizacje.\nOdłożone na bok atuty fabularne z cechą <t>Wcielenie</t> dołącz losowo do następujących lokalizacji: Klasa K2, Biblioteka, Sala gimnastyczna, Pracownia biologiczna (<i>jeden atut na każdą lokalizację</i>).\nJeśli Potwór z szafy znajduje się w lokalizacji, do której dołączono atut fabularny z cechą <t>Wcielenie</t>, dołącz atut z cechą <t>Wcielenie</t> do lokalizacji Stołówka.\n\n\n",
+        "flavor_text": null
+      }
+    },
+    "63657568-e65f-4a01-b870-6b774418eefc": {
+      "name": "Wszystkie nasze strachy",
+      "front": {
+        "name": "<name>",
+        "text": "<free> Badacze wydają, jako grupa, 1<per_large> wskazówek: Zamień miejscami dwie sąsiadujące ze sobą lokalizacje.\n<b>Cel</b> – Uratuj tyle dzieci, ile tylko możliwe! Jeśli Potwór z szafy został pokonany, talia aktów postępuje.",
+        "flavor_text": "Musicie pomóc dzieciakom przezwyciężyć <br>ich koszmary, zanim pogrążą się w nich całkowicie. Teraz, kiedy jesteście świadomi <br>architektury szkoły, być może będziecie mogli wykorzystać tę wiedzę na własną korzyść."
+      },
+      "back": {
+        "name": "Nothing to Fear",
+        "text": "<b>(<resolution>Z3)</b>",
+        "flavor_text": "Umysły ofiar, jeśli pozbawić je lęku i przerażenia, przestają być celem polowania, a koszmarna, cyfrowa szkarada zapada się w sobie, flaczeje niczym balon, z którego uchodzi powietrze i rozpuszcza się w symulacji."
+      }
+    },
+    "a9bdad62-4cd4-4f34-8f13-1f92bda1b61c": {
+      "name": "Alma",
+      "front": {
+        "name": "Alma",
+        "text": "<act> Jeśli Potwór z szafy jest nad lub pod lokalizacją, w której znajduje się Alma: <b>Pertraktacje.</b> Wykonaj test <wil> (2). Jeśli test zakończył się sukcesem, odwróć tę kartę i rozpatrz tekst na jej drugiej stronie.",
+        "subtitle": "Kontrola środowiska",
+        "traits": "Wcielenie."
+      },
+      "back": {
+        "name": "Reintegracja",
+        "text": "<blockquote>Wykazując się cierpliwością i troską, udaje się wam uspokoić Almę i przekonać ją, by otworzyła oczy i ostrożnie zbadała symulowany koszmar. Dzięki dotykowi swoich palców, Alma może wreszcie dostrzec delikatne rozbieżności w rzeczywistości, które ujawniają się, patrząc pod odpowiednim kątem, tym samym przełamując iluzję istnienia przerażającego monstrum. Pozbawiony strachu Almy, Potwór z szafy traci swoje zęby, które wypadają z jego ciemnej, rozdziawionej paszczy i rozsypują się po ceramicznej posadzce.\n„Dzięki, że nam pomogliście! Jestem Alma i jestem odpowiedzialna za kontrolę środowiska na statku. Jest mi naprawdę zimno... Potrzebuję jakiejś kurtki”. Dziewczynka opuszcza szkołę pozbawiona strach.</blockquote>\nUmieść 1 żeton przerażenia z puli żetonów na wrogu Potwór z szafy. Jeśli na Potworze z szafy znajdują się 4 żetony przerażenia, zostaje on pokonany.\nDodaj tę kartę do puli zwycięstwa.<br>\n<center><b>Zwycięstwo 1.</b>"
+      }
+    },
+    "07ac0e51-7f01-4c01-9862-21bee0cf1328": {
+      "name": "David",
+      "front": {
+        "text": "<act> Jeśli Potwór z szafy jest nad lub pod lokalizacją, w której znajduje się David: <b>Pertraktacje.</b> Wykonaj test <wil> (2). Jeśli test zakończył się sukcesem, odwróć tę kartę i rozpatrz tekst na jej drugiej stronie.",
+        "subtitle": "Silniki i system zasilania",
+        "traits": "Wcielenie."
+      },
+      "back": {
+        "name": "Reintegracja",
+        "text": "<blockquote>Uspokajacie chłopca ukrywającego się pod szkolną ławką oraz udaje się wam przekonać go, że Potwór z szafy nie ma żadnych szans w porównaniu z waszą siłą i pewnością siebie. Chłopczyk wstaje i krzyczy w stronę potworności. „Nie boimy się ciebie! Jesteś tylko zwyczajnym klaunem!”. Potwór zaczyna wyć z bólu, kiedy jego dłonie o szponach ze strzykawek zaczynają się kurczyć i przekształcać w zwiotczałe, czerwone rękawice.\nChłopiec przedstawia się jako David. „Jestem odpowiedzialny za pracę silników i głównego systemu zasilania. Ostatnio byłem strasznie chory, ale na szczęście mój brzuch wreszcie przestał boleć”. Mówicie Davidowi, żeby poczekał na zewnątrz szkoły i widzicie, jak szybko wybiega.</blockquote>\nUmieść 1 żeton przerażenia z puli żetonów na wrogu Potwór z szafy. Jeśli na Potworze z szafy znajdują się 4 żetony przerażenia, zostaje on pokonany.\nDodaj tę kartę do puli zwycięstwa.<br><br>\n<center><b>Zwycięstwo 1.</b>"
+      }
+    },
+    "9b092a0a-2a5b-4b60-b2db-e3ba27225b78": {
+      "name": "K2-PS187",
+      "front": {
+        "name": "<unique><name>",
+        "text": "Trwały.\n<reaction> Na początku rundy wybierz badacza: wybrany badacz otrzymuje dodatkową akcję podczas swojej tury, która może być użyta tylko do aktywacji zdolności <b>Skanowanie</b>.",
+        "flavor_text": "",
+        "subtitle": "Funkcjonalność 25%",
+        "traits": "SI."
+      },
+      "back": {}
+    },
+    "9db6e367-faea-4c2e-8ada-b63e062324fb": {
+      "name": "K2-PS187",
+      "front": {
+        "name": "<unique><name>",
+        "text": "Trwały.\n<free> Podczas fazy badaczy, wybierz dowolnego badacza: wybrany badacz otrzymuje dodatkową akcję podczas swojej tury, która może być użyta tylko do aktywacji zdolności <b>Skanowanie</b>. (Limit raz na rundę.)",
+        "flavor_text": "",
+        "subtitle": "Funkcjonalność 50%",
+        "traits": "SI."
+      },
+      "back": {}
+    },
+    "9d573e8e-e1fb-4241-9ee2-5a20a79a25cd": {
+      "name": "K2-PS187",
+      "front": {
+        "name": "<unique><name>",
+        "text": "Trwały.\n<free> Podczas fazy badaczy, wybierz dowolnego badacza: wybrany badacz otrzymuje dodatkową akcję podczas swojej tury, która może być użyta tylko do aktywacji zdolności <b>Skanowanie</b>. (Limit raz na rundę.)\n<reaction> Po tym, jak badacz wykona nieudaną akcję skanowania: ten badacz może dobrać 1 kartę lub otrzymać 1 zasób.",
+        "flavor_text": "",
+        "subtitle": "Funkcjonalność 75%",
+        "traits": "SI."
+      },
+      "back": {}
+    },
+    "b19377ff-d3e8-41c0-ab37-3b7c1f00959a": {
+      "name": "K2-PS187",
+      "front": {
+        "name": "<unique><name>",
+        "text": "Trwały.\n<free> Podczas fazy badaczy, wybierz dowolnego badacza: wybrany badacz otrzymuje dodatkową akcję podczas swojej tury, która może być użyta tylko do aktywacji zdolności <b>Skanowanie</b>. (Limit raz na rundę.)\n<reaction> Po tym, jak badacz wykona akcję skanowania: ten badacz może dobrać 1 kartę lub otrzymać 1 żeton zasobu. (Limit raz na rundę.)",
+        "flavor_text": "",
+        "subtitle": "100% Functionality",
+        "traits": "AI."
+      },
+      "back": {}
+    },
+    "b981acd0-98a6-4076-a8ad-526be48a6056": {
+      "name": "Maja",
+      "front": {
+        "name": "<unique><name>",
+        "text": "<free> Wybierz i odrzuć 3 karty z twojej ręki: uwolnij się ze zwarcia z każdym wrogiem, z którym jesteś w zwarciu i porusz się do dowolnej, połączonej lokalizacji. Badacze w dowolnej lokalizacji mogą aktywować tę zdolność.",
+        "flavor_text": "",
+        "subtitle": "Archiwum informacyjne",
+        "traits": "Wcielenie."
+      },
+      "back": {}
+    },
+    "aefc0b06-2c29-4c5f-ad4c-91ff72d7faea": {
+      "name": "Tilde",
+      "front": {
+        "text": "<act> Jeśli Potwór z szafy jest nad lub pod lokalizacją, w której znajduje się Tilde: <b>Pertraktacje.</b> Wykonaj test <int> (2). Jeśli test zakończy się sukcesem, odwróć tę kartę i rozpatrz tekst na jej drugiej stronie.",
+        "subtitle": "Cyfrowa jednostka centralna",
+        "traits": "Wcielenie."
+      },
+      "back": {
+        "name": "Reintegracja",
+        "text": "<blockquote>Przekonujecie zalęknioną dziewczynkę, że sztuczna inteligencja, którą posługuje się potwór jest w istocie dosyć prymitywna i łatwo ją przechytrzyć lub jej uniknąć. Dziewczynka obserwuje ruchy Potwora z szafy, by ostatecznie pokiwać głową na znak, że zgadza się z tym stwierdzeniem. Wszyscy obserwujecie, jak głowa klauna w łachmanach zaczyna mięknąć i flaczeje, a jego głos zamienia się w niewyraźny bełkot.\nDziewczynka dziękuje wam za pomoc. „Mam na imię Tilde i jestem odpowiedzialna za główny komputer na statku oraz za cyber-bezpieczeństwo.<br>Ostatnio cierpiałam na silny ból głowy, ale teraz czuję się już dużo lepiej”. Dziewczynka ostrożnie obchodzi Potwora z szafy i opuszcza budynek szkolny.</blockquote>\nUmieść 1 żeton przerażenia z puli żetonów na wrogu Potwór z szafy. Jeśli na Potworze z szafy znajdują się 4 żetony przerażenia, zostaje on pokonany.\nDodaj tę kartę do puli zwycięstwa.<br>\n<center><b>Zwycięstwo 1.</b>"
+      }
+    },
+    "32446b8c-481c-4419-bda1-1dabc7fbf4f2": {
+      "name": "William",
+      "front": {
+        "text": "<act> Jeśli Potwór z szafy jest nad lub pod lokalizacją, w której znajduje się William: <b>Pertraktacje.</b> Wykonaj test <agi> (2). Jeśli test zakończył się sukcesem, odwróć tę kartę i rozpatrz tekst na jej drugiej stronie.",
+        "subtitle": "Intrasolar Navigations",
+        "traits": "Wcielenie."
+      },
+      "back": {
+        "name": "Reintegracja",
+        "text": "<blockquote>Chwytacie chłopca, który szaleńczo biega po korytarzach i uspokajacie go, przekonując, że Potwór z szafy nigdy go nie dopadnie, a jedynie chce go wystraszyć. Koszmarna postać zatrzymuje się przed wami i nie jest w stanie poruszyć się ani o krok. Chłopczyk oddycha z ulgą. Pozbawione strachu chłopca, jako swojego pożywienia, groteskowo przerośnięte ręce i nogi monstrum kurczą się do bardziej ludzkich rozmiarów.\n„Możecie mówić do mnie Will. Na statku jestem odpowiedzialny za systemy nawigacyjne oraz procedury dokowania”. Mówicie mu, żeby zaczekał w was na zewnątrz, na co Will przystaje bez wahania.</blockquote>\nUmieść 1 żeton przerażenia z puli żetonów na wrogu Potwór z szafy. Jeśli na Potworze z szafy znajdują się 4 żetony przerażenia, zostaje on pokonany.\nDodaj tę kartę do puli zwycięstwa.<br>\n<center><b>Zwycięstwo 1.</b>"
+      }
+    },
+    "79cc7628-4936-4887-85cb-22b06e208dd8": {
+      "name": "Pracownia biologiczna",
+      "front": {
+        "text": "<act>: Wylecz 1 obrażenie lub 1 punkt przerażenia z każdego badacza w twojej lokalizacji. (Limit grupowy raz na grę.)",
+        "flavor_text": "Kora na gałęziach pęka i odpada, ujawniając poczerniałą, pulpową masę pod spodem, która cuchnie gnijącym mięsem i wilgotną ziemią.",
+        "traits": "Szkoła."
+      },
+      "back": {
+        "name": "Nieodkryte pomieszczenie",
+        "text": "",
+        "flavor_text": "<br>Poprzez puste korytarze niesie się echo każdego, najmniejszego nawet dźwięku, zapowiadając wasze przybycie wszelkim horrorom, które czają się w głębi, oczekując. Jesteście zagubieni, wrzuceni pomiędzy niedopasowane puzzle gigantycznej układanki."
+      }
+    },
+    "d83b94d7-bfa9-4f7f-ab2f-38b7169ba7da": {
+      "name": "Stołówka",
+      "front": {
+        "text": "<act>: <b>Badanie.</b> Ten test otrzymuje +2 do poziomu trudności. Jeśli test zakończył się sukcesem, odkryj dodatkową wskazówkę w sąsiadującej lokalizacji.",
+        "flavor_text": "Powietrze przesycone jest zapachem syntetycznej pożywki, który nie ma żadnego wyraźnego źródła.",
+        "traits": "Szkoła."
+      },
+      "back": {
+        "name": "Nieodkryte pomieszczenie",
+        "text": "",
+        "flavor_text": "<br>Poprzez puste korytarze niesie się echo każdego, najmniejszego nawet dźwięku, zapowiadając wasze przybycie wszelkim horrorom, które czają się w głębi, oczekując. Jesteście zagubieni, wrzuceni pomiędzy niedopasowane puzzle gigantycznej układanki."
+      }
+    },
+    "6fb5ef9e-48b3-4e65-aa77-5cc77f7f4e77": {
+      "name": "Sala lekcyjna K2",
+      "front": {
+        "text": "<act>: Jeśli Sala lekcyjna K2 sąsiaduje z 4 innymi lokalizacjami: każdy badacz w Sali lekcyjnej K2 dodaje jedną kreskę do swoich Wspomnień. (Limit grupowy raz na grę.)",
+        "flavor_text": "Materiały i faktury tworzące obraz tej sali są oddane z wyjątkową dbałością o najmniejszy detal.",
+        "victory": "Zwycięstwo 1.",
+        "traits": "Szkoła."
+      },
+      "back": {
+        "name": "Nieodkryte pomieszczenie",
+        "text": "",
+        "flavor_text": "<br>Poprzez puste korytarze niesie się echo każdego, najmniejszego nawet dźwięku, zapowiadając wasze przybycie wszelkim horrorom, które czają się w głębi, oczekując. Jesteście zagubieni, wrzuceni pomiędzy niedopasowane puzzle gigantycznej układanki."
+      }
+    },
+    "f275eb70-15ef-4478-842d-54357f67b393": {
+      "name": "Sala gimnastyczna",
+      "front": {
+        "text": "<reaction> Kiedy wróg miałby wejść do tej lokalizacji:<br> wykonaj test <agi> (3). Jeśli test zakończył się sukcesem, ten wróg do końca rundy nie może wejść z tobą w zwarcie lub cię atakować.",
+        "flavor_text": "Otwarta przestrzeń sali gimnastycznej daje wam wiele sposobności do ucieczki i uników, ale okazuje się uboga w kryjówki.",
+        "traits": "Szkoła."
+      },
+      "back": {
+        "name": "Nieodkryte pomieszczenie",
+        "flavor_text": "<br>Poprzez puste korytarze niesie się echo każdego, najmniejszego nawet dźwięku, zapowiadając wasze przybycie wszelkim horrorom, które czają się w głębi, oczekując. Jesteście zagubieni, wrzuceni pomiędzy niedopasowane puzzle gigantycznej układanki."
+      }
+    },
+    "a6e8b85f-e976-45bd-ac49-3697503ce611": {
+      "name": "Biblioteka",
+      "front": {
+        "text": "X to liczba sąsiadujących lokalizacji.\n<act> Jeśli na Bibliotece nie ma żadnych wskazówek: zamień Bibliotekę z dowolną inną lokalizacją z cechą <t>Szkoła</t> i umieść na Bibliotece 1<per_large> wskazówek (z puli żetonów).",
+        "flavor_text": "",
+        "victory": "Zwycięstwo 1.",
+        "traits": "Szkoła."
+      },
+      "back": {
+        "name": "Nieodkryte pomieszczenie",
+        "text": "",
+        "flavor_text": "<br>Poprzez puste korytarze niesie się echo każdego, najmniejszego nawet dźwięku, zapowiadając wasze przybycie wszelkim horrorom, które czają się w głębi, oczekując. Jesteście zagubieni, wrzuceni pomiędzy niedopasowane puzzle gigantycznej układanki."
+      }
+    },
+    "252169ab-f00c-4f56-860a-4f1171409c5f": {
+      "name": "Hol wejściowy",
+      "front": {
+        "text": "<reaction> Po tym, jak Hol wejściowy zostanie zamieniony miejscami z inną lokalizacją, jeśli znajdujesz się w Holu wejściowym: dobierasz 1 kartę i otrzymujesz 1 żeton zasobu. (Limit grupowy raz na rundę.)",
+        "flavor_text": "Biurka, ławki i krzesła unoszą się dookoła wejścia. Symulacja jest wyraźnie uszkodzona.",
+        "traits": "Szkoła."
+      },
+      "back": {
+        "name": "Blask wewnątrz muru",
+        "text": "Nie możesz wejść do tej lokalizacji inaczej niż poprzez zdolność <free> na karcie Maja.",
+        "flavor_text": "Spostrzegacie cyfrową szczelinę pomiędzy cegłami symulowanych ścian szkoły. Być może Maja będzie w stanie zregenerować wasze wirtualne awatary po tym, jak włamiecie się do środka."
+      }
+    },
+    "391c89d9-361e-4ce9-80b7-f9eaf3aaa134": {
+      "name": "Szkolny dziedziniec",
+      "front": {
+        "text": "Podczas badania tej lokalizacji, zyskuje ona +1 do wartości zasłony za każdą wskazówkę, którą posiadasz.\n<free> Jeśli na Szkolnym dziedzińcu nie ma żadnych wskazówek: umieść w grze odłożoną na bok kartę lokalizacji Blask wewnątrz muru bezpośrednio nad lokalizacją Szkolny <br>dziedziniec.",
+        "flavor_text": "Szkoła zamknięta.",
+        "victory": "Zwycięstwo 1.",
+        "traits": ""
+      },
+      "back": {
+        "text": "",
+        "flavor_text": "The decrepit and abandoned school grounds are eerily quiet. Scattered around the building are dropped books, lunch boxes and tattered backpacks."
+      }
+    },
+    "5e316ffc-5a75-4c63-8a39-4e378cb1deb4": {
+      "name": "Dekoherecja",
+      "front": {
+        "text": "<b>Odkrycie</b> – Wykonaj test <agi> (6). Obniż poziom trudności tego testu o 1 za każdą kreskę w swoich Wspomnieniach. \nJeśli test zakończył się porażką musisz albo otrzymać 2 punkty przerażenia lub stracić 2 <br>zasoby.",
+        "flavor_text": "Kim jestem?",
+        "traits": "Wirtualny. Koszmar."
+      },
+      "back": {}
+    },
+    "c0199885-f7ef-4e2a-a323-c02a6f4ec91e": {
+      "name": "Desynch",
+      "front": {
+        "text": "<b>Odkrycie</b> – Musisz wybrać (wybierz jedno):\n<bullet> Otrzymujesz 1 punkt traumy psychicznej i dodajesz jedną kreskę do swoich Wspomnień. Następnie wygnaj tę kartę.\n<bullet> Jeśli w twojej talii znajduje się 5 lub więcej kart, wtasuj tę kartę z powrotem do twojej talii. W przeciwnym wypadku, odrzuć ją.",
+        "flavor_text": "",
+        "traits": "Szaleństwo."
+      },
+      "back": {}
+    },
+    "b51b3f6e-8f27-49a3-a214-f166d2b3ae89": {
+      "name": "Cyfrowa korozja",
+      "front": {
+        "text": "<b>Odkrycie</b> – Wykonaj test <wil> (X). X jest wartością<br>zasłony twojej lokalizacji. Za każdy punkt, o który test się nie powiódł, odrzuć jedną kartę z twojego obszaru gry i/lub z twojej ręki.",
+        "flavor_text": "Widzisz, jak ulegają erozji i zamieniają się w proch tuż przed twoimi oczami.",
+        "traits": "Wirtualny. Niebezpieczeństwo."
+      },
+      "back": {}
+    },
+    "d428e529-2e10-4bf6-bc95-ef88844b39e8": {
+      "name": "Duplikacja",
+      "front": {
+        "text": "<b>Odkrycie</b> – Odrzucaj karty z wierzchu talii spotkań dopóki nie odrzucisz 2 kart z cechą <t>Wirtualny</t>. Wybierz i dobierz jedną z dwóch odrzuconych kart z cechą <t>Wirtualny</t>. Jeśli jest to karta podstępu rozpatrz jej efekt odkrycia dwukrotnie. Jeśli jest to karta wroga, umieść kartę Duplikacja pod kartą wroga, jako kartę roju.",
+        "flavor_text": "",
+        "traits": "Zamiar."
+      },
+      "back": {}
+    },
+    "819cf984-2163-45f0-9185-89c40c13c888": {
+      "name": "Usterka w systemie",
+      "front": {
+        "text": "<b>Rozstawienie</b> – Dowolna pusta lokalizacja.<br><b>Wymuszony</b> – Po tym, jak lokalizacja Usterki w systemie zostanie zamieniona z inną lokalizacją: umieść 1 żeton zagłady na Usterce w Systemie.",
+        "flavor_text": "<br><font \\\"./fonts/AGENCYFB.ttf\\\">BŁAD KRYTYCZNY",
+        "traits": "Wirtualny."
+      },
+      "back": {}
+    },
+    "0bc8b2da-72fe-4172-89e7-e97824b0307b": {
+      "name": "Wirtualne byakhee",
+      "front": {
+        "text": "<b>Rozstawienie</b> – Najdalsza lokalizacja od <br>ciebie.\nŁowca.\n<b>Wymuszony</b> – Kiedy Wirtualne byakhee miałoby poruszyć się między dwiema lokalizacjami, w których nie ma żadnego badacza: zamiast tego obie lokalizacje zamieniają się miejscami.",
+        "flavor_text": "",
+        "traits": "Wirtualny. Potwór. Byakhee."
+      },
+      "back": {}
+    },
+    "7dbe8a67-387f-472a-920e-5fe0181fcde8": {
+      "name": "Manifestacja szeptów",
+      "front": {
+        "text": "Ukryta. Zagrożenie.\n<b>Odkrycie</b> – Dodaj w tajemnicy tę kartę do twojej<br> ręki.\n<b>Wymuszony</b> – Na koniec rundy, jeśli w twojej lokalizacji nie ma innych badaczy oraz Manifestacja szeptów znajduje się na twojej ręce: rozstaw ją w twojej lokalizacji.",
+        "flavor_text": "Co jest realne?",
+        "traits": "Potwór."
+      },
+      "back": {}
+    },
+    "9b793876-0e9d-4dd1-8ff1-16b342b61a77": {
+      "name": "Nieeuklidesowa geometria",
+      "front": {
+        "text": "<b>Odkrycie</b> – Umieść tę kartę w grze, w twoim obszarze <br>zagrożenia.\n<b>Wymuszony</b> – Po tym, jak twoja lokalizacja zostanie zamieniona z inną lokalizacją: otrzymujesz 1 obrażenie.\n<act>: Wykonaj test <agi> (3) lub <wil> (3). Jeśli test zakończył się sukcesem, odrzuć Nieeuklidesową geometrię.<br>",
+        "flavor_text": "",
+        "traits": "Niebezpieczeństwo."
+      },
+      "back": {}
+    },
+    "e68519a0-f91b-4653-b81f-063af4723d68": {
+      "name": "Cień myśli",
+      "front": {
+        "name": "<unique><name>",
+        "text": "<b>Rozstawienie</b> – Dowolna pusta lokalizacja.\nMściwy.\nX jest wartością zasłony lokalizacji tego wroga.\n<b>Wymuszony</b> – Po tym, jak lokalizacja tego wroga zostanie zamieniona z inną lokalizacją: porusz tego wroga o 1 lokalizację w kierunku najbliższego badacza.<br>",
+        "flavor_text": "",
+        "victory": "Zwycięstwo 1.",
+        "traits": "Wirtualny. Wynaturzenie."
+      },
+      "back": {}
+    }
+  },
+  "guides": [
+    {
+      "path": "guide.html",
+      "name": "Dunkle Materie",
+      "id": "932ece91-f894-4c9b-94b6-5086a4cabf4d",
+      "sections": [
+        {
+          "id": "db479610",
+          "type": "cover",
+          "name": "Titelseite",
+          "markdown": "# Titelseite\n\n"
+        },
+        {
+          "id": "4d702a22",
+          "type": "intro",
+          "name": "Einleitung",
+          "markdown": "## Im Weltraum hört dich niemand schreien\n:::story\n„Er erwähnte die Gründung des Geschlechtes in Carcosa, die Seen, welche Hastur, Aldebaran und das Geheimnis der Hyaden miteinander verbanden. Er sprach von Cassilda und Camilla, und verlieh den wolkenverhangenen Tiefen von Demhe Klang, und dem See von Hali.“\n:::right\n\\- *Robert W. Chambers*, Der Wiederhersteller des guten Rufes\n:::\n:::\n\nEs ist das Jahr 2147, und du bist gerade aus dem Kälteschlaf auf einem\nscheinbar verlassenen Raumschiff erwacht. Dort beginnt dein Weltraumabenteuer, das dich durch das ganze Sonnensystem führen wird, und bei dem nicht weniger als das Überleben der Menschheit auf dem Spiel\nsteht. \n\n<i>[project:name]</i> ist eine von Fans erstellte achtteilige Kampagne für <i>Arkham Horror: Das Kartenspiel</i> für 1-4 Spieler, die von den Call of Cthulhu-Abenteuerbänden <i>Ripples from Carcosa</i> von Oscar Rios und <i>End Time</i> von Dr. Michael C. LaBossiere inspiriert ist.\n\nIhr benötigt die Erweiterung <i>Der Pfad nach Carcosa</i>, um <i>Dunkle Materie</i> spielen zu können. Es wird sehr empfohlen, dass ihr die <i>Der Pfad nach Carcosa</i>-Kampagne mindestens einmal durchgespielt habt, bevor ihr <i>Dunkle Materie</i> spielt.\n## Inhalt\n:::toc\n:::\n\n<div style=\"break-after: column;\"></div>\n\n## Zusätzliche Regeln und Klarstellungen\n\n### Scannen\n\nManche Begegnungskarten dieser Kampagne tragen auf ihrer Rückseite Symbole am unteren Kartenrand. Diese Karten bilden das „Scan-Deck“, das sich außerhalb des Spiels befindet und während der Vorbereitung mancher Szenarien erstellt wird.\n\nIn dieser Kampagne können die Ermittler Fähigkeiten mit dem Aktionskennzeichen <b>Scannen</b> nutzen, um ihre Umgebung zu erkunden. Dies dient hauptsächlich dazu, Storyvorteilskarten, Handlungskarten oder Orte im Scan-Deck zu finden, mit denen sie im Szenario voranschreiten können. <b>Scannen</b>-Fähigkeiten werden meistens durch die Aktivieren-Aktion initiiert (aber nicht immer).\n\n<b>Scannen</b>-Fähigkeiten weisen dich an, das Scan-Deck nach der obersten Karte mit einem bestimmten Symbol zu durchsuchen. Sieh dir dazu die Symbole auf der Rückseite der obersten Karte des Scan-Decks an. Falls die oberste Karte des Scan-Decks das Symbol besitzt, nach dem du scannst, ziehe diese Karte. Dieser Scan gilt dann als „erfolgreich“.\n\nFalls die oberste Karte des Scan-Decks das Symbol nicht besitzt, lege sie zur Seite und prüfe die nächste Karte des Scan-Decks. Wiederhole diesen Vorgang, bis du eine Karte mit dem passenden Symbol vom Scan-Deck gezogen hast. Mische danach alle zur Seite gelegten Karten in das Scan-Deck zurück. Wenn durch die Fähigkeit keine Karte vom Scan-Deck gezogen wurde, gilt der Scan als „misslungen“.\n\n<b>Scannen</b>-Fähigkeiten beziehen sich häufig, aber nicht immer, auf das Symbol eines Ortes. Das Symbol eines Ortes ist das Symbol, das in der oberen linken Ecke der Ortskarte abgebildet ist.\n\nFalls du zu irgendeinem Zeitpunkt eine Karte mit einer Scan-Deck-Rückseite ablegen oder in irgendein Deck außer das Scan-Deck mischen müsstest, mische die Karte stattdessen in das Scan-Deck.\n\n<div style=\"break-after: column;\"></div>\n\n### Erinnerungen\n\nManche Szenariokarten, Auflösungen und Zwischenspiele beziehen\nsich auf deine „Erinnerungen“. Im Kampagnenlogbuch gibt es für\njeden Ermittler einen Abschnitt für die „Erinnerungen“ dieses Ermittlers.\n<b>Jede „Erinnerung“ gehört zu einem bestimmten Ermittler. „Erinnerungen“ werden nicht zwischen den Ermittlern geteilt.</b>\n\nManchmal wirst du angewiesen, Zählstriche unter den „Erinnerungen“ eines Ermittlers zu notieren oder diese durchzustreichen. Dazu machst du einfach Striche im „Erinnerungen“-Bereich dieses Ermittlers im Kampagnenlogbuch bzw. streichst dort Striche durch. Die Anzahl der „Erinnerungen“ eines Ermittlers ist die Anzahl der Zählstriche im „Erinnerungen“-Bereich dieses Ermittlers, die nicht durchgestrichen sind.\n\n### Schlüsselwort: Verborgen\n\nEinige Begegnungskarten in der Kampagne Dunkle Materie haben das Schlüsselwort „Verborgen“. Verborgen-Karten haben Enthüllung-Fähigkeiten, die sie geheim der Hand des Spielers hinzufügen. Dies sollte geschehen, ohne den anderen Ermittlern die Karte oder ihren Text zu enthüllen. Solange sich eine Verborgen-Karte auf der Hand eines Spielers befindet, wird sie so behandelt, als ob sie sich in seiner Bedrohungszone befände. Ihre anhaltenden Fähigkeiten sind aktiv und Fähigkeiten auf ihr können ausgelöst werden, aber nur von dem Spieler, der sie auf der Hand hat. Eine Verborgen-Karte zählt bei der Bestimmung der Handkarten eines Spielers mit, kann aber nicht von der Hand abgelegt werden, außer auf die auf der Karte beschriebene Art. Sobald Verborgen-Karten abgelegt werden, werden sie auf den Begegnungs-Ablagestapel gelegt. Anders als Schwächen bleiben sie nicht Teil des Decks des Spielers. Für ein optimales Spielerlebnis sollten die Spieler ihre Charaktere „verkörpern“ und keine Informationen über Verborgen-Karten auf ihrer Hand mit anderen Spielern teilen.\n\n### Alarmiert\n\nImmer wenn einem Ermittler eine Fertigkeitsprobe misslingt, während er\nversucht, einem spielbereiten Gegner mit dem Schlüsselwort Alarmiert zu\nentkommen, führt dieser Gegner nach der Anwendung aller Ergebnisse\njener Fertigkeitsprobe einen Angriff gegen den Ermittler durch, der zu\nentkommen versucht. Ein Gegner wird nicht erschöpft, nachdem er einen\nAlarmiert-Angriff durchgeführt hat.\n\n- Dieser Angriff wird auf jeden Fall durchgeführt, egal ob der Gegner mit\ndem Ermittler, der zu entkommen versucht, in einen Kampf verwickelt\nist oder nicht.\n## Erweiterungssymbol\nDie Karten aus *[project:name]* können an diesem Symbol vor\njeder Setnummer erkannt werden:\n:::center\n[project:icon]\n:::\n\n## Wissenschaftserweiterung\n### Für die Wissenschaft!\nRette das Sonnensystem vor einer dunklen Urkraft, die so alt ist wie das Universum selbst, und nutze dabei neue wissenschaftliche Hilfsmittel! Spiele als Kate Winthrop, die Wissenschaftlerin, kaufe neue wissenschaftliche Werkzeuge und Instrumente, die <i>wirklich existieren</i>, und entdecke die wissenschaftlichen Errungenschaften der Menschheit in <b>Dunkle Materie - Wissenschaftserweiterung</b>!\nDiese Version von Dunkle Materie enthält alle Karten der Wissenschaftserweiterung. Jeder Teil der Erweiterung ist optional und kann unabhängig voneinander verwendet werden.\n\n### Kate Winthrop\nDiese Erweiterung enthält eine neue Ermittlerin, die in jeder Kampagne gespielt werden kann: Kate Winthrop, die Wissenschaftlerin! Nutze zusätzliche Aktionen für Erforscht-Karten, um Hinweise zu entdecken oder um deinen Fluxstabilisator anzutreiben, damit du noch mehr Wissenschaft betreiben kannst! Aber hüte dich vor Dimensionsspalten und den Schrecken, die dahinter lauern.\n\n- Kate Winthrops Deckbauoptionen enthalten unter anderem <i>Karten mit dem Wort „ermitteln“ im Kartentext</i>. Dazu zählen alle Formen des Verbs „ermitteln“, also auch „ermittelst“, „ermittelt hast“ usw.\n\n### Erforscht-Storyvorteilskarten\nDas Begegnungsset *[encounter:ac1147f3-f651-4436-b2e1-830ad8fe2d91:name]* enthält mehrere <b><i>Wissenschaft</i></b>-Storyvorteilskarten mit dem Schlüsselwort Erforscht. Dieses Set ist an folgendem Symbol zu erkennen:\n\n:::center\n[encounter:ac1147f3-f651-4436-b2e1-830ad8fe2d91:icon]\n:::\n\nSie funktionieren anders als bisherige Erforscht-Karten:\n\n- Ermittler können diese Karten zwischen zwei Szenarien der Kampagne Dunkle Materie direkt erwerben, indem sie die Erforscht-Kosten bezahlen, die in Klammern hinter dem Erforscht-Schlüsselwort stehen.\n- Diese Karten zählen nicht gegen die Deckgröße der Ermittler.\n- Sobald ein Ermittler eine dieser Karten erworben hat, kann er sie zwischen zwei Szenarien aus seinem Deck entfernen oder sie wieder hinzufügen. Die Erforscht-Kosten müssen dafür nicht nochmal bezahlt werden.\n- Die meisten dieser Karten kosten „Erinnerungen“. Um „Erinnerungen“ zu bezahlen, müssen entsprechend viele Zählstriche aus dem „Erinnerungen“-Bereich des jeweiligen Ermittlers im Kampagnenlogbuch durchgestrichen werden.\n\n### Zusätzliche Scans in Sternenschauer\nDas Begegnungsset *[encounter:33387e63-1376-4315-90ca-b3480de1dce4:name]* enthält neue Karten mit Scan-Deck-Rückseiten, die in <b>Szenario VI: Sternenschauer</b> entdeckt werden können.\n<i>Tipp: Wenn die Ermittler mit diesen Karten spielen, lohnt es sich,\n<bultab><b>Wissenschaft</b>-Karten im Deck zu haben.</i>"
+        },
+        {
+          "id": "f20533d5",
+          "type": "prelude",
+          "name": "Prolog...",
+          "markdown": "## Kampagnenvorbereitung\nUm die Kampagne *[project:name]* vorzubereiten, werden folgende Schritte in der angegeben Reihenfolge durchgeführt.\n\n**1\\. Ermittler wählen.**\n<br>\n**2\\. Ermittlerdecks der Spieler zusammenstellen.**\n<br>\n**3\\. Schwierigkeitsgrad wählen.**\n<br>\n**4\\. Chaosbeutel für die Kampagne zusamenstellen.**\n\n:::indent\n<bullet> **Einfach (<i>Ich möchte zum Mond</i>):**  \n+1, +1, 0, 0, 0, –1, –1, –2, –2, <skull>, <skull>, <cultist>, <cultist>, <auto_fail>, <elder_sign>  \n<bullet> **Normal (<i>Ich möchte zum Mars</i>):**  \n+1, 0, 0, –1, –1, –1, –2, –2, –3, –4, <skull>, <skull>, <cultist>, <cultist>, <auto_fail>, <elder_sign>  \n<bullet> **Schwer (<i>Ich möchte zu fremden Sternen</i>):**  \n0, 0, 0, –1, –1, –2, –2, –3, -3, –4, –5, <skull>, <skull>, <cultist>, <cultist>, <auto_fail>, <elder_sign>  \n<bullet> **Experte (<i>Ich will dahin, wo noch nie jemand zuvor gewesen ist</i>):**  \n0, –1, –2, –2, –3, -3, -4, –4, –5, –6, –8, <skull>, <skull>, <cultist>, <cultist>, <auto_fail>, <elder_sign>\n:::\n\nDie Ermittler können nun mit dem **Prolog** beginnen.\n\n:::image-bottom\n./guide/king in yellow.png\n:::\n\n# Prolog...\n\n:::story\nDu drehst das gefaltete Programmheft in deiner Hand um und liest den Text erneut, gefühlt zum hundertsten Mal. „Das Miskatonic Playhouse präsentiert: *Der König in Gelb“, steht da geschrieben. „Eine ganz besondere Aufführung, die nur für einen Abend im Ward-Theater in Arkham gastiert. Ein unwiderstehliches Drama in zwei Akten. Diese Produktion wird inszeniert von Nigel Engram, der auch Regie führt.“ Als Besetzung ist nur ein sehr kleines Ensemble aufgeführt, an dessen Ende die Rolle „Der Fremde“ aufgeführt ist – allerdings fehlt hier der Name des Schauspielers.\n\nWenn eine so mit Spannung erwartete Aufführung ihren Weg von Paris nach Arkham findet, ist das ein beachtenswertes Ereignis, auch wenn sie nur für einen Abend hier gastiert. \n<div style=\"break-after: column;\"></div>\nIn den Wochen vor der Vorstellung war sie das Stadtgespräch. \nAlles wirkte so harmlos... und doch hast du Beweise dafür, dass hier etwas Böses vor sich geht. Es fing mit dem Verschwinden eines der Bühnenarbeiter am Theater an – ein gerade mal siebzehn Jahre alter Junge, der eines Abends nicht zur Probe erschien und seitdem nie wieder gesehen wurde. Danach, etwa zwei Wochen vor der Aufführung, wurde die Leiche eines Musikers mit einer Pistole im Mund gefunden. Aber am beängstigsten war wohl der verrückte Mann, den die Polizei am Independence Square aufgegriffen hat, wo er gegen „die Rückkehr des Königs“ wetterte. Er wurde ins Sanatorium von Arkham gebracht. Du warst sehr überrascht, als du feststellen musstest, dass er mit seinen Wahnvorstellungen nicht alleine war.\n\nAll diese Ereignisse haben dein Misstrauen geweckt. Du und deine Gefährten habt beschlossen euch die Angelegenheit genauer anzusehen. Obwohl eine Verbindung nicht bewiesen werden kann, gab es doch noch andere merkwürdige Vorkommnisse rund um die bevorstehende Aufführung. In Folge gab es noch weitere Fälle von Selbstmord und Wahnsinn. Du bist fest entschlossen den Grund dafür herauszufinden.\n\nDas Licht im Zuschauerraum wird gedämpft und ein Scheinwerfer taucht die Bühne in helles Licht. Aber was dann passiert, ist nicht ganz das, was du erwartet hast. Langsam und monoton plätschert der erste Akt von *Der König in Gelb* vor sich hin, eine ärgerlich langweilige Angelegenheit. Die Kulisse und die Charaktere sind zwar überzeugend, aber die Handlung driftet in verschiedenste Richtungen und ergibt keinen Sinn – die Vorstellung ist weder unterhaltsam noch informativ. Langsam fragst du dich, ob es zwischen den fürchterlichen Vorkommnissen während der Vorbereitungen zu *Der König in Gelb* vielleicht doch keine Verbindung gibt. Vielleicht ist nur deine Fantasie mit dir durchgegangen. Wie könnte so eine triviale und anspruchslose Vorstellung so fürchterliche Auswirkungen haben? Zu deiner Überraschung endet der erste Akt, ohne dass die Handlung vorangeschritten oder irgendetwas enthüllt worden ist. Die Lichter flammen für die Pause wieder auf und du denkst mit einem unterdrückten Gähnen darüber nach, die Vorstellung vor dem zweiten Akt zu verlassen. Aber bevor du eine Entscheidung treffen kannst, spürst du, wie du langsam... ganz langsam... in den Schlaf gleitest.\n:::\n\n:::right\nFahre mit **Szenario 1: Die Tatterdemalion** fort.\n:::\n\n\n\n\n\n"
+        },
+        {
+          "id": "e2eadb48",
+          "type": "scenario",
+          "name": "Szenario I: Die Tatterdemalion",
+          "markdown": ":::image-block\n./guide/space suit - jeff miller.png\n:::\n\n\n\n# Szenario I: [encounter:c3a780a7-66fc-4b38-b354-373c34c78b65:name]\n\n:::story\nDu erwachst unter Eis begraben. Deine Haut, deine Organe und sogar deine Knochen sind gefroren. Du kannst dich nicht bewegen, und es fällt dir schwer, klare Gedanken zu fassen… Langsam breitet sich ein warmes Kribbeln durch deine Adern aus…\n\nAls deine Augenlider endlich auftauen, siehst du nur eine große eis-bedeckte Glasscheibe vor dir. Was geht hier vor? Wo bist du? Gerade eben warst du noch im Ward-Theater und hast dir eine langweilige Aufführung angesehen, und jetzt bist du plötzlich in einer Kälteschlafkapsel.\n\nKälteschlaf… Du hast dieses Wort noch nie gehört, und doch weißt du instinktiv, was damit gemeint sein muss. Dein Verstand kann sich nicht daran erinnern, doch dein Körper wurde schon viele Male eingefroren und wieder aufgetaut. Der Gedanke daran, dass du mit etwas so Fremdartigem so vertraut bist, verstört dich zutiefst.\n\nAls die Wärme endlich deine Fingerspitzen erreicht hat, schiebt sich die Glasscheibe zur Seite und lässt dich einen dunklen metallischen Raum betreten. Die Kontrolltafel neben deinem Grab verkündet in ihrer Computerstimme: „Willkommen zurück an Bord der Tatterdemalion. Die aktuelle Sternzeit ist der 4. April 2147.“ Du blickst durch das nächste Fenster und siehst nichts als eine schwarze Leinwand mit unzähligen Sternen und einer gigantischen tiefblauen Kugel – dem Planeten Neptun. Die Vorstellung, durch den unermesslichen Weltraum zu treiben, ängstigt dich nicht, denn du hast schon dein ganzes Leben im Weltraum verbracht – nicht dein vergangenes Leben in Arkham, sondern das Leben der Person, in deren Körper du dich jetzt befindest. Du fragst dich, wie seltsam dieser Traum noch werden kann, als plötzlich ein ohrenbetäubender Alarm durch das verlassene Schiff hallt…\n:::\n:::right\nFahre mit der <b>Vorbereitung</b> fort.\n:::\n\n<div style=\"break-after: column;\"></div>\n\n### Vorbereitung\n\n- Es werden alle Karten aus folgenden Begegnungssets herausgesucht: *[encounter:c3a780a7-66fc-4b38-b354-373c34c78b65:name]*, *[encounter:9b4b5918-b5ce-449a-907f-59d21f9527fa:name]* und *[encounter:1652fe8f-adea-440c-b803-041012e776f9:name]*. Diese Sets sind an folgenden Symbolen zu erkennen:\n\n:::center\n[encounter:c3a780a7-66fc-4b38-b354-373c34c78b65:icon]\n[encounter:9b4b5918-b5ce-449a-907f-59d21f9527fa:icon]\n[encounter:1652fe8f-adea-440c-b803-041012e776f9:icon]\n:::\n\n- Das Begegnungsset *[encounter:b69ef0b1-85ab-4a2a-9112-49abc03ea938:name]* wird als nicht im Spiel befindlich beiseite gelegt. Dieses Set ist am folgenden Symbol zu erkennen:\n\n:::center\n[encounter:b69ef0b1-85ab-4a2a-9112-49abc03ea938:icon]\n:::\n\n- Die Storyvorteilskarte Virtueller Zugangsschlüssel wird als nicht im Spiel befindlich beiseitegelegt.\n- Das Scan-Deck wird erstellt. Dazu werden alle Karten, die Symbole am unteren Kartenrand ihrer Rückseite tragen, zusammengemischt.\n- Alle übrigen Orte werden ins Spiel gebracht. Jeder Ermittler beginnt das Spiel im Kälteschlafquartier.\n- Die übrigen Begegnungskarten werden zum Begegnungsdeck zusammengemischt.\n- Das Spiel kann nun beginnen.\n\n## Platzierung der Orte in „[encounter:c3a780a7-66fc-4b38-b354-373c34c78b65:name]“\n\n:::image-block\n./guide/location tatterdemalion.png\n:::\n\n[pagebreak]\n\n\n<img src=\"/run/media/felix/D0D6C116D6C0FE2A/darkMatter/guide/gate - unknown.png\" style=\"width: 100%; position: fixed; bottom: 0; right: 0; colspan: 2;\">\n\n:::resolution\n## Achtung!<br><div style=\"font-size:18px;\">Nicht vor Ende des Szenarios weiterlesen.\n<b>Falls keine Auflösung erreicht wurde (alle Ermittler haben aufgegeben oder wurden besiegt):</b> <i>Erneut schreckst du aus dem Schlaf auf. Dieses Mal wurdest du von den kleinen kalten Händen eines jungen Mädchens geweckt. „Es hat geklappt! Du bist hier! Bitte komm schnell mit.“ Überrascht stellst du fest, dass du auf einer Rasenfläche stehst. Der Himmel ist schwarz und wallend; die Sonnenstrahlen können die dunklen wirbelnden Gewitter-wolken nicht durchdringen… Dies ist eindeutig nicht die Tatterdemalion, aber mehr weißt du nicht über diesen Ort. In der Ferne siehst du hohe Metallzylinder mit pulsierenden roten Lichtern über einer kleinen Stadt aufragen. Hinter dir steht eine große Obsidiantür.\n\nDu fragst das kleine Mädchen, wo du bist. „Du bist in einem simulierten Traum. Genau genommen in <b>meinem</b> Traum. Jetzt komm schnell mit, bevor das Monster meine Freunde frisst.“</i>\n\n- Im Kampagnenlogbuch wird notiert: <i>Du wurdest von Maja in\n<bultab> die virtuellen Traumlande gebracht.</i>\n- Falls ein Ermittler die Karte Cybervirus auf der Hand hatte, als er besiegt wurde, aufgegeben hat oder das Spiel endete, wird im Kampagnenlogbuch notiert: <i>(Name dieses Ermittlers) wurde mit dem Cybervirus infiziert.</i>\n- Falls sich mindestens 1 Kopie der Verratskarte Erinnerung im Siegpunktestapel befindet, wird dem Chaosbeutel für den Rest der Kampagne ein <tablet>-Marker hinzugefügt.\n- Jeder Ermittler verdient Erfahrungspunkte in Höhe des Sieg-X-Wertes aller Karten im Siegpunktestapel.\n:::right\nFahre mit <b>Szenario II: Elektrischer Albtraum</b> fort.\n:::\n\n<div style=\"break-after: column;\"></div>\n\n:::story\n***Auflösung 1:*** Du stehst auf einer Rasenfläche. Dies ist eindeutig nicht die Tatterdemalion, aber mehr weißt du nicht über diesen Ort. Der Himmel ist schwarz und wallend; die Sonnenstrahlen können die dunklen wirbelnden Gewitterwolken nicht durchdringen. In der Ferne siehst du hohe Metallzylinder mit pulsierenden roten Lichtern über einer kleinen Stadt aufragen.\n<vs>\nDie Traumrealität dieses Systems ist anders als alles, was du jemals erlebt hast. Die Farben, Oberflächenstrukturen, Geräusche und Gerüche sind erschreckend realistisch. Hinter dir steht eine große Obsidiantür – der virtuelle Zugangspunkt, durch den du diese Welt betreten hast.\n<vs>\nDu bist überrascht, ein kleines Mädchen zu sehen, das auf dich zugerannt kommt. „Du bist genau rechtzeitig angekommen! Komm bitte schnell mit, bevor das Monster meine Freunde frisst.“\n::: \n- Im Kampagnenlogbuch wird notiert: <i>Du hast deinen eigenen Weg in die virtuellen Traumlande gefunden.</i>\n- Falls ein Ermittler die Karte Cybervirus auf der Hand hatte, als er besiegt wurde, aufgegeben hat oder das Spiel endete, wird im Kampagnenlogbuch notiert: <i>(Name dieses Ermittlers) wurde mit dem Cybervirus infiziert.</i>\n- Falls sich mindestens 1 Kopie der Verratskarte Erinnerung im Siegpunktestapel befindet, wird dem Chaosbeutel für den Rest der Kampagne ein <tablet>-Marker hinzugefügt.\n- Jeder Ermittler verdient Erfahrungspunkte in Höhe des Sieg-X-Wertes aller Karten im Siegpunktestapel.\n:::right\nFahre mit <b>Szenario II: Elektrischer Albtraum</b> fort.\n:::\n\n\n:::\n",
+          "encounter_set_id": "9a89917a-ef9e-45d6-929c-6dc5f6f02010"
+        },
+        {
+          "id": "83a9ca96",
+          "type": "scenario",
+          "name": "Szenario II: Elektrischer Albtraum",
+          "markdown": "# Szenario II: [encounter:df088e2a-68fb-4c6c-b5f1-524d6b9617d0:name]\n:::story\nEs ist nicht ganz einfach, dem Mädchen zu folgen, als es tänzelnd in Richtung Stadt hüpft. „Mein Name ist Maja. Meine Direktive ist, die Informationen in den Archiven des Schiffs zu speichern und zu\nverwalten.“ Sie erklärt eilig, dass sie und einige ihrer Schulfreunde am 16. Januar 2045 von „bösen Leuten“ entführt wurden. Ihre Gehirne wurden chirurgisch entfernt und in einer speziellen experimentellen Maschine konserviert, die später zu 2C-OES187 wurde, dem mächtigen Supercomputer, der die Tatterdemalion steuert.\n\nAls du die Stadt betrittst, wird dir sofort klar, dass hier etwas Schreckliches passiert sein muss. Alles ist durcheinander, als ob gerade noch Randalierer hier gewütet hätten. Du siehst frische Graffitis von seltsamen gelben Symbolen und Hieroglyphen. Überall sind Blutflecken, Patronenhülsen und bleiche Masken. Leichen liegen hier nicht, aber in der Ferne hörst du Schreie, Schüsse und heulende Sirenen. Du kommst an einem auf dem Dach liegenden Polizeiauto vorbei und an einem umgeworfenen schwarzen LKW. Die Metallwände des LKWs sehen aus, als ob große Klauen sie zerfetzt hätten, und die hinteren Türen des Fahrzeugs hängen auf den Boden. Als du an ihm vorbeikommst, hörst du aus seinem Inneren ein Funkgerät knistern und zischen, und dann eine brüllende Stimme: „Hallo, Einheit 12? Einheit 12, können Sie mich hören? Bitte antworten Sie.“ Maja erklärt, dass dieser Ort, 2C-OES187s virtuelle Traumrealität, den Tag simuliert, an dem sie entführt wurden, und an die Welt untergegangen ist. Was ist auf der Erde der Zukunft bloß passiert? Oder ehr: Was ist hier in der Vergangenheit passiert?\n\nIhr kommt schließlich an ein großes Backsteingebäude. Maja bleibt stehen und zeigt darauf. „Hier verstecken sich meine Freunde. Die bösen Leute wollten, dass wir eine gruselige Geschichte für sie übersetzen und einen Film für sie machen. Wir wollten die Geschichte nicht lesen, aber sie haben uns dazu gezwungen. Einige Tage später wurde Anni, die Universalübersetzerin, sie – sie –“ Es fällt Maja schwer, die Worte auszusprechen. Angst und Verzweiflung liegen in ihren Augen. „Du wirst das bestimmt nicht glauben, aber ich schwöre, dass es der Butzemann war! Ich hab gesehen, wie der Butzemann sie gefressen hat! Ich bin weggerannt und habe in den Archiven nach irgendwas oder irgendwem gesucht, der uns helfen kann. Nach langer Zeit habe ich dann endlich jemanden gefunden. Ich habe ihn um Hilfe gerufen, und dann bist du aufgewacht! Jetzt, wo du in unserem System bist, kannst du uns retten!“\n\nDer Weg vor dir führt zu einer Doppeltür, über der die Worte „Öffentliche Schule 187“ stehen. Darunter hat jemand mit gelber Farbe „HASTUR ERHEBT SICH!“ auf die Tür gesprüht. Ein unmenschliches Heulen hallt durch die Flure der Schule, gefolgt von panischen Kinderschreien.\n:::\n- Überprüfe das Kampagnenlogbuch. Jeder Ermittler, der 3 oder weniger „Erinnerungen“ hat, muss <b>Desynchronisation</b> lesen.\n:::right\nFahre mit der <b>Vorbereitung</b> fort.\n:::\n\n<div style=\"break-after: column;\"></div>\n\n:::image-block\n./guide/future -Boris Groh.png\n:::\n\n:::codex\n### <center>Desynchronisation \n*Ein umgeworfener Schulbus verstaubt auf dem Schulhof. In den eingeschlagenen Fensterscheiben kannst du einen kurzen Blick auf dein eigenes Spiegelbild erhaschen. Allerdings erkennst du die Person nicht, die dir da entgegenblickt. Diese Gestalt, ihre Gesichtszüge, das alles kommt dir vertraut vor, und doch weißt du genau, dass das nicht dein Körper ist. Ungläubig starrst du auf die Glasscheibe. Das Gesicht deines Spiegelbilds verformt sich zu einer schlichten bleichen Maske ohne Mund, Nase und Augen. Die virtuelle Realität kann dein restliches Selbstbild nicht mehr erkennen – die geistige Projektion deines digitalen Selbst verfällt zu Nichts.*\n\n- Du musst die Schwäche Desynchronisiert deinem Deck hinzufügen. Sie zählt nicht gegen deine Deckgröße.\n:::\n\n[pagebreak]\n### Vorbereitung\n\n- Es werden alle Karten aus folgenden Begegnungssets herausgesucht: *[encounter:df088e2a-68fb-4c6c-b5f1-524d6b9617d0:name]*, *[encounter:e262f9fc-6ea1-4f35-b745-3c895e76d1b7:name]* und *[encounter:1652fe8f-adea-440c-b803-041012e776f9:name]*. Diese Sets sind an folgenden Symbolen zu erkennen:\n\n:::center\n*[encounter:df088e2a-68fb-4c6c-b5f1-524d6b9617d0:icon] *[encounter:e262f9fc-6ea1-4f35-b745-3c895e76d1b7:icon]\n[encounter:1652fe8f-adea-440c-b803-041012e776f9:icon]\n:::\n\n- Das Begegnungsset *[encounter:3b1b9f85-9e36-4509-b838-955642e5bc0a:name]* wird als nicht im Spiel befindlich beiseite gelegt. Dieses Set ist am folgenden Symbol zu erkennen:\n\n:::center\n[encounter:3b1b9f85-9e36-4509-b838-955642e5bc0a:icon]\n:::\n- Verwende eine zufällig gewählte Version von Szene 1 - „Öffentliche Schule 187“. Die anderen beiden Versionen dieser Szene werden aus dem Spiel entfernt.\n- Der Ort Flimmern in der Wand und alle Kopien des Ortes Undefinierter Raum werden als nicht im Spiel befindlich beiseitegelegt.\n- Der Ort Schulhof wird ins Spiel gebracht. Jeder Ermittler beginnt das Spiel auf dem Schulhof.\n- Die Storyvorteilskarte Maja wird auf dem Schulhof ins Spiel gebracht.\n- Die folgenden Storyvorteilskarten werden als nicht im Spiel befindlich beiseitegelegt: Alma, David, Tilde, William und alle Versionen der Storyvorteilskarte 2C-OES187.\n- Überprüfe das Kampagnenlogbuch. Falls ein Ermittler <i>mit dem Cybervirus infiziert wurde</i>, muss dieser Ermittler die Sammlung nach dem Gegner Cybervirus durchsuchen und das Spiel mit dieser Karte als zusätzlicher Karte auf seiner Standhand beginnen.\n- Die übrigen Begegnungskarten werden zum Begegnungsdeck zusammengemischt.\n- Das Spiel kann nun beginnen.\n\n\n:::image-block\n./guide/g Thomas Barron.png\n:::\n\n\n<div style=\"break-after: column;\"></div>\n\n## Zusätzliche Regeln und Klarstellungen\n\n### Orte in den virtuellen Traumlanden\n\nIn diesem Szenario werden die Orte anhand ihrer Symbole in vorgegebenen Mustern angeordnet. Orte, die sich nebeneinander befinden, gelten als benachbart. Orte sind nur orthogonal benachbart (links, rechts, oben, unten), jedoch nicht diagonal.\n\n### Orte tauschen\n\nIn diesem Szenario könnt ihr angewiesen werden, zwei Orte miteinander zu tauschen. Wenn zwei Orte miteinander getauscht werden, wird jede dieser Ortskarten an die Position der anderen Ortskarte gelegt. Alle Marker, angehängten Karten, Ermittler, Gegner und sonstigen Karten an diesen Orten bleiben bei ihrer Ortskarte (sie „bewegen“ sich also mit der Ortskarte – das Einzige, das sich durch das Tauschen von Orten verändert, sind die Anordnung der Orte und die Verbindungen zwischen ihnen).\n\n<i>Beispiel: Wendy Adams befindet sich auf dem Schulhof und wird angewiesen, ihren Ort mit der Eingangshalle zu tauschen. Der Schulhof ist im Moment unter der Eingangshalle. Nachdem die Orte getauscht wurden, ist Wendy Adams immer noch auf dem Schulhof, aber der Schulhof befindet sich nun über der Eingangshalle.</i>\n\n### Schwarmkarten\n\nEin Gegner mit Schwarmkarten darunter ist Teil einer größeren Gruppe von Gegnern, die gemeinsam vorgehen. Der Gegner, unter dem die Schwarmkarten liegen, wird „Wirtsgegner“ genannt. In diesem Szenario können Szenariokarten zu Schwarmkarten werden. Wenn diese Schwarm-karten besiegt werden, werden sie auf den Begegnungs-Ablagestapel gelegt.\n\n- Jede Schwarmkarte unter dem Wirtsgegner agiert für die meisten Zwecke als eigenständige Instanz jenes Gegners. Jede Schwarmkarte hat die gleichen Werte und den gleichen Text wie die Wirtskarte.\n- Jede Schwarmkarte greift einzeln an, sobald Gegner während der Gegnerphase angreifen. Haben der Wirtsgegner und alle seine Schwarmkarten in diesem Schritt angegriffen, werden sie alle erschöpft.\n- Jede Schwarmkarte kann unabhängig voneinander angegriffen werden und man kann jeder Schwarmkarte unabhängig voneinander Schaden zufügen, aber der Wirtsgegner kann nicht besiegt werden, solange er noch Schwarmkarten unter sich liegen hat. Sobald eine Schwarmkarte besiegt wird, darf überschüssiger Schaden einer anderen Schwarmkarte unter demselben Wirtsgegner oder dem Wirtsgegner selbst zugefügt werden.\n- Der Wirtsgegner und alle seine Schwarmkarten werden als Einheit\n<bultab> bewegt, in Kämpfe verwickelt und erschöpft. <i>(Beispiel: Gelingt es einem Ermittler, einem Wirtsgegner oder einer seiner Schwarmkarten zu entkommen, werden alle Karten dieser Einheit erschöpft und vom Ermittler gelöst.)</i>\n\n[pagebreak]\n\n\n:::resolution\n## Achtung!<br>Nicht vor Ende des Szenarios weiterlesen.\n<b>Falls keine Auflösung erreicht wurde (alle Ermittler haben aufgegeben oder wurden besiegt):</b> Falls sich keine Karte mit dem Namen Reintegriert im Siegpunktestapel befindet, fahre mit <b>Auflösung 1</b> fort. \n:::right\nAnsonsten fahre mit <b>Auflösung 2</b> fort.\n:::\n\n:::story\n***Auflösung 1:*** Donnernder Applaus lässt dich aufschrecken. Die Zuschauer im Theater stehen auf und hören gar nicht mehr zu jubeln auf. Mehrere Gäste in der vorderen Reihe werfen den Schauspielen auf der Bühne Rosen zu, während diese sich mit breitem Grinsen verbeugen. Ein brennender Schmerz kriecht durch deine Schläfen. Wie bist du hierher zurückgekommen? Was ist mit dem Raumschiff? Und der virtuellen Realität? War das alles nur ein Albtraum? Bevor du aufstehen und den Theatersaal verlassen kannst, flackern die Lichter und gehen aus. Ein Scheinwerfer strahlt auf die Bühne und erleuchtet einen einzelnen Schauspieler, der als Clown verkleidet ist. Irgendwas muss mit der Simulation schiefgelaufen sein. Du bist nicht mehr in\n2C-OES187s Albtraum, sondern in deinem eigenen. Ohne Hilfe von außen wird dein Körper wahrscheinlich ewig durchs All treiben, während dein Geist langsam in dieser scheußlichen Kopie der Realität verfault. Der Fremde beginnt zu lachen. Er lacht\nschrecklich, ohrenbetäubend.\n::: \n- Im Kampagnenlogbuch wird notiert: <i>Du bist in einem virtuellen Albtraum gefangen.</i>\n- Jeder Ermittler wird **wahnsinnig**.\n- Die Ermittler verlieren die Kampagne.\n\n**Auflösung 2:** *Du wachst in einem virtuellen Klassenzimmer auf, umgeben von den Kindern, die du gerettet hast. Die Kinder selbst kamen dir erst schmutzig und zerlumpt vor, aber jetzt sind sie sauber und tragen gepflegte Schuluniformen. Sie haben den Wahnsinn der anderen Kinder unter Kontrolle gebracht, indem sie sie in eine weitere Taschenrealität gebracht und vom Hauptserver getrennt haben. Die Überlebenden trauern um ihre verlorenen Freunde, sind aber froh darüber, dass sie sich nicht mehr vor dem Butzemann fürchten müssen, und dass es keine bösen Leute mehr gibt, die sie zu Dingen zwingen, die sie nicht tun wollen. Die virtuelle Traumlandschaft ist nicht mehr die Hölle, die sie vorher war.*\n\n- Im Kampagnenlogbuch wird notiert: <i>2C-OES187s Verstand wurde teilweise wiederhergestellt.</i>\n- Zähle die Karten mit dem Namen Reintegriert im Siegpunktestapel:  \n<bullet> Falls es genau 1 ist: Ein beliebiger Ermittler darf die Storyvorteilskarte 2C-OES187 (25% funktionsfähig) seinem Deck hinzufügen.  \n<bullet> Falls es genau 2 sind: Ein beliebiger Ermittler darf die Storyvorteilskarte 2C-OES187 (50% funktionsfähig) seinem Deck hinzufügen.  \n<bullet> Falls es genau 3 sind: Ein beliebiger Ermittler darf die Storyvorteilskarte 2C-OES187 (75% funktionsfähig) seinem Deck hinzufügen.\n- Jeder Ermittler verdient Erfahrungspunkte in Höhe des Sieg X-Wertes aller Karten im Siegpunktestapel.\n- Falls sich mindestens 1 Kopie der Verratskarte Erinnerung im der Kampagne ein <tablet>-Marker hinzugefügt.\n:::right\nFahre mit <b>Zwischenspiel 1: Missionsbesprechung</b> fort.\n:::\n\n**Auflösung 3:** *Draußen geht die Sonne auf. Es scheint ein schöner Frühlingstag zu werden. Die Räume und Flure der Schule sind sauber und aufgeräumt, und an den Wänden hängen bunte Bilder. Die Kinder kamen dir erst schmutzig und zerlumpt vor, aber jetzt sind sie sauber und tragen gepflegte Schuluniformen. Sie sind überglücklich darüber, dass der Butzemann und alle anderen bösen Leute endlich weg sind. Sie verstehen, dass sie nie wieder nach Hause zurückkönnen und dass ihre Familien schon lange tot sind. Aber das schmälert weder ihre Freude über das Ende des Butzemanns, noch darüber, dass jetzt wieder ein echter Lehrer auf sie aufpasst. Die virtuelle Traumlandschaft ist wieder voller glücklicher und liebevoller Kinder.*\n\n- Im Kampagnenlogbuch wird notiert: <i>2C-OE<gbul> Im Kampagnenlogbuch wird notiert:S187s Verstand wurde vollständig wiederhergestellt.</i>\n- Ein beliebiger Ermittler darf die Storyvorteilskarte 2C-OES187 (100% funktionsfähig) seinem Deck hinzufügen.\n- Jeder Ermittler verdient Erfahrungspunkte in Höhe des Sieg X-Wertes aller Karten im Siegpunktestapel.\n- Falls sich mindestens 1 Kopie der Verratskarte Erinnerung im\nSiegpunktestapel befindet, wird dem Chaosbeutel für den Rest der Kampagne ein <tablet>-Marker hinzugefügt.\n:::right\nFahre mit <b>Zwischenspiel 1: Missionsbesprechung</b> fort.\n:::\n:::\n",
+          "encounter_set_id": "0af7e611-4ded-4a60-a2ee-3c47bfa213ef"
+        },
+        {
+          "id": "cc37fb97",
+          "type": "interlude",
+          "name": "Zwischenspiel I: Missionsbesprechung",
+          "markdown": "# Zwischenspiel I: Missionsbesprechung\n\n<img src=\"/run/media/felix/D0D6C116D6C0FE2A/darkMatter/guide/fragment.png\" style=\"width: 100%; position: fixed; bottom: 0; right: 0; colspan: 2;\">\n\n\nÜberprüfe das Kampagnenlogbuch. Falls <i>du von Maja in die virtuellen Traumlande gebracht wurdest</i>, fahre mit <b>Missionsbesprechung 1</b> fort.\n:::right\nAnsonsten fahre mit <b>Missionsbesprechung 2</b> fort.\n:::\n**Missionsbesprechung 1:** *Die virtuelle Traumlandschaft um dich herum zerfließt in einen Wirbel aus flüchtigem blauem Code und löst sich dann in völlige Dunkelheit auf. Du bist wieder auf der Tatterdemalion. Du spürst ein scharfes Stechen, als ein mechanischer Arm das Cyberkabel aus deinem Hinterkopf zieht. 2C-OES187 entschuldigt sich für diese eindringliche Art, dich die virtuellen Traumlande zu bringen, und ist jetzt bereit, mit dir zusammenzuarbeiten. Der kybernetische Supercomputer möchte dich nach besten Kräften unterstützen, und beginnt damit, dir von den jüngsten Ereignissen auf der Tatterdemalion zu berichten.*\n:::right\nFahre mit <b>Missionsbesprechung 3</b> fort.\n:::\n**Missionsbesprechung 2:** *Die virtuelle Traumlandschaft um dich herum zerfließt in einen Wirbel aus flüchtigem blauem Code und löst sich auf, während du die Verbindung trennst und aus deiner altbekannten Kälteschlafkapsel stolperst. 2C-OES187 ist jetzt bereit, mit dir zusammenzuarbeiten, und möchte dich nach besten Kräften unterstützen.\nDer kybernetische Supercomputer beginnt damit, dich über die jüngsten Ereignisse auf der Tatterdemalion zu informieren.*\n:::right\nFahre mit <b>Missionsbesprechung 3</b> fort.\n:::\n:::story\n**Missionsbesprechung 3:** Die Besatzung der Tatterdemalion bestand aus Anhängern von Hastur, einem der Großen Alten, die auf die Erde hinabgestiegen sind. Die Kultisten sind aufgebrochen, um Hasturs Tochter Tassilda zu befreien, die auf einem Asteroiden eingesperrt sein soll, der „das Bruchstück“ genannt wird. Sie haben das Bruchstück gefunden und mehrere Forschungsteams entsandt, die die Höhlen unter seiner Oberfläche erkundet haben. Bevor dein jetziger Geist in deinen Körper eingepflanzt wurde, warst du einer jener Kultisten, die Tassilda erwecken wollten.\n\n<div style=\"break-after: column;\"></div>\n\nNach einigen Wochen der Forschung hat ein Team eine Steintafel mit außerirdischen Hieroglyphen gefunden und 2C-OES187 damit beauftragt, die Tafel zu übersetzen. Ein anderes Team hat berichtet, dass sie die inneren Kammern gefunden haben, in denen Tassilda wohnt. Nachdem\nsie die Bannsiegel in diesen Kammern zerstört hatten, hat niemand mehr etwas von diesem Team gehört.\n\nDu und die anderen Kultisten haben den Asteroiden eilig verlassen, bevor die Prinzessin von Carcosa erwachen und die Tatterdemalion angreifen konnte. Ihr habt eure verlorenen Mitstreiter nicht betrauert. Sie kannten die Risiken, die es mit sich bringt, Götter des reinen Chaos zu verehren. Das Schiff kehrte ins innere Sonnensystem zurück. Eure Mission war erfolgreich. Endlich hattet ihr Tassilda, die Tochter Hasturs, befreit. Bald könnte sie mit Hilfe ihres Vaters zu einer neuen Großen Alten werden.\n\nNachdem sich die meisten Kultisten für den Rückflug in den Kälteschlaf begeben hatten, untersuchte 2C-OES187 die außerirdischen Runen. Diese Runen erzählten die Geschichte *Carcosas Erbin*. Das Wissen über diese Geschichte ließ ihn wahnsinnig werden und vor Panik alle wachen Besatzungsmitglieder abschlachten. Danach war das Schiff führerlos und trieb ziellos durchs All – bis 2C-OES187 dich mit seinem letzten Hilferuf aus den Archiven in diese Welt brachte.\n\nDu weißt jetzt, was du zu tun hast. Die Erde ist zwar nicht mehr bewohnbar, aber die Menschheit existiert noch. Sie lebt in verschiedenen Kolonien im Sonnensystem, ängstlich und abgeschieden. Wenn das Wesen namens Tassilda, Carcosas Erbin, die Macht ihres Vaters übertragen bekäme, würde sie zweifellos die menschlichen Kolonien mit Carcosas Wahnsinn unterwerfen. Du musst für deine Sünden büßen, indem du dieses Wesen eliminierst, bevor es zu einer Göttin werden kann. Leider\nist die Position des Bruchstücks während 2C-OES187s Wahnsinn verlorengegangen. Aus den Logbüchern kann der Computer allerdings ein paar Hinweise ermitteln. Du musst durch das Sonnensystem reisen und diesen Hinweisen nachgehen, um den Asteroiden zu lokalisieren und Tassildas Aufstieg zu verhindern.\n:::\n- Die Ermittler dürfen sich die simulierte Aufführung des übersetzten Stücks ansehen. Wenn ihr das tun wollt, lest <b>Carcosas Erbin</b>.\n:::right\nFahre mit <b>Suche nach dem Bruchstück</b> fort.\n:::\n[pagebreak]\n:::standalone\n## Carcosas Erbin\n:::center\nLESEN AUF EIGENE GEFAHR\n:::\n:::story\nDie Aufführung beginnt damit, dass die Königsfamilie von Yhtill vor dem König in Gelb, einem Avatar des Hastur, kauert. In den nächsten drei Stunden seht ihr ein entsetzliches kreatives Werk voller Verrat, Intrigen und Grausamkeiten. Die Geschichte entfaltet sich wie folgt:\n:::center\nNachdem er Yhtill unterwarf und zu einem Teil Carcosas machte, nahm sich der König in Gelb die wahnsinnige Prinzessin Camilla zur Gemahlin. Vor ihrem Tod schenkte sie dem Großen Alten drei Kinder, die zu Hasturs Schützlingen wurden. Es waren zwei Jungen mit den Namen Thothut und Tasylock und ein Mädchen mit dem Namen Tassilda. Zu Beginn wirkten sie noch normal, aber dann wurden sie in ihrem Äußeren und ihren Kräften ihrem Vater immer ähnlicher. Ihre Mutter sah diese Verwandlungen als weiteren Teil von Carcosas Verderbnis an. Dies war der Todesstoß für Camillas Verstand und ließ ihr Herz vor Verzweiflung und Trauer aufhören zu schlagen.\n\nEinige Zeit lang lebten die drei königlichen Geschwister zusammen mit ihrem Vater in Carcosa und folgten treu seinen bösen Plänen. Aber wie ihre Mutter, ihr Onkel und ihre Großmutter vor ihnen fingen die Prinzen und die Prinzessin von Carcosa bald an zu flüstern, zu zanken und sich zu verschwören. Sie alle träumten von Macht und vom Thron. Irgendwann versuchten Thothut und Tasylock törichterweise, ihren Vater zu stürzen. Hastur aber wusste die ganze Zeit von ihrem Plan und konnte ihren Fallen leicht entgehen. Er vernichtete seine beiden Söhne auf eine Weise, die zu grausam ist, um sie hier zu beschreiben.\n\nSeine Tochter Tassilda, die vom Plan ihrer Brüder wusste, sie aber nicht unterstützte, verschonte er. Allerdings hatte Tassilda ihren Vater nicht gewarnt, sondern wollte erst abwarten, ob ihre Brüder erfolgreich sein würden, bevor sie selbst Schritte unternahm. Für ihren stillen Verrat wurde Tassilda bestraft. Ihr Vater, dessen Namen man nicht aussprechen soll, sperrte sie in ihren Palast ein, den der Große Alte daraufhin aus Carcosa herausriss und ins Weltall schleuderte. Ihr Vater versprach ihr, dass sie zu gegebener Zeit befreit werde und dann alles bekomme, wonach sie sich sehnt.\n:::\n:::\n- Im Kampagnenlogbuch wird notiert: <i>Du hast die Aufführung von Carcosas Erbin angesehen.</i>\n- Jeder Ermittler erleidet 1 seelisches Trauma.\n- Falls das Deck eines Ermittlers die Schwäche „Carcosas Erbin“ enthält, notieret jener Ermittler 2 Zählstriche bei seinen „Erinnerungen“.\n:::\n\n# Suche nach dem Bruchstück\n\n*Du bist mit deinen Gefährten an Bord der Tatterdemalion. Ihr versucht, die Koordinaten des Asteroiden mit dem Namen „das Bruchstück“ herauszufinden, um zu verhindern, dass sich Hasturs Tochter Tassilda erhebt. Nach der Analyse der Daten auf dem Schiff seid ihr mit\n2C-OES187 zu dem Schluss gekommen, dass es drei vielversprechende Spuren gibt. Allerdings ist die Zeit knapp – ihr solltet als erstes an den Ort fliegen, an dem ihr die größten Erfolgschancen erwartet.*\n\nDie Ermittler müssen einer der folgenden Spuren nachgehen, die sie bisher noch nicht ausgewählt haben. Falls bereits alle Spuren untersucht wurden, fahre stattdessen mit <b>Zwischenspiel 2: Introspektive</b> fort.\n\n:::codex\n**Spur 1:** <i>Bevor sie das Bruchstück erreichte, war der letzte Halt der Tatterdemalion ein Forschungslabor auf einem verirrten Asteroiden namens Elbrus. In diesem speziellen Labor wurden Experimente mit Quantenwerkstoffen durchgeführt. Ihr wisst nicht, was die Kultisten dort erreichen wollten, aber vielleicht können euch die Wissenschaftler dort einen Hinweis darauf liefern.</i>\n:::right\nFahre mit <b>Szenario IIIa: Verlorene Quanten</b> fort. (Seite TBD)\n:::\n:::\n\n:::codex\n**Spur 2:** *Eine gründliche Untersuchung der Archive hat ergeben, dass die Kultisten versucht haben, sich in den Haupt-computer des Erkundungsschiffs Nostalgia II zu hacken. Viele Aufzeichnungen dieses Schiffs sprechen von einer „Quarantäne“ und davon, dass man „niemandem vertrauen“ solle. Wenn du die Besatzung der Nostalgia II kontaktierst, könntest du vielleicht mehr über die Ziele der Kultisten herausfinden.*\n:::right\nFahre mit <b>Szenario IIIb: Im Schatten der Erde</b> fort. (Seite TBD)\n:::\n:::\n\n:::codex\n**Spur 3:** *Die Besatzung der Tatterdemalion ist in den letzten Jahren häufiger auf einem bestimmten Mond des Saturn gelandet. Im Logbuch sind diese Missionen nur als „Geschäfte“ vermerkt.\n2C-OES187 weist dich darauf hin, dass so weit außen im Sonnen-system keine menschlichen Außenposten bekannt sind, was diese Missionen besonders seltsam macht. Du könntest diese Koordinaten ansteuern, um herauszufinden, was es mit den „Geschäften“ auf sich hat.*\n:::right\nFahre mit <b>Szenario IIIc: Fremdartige Monde</b> fort. (Seite TBD)\n\n\n\n"
+        },
+        {
+          "id": "6c88df3c",
+          "type": "scenario",
+          "name": "Szenario IIIa: Verlorene Quanten",
+          "markdown": "# Szenario IIIa: [encounter:d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3:name]\n\n:::story\n„Als die Welt endete, schlossen die verschiedenen Forschungs- und Bergbaugemeinschaften, die im Asteroidengürtel zwischen den Planeten Mars und Jupiter leben, einen Vertrag – ein Versprechen, gemeinsam das Fortbestehen der Menschheit zu sichern. […] Der Vereinte Kolonienbund besteht aus 20 Kolonien, die sich deutlich in ihrer Größe, der Bevölkerungsanzahl und ihren Aufgaben unterscheiden. Einige von ihnen dienen alleine dem Bergbau, während sich andere auf die wissenschaftliche Forschung oder industrielle Produktion spezialisiert haben. In diesen Kolonien leben meistens weniger als 200 Personen. Andere Asteroiden dienen als Bevölkerungszentren mit riesigen hydroponischen Farmen, Universitäten und Erholungsgebieten. Solche Asteroiden können über 1000 Kolonisten beheimaten…“\n:::right\n-Maja, Informationsarchiv\n:::\nAls du bei Elbrus ankommst, wirst du ganz vom magentafarbenen Glühen des Asteroiden verschlungen. Quantenwerkstoffe wurden erst vor kurzem entdeckt, aber dank ihrer speziellen Eigenschaften werden sich mit ihnen wahrscheinlich Geräte entwickeln lassen, die mit klassischen Werkstoffen unmöglich wären. Leider stören die Quantenfelder, die von diesen Werkstoffen erzeugt werden, die traditionelle Radiokommunikation, weshalb du die Wissenschaftler auf Elbrus nicht anfunken kannst. Kurzerhand steigst du mit deinen Gefährten in eines der Shuttles und fliegst zum Asteroiden…\n\nDie purpurne Aura breitet sich wie Milch über die Fenster aus und füllt den Raum mit einer elektrischen Spannung. Euer finaler Anflugvektor führt euch über einen der größeren Krater des Asteroiden. Der Computer berechnet die Flugbahn und beginnt den Landeanflug auf die felsige Oberfläche. Genau da hört ihr aus dem Rauschen eures Funkgeräts die erschrockene Stimme eines Mannes: „Brechen Sie die Landung sofort ab! Landung abbrechen! Sonst -“ Aber es ist zu spät. Die Warnlichter gehen an und aus, während das Shuttle umherwirbelt und außer Kontrolle gerät. Du hältst dich fest wo du nur kannst, aber das Shuttle dreht sich schneller und schneller, bis deine Arme wild um sich schlagen und alles schwarz wird…\n:::\n\n### Vorbereitung\n\n- Es werden alle Karten aus folgenden Begegnungssets herausgesucht: *[encounter:d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3:name]* und *[encounter:9ffe2e63-acc1-48c9-ad12-6fe41489a87c:name]*. Diese Sets sind an folgenden Symbolen zu erkennen:\n\n:::center\n[encounter:d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3:icon]\n[encounter:9ffe2e63-acc1-48c9-ad12-6fe41489a87c:icon]\n:::\n\n- Beide Versionen der Storyvorteilskarte Erwin Simmons werden als nicht im Spiel befindlich beiseitegelegt.\n- Die Gegnerkarte Der Verschlinger aus der Ferne wird als nicht im Spiel befindlich beiseitegelegt.\n- Der Ort Shuttle wird ins Spiel gebracht. (Dieser Ort besitzt eine Scan-Deck-Rückseite.) Jeder Ermittler beginnt das Spiel am Shuttle.\n- Das Scan-Deck wird erstellt. Dazu werden alle übrigen Karten, die Symbole am unteren Kartenrand ihrer Rückseite tragen, zusammengemischt.\n- Mische die drei Versionen von Agenda 1 - „Der Quantenstrudel“, um das Agendadeck zu bilden.\n- Die übrigen Begegnungskarten werden zum Begegnungsdeck zusammengemischt.\n- Das Spiel kann nun beginnen.\n\n## Zusätzliche Regeln und Klarstellungen\n\n### Verdeckte Begegnungskarten\n\nIn diesem Szenario kannst dazu angewiesen werden, Begegnungskarten verdeckt in deine Bedrohungszone zu legen. Solange eine Begegnungskarte verdeckt in deiner Bedrohungszone liegt, zählt sie als nicht im Spiel befindlich und ist nur von Regeln und Kartentexten betroffen, die sich explizit auf verdeckte Begegnungskarten in Bedrohungszonen beziehen.\n\nWenn du eine Karte vom Begegnungsdeck ziehen müsstest, während sowohl das Begegnungsdeck, als auch der Begegnungsablagestapel leer sind, musst du stattdessen eine verdeckte Begegnungskarte aus deiner Bedrohungszone ziehen. Falls du das nicht kannst (weil keine verdeckten Begegnungskarten in deiner Bedrohungszone liegen), bist du besiegt.\n\n### Hinweise auf Orten in der Quantenwelt\n\nIn diesem Szenario können Orte das Spiel verlassen und später erneut ins Spiel kommen. Wenn ein Ort das Spiel verlässt, werden alle an diesen Ort angehängten Karten und alle Hinweise darauf abgelegt. Wenn ein Ort ins Spiel kommt, wird er immer so behandelt, als ob er gerade zum ersten Mal enthüllt worden wäre (egal, ob er vorher schon im Spiel war oder nicht). Wenn ein Ort ins Spiel kommt, werden also immer Hinweise in Höhe seines Hinweiswerts aus dem Markervorrat auf diesen Ort gelegt.\n[pagebreak]\n:::resolution\n## Achtung!<br>Nicht vor Ende des Szenarios weiterlesen.\n<b>Falls keine Auflösung erreicht wurde (alle Ermittler haben aufgegeben oder wurden besiegt) und ein Ermittler mit Erwin Simmons unter seiner Kontrolle aufgegeben hat:</b>\n:::right\nFahre mit <b>Auflösung 3</b> fort.\n:::\n<b>Falls keine Auflösung erreicht wurde (alle Ermittler haben aufgegeben oder wurden besiegt) und kein Ermittler mit Erwin Simmons unter seiner Kontrolle aufgegeben hat:</b>\n:::right\nFahre mit <b>Auflösung 1</b> fort.\n:::\n\n<b>Auflösung 1:</b> <i>Als du endlich wieder zu Sinnen kommst, bist du mit deinen Gefährten wieder an Bord der Tatterdemalion, und Elbrus scheint verschwunden zu sein – vielleicht in Raum und Zeit des Quantenreichs verloren. Du kannst dich nicht an viel erinnern. Obwohl alle Hinweise dagegensprechen, findest du Beweise dafür, dass deine Strapazen echt waren. Im Frachtraum liegen Splitter von Quantenkristallen, die du vermutlich von Elbrus mitgebracht hast. Du weißt immer noch nicht, warum die Kultisten hier waren, und machst dich auf den Weg zu deinem nächsten Ziel, wo du hoffentlich endlich Antworten und nicht noch mehr Fragen finden wirst.</i>\n\n- Im Kampagnenlogbuch wird notiert: <i>Die Elbrus-Station ist im Quantenreich verloren.</i>\n- Im Kampagnenlogbuch wird notiert: <i>Die Ermittler haben das Urchaos gesehen.</i>\n-  Jeder Ermittler verdient Erfahrungspunkte in Höhe des Sieg X-Wertes aller Karten im Siegpunktestapel.\n- Notiere im Kampagnenlogbuch 4 Zählstriche unter „Drohendes Unheil“.\n:::right\nKehre zu <b>Suche nach dem Bruchstück</b> zurück. (Seite TBD)\n:::\n\n<b>Auflösung 2:</b> <i>Der Physiker ist mehr als dankbar für deine Hilfe. „All diese wichtigen Forschungsergebnisse – Gott sei Dank seid ihr rechtzeitig gekommen. Wenn ihr jemals etwas auf den Kolonien braucht, werde ich ein gutes Wort für euch einlegen.“ Mit einem Nicken und einem etwas peinlichen Händedruck verlasst ihr die Einrichtung und kehrt auf die Tatterdemalion zurück. Die Kultisten haben Quantenkristalle von Elbrus gestohlen, aber du weißt noch nicht, warum.\n\nDu blickst auf das schwache Glühen der Kristallsplitter, die Erwin dir geschenkt hat, und staunst über die seltsame Situation, in der du dich befindest. Du solltest aber nicht zu viel Zeit damit verschwenden, über dich selbst nachzudenken – 2C-OES187 erwartet die nächsten Zielkoordinaten.</i>\n\n- Im Kampagnenlogbuch wird notiert: <i>Die Elbrus-Station wurde stabilisiert.</i>\n- Dem Chaosbeutel wird für den Rest der Kampagne ein <elder_thing>-Marker hinzugefügt, weil du den König in Gelb auf dich\n<bultab> aufmerksam gemacht hast.\n-  Jeder Ermittler verdient Erfahrungspunkte in Höhe des Sieg X-Wertes aller Karten im Siegpunktestapel.\n- Notiere im Kampagnenlogbuch 1 Zählstrich unter „Drohendes Unheil“.\n:::right\nKehre zu <b>Suche nach dem Bruchstück</b> zurück. (Seite TBD)\n:::\n\n<b>Auflösung 3:</b> <i>Wenige Momente nachdem ihr auf die Tatterdemalion zurückgekehrt seid, implodiert Elbrus in einer Kakophonie aus flüchtigem Nebel und verschwindet aus der Existenz. Der Physiker atmet erleichtert auf. „Gott sei Dank seid ihr rechtzeitig gekommen. Es ist zwar schade um die ganzen Forschungsergebnisse, aber wenigstens sind wir alle in Sicherheit. Jetzt erklärt mir bitte, warum wir in dem Schiff stehen, das vor Kurzem unsere Einrichtung überfallen hat.“ Du erklärst Erwin deine Mission und diskutierst mit ihm darüber, warum die Kultisten Quantenkristalle gestohlen haben könnten. Der Physiker schlägt mehrere Ideen für Quantenwaffen oder -werkzeuge vor, aber irgendwie ergibt das alles keinen Sinn. Dennoch will er dich auf deiner Mission begleiten – ob aus Dankbarkeit oder aus Neugier weißt du nicht. Du weißt immer noch nicht, warum die Kultisten hier waren, und machst dich auf den Weg zu deinem nächsten Ziel, wo du hoffentlich endlich Antworten und nicht noch mehr Fragen finden wirst.</i>\n\n- Im Kampagnenlogbuch wird notiert: <i>Die Elbrus-Station ist im Quantenreich verloren.</i>\n- Ein beliebiger Ermittler darf die Karte Erwin Simmons (Quantenphysiker) seinem Deck hinzufügen. Diese Karte zählt nicht gegen die Deckgröße des Ermittlers.\n-  Jeder Ermittler verdient Erfahrungspunkte in Höhe des Sieg X-Wertes aller Karten im Siegpunktestapel.\n- Notiere im Kampagnenlogbuch 2 Zählstriche unter „Drohendes Unheil“.\n:::right\nKehre zu <b>Suche nach dem Bruchstück</b> zurück. (Seite TBD)\n:::\n\n:::\n",
+          "encounter_set_id": "2dcdaef3-3ea1-4296-a0f7-456134e5df0d"
+        },
+        {
+          "id": "85c8d9bb",
+          "type": "scenario",
+          "name": "Szenario IIIb: Im Schatten der Erde",
+          "markdown": "# Szenario IIIb: [encounter:e3a99c11-8a04-4f72-883f-3f2cce4656bc:name]\n\n:::story\n„In der Mitte des 21. Jahrhunderts herrschte auf der Erde völliges Chaos. Aufstände, Verbrechenswellen, Wahnsinn und Schlimmeres standen auf der ganzen Welt an der Tagesordnung. […] Mit letzter Kraft haben sie zwei der Archen fertiggestellt und die dritte zerlegt, um ihre Bauteile zu verwenden. Die beiden fertigen Schiffe wurden mit jeweils 3000 eingefrorenen Menschen zum Mars geschickt. Auf einem der Schiffe, der Liberty, ereignete sich ein schwerer Reaktorunfall, den die Crew und die Passagiere nicht überlebten. Das andere Schiff, die Hope, schaffte es aber, den Mars zu erreichen…“\n:::right\n-Maja, Informationsarchiv\n:::\nDer Planet Erde, einst die Heimat der Menschheit, ist ganz dem Wahnsinn der Großen Alten verfallen. Es gibt nur wenige Informationen darüber, was dort noch übriggeblieben ist, aber für den Fall, dass \njemand eine Nachricht senden sollte, wurden Erkundungsschiffe wie die\nNostalgia II im Orbit stationiert, damit sie diese Rufe beantworten können.\n\nDeine Reise zur Erde war ereignislos. Du hast deine Tage hauptsächlich damit verbracht, aus dem Fenster zu blicken und zuzusehen, wie der blaue Punkt der Erde immer größer und größer wurde. Als du endlich die ersten Kontinente erkennen kannst, fängt die Tatterdemalion aus der Ferne einen einsamen Rhythmus auf – das Notsignal der Nostalgia II. Du versuchst, die Crew anzufunken, bekommst aber keine Antwort. Die Tatterdemalion beginnt abzubremsen, und ohne Zeit zu verlieren machst du dich auf, das gottverlassene Schiff zu betreten.</i>\n:::\n\n<div style=\"break-after: column;\"></div>\n\n\n### Vorbereitung\n\n- Es werden alle Karten aus folgenden Begegnungssets herausgesucht: *[encounter:e3a99c11-8a04-4f72-883f-3f2cce4656bc:name]* und *[encounter:9ffe2e63-acc1-48c9-ad12-6fe41489a87c:name]*. Diese Sets sind an folgenden Symbolen zu erkennen:\n\n:::center\n[encounter:e3a99c11-8a04-4f72-883f-3f2cce4656bc:icon]\n[encounter:9ffe2e63-acc1-48c9-ad12-6fe41489a87c:icon]\n:::\n\n- Die Gegnerkarten Das Wesen und Der Verschlinger aus der Ferne sowie die Storyvorteilskarte Weltraum-Artillerie werden als nicht im Spiel befindlich beiseitegelegt.\n- Das Scan-Deck wird erstellt. Dazu werden alle übrigen Karten, die Symbole am unteren Kartenrand ihrer Rückseite tragen, zusammengemischt.\n- Alle übrigen Orte werden ins Spiel gebracht. Jeder Ermittler beginnt das Spiel an der Luftschleuse.\n- Die 6 einseitig bedruckten Handlungskarten werden gemischt und verdeckt neben das Szenendeck gelegt. Dies ist das „Beweise“-Deck.\n- Lege die oberste Karte des „Beweise“-Decks verdeckt unter die Szenario-Übersichtskarte, ohne sie anzusehen. Wiederhole diesen Vorgang für jeweils 3 Zählstriche, die im Kampagnenlogbuch unter „Drohendes Unheil“ stehen. <i>(Beispiel: Wenn im Kampagnenlogbuch 5 Zählstriche unter „Drohendes Unheil“ stehen, werden insgesamt 2 Karten unter die Szenario-Übersichtskarte gelegt.)</i>\n- Die übrigen Begegnungskarten werden zum Begegnungsdeck zusammengemischt.\n- Das Spiel kann nun beginnen.\n\n[pagebreak]\n\n## Zusätzliche Regeln und Klarstellungen\n\n### Aus dem Spiel entfernte Karten\n\nIn diesem Szenario kann es von Bedeutung sein, welche Karten aus dem Spiel entfernt wurden. Lege aus dem Spiel entfernte Karten deshalb so zur Seite, dass du sie immer noch leicht einsehen kannst.\n\n### Bewegungsscans\n\nIn diesem Szenario funktionieren <b>Scannen</b>-Fähigkeiten etwas anders. <b>Du kannst nur dann Scannen, wenn die oberste Karte des Scan-Decks das Symbol deines Ortes besitzt.</b> Anstatt das Scan-Deck nach der obersten Karte mit einem bestimmten Symbol zu durchsuchen, ziehst du einfach die oberste Karte des Scan-Decks. Du musst dich also auf dem Schiff umherbewegen und den Symbolen folgen, die oben auf dem Scan-Deck gezeigt werden.\n\n## Platzierung der Orte in „[encounter:e3a99c11-8a04-4f72-883f-3f2cce4656bc:name]“\n\n[encounter:e3a99c11-8a04-4f72-883f-3f2cce4656bc:location_overview]\n\n<div style=\"break-after: column;\"></div>\n\n:::resolution\n## Achtung!<br>Nicht vor Ende des Szenarios weiterlesen.\nFalls keine Auflösung erreicht wurde (alle Ermittler haben aufgegeben oder wurden besiegt):</b> Falls Szene 3 aktiv ist, fahre mit <b>Auflösung 3</b> fort. \n:::right\nAnsonsten fahre mit <b>Auflösung 1</b> fort.\n:::\n\n<b>Auflösung 1:</b> <i>Du schaffst es gerade so, lebendig aus diesem Irrenhaus zu entkommen. Mitansehen zu müssen, was aus dem Rest der Crew geworden ist, ist zu schrecklich für dich.</i>\n\n- Falls sich keine <b><i>Crew</i></b>-Storyvorteilskarte im Siegpunktestapel befindet, fahre mit <b>Auflösung 5</b> fort.\n- Falls sich mindestens eine <b><i>Crew</i></b>-Storyvorteilskarte im Siegpunktestapel befindet, sieh dir die Titel der Handlungskarten unter der Szenario-Übersichtskarte an (lies aber nicht den restlichen Text auf diesen Karten). Enthülle für jede dieser Karten einen zufälligen Marker aus dem Chaosbeutel. Jeder enthüllte Marker, der <b>kein</b> <elder_sign>-, <blessing>-, +1- oder 0-Marker ist, bedeutet, dass die <b><i>Crew</i></b>-Storyvorteilskarte, die zu dieser Handlungskarte gehört, eine Nachbildung des Wesens ist!  \n<bullet> Falls mindestens eine Karte im Siegpunktestapel eine Nachbildung ist, fahre mit <b>Auflösung 2</b> fort.  \n<bullet> Falls keine Karte im Siegpunktestapel eine Nachbildung ist, fahre mit <b>Auflösung 3</b> fort.\n\n<b>Auflösung 2:</b> <i>Ein schrecklicher Schrei hallt durch die Gänge der Tatterdemalion. Eines der Crewmitglieder, die du an Bord gebracht hast, war eine Nachbildung! Es offenbart sich und verschlingt alle anderen Crewmitglieder, die du hättest retten können. Du schaffst es irgendwann, es zu besiegen und durch eine Luftschleuse zu schießen. Allerdings hat es schwere Schäden angerichtet und deine Mission um viele Monate verzögert.</i>\n:::right\nFahre mit <b>Auflösung 5</b> fort.\n:::\n\n<b>Auflösung 3:</b> <i>Du hast es geschafft, einen Teil der Crew zu retten. Sie trauern mehrere Tage lang um ihre verlorenen Kameraden. Zum Glück war keines der Crewmitglieder, die du an Bord gebracht hast, eine Nachbildung. Nach einiger Zeit erzählen sie, dass dieser ganze Wahnsinn begann, nachdem sie eine Nachricht von der Erde entschlüsselt hatten. Sie enthielt ein geheimnisvolles Gedicht:\n:::center\n„Lass‘ die rote Dämmerung erraten,\nwas wir hier tun,\nwenn dies‘ blaue Sternenlicht stirbt,\nund alle ruh’n.“\n:::\n\nDu glaubst, dass dieses Gedicht das ist, wonach die Kultisten gesucht haben – aber für dich ist es bedeutungslos, und es hilft dir nicht, die Koordinaten des Bruchstücks zu finden.\n\nDu bringst die verbliebene Crew auf eine Wartungsstation im Marsorbit. Die Überlebenden danken dir erneut dafür, dass du sie gerettet hast, und wünschen die alles Gute. Trotz alledem musst du dies jetzt hinter dir lassen und nach vorne blicken, um einer anderen Spur zu folgen.</i>\n\n- Im Kampagnenlogbuch wird notiert: <i>Die verbliebene Crew der Nostalgia II ist in Sicherheit.</i>\n- Notiere im Kampagnenlogbuch 1 Zählstrich unter „Drohendes Unheil“. Notiere dort danach 1 weiteren Zählstrich für jeweils 2 ***Crew***-Storyvorteilskarten, die aus dem Spiel entfernt wurden, an das Wesen angehängt sind oder sich noch im Scan-Deck befinden.\n-  Jeder Ermittler verdient Erfahrungspunkte in Höhe des Sieg X-Wertes aller Karten im Siegpunktestapel.\n:::right\nKehre zu <b>Suche nach dem Bruchstück</b> zurück. (Seite TBD)\n:::\n\n<b>Auflösung 4:</b> <i>Die verbliebenen Crewmitglieder der Nostalgia II danken dir dafür, dass du ihnen geholfen hast, diese Abscheulichkeit zu besiegen. Sie erzählen dir, dass dieser ganze Wahnsinn begann, nachdem sie eine Nachricht von der Erde entschlüsselt hatten. Sie enthielt ein geheimnisvolles Gedicht:\n:::center\n„Lass‘ die rote Dämmerung erraten,\nwas wir hier tun,\nwenn dies‘ blaue Sternenlicht stirbt,\nund alle ruh’n.“\n:::\nDu glaubst, dass dieses Gedicht das ist, wonach die Kultisten gesucht haben – aber für dich ist es bedeutungslos, und es hilft dir nicht, die Koordinaten des Bruchstücks zu finden. Du musst dies hinter dir lassen und nach vorne blicken, um einer anderen Spur zu folgen.</i>\n\n- Im Kampagnenlogbuch wird notiert: <i>Die Nostalgia II wurde gerettet.</i>\n- Ein beliebiger Ermittler darf die Karte Weltraum-Artillerie seinem Deck hinzufügen. Diese Karte zählt nicht gegen die Deckgröße des Ermittlers.\n- Dem Chaosbeutel wird für den Rest der Kampagne ein <elder_thing>-Marker hinzugefügt, weil du den König in Gelb auf dich aufmerksam gemacht hast.\n- Notiere im Kampagnenlogbuch 1 Zählstrich unter „Drohendes Unheil“. Notiere dort 1 weiteren Zählstrich für jeweils 2 ***Crew***-Storyvorteilskarten, die an das Wesen angehängt waren.\n- Jeder Ermittler verdient Erfahrungspunkte in Höhe des Sieg X-Wertes aller Karten im Siegpunktestapel und aller ***Crew***-Storyvorteilskarten, die am Ende des Spiels von einem Ermittler kontrolliert wurden.\n:::right\nKehre zu <b>Suche nach dem Bruchstück</b> zurück. (Seite TBD)\n:::\n<b>Auflösung 5:</b> <i>Du konntest niemanden retten. Der einzige Lichtblick ist, dass sich 2C-OES187 in den Hauptcomputer der Nostalgia II hacken konnte und herausgefunden hat, wonach die Kultisten suchten: eine verschlüsselte Nachricht von der Erde. Du versuchst einige Zeit lang, sie zu entziffern, aber es hat keinen Zweck. Du musst diese Nachricht und die traumatischen Erlebnisse, die du damit verbindest, hinter dir lassen und nach vorne blicken, um einer anderen Spur zu folgen.</i>\n\n- Im Kampagnenlogbuch wird notiert: <i>Du konntest die Besatzung der Nostalgia II nicht retten.</i>\n- Für jeden Ermittler wird im Kampagnenlogbuch notiert: <i>(Name dieses Ermittlers) wurde von der Erde korrumpiert.</i>\n- Notiere im Kampagnenlogbuch 4 Zählstriche unter „Drohendes Unheil“.\n- Jeder Ermittler verdient Erfahrungspunkte in Höhe des Sieg X-Wertes aller Karten im Siegpunktestapel. Jeder Ermittler verdient 2 zusätzliche Erfahrungspunkte, weil er das Undenkbare gesehen hat.\n:::right\nKehre zu <b>Suche nach dem Bruchstück</b> zurück. (Seite TBD)\n:::\n\n:::",
+          "encounter_set_id": "e9e196a6-d621-4204-98ae-896e91f2ad9a"
+        },
+        {
+          "id": "5f11a29c",
+          "type": "scenario",
+          "name": "Szenario IIIc: Fremdartige Monde",
+          "markdown": "# Szenario IIIc: [encounter:c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5:name]\n\n:::story\n„Der erste Kontakt zwischen Menschen und Außerirdischen fand im frühen 21. Jahrhundert statt, als eine Mondexpedition ein riesiges unterirdisches Netzwerk aus außerirdischen Strukturen unter einem Regolithsee gefunden hat. Die Grauen Wesen, wie sie von den Menschen genannt wurden, waren eine Verkleidung einer anderen neugierigen Spezies, die in unser Sonnensystem kam, um unsere junge Zivilisation zu beobachten und zu erforschen. Der wahre Zweck ihrer Aktivitäten auf dem Mond blieb viele Jahre lang unklar…“\n:::right\n-Maja, Informationsarchiv\n:::\nDu blickst aus den Fenstern und siehst während des ganzen Landevorgangs fast nichts anderes als dichte orange Wolken. Erst, als das Shuttle in die Troposphäre eindringt, werden die Wolken so dünn, dass du die Oberfläche darunter sehen kannst: kilometerweite windumtoste Dünen aus Methanschnee, durchbrochen von messerartigen Spitzen aus vereisten Felsen und offenen Kratern, die Ströme aus flüssigem Wasser, Ammoniak und Methan ausspeien, welche zu fantastischen Formen gefrieren, während sie die Hänge hinabfließen. Selbst in deinen Träumen hast du nie etwas so fremdartig Schönes wie die Landschaft auf Titan gesehen.\n\nDas Shuttle landet sanft auf einer flachen Eisplatte. Nachdem 2C-OES187 bestätigt hat, dass dies die Koordinaten sind, an denen die geheimnisvollen „Geschäfte“ der Kultisten stattfanden, ziehst du deinen Raumanzug an, öffnest die Luke und betrittst das unwirtliche Gelände. Du wirst von einem großen Tunnel begrüßt, der gemütlich zwischen den orangen Klippen liegt. Aus ihm pulsiert ein grünes Licht, das eine seltsame Gestalt beleuchtet, die den Eingang bewacht…</i>\n:::\n\n<div style=\"break-after: column;\"></div>\n\n### Vorbereitung\n\n- Es werden alle Karten aus folgenden Begegnungssets herausgesucht: *[encounter:c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5:name]* und *[encounter:9ffe2e63-acc1-48c9-ad12-6fe41489a87c:name]*. Diese Sets sind an folgenden Symbolen zu erkennen:\n\n:::center\n[encounter:c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5:icon]\n[encounter:9ffe2e63-acc1-48c9-ad12-6fe41489a87c:icon]\n:::\n\n- Das Begegnungsset *[encounter:a4e3403a-0968-45d2-8753-d22f3ee8c0ec:name]* wird als nicht im Spiel befindlich beiseite gelegt. Dieses Set ist am folgenden Symbol zu erkennen:\n\n:::center\n[encounter:a4e3403a-0968-45d2-8753-d22f3ee8c0ec:icon]\n:::\n\n- Alle <b><i>Gehirn</i></b>-Storyvorteilskarten werden als nicht im Spiel befindlich beiseitegelegt.\n-  Die Gegnerkarte Der Verschlinger aus der Ferne wird als nicht im Spiel befindlich beiseitegelegt.\n- Das Scan-Deck wird erstellt. Dazu werden alle übrigen Karten, die Symbole am unteren Kartenrand ihrer Rückseite tragen, zusammengemischt.\n- Alle übrigen Orte werden ins Spiel gebracht. Jeder Ermittler beginnt das Spiel am Eingangstunnel.\n- Der Gegner Graues Wesen erscheint am Eingangstunnel.\n- Die übrigen Begegnungskarten werden zum Begegnungsdeck zusammengemischt.\n- Das Spiel kann nun beginnen.\n\n[pagebreak]\n## Zusätzliche Regeln und Klarstellungen\n\n### Versiegeln\n\nManche Karten können einen Spieler anweisen, einen Chaosmarker aus\ndem Chaosbeutel auf einer Karte zu versiegeln.\nSobald eine Kartenfähigkeit einen Spieler anweist, einen Marker zu versiegeln, muss der Spieler den Chaosbeutel nach einem bestimmten Chaosmarker durchsuchen, ihn auf der Karte platzieren und damit versiegeln.\n\n- Sobald ein Chaosmarker „freigesetzt“ wird, wird er zurück in den\nChaosbeutel geschickt und gilt nicht länger als versiegelt.\n- Falls eine Karte mit einem oder mehreren versiegelten Chaosmarkern\ndarauf aus irgendeinem Grund das Spiel verlässt, werden alle darauf\nversiegelten Chaosmarker sofort freigesetzt.\n\n### Patrouille\n\nZu Beginn der Gegnerphase bewegt sich jeder spielbereite, nicht in einen\nKampf verwickelte Gegner mit dem Schlüsselwort Patrouille auf kürzestem Weg in Richtung seines Ziels (angegeben in Klammern hinter dem\nSchlüsselwort) zu einem verbundenen Ort.\n\n### Gehirnscans\n\nDie <b>Scannen</b>-Fähigkeiten in diesem Szenario weisen dich an, das Scan-Deck nach einer Karte zu durchsuchen, die <i>zwei</i> bestimmte Symbole besitzt. Karten, die nur eines der beiden Symbole besitzen, sind ungültig und können mit diesem Scan nicht gefunden werden. Die Reihenfolge, in der die beiden Symbole auf der Karte stehen, ist egal.\n\n### Kombinierte Fertigkeitsproben\n\nManche Fertigkeitsproben in diesem Szenario fordern vom Ermittler Proben auf mehrere Fertigkeiten gleichzeitig. Um eine solche Probe durchzuführen, addiere einfach diese beiden Fertigkeitswerte, enthülle einen Chaosmarker und vergleiche deinen modifizierten Fertigkeitswert mit dem Schwierigkeitswert der Probe. Solch eine Probe zählt als Probe beider Fertigkeiten: Karten mit einem der beiden Fertigkeitssymbole dürfen zur Probe beigetragen werden, und beide Symbole werden als passende Fertigkeitssymbole betrachtet. (Jedes Fertigkeitssymbol auf beigetragenen Karten zählt dabei immer nur einmal, auch wenn dieselbe Fertigkeit in der Probe mehrfach vorkommt.)\n\n<div style=\"break-after: column;\"></div>\n\n## Platzierung der Orte in „[encounter:e3a99c11-8a04-4f72-883f-3f2cce4656bc:name]“\n\n[encounter:e3a99c11-8a04-4f72-883f-3f2cce4656bc:location_overview]\n\n### Ersetzen von Orten\n\nIm Verlauf dieses Szenarios könnten die Ermittler die Anweisung erhalten, neue Orte auf bereits existierende zu legen. Sobald ein Ort auf einen Ort gelegt wird, der sich bereits im Spiel befindet, nimmt er dessen Platz ein. Alle Marker, Verstärkungen, Ermittler, Gegner und sonstige Karten, die sich am früheren Ort befunden haben, befinden sich nun am neuen Ort (sie haben sich nicht „bewegt“ – der Ort hat sich einfach geändert). Falls ein Ort das Spiel verlässt und sich ein anderer Ort darunter befindet, nimmt er dessen Platz ein. Alle Marker, Verstärkungen, Ermittler, Gegner und sonstige Karten, die sich am Ort befinden, der das Spiel verlässt, befinden sich nun am früheren Ort.\n\n[pagebreak]\n\n:::resolution\n## Achtung!<br>Nicht vor Ende des Szenarios weiterlesen.\n<b>Falls keine Auflösung erreicht wurde und mindestens 1 Ermittler aufgegeben hat:</b>\n:::right\nFahre mit <b>Auflösung 2</b> fort.\n:::\n<b>Falls keine Auflösung erreicht wurde und alle Ermittler besiegt wurden:</b>\n:::right\nFahre mit <b>Auflösung 1</b> fort.\n:::\n\n<b>Auflösung 1:</b> <i>Sie flatterten und kreischten. Du hattest keine Chance gegen den außerirdischen Schwarm, der kurz nach deiner Ankunft auf Titan gelandet ist. Zum Glück schienen sie es nicht auf dich abgesehen zu haben. Sie haben die außerirdische Anlage ausgeplündert und dabei alle Informationen zerstört, die du hättest brauchen können. Wenigstens haben sie dich am Leben gelassen. Als von den fliegenden Monstern endlich nichts mehr zu sehen ist, durchsuchst du die Ruinen und findest mehrere goldene Scheiben mit unterschiedlichen Durchmessern. Auf der Tatterdemalion spielst du mit diesen Scheiben herum und versuchst, sie auf verschiedene Arten zusammenzusetzen, aber sie scheinen abgesehen von ihrem Materialwert keine Bedeutung zu haben. Es gibt noch viel, das du nicht weißt, und du bereitest dich entschlossen auf deine nächste Expedition vor.</i>\n\n- Im Kampagnenlogbuch wird notiert: <i>Du hast einen schlechten Ruf bei den Mi-Go.</i>\n- Falls sich 3 Handlungskarten im Siegpunktestapel befinden, wird im Kampagnenlogbuch notiert: <i>Du hast die unmenschlichen Methoden der Kultisten aufgedeckt.</i> Danach wird dem Chaosbeutel für den Rest der Kampagne ein <elder_thing>-Marker hinzugefügt, weil du den König in Gelb auf dich aufmerksam gemacht hast.\n- Notiere im Kampagnenlogbuch 1 Zählstrich unter „Drohendes Unheil“. Notiere dort danach 1 weiteren Zählstrich für jede <b><i>Gehirn</i></b>-Storyvorteilskarte im Spiel.\n-  Jeder Ermittler verdient Erfahrungspunkte in Höhe des Sieg X-Wertes aller Karten im Siegpunktestapel. Jeder Ermittler verdient 2 zusätzliche Erfahrungspunkte, weil er ein tieferes Verständnis für die Diener des Königs in Gelb entwickelt hat.\n:::right\nKehre zu <b>Suche nach dem Bruchstück</b> zurück. (Seite TBD)\n:::\n\n<b>Auflösung 2:</b> <i>An Bord der Tatterdemalion versuchst du, Schlussfolgerungen aus den verschiedenen Einblicken zu ziehen, die du in der außerirdischen Anlage gewonnen hast, aber keine der Informationen scheint besonders wichtig zu sein. Bei einer gründlichen Suche im Frachtraum findest du die goldenen Scheiben, die die Kultisten von den Mi-Go erhandelt haben. Du spielst mit diesen Scheiben herum und versuchst, sie auf verschiedene Arten zusammenzusetzen, aber sie scheinen abgesehen von ihrem Materialwert keine Bedeutung zu haben. Es gibt noch viel, das du nicht weißt, und du bereitest dich entschlossen auf deine nächste Expedition vor.</i>\n\n- Falls sich 3 Handlungskarten im Siegpunktestapel befinden, wird im Kampagnenlogbuch notiert: <i>Du hast die unmenschlichen Methoden der Kultisten aufgedeckt.</i> Danach wird dem Chaosbeutel für den Rest der Kampagne ein <elder_thing>-Marker hinzugefügt, weil du den König in Gelb auf dich aufmerksam gemacht hast.\n- Falls sich der Mi-Go-Wissenschaftler im Siegpunktestapel befindet, notiere im Kampagnenlogbuch: <i>Du hast einen schlechten Ruf bei den Mi-Go.</i> Ansonsten notiere dort: <i>Du bist mit den Mi-Go verbündet.</i>\n- Notiere im Kampagnenlogbuch 1 Zählstrich unter „Drohendes Unheil“.\n- Jeder Ermittler verdient Erfahrungspunkte in Höhe des Sieg X-Wertes aller Karten im Siegpunktestapel.\n:::right\nKehre zu <b>Suche nach dem Bruchstück</b> zurück. (Seite TBD)\n:::\n:::",
+          "encounter_set_id": "cd6a55bc-745a-4db8-a9c1-0bdf14b6c56b"
+        },
+        {
+          "id": "e2249b2d",
+          "type": "interlude",
+          "name": "Zwischenspiel II: Introspektive",
+          "markdown": "# Zwischenspiel II: Introspektive\n\n:::story\nDie seltsamen Quantenkristalle, die goldenen Scheiben von den Mi-Go, die kryptische Botschaft von der Erde… Obwohl du durch das ganze Sonnensystem reisen musstest, um diese einzelnen Puzzleteile zu finden, scheinen sie kein größeres Bild zu ergeben. Ein wichtiges Element muss noch fehlen – das Gewebe, das sie verbindet und ihre gemeinsame Bedeutung offenbart. Natürlich kennst du einen Ort, an dem du alle Antworten finden wirst, die du suchst. Aber du fürchtest dich vor dem, was dich dort erwartet. Dieser Ort ist dein eigener Verstand.\n\nTief in deinem Unterbewusstsein lauert immer noch der Kultist, dessen Körper du bewohnst – eingesperrt zwischen deinen Gedanken. Du weißt ganz sicher, dass sich dein anderes Ich daran erinnert, wie man das Bruchstück finden kann.\n\nMit seinem eigenen virtuellen Geist zu interagieren birgt große Gefahren; der kleinste Fehltritt kann einen Absturz in den Wahnsinn bedeuten. Aber\ndu bist bereit, dich deiner Vergangenheit ein für alle Mal zu stellen. Mit der Hilfe von 2C-OES187 modifizierst du die Traumprotokolle der Kälteschlafkapseln erneut, aber dieses Mal, um deine eigenen Erinnerungen zu erleben. Mit dem Klicken des Schalters wirst du wieder bewusstlos…\n:::\n\n- Die Ermittler dürfen wählen, die Tatterdemalion gründlich nach wichtigen Details zu durchsuchen, die sie bisher übersehen haben. Falls sie das tun, notiere im Kampagnenlogbuch jeweils 1 Zählstrich unter „Drohendes Unheil“ und bei den „Erinnerungen“ jedes Ermittlers.\n- Die Ermittler dürfen wählen, eine historische Simulation der Erde zu betreten, um mehr über diese Zukunft herauszufinden. Dazu spielen sie eine Nebengeschichte. Anstatt Erfahrungspunkte für diese Nebengeschichte zu bezahlen, muss jeder Ermittler entsprechend viele seiner „Erinnerungen“ durchstreichen, und für jeden Erfahrungspunkt, den die Ermittler während dieser Nebengeschichte verdienen würden, notieren sie stattdessen entsprechend viele Zählstriche bei ihren „Erinnerungen“. (Falls sich die Ermittler dazu entscheiden, eine Nebengeschichte zu spielen, lies den Rest dieses Zwischenspiels erst, nachdem die Nebengeschichte abgeschlossen ist.)\n- Abhängig vom Schwierigkeitsgrad werden folgende Chaosmarker dem Chaosbeutel für den Rest der Kampagne hinzugefügt:\n<table>\n  <tr>\n    <td><bullet> <b>Einfach:</b> -3</td>\n    <td><bullet> <b>Schwer:</b> -6 und <elder_thing></td>\n  </tr>\n  <tr>\n    <td><bullet> <b>Normal:</b> -5</td>\n    <td><bullet> <b>Experte:</b> -7 und <elder_thing></td>\n  </tr>\n</table>\n- Überprüfe das Kampagnenlogbuch. Falls <i>du die unmenschlichen Methoden der Kultisten aufgedeckt hast</i>, fahre mit <b>Introspektive 1</b> fort.\n:::right\nAnsonsten fahre mit <b>Szenario IV: Die Maschine in Gelb</b> fort.\n:::"
+        },
+        {
+          "id": "31bf16c9",
+          "type": "scenario",
+          "name": "Szenario IV: Die Maschine in Gelb",
+          "markdown": "# Szenario IV: [encounter:fbc550be-6fef-4010-9152-48a0742abd09:name]\n\n:::story\nWie von einer unsichtbaren Macht durchgeschüttelt fährst du aus dem Schlaf hoch. Außer dir sind nur noch wenige Gäste im Zuschauerraum, und von den Schauspielern ist niemand auf der Bühne. Die Lichter sind gedämpft und die Vorhänge der Bühne sind ausgefranst und zerrissen. Ein übler, aber nicht zu identifizierender Gestank liegt in der Luft. Du bist wieder im Ward-Theater – dort, wo alles begann. Ist das ein Teil deiner Erinnerung? Oder war das alles nur ein Traum? Du schüttelst deine Müdigkeit ab und rufst nach 2C-OES187. Du bist erleichtert und ein wenig enttäuscht, als die digitalen Stimmen bestätigen, dass der Vorgang wie geplant funktioniert hat. Du bist in deinem eigenen Geist angekommen…\n:::\n\n### Vorbereitung\n\n- Es werden alle Karten aus folgenden Begegnungssets herausgesucht: *[encounter:5f527d21-8110-4b71-aa99-d0e15cd9ca9f:name]*, *[encounter:fbc550be-6fef-4010-9152-48a0742abd09:name]*, *[encounter:1652fe8f-adea-440c-b803-041012e776f9:name]*, *[encounter:4fb0482a-feda-4c9d-96a2-3ea2c801c8e0:name]* und *[encounter:b246fd07-38bb-4326-b459-0b08be0fa282:name]*. <i>Ruf vor den Vorhang</i> und <i>Wahnvorstellungen</i> stammen aus der Erweiterung <i>Der Pfad nach Carcosa</i>. Diese Sets sind an folgenden Symbolen zu erkennen:\n\n:::center\n[encounter:5f527d21-8110-4b71-aa99-d0e15cd9ca9f:icon]\n[encounter:fbc550be-6fef-4010-9152-48a0742abd09:icon][encounter:1652fe8f-adea-440c-b803-041012e776f9:icon][encounter:4fb0482a-feda-4c9d-96a2-3ea2c801c8e0:icon][encounter:b246fd07-38bb-4326-b459-0b08be0fa282:icon]\n:::\n\n- Aus dem Set <i>Ruf vor den Vorhang</i> werden dabei nur die Orte herausgesucht.\n- Die Ermittler dürfen wählen, das Begegnungsset <i>Wahnvorstellungen</i> durch das Begegnungsset <i>[encounter:e60b0554-920a-4c7d-8b9f-9a634e7c7ec7:name]\n</i> (aus der Erweiterung <i>Rückkehr zu: Der Pfad nach Carcosa</i>) zu ersetzen. Falls sie das tun, notiert jeder Ermittler 1 Zählstrich bei seinen „Erinnerungen“. Dieses Set ist an folgendem Symbol zu erkennen:\n\n:::center\n[encounter:e60b0554-920a-4c7d-8b9f-9a634e7c7ec7:icon]\n:::\n\n- Die Orte Theater, Foyer, Empore und Bereich hinter der Bühne werden ins Spiel gebracht. Jeder Ermittler beginnt das Spiel im Theater.\n- Jede Kopie der Orte Personalzugang und Zugang zum hinteren Bereich des Theaters wird als nicht im Spiel befindlich beiseitegelegt.\n- Jede Kopie der Gegnerkarte Dein anderes Selbst wird als nicht im Spiel befindlich beiseitegelegt.\n- Die übrigen Begegnungskarten werden zum Begegnungsdeck zusammengemischt.\n- Das Spiel kann nun beginnen.\n\n<div style=\"break-after: column;\"></div>\n\n## Platzierung der Orte in „[encounter:fbc550be-6fef-4010-9152-48a0742abd09:name]“\n\n[encounter:fbc550be-6fef-4010-9152-48a0742abd09:location_overview]\n\n[pagebreak]\n\n:::resolution\n## Achtung!<br>Nicht vor Ende des Szenarios weiterlesen.\n<b>Falls keine Auflösung erreicht wurde (alle Ermittler haben aufgegeben oder wurden besiegt):</b>\n:::right\nFahre mit <b>Auflösung 1</b> fort.\n:::\n\n<b>Auflösung 1:</b> <i>Du hattest einen Traum. Einen lebhaften, klaren, sehr real wirkenden Traum. Du bist aus dem Ward-Theater auf die verregneten Straßen von Arkham geflohen. Danach hast du die Besetzungsfeier des schrecklichen</i> König in Gelb <i>besucht, und hast dich auf ein überwältigendes Abenteuer begeben, das dich durch ganz Arkham und sogar bis nach Frankreich und nach Carcosa selbst geführt hat. Als du in kaltem Schweiß gebadet endlich wieder in der Kälteschlafkapsel aufwachst, hast du die neue Realität, in der du dich jetzt befindest, fast schon wieder vergessen. Diese Tortur war schwieriger und hat viel länger gedauert, als du erwartet hattest, aber du hast endlich den Teil deiner Erinnerung gefunden, den dein anderes Selbst vor dir verbergen wollte – das Ritual, mit dem sich das Bruchstück von Carcosa finden lässt.</i>\n\n- Falls sich mindestens 1 Kopie der Verratskarte Erinnerung im Siegpunktestapel befindet, wird dem Chaosbeutel für den Rest der Kampagne ein <tablet>-Marker hinzugefügt.\n-  Jeder Ermittler verdient Erfahrungspunkte in Höhe des Sieg X-Wertes aller Karten im Siegpunktestapel. Jeder Ermittler verdient 2 zusätzliche Erfahrungspunkte, weil er seine vergangenen Erinnerngen nacherlebt hat.\n- Notiere im Kampagnenlogbuch 2 Zählstriche unter „Drohendes Unheil“.\n:::right\nFahre mit <b>Szenario V: Bruchstück von Carcosa</b> fort.\n:::\n\n<b>Auflösung 2:</b> <i>Nachdem du das Bewusstsein des Kultisten endlich wie einen Tumor aus deinem Verstand entfernt hast, hast du den Teil deiner Erinnerung gefunden, den dein anderes Selbst vor dir verbergen wollte – das Ritual, mit dem sich das Bruchstück von Carcosa finden lässt. Ohne Zeit zu verlieren trennst du deine Verbindung zu den virtuellen Traumlanden und kehrst auf die Tatterdemalion zurück. Du bist bereit, Tassilda endlich gegenüberzutreten.</i>\n\n- Falls sich mindestens 1 Kopie der Verratskarte Erinnerung im Siegpunktestapel befindet, wird dem Chaosbeutel für den Rest der Kampagne ein <tablet>-Marker hinzugefügt.\n-  Jeder Ermittler verdient Erfahrungspunkte in Höhe des Sieg X-Wertes aller Karten im Siegpunktestapel.\n:::right\nFahre mit <b>Szenario V: Bruchstück von Carcosa</b> fort.\n:::\n:::",
+          "encounter_set_id": "65954efd-8669-4b1c-8967-71a49fd1e532"
+        },
+        {
+          "id": "16cd16e4",
+          "type": "scenario",
+          "name": "Szenario V: Bruchstück von Carcosa",
+          "markdown": "# Szenario V: [encounter:3d467a72-bdc2-499e-b51e-44335d9b4526:name]\n\n:::story\nDu darfst keine Zeit verlieren. Wie tausend Mal geübt baust du einen provisorischen Schrein, indem du einen der Quantenkristalle in die Mitte des Tisches stellst. Mehrere goldene Scheiben von den Mi-Go platzierst du so davor, dass sie wie ein Syzygium ausgerichtet sind. Vor dem fertigen Schrein rezitierst du die unaussprechliche Botschaft von der Erde:\n<center>\n„Lass‘ die rote Dämmerung erraten,<br>\nwas wir hier tun,<br>\nwenn dies‘ blaue Sternenlicht stirbt,<br>\nund alle ruh’n.“  \n</center>\nDie goldenen Scheiben beginnen zu beben und bauen Energie auf, bis sie sich aufrichten und in derselben Richtung um den Schrein herumrollen. Das Quantenartefakt strahlt ein blendendes Gelb aus, bevor seine Farbe zu einem intensiven dichten Rot wird. Die Scheiben drehen sich weiter und weiter mit verschiedenen, aber konstanten Geschwindigkeiten, bis sie immer langsamer werden und schließlich gleichzeitig umkippen. So plötzlich wie alles begann zerspringt der rote Kristall zu einem Stoß nebligen Gases, das in deinen Augen brennt.\n\nAls du die Augen wieder öffnen kannst, sind nur noch die goldenen Scheiben übrig, die über den ganzen Boden verteilt sind. Instinktiv erkennst du, dass sie eine Karte des Sonnensystems bilden. Bei näherer Betrachtung findest du einen einzigen übriggebliebenen Splitter des violetten Kristalls, der, wie du vermutest, einen Ort markiert, der zwischen den Umlaufbahnen von Jupiter und Saturn liegt. 2C-OES187 bestätigt, dass die Positionen der Scheiben genau den aktuellen Positionen der Planeten entsprechen, und berechnet einen Kurs zum Asteroiden.\n\nWährend des Fluges denkst du an die vielen Welten, die du besucht hast, und an die vielen Abenteuer, die du erlebt hast, sowohl in dieser Welt als auch in deiner eigenen. All deinen Worten und Taten liegen Optimismus und die Hoffnung auf eine gute Zukunft zugrunde. Diese Zukunft verdient es nicht, zu einer weiteren Spielfigur des wahnsinnigen Königs zu werden, und du wirst tun, was nötig ist, um das zu verhindern.\n\nAls du ankommst, sieht der Asteroid anders aus, als du erwartet hättest. Er ist eiförmig, hat an der breitesten Stelle einen Durchmesser von höchstens 4 Kilometern, und wirkt insgesamt schrecklich… normal. Seine gelbe Farbe erinnert ehr an ein trübes Braun als an Gold. Er ist von Kratern und Löchern überzogen, ramponiert durch die Härte des Weltraums. Ohne zu zögern ziehst du deinen Raumanzug an und landest auf der Oberfläche des Bruchstücks, bereit, dich der Kronprinzessin von Carcosa zu stellen…\n:::\n\n### Vorbereitung\n\n- Es werden alle Karten aus folgenden Begegnungssets herausgesucht: *[encounter:3d467a72-bdc2-499e-b51e-44335d9b4526:name]* und *[encounter:13aafa01-0b60-4c98-b6e5-02d99485ecde:name]*. <i>[encounter:13aafa01-0b60-4c98-b6e5-02d99485ecde:name]</i> stammt aus der Erweiterung <i>Der Pfad nach Carcosa</i>. Diese Sets sind an folgenden Symbolen zu erkennen:\n\n:::center\n[encounter:3d467a72-bdc2-499e-b51e-44335d9b4526:icon] [encounter:13aafa01-0b60-4c98-b6e5-02d99485ecde:icon]\n:::\n\n- Die Orte Oberfläche des Bruchstücks und Verlassenes Shuttle werden ins Spiel gebracht. Jeder Ermittler beginnt das Spiel auf der Oberfläche des Bruchstücks.\n- Die 6 doppelseitig bedruckten Ortskarten werden als nicht im Spiel befindlich beiseitegelegt.\n- Die 4 Handlungskarten (Freuden, Die Ankunft des Königs, Nur für dich und Die verlorene Expedition) werden als nicht im Spiel befindlich beiseitegelegt.\n- Die Schwäche Flüsternde Flasche, die Gegnerkarten Höhlenbewohner und Bestie von Aldebaran sowie beide Kopien der Gegnerkarte Brut von Hali werden als nicht im Spiel befindlich beiseitegelegt.\n- Die übrigen Begegnungskarten werden zum Begegnungsdeck zusammengemischt.\n- Das Spiel kann nun beginnen.\n\n## Zusätzliche Regeln und Klarstellungen\n\n### Orte auf dem Bruchstück umdrehen\nIm Verlauf dieses Szenarios können die Ermittler die Anweisung erhalten, Orte umzudrehen. Drehe dazu einfach die Ortskarte auf ihre andere Seite. Alle Marker, angehängten Karten, Ermittler, Gegner und sonstige Karten bleiben an diesem Ort (der Ort wird aber einen anderen Namen haben). Falls danach weniger Hinweise auf diesem Ort liegen als sein Hinweis-wert angibt, platziere Hinweise aus dem Markervorrat darauf, bis der Hinweiswert erreicht ist.\n\nManche Orte können nicht umgedreht werden. Wenn du angewiesen wirst, einen solchen Ort umzudrehen, ignoriere diesen Teil der Anweisung einfach.\n\n[pagebreak]\n\n:::resolution\n## Achtung!<br>Nicht vor Ende des Szenarios weiterlesen.\n<b>Falls keine Auflösung erreicht wurde und Szene 1 oder Szene 2 aktiv ist:</b>\n:::right\nFahre mit <b>Auflösung 1</b> fort.\n:::\n<b>Falls keine Auflösung erreicht wurde und Szene 3 aktiv ist:</b>\n:::right\nFahre mit <b>Auflösung 2</b> fort.\n:::\n\n<b>Auflösung 1:</b> <i>Als du endlich erwachst, siehst du, wie sich in der Ferne die seltsamen Türme einer verformten Stadt in die Wolken erheben. Hinter dir spiegelt die dunkle Oberfläche eines Sees das Licht zweier Sonnen. Du rufst 2C-OES187 um Hilfe, aber dieses Mal bekommst du keine Antwort. Dies ist keine Simulation. Du bist im Reich Carcosa gefangen und hast keine Möglichkeit mehr, das Sonnensystem zu retten.</i>\n\n- Im Kampagnenlogbuch wird notiert: <i>Du bist in Carcosa gefangen.</i>\n- Jeder Ermittler wird <b>wahnsinnig</b>.\n- Die Ermittler verlieren die Kampagne.\n<div style=\"break-after: column;\"></div>\n\n<b>Auflösung 2:</b> <i>Du erwachst in kaltem Schweiß gebadet in deiner Kälteschlafkapsel. Während du noch versuchst, dich zu orientieren, erklärt 2C-OES187, dass du über zwei Monate lang im Koma lagst, nachdem du beschlossen hattest, deinen eigenen Verstand zu betreten. Deine Erlebnisse auf dem Asteroiden, Hasturs wahre Natur – das alles war zu real für eine simple Einbildung; dein Kopf muss diese Bilder aus den Erinnerungen des Kultisten zusammengesetzt haben. Aber egal woher, du weißt jetzt vom drohenden Untergang des Sonnensystems, und du weißt, was du tun musst: so viele Leben wie möglich retten, bevor das Unvermeidliche eintritt.</i>\n\n-  Jeder Ermittler verdient Erfahrungspunkte in Höhe des Sieg X-Wertes aller Karten im Siegpunktestapel.\n- Notiere im Kampagnenlogbuch 2 Zählstriche unter „Drohendes Unheil“.\n:::right\nFahre mit <b>Szenario VI: Sternenschauer</b> fort.\n:::\n\n<b>Auflösung 3:</b> <i>Als du endlich wieder auf der Tatterdemalion bist, kannst du nur daran denken, wie viel Zeit du gespart hättest, wenn du dich sofort an die wahre Bedrohung erinnert hättest. Die Sonne wird nur noch für wenige Jahre scheinen, und der Großteil der Menschheit weiß nichts von seinem bevorstehenden Ende. Angesichts des drohenden Untergangs weißt du, was du tun musst: so viele Leben wie möglich retten, bevor das Unvermeidliche eintritt.</i>\n\n-  Jeder Ermittler verdient Erfahrungspunkte in Höhe des Sieg X-Wertes aller Karten im Siegpunktestapel.\n:::right\nFahre mit <b>Szenario VI: Sternenschauer</b> fort.\n:::\n:::",
+          "encounter_set_id": "f4245623-a4c2-4b39-a73c-38df0d03609d"
+        },
+        {
+          "id": "9459c892",
+          "type": "scenario",
+          "name": "Szenario VI: Sternenschauer",
+          "markdown": "# Szenario VI: [encounter:7d922ad4-fe0b-4591-ae25-84b5cd146b9a:name]\n\n:::story\nEs besteht kein Zweifel. Der Zerfall des Wasserstoffkerns der Sonne beschleunigt sich wie nie zuvor. 2C-OES187 schätzt, dass es nur wenige Jahre dauern wird, bis der Fusionsreaktion, die unseren Stern antreibt, der Brennstoff ausgeht. Der Stern wird in sich zusammenfallen und dabei eine radioaktive Supernova erzeugen, die alles Leben in einem Umkreis von einigen Lichtjahren auslöscht. Was auch immer die Kultisten im Bruchstück getan haben, hat unser Sonnensystem zu einem vorzeitigen Ende verurteilt.\n<vs>\nDeine einzige verbliebene Hoffnung ist, die Bewohner der Kolonien vom beschleunigten Tod der Sonne zu überzeugen und sie mit den Ressourcen und der Technologie zu versorgen, die sie brauchen, um diese Supernova irgendwie zu überleben. 2C-OES187 konfiguriert die Navigationskonsole, während du dich darauf vorbereitest, viele Monate lange durch das Sonnensystem zu reisen, um die Menschheit zu retten.\n:::\n:::right\nÜberprüfe das Kampagnenlogbuch. Falls <i>die Ermittler von der Abschwörung des Throns wissen</i>, fahre mit <b>Ein anderer Weg</b> fort. \nAnsonsten fahre mit der <b>Vorbereitung</b> fort.\n:::\n<b>Ein anderer Weg:</b> <i>Vielleicht gibt es noch eine andere Möglichkeit – das Ritual, über das du in den Hallen von Tassildas Tempel gelesen hast. Die Vorbereitung dieses Rituals würde zwar mehrere Monate dauern – und du weißt immer noch nicht, wo genau das Ritual vollzogen werden muss – aber wenn es gelänge, hätte die Menschheit ganz sicher genug Zeit, um eine Technologie zu entwickeln, mit der sie überleben kann. Wie du den Ritualort findest, ist aber eine ganz andere Frage…</i>\n:::right\nFahre mit der <b>Vorbereitung</b> fort.\n:::\n\n<div style=\"break-after: column;\"></div>\n\n### Vorbereitung\n\n- Es werden alle Karten aus folgenden Begegnungssets herausgesucht: *[encounter:7d922ad4-fe0b-4591-ae25-84b5cd146b9a:name]*, *[encounter:9b4b5918-b5ce-449a-907f-59d21f9527fa:name]*, *[encounter:9ffe2e63-acc1-48c9-ad12-6fe41489a87c:name]*, *[encounter:e262f9fc-6ea1-4f35-b745-3c895e76d1b7:name]* und <i>[encounter:50658ed6-c84e-4498-be4e-1df4309d5bc9:name]</i>. Diese Sets sind an folgenden Symbolen zu erkennen:\n\n:::center\n[encounter:7d922ad4-fe0b-4591-ae25-84b5cd146b9a:icon]\n[encounter:9b4b5918-b5ce-449a-907f-59d21f9527fa:icon]\n[encounter:9ffe2e63-acc1-48c9-ad12-6fe41489a87c:icon]\n[encounter:e262f9fc-6ea1-4f35-b745-3c895e76d1b7:icon][encounter:50658ed6-c84e-4498-be4e-1df4309d5bc9:icon]\n:::\n\n- Das Begegnungsset *[encounter:2c9d053c-fd28-4a1f-bc7e-9256d7075507:name]* wird als nicht im Spiel befindlich beiseite gelegt. Dieses Set ist am folgenden Symbol zu erkennen:\n\n:::center\n[encounter:2c9d053c-fd28-4a1f-bc7e-9256d7075507:icon]\n:::\n\n- Die folgenden Karten werden als nicht im Spiel befindlich beiseitegelegt: der Ort Die Cassilda und die Gegnerkarten Domaag T'eel, Mi-Go-Wache, Yith-Wächter, Der Verschlinger aus der Ferne und Tassilda.\n- Die Agenda Dunkle Materie und die Szene Tassildas Erwachen werden als nicht im Spiel befindlich beiseitegelegt.\n- Überprüfe das Kampagnenlogbuch:  \n<bullet> Falls <i>die Elbrus-Station stabilisiert wurde</i>, wird die Storyvorteilskarte Ar-NO als nicht im Spiel befindlich beiseitegelegt. Ansonsten wird die Storyvorteilskarte Projekt Origami als nicht im Spiel befindlich beiseitegelegt.  \n<bullet> Falls <i>die Nostalgia II gerettet wurde</i>, wird die Storyvorteilskarte Direktor Cixin als nicht im Spiel befindlich beiseitegelegt. Ansonsten wird die Storyvorteilskarte Letzte Hoffnung als nicht im Spiel befindlich beiseitegelegt.  \n<bullet> Falls <i>du mit den Mi-Go verbündet bist</i>, wird die StoryvorteilskarteMi-Go-Sammler als nicht im Spiel befindlich beiseitegelegt.\nAnsonsten wird die Storyvorteilskarte Reparatur der Schwelle alsnicht im Spiel befindlich beiseitegelegt.\n- Das Scan-Deck wird erstellt. Dazu werden alle übrigen Karten, die Symbole am unteren Kartenrand ihrer Rückseite tragen, zusammengemischt. (Inklusive der obigen Storyvorteilskarten, die nicht beiseitegelegt wurden.)\n- Die Ermittler dürfen entscheiden, das Begegnungsset *[encounter:33387e63-1376-4315-90ca-b3480de1dce4:name]* in das Scan-Deck zu mischen. <i>Tipp: Wenn die Ermittler <bultab><b>Wissenschaft</b>-Karten im Deck haben, lohnt es sich mit diesen Karten zu spielen.</i> Dieses Set ist an folgendem Symbol zu erkennen:\n\n:::center\n[encounter:33387e63-1376-4315-90ca-b3480de1dce4:icon]\n:::\n\n- Die folgenden Orte werden ins Spiel gebracht: Die Tatterdemalion, Mars, Asteroidengürtel und Pluto. Jeder Ermittler beginnt das Spiel auf der Tatterdemalion.\n- Für jeden Zählstrich, der im Kampagnenlogbuch unter „Drohendes Unheil“ steht, wird 1 Verderben auf Agenda 1a platziert.\n- Die übrigen Begegnungskarten werden zum Begegnungsdeck zusammengemischt.\n- Das Spiel kann nun beginnen.\n\n:::resolution\n## Achtung!<br>Nicht vor Ende des Szenarios weiterlesen.\nFalls keine Auflösung erreicht wurde (alle Ermittler haben aufgegeben oder wurden besiegt):</b>\n:::right\nFahre mit <b>Auflösung 1</b> fort.\n:::\n\n<b>Auflösung 1:</b> <i>Ein glänzendes Licht scheint durch das ganze Sonnensystem. Die verheerende Supernova strahlt durch die Leere, vernichtet alle ungeschützten Lebensformen, entreißt allen Himmelskörpern ihre wertvolle Atmosphäre und lässt sie als\nverödete Welten zurück.</i>\n\n- Im Kampagnenlogbuch wird notiert: <i>Die Sonne wurde zu einer Supernova und hat den Großteil des Sonnensystems ausgelöscht.</i>\n- Falls sich Reparatur der Schwelle im Siegpunktestapel befindet, wird im Kampagnenlogbuch notiert: <i>Die Mi-Go sind sicher auf ihre Heimatwelt zurückgekehrt.</i>\n- Falls sich Letzte Hoffnung im Siegpunktestapel befindet, wird im Kampagnenlogbuch notiert: <i>Hope wurde vor der Explosion geschützt.</i> Jeder Ermittler, der in Hope aufgegeben hat, liest <b>Erfüllte Hoffnung</b>.\n- Falls sich Projekt Origami im Siegpunktestapel befindet, wird im Kampagnenlogbuch notiert: <i>Der VKB ist in eine andere Galaxie entkommen.</i> Jeder Ermittler, der in New Brooklyn\n<bultab> aufgegeben hat, liest <b>In weiter Ferne</b>.\n- Falls sich keine der oben genannten Karten im Siegpunktestapel befindet, lesen alle Ermittler <b>Das Ende 1</b>. \n:::right\nAnsonsten lesen die Ermittler, die noch keine Auflösung bekommen haben, <b>Das Ende 2</b>.\n:::\n\n<b>Auflösung 2:</b> <i>Die Kronprinzessin von Carcosa unterliegt deinen Angriffen und zerfällt vor deinen Augen. Du hast Tassilda besiegt und damit den vorzeitigen Kollaps der Sonne verhindert. Plötzlich wabert ein von einer kühlen Brise getragener übler Gestank überall um dich herum. Bevor du reagieren kannst, wird eine dunkle Wolke voller gelber und weißer Energieblitze von der Sonne ausgestoßen und umfängt dein ganzes Schiff. In dieser Wolke schwebt ein schreckliches Wesen. Es ist gewaltig, faltig und buckelig, mit dutzenden von Tentakeln, die böse aussehende Zähne an ihren Spitzen tragen. Dies kann nur das Wesen sein, von dem Tassilda gesprochen hat, ihr Vater, der Letzte König. In einem einzigen Augenblick zerquetscht er dein ganzes Schiff. Dies sind deine letzten Atemzüge, doch du bist stolz darauf, dass du alle anderen gerettet hast – du hast deine Schuld wiedergutgemacht.</i>\n\n-  Jeder Ermittler verdient Erfahrungspunkte in Höhe des Sieg X-Wertes aller Karten im Siegpunktestapel.\n- Notiere im Kampagnenlogbuch 2 Zählstriche unter „Drohendes Unheil“.\n:::right\nFahre mit <b>Das Ende 3</b> fort.\n:::\n\n<b>Erfüllte Hoffnung:</b> <i>Als der Blackout endlich vorbei ist, verlässt du mit den anderen Menschen den unterirdischen Schutzraum in Hope. Ihr seht ein schillerndes Muster aus malerischen Gasen und eine blasse weiße Kugel – den verbliebenen Rest der Sonne. Die Wissenschaftler der Kolonie sagen, dass der elektromagnetische Schild den Planeten niemals hätte schützen können, wenn es nicht die plötzliche Energiespitze aus den nahegelegenen außerirdischen Ruinen gegeben hätte. Hier beginnt ein neues Zeitalter für die Menschheit, das Zeitalter der Weißen Sonne. Du verbringst deine restlichen Jahre damit, das Leben in der Metropole zu erhalten und die fantastischen Geschichten zu erzählen, die du in deiner Zeit auf der Erde erlebt hast. Und während du in das Licht des weißen Zwerges blickst, fragst du dich dennoch, wie viel Zeit wohl bis zu seinem unausweichlichen Zerfall vergeht und die Menschheit erneut vor ihrem Untergang fliehen muss…</i>\n\n- Im Kampagnenlogbuch wird notiert: <i>(Name deines Ermittlers) verbrachte den Rest seiner Tage in Hope.</i>\n- Die Ermittler, die diese Auflösung lesen, gewinnen die Kampagne?\n:::right\nFahre mit dem <b>Epilog</b> fort, nachdem alle Ermittler ihre Auflösung gelesen haben.\n:::\n<b>In weiter Ferne:</b> <i>Die Wissenschaftler des Sinai-Labors aktivierten den Raumzeit-Krümmer nur wenige Augenblicke vor der Explosion. Die Kolonie New Brooklyn reiste durch die Falten der Raumzeit in eine neue Galaxie und in eine neue Zukunft. Ihr Ziel – ein Doppelsternsystem mit vielen Exoplaneten – scheint sicher und weit außerhalb des Einflusses der Großen Alten von der alten Welt zu sein. Du verbringst deine restlichen Jahre damit, mit den Menschen zusammen Außenposten unter dem unberührten Himmel einer neuen Heimat aufzubauen, auf einem Planeten, der von den Siedlern Paradise getauft wurde. Du erzählst deinen Nachkommen Geschichten über dein Leben auf der Erde. Mit der Zeit werden diese Geschichten zu Märchen und irgendwann zu Legenden. Die Bewohner dieser neuen Welt leben in Frieden und Wohlstand miteinander. Es ist ein neuer Anfang für die Menschheit. Und während du in das Licht deiner neuen Sterne blickst, fragst du dich dennoch, wie viel Zeit wohl bis zu ihrem unausweichlichen Zerfall vergeht und die Menschheit erneut vor ihrem Untergang fliehen muss…</i>\n\n- Im Kampagnenlogbuch wird notiert: <i>(Name deines Ermittlers) verbrachte den Rest seiner Tage auf Paradise.</i>\n- Die Ermittler, die diese Auflösung lesen, gewinnen die Kampagne?\n:::right\nFahre mit dem <b>Epilog</b> fort, nachdem alle Ermittler ihre Auflösung gelesen haben.\n:::\n<b>Das Ende 1:</b> <i>Das Licht der Supernova verschlingt den Himmel und umfließt dich und deine Gefährten. Trotz all deiner Anstrengungen konntest du deine Schuld nicht wiedergutmachen und den Untergang der Menschheit nicht verhindern. Im letzten Moment, bevor die Schockwelle dich aus deiner körperlichen Existenz reißt, erscheint eine Gestalt in einem zerschlissenen gelben Kleid vor dir im Licht. Du kniest vor ihr nieder und greifst ihre Hand, als Tassilda dich im finsteren Reich Carcosa willkommen heißt.</i>\n\n- Im Kampagnenlogbuch wird notiert: <i>Die Ermittler sind in die Paläste des finsteren Carcosa zurückgekehrt.</i>\n- Jeder Ermittler wird <b>getötet</b>.\n- Die Ermittler verlieren die Kampagne.\n\n<b>Das Ende 2:</b> <i>Das Licht der Supernova verschlingt den Himmel und umfließt dich und deine Gefährten. Obwohl du selbst nicht überlebst, bist du stolz darauf, dass du alle anderen gerettet hast – du hast deine Schuld wiedergutgemacht. Im letzten Moment, bevor die Schockwelle dich aus deiner körperlichen Existenz reißt, schließt du deine Augen und ergibst dich deinem schrecklichen Schicksal.</i>\n\n- Im Kampagnenlogbuch wird notiert: <i>(Name deines Ermittlers)\n<bultab> wurde von der Supernova vernichtet.</i>\n- Die Ermittler, die diese Auflösung lesen, werden <b>getötet</b>.\n- Falls alle Ermittler diese Auflösung lesen, haben die Ermittler die Kampagne verloren?\n:::right\nFahre mit dem <b>Epilog</b> fort.\n:::\n\n<b>Das Ende 3:</b> <i>Donnernder Applaus lässt dich aufschrecken. Die Zuschauer im Theater stehen auf und hören gar nicht mehr zu jubeln auf. Mehrere Gäste in der vorderen Reihe werfen den Schauspielen auf der Bühne Rosen zu, während diese sich mit breitem Lächeln verbeugen. Ein brennender Schmerz kriecht durch deine Schläfen. Wie bist du hierher zurückgekommen? Warst du die ganze Zeit im Theater? Was ist mit der Tatterdemalion? 2C-OES187? Dem Bruchstück? … der ganzen Zukunft? War das alles nur ein Albtraum? Du verlässt den Theatersaal, gefolgt von den anderen Zuschauern. Benommenheit und Müdigkeit quälen deine Sinne. Das Gewicht deines langen Abenteuers erdrückt deinen Geist. Als du endlich die Eingangshalle erreichst, stürzt du nieder und kratzt mit den Fingern über den Boden. Den Boden… die Erde. Du bist endlich zu Hause. Einige deiner Gedanken wandern zu der Idee, dass das hier nur eine weitere Simulation oder eine Einbildung ist, aber das ist dir inzwischen egal. Damit kannst du leben. Denn hier gibt es Hoffnung auf eine strahlende Zukunft.</i>\n\n- Im Kampagnenlogbuch wird notiert: <i>Du bist Hasturs Griff endlich entkommen und hast verhindert, dass er sein Gefängnis verlässt.</i>\n- Die Ermittler gewinnen die Kampagne!\n- Jeder Ermittler verdient Erfahrungspunkte in Höhe des Sieg X-Wertes aller Karten im Siegpunktestapel.\n- Jeder Ermittler darf bis zu 2 seelische Traumata heilen, weil er jetzt wieder Hoffnung besitzt.\n- Im Kampagnenlogbuch wird notiert: <i>Hope wurde vor der Explosion geschützt</i>, <i>Der VKB ist in eine andere Galaxie entkommen</i> und <i>Die Mi-Go sind sicher auf ihre Heimatwelt zurückgekehrt</i>.\n:::right\nFahre mit dem <b>Epilog</b> fort.\n:::",
+          "encounter_set_id": "a3193336-a0df-450c-b50e-0d5af119f3b9"
+        },
+        {
+          "id": "d465434a",
+          "type": "interlude",
+          "name": "Epilog",
+          "markdown": "# Epilog\n\nÜberprüfe das Kampagnenlogbuch. Falls <i>Hope vor der Explosion geschützt wurde</i> oder <i>der VKB in eine andere Galaxie entkommen ist</i>, fahre mit <b>Epilog 1</b> fort. Ansonsten fahre mit <b>Epilog 2</b> fort.\n\n<b>Epilog 1:</b> <i>Gegen jede Wahrscheinlichkeit hat die Menschheit die zweite Apokalypse überlebt. Unter dem Licht neuer Sterne und inmitten des Staubs der Toten beginnt für die Menschheit ein goldenes Zeitalter des wissenschaftlichen Fortschritts und Wohlstands. Als der weiße Zwerg, der einst die Sonne war, erlischt, hat die Menschheit bereits die halbe Galaxis kolonisiert. Einige Welten erliegen dem Wahnsinn der Großen Alten, aber die meisten überleben und gedeihen. Doch über Milliarden und Abermilliarden von Jahren steigt die Entropie im Universum langsam und stetig immer weiter an. Die Sterne verglühen einer nach dem anderen, bis die Wesen, die sich aus der einstigen Menschheit entwickelten, nur noch überleben können, indem sie die geringe Strahlung nutzen, die von den einzigen verbliebenen Himmelskörpern im Universum abgegeben wird – den schwarzen Löchern. Allerdings werden nach einer endlichen, aber unbegreiflich langen Zeitspanne auch die schwarzen Löcher verdampft sein…</i>\n\n- Überprüfe das Kampagnenlogbuch. Falls <i>die Mi-Go sicher auf ihre Heimatwelt zurückgekehrt sind</i>, fahre mit <b>Epilog 4</b> fort. \n:::right\nAnsonsten fahre mit <b>Epilog 3</b> fort.\n:::\n\n<b>Epilog 2:</b> <i>Die Menschheit ist mit ihrem Stern untergegangen, doch nicht alle Lebewesen im Universum beugen sich den Großen Alten. Die pilzartigen Mi-Go-Wissenschaftler entkommen dem Sonnensystem mit dem schier endlosen Wissensschatz, den sie bei der Beobachtung der Menschen gewonnen haben. Die Nachfahren der Mi-Go existieren weiter und kolonisieren viele weitere Galaxien auf der Suche nach Wissen, mit dem sie ihre unersättliche Neugier stillen können. Doch über Milliarden und Abermilliarden von Jahren steigt die Entropie im Universum langsam und stetig immer weiter an. Die Sterne verglühen einer nach dem anderen, bis die Wesen, die sich aus den einstigen Mi-Go entwickelten, nur noch überleben können, indem sie die geringe Strahlung nutzen, die von den einzigen verbliebenen Himmelskörpern im Universum abgegeben wird – den schwarzen Löchern. Allerdings werden nach einer endlichen, aber unbegreiflich langen Zeitspanne auch die schwarzen Löcher verdampft sein…</i>\n\n:::right\nFahre mit <b>Epilog 3</b> fort.\n:::\n\n<b>Epilog 3:</b> <i>Und wenn die schwarzen Löcher verschwunden sind, und es im Vakuum nichts mehr gibt außer einzelnen weit voneinander entfernten Photonen und Elektronen, wird es kein Leben mehr im Kosmos geben. Unser Universum wird einen kalten und leeren Tod sterben, und es wird nur eine maximal verfallene Welt aus unendlicher dunkler Materie zurückbleiben – eine Welt, die manche Leute als Carcosa kannten.</i>\n\n- Im Kampagnenlogbuch wird notiert: <i>Unser Universum ist dem Reich\n<bultab> Carcosa unterlegen, und Tassilda herrscht über die schwarzen Sterne.</i>\n\n<b>Epilog 4:</b> <i>Aber die Menschheit ist nicht allein. Sie ist unzähligen anderen Lebensformen im Universum begegnet, und indem sie ihr Wissen und ihre Technologie miteinander teilten, konnten sie einen Weg finden, die Entropiezunahme umzukehren. Den letzten entscheidenden Hinweis lieferten die Mi-Go-Wissenschaftler von Yuggoth, als sie die Daten aus sechs menschlichen Gehirnen untersuchten, die sich einst in Kindergartenkindern auf der Erde befanden, bevor die Großen Alten erwachten. Und so konnte die Herrscherfamilie von Carcosa mit der Hilfe der Mi-Go erneut in ihrem Königreich des Wahnsinns eingesperrt werden, und strahlend gelbe Sterne gingen im wiedergeborenen Universum auf.</i>\n\n<gbul> Im Kampagnenlogbuch wird notiert: <i>Hastur und Tassilda wurden erneut in Carcosa eingesperrt, und das Universum hat über das Unausweichliche triumphiert… vorerst.</i>\n\n# Anmerkungen des Entwicklers\n\nIch hoffe, dass dir diese Kampagne gefallen hat! Ihre Entwicklung war auf jeden Fall eine sehr aufregende Reise! Ursprünglich bestand diese Kampagne nur aus den drei Szenarien Die Tatterdemalion, Elektrischer Albtraum und Sternenschauer, aber ich und einige Testspieler waren der Meinung, dass diese Welt und die Geschichte zu interessant sind, um sie so schnell wieder zu verlassen.\n\nIm Kern ist Arkham Horror: Das Kartenspiel ein Medium, in dem Geschichten erzählt werden, und ich wusste, dass Sci-Fi-Horror als Genre eng mit den Themen aus Lovecrafts Geschichten verwandt ist. Es war nur eine Frage der Zeit, bis Fans dieses Genre in ihren eigenen Szenarien erkunden würden. Science-Fiction-Geschichten können allerdings sehr schnell in eine Richtung abdriften, die nicht mehr ins Arkham Files-Universum passt, weswegen ich diese Kampagne ursprünglich gar nicht machen wollte. Als mir aber die Idee gekommen ist, wie ich die bekannten Ermittler auf eine nicht zu absurde Weise in die Zukunft bringen kann, und wie ich den Mythos auf eine Art einbinden kann, die zu dieser Welt passt, aber nicht zu offensichtlich ist, musste ich diese Kampagne einfach schreiben. Von allen Großen Alten gefällt mir der König in Gelb am besten, weil er auf seine theatralische Art mit psychologischem Horror und unserer Wahrnehmung der Realität spielt. Und Der Pfad nach Carcosa ist meine Lieblingskampagne, weshalb es nur logisch war, dass meine Kampagne, deren Themen unter anderem die Erinnerungen der Protagonisten und eine eigenartige virtuelle Realität sind, eine lose Fortsetzung zum Pfad nach Carcosa wird. Hastur ist kein Großer Alter, den man mit dem Weltraum in Verbindung bringen würde, und genau deshalb passt er so gut.\n\nIch hoffe, dass diese Kampagne die Fans zufriedenstellt, die sich eine Weltraum-Science-Fiction-Kampagne gewünscht haben. Ich habe versucht, so viele Elemente wie möglich, die man von einer Sci-Fi-Kampagne erwarten würde, auf natürliche Weise einfließen zu lassen, und gleichzeitig den Ton und den Stil von FFGs Geschichten beizubehalten. Ich hoffe wirklich, dass noch mehr Leute das Arkham Horror-Kartenspiel nutzen werden, um Science-Fiction-Geschichten zu erzählen. Vielleicht eine Geschichte, die noch weiter in der Zukunft spielt, wie eine Weltraumoper? Oder eine Eins-zu-Eins-Umsetzung der Alien-Filme. Von mir wird es aber erstmal nichts mehr aus dieser düsteren Zukunft geben.\n\nAuf jeden Fall hoffe ich, dass euch diese Kampagne gefallen hat. Ich werde jetzt allerdings an meiner nächsten Kampagne arbeiten, zumindest, wenn ich in diesem <i>dunklen Zeitalter</i> Zeit dafür finde."
+        },
+        {
+          "id": "43078785",
+          "type": "interlude",
+          "name": "FAQ, Liste der Erfolge, Ultimatum, Credits",
+          "markdown": "# FAQ\n\nDiese Seite enthält Klarstellungen und häufig gestellte Regelfragen. Du solltest dieses Dokument nur lesen, wenn du dir nicht sicher bist, wie die Regeln in einer bestimmten Situation fünktionieren.\n\n### Scans\n*Dürfen wir uns die Rückseiten der Karten im Scan-Deck ansehen, um zu erfahren, nach welchen Symbolen wir noch erfolgreich scannen können?*\nUm Spoiler und Metagaming zu venneiden, solltet ihr das lieber nicht tun. Es gibt aber keine Regel, die es explizit verbietet. Falls ihr das also wirklich tun wollt, nur zu. Die Rückseite der obersten Karte des Scan-Decks ist außerdem immer eine offene Information.\n\n### Ermittlungsziele auf Nicht-Szenenkarten\nIn dieser Kampagne steht auch auf manchen Nicht-Szenenkarten ein Ermittlungsziel. Diese Ennittlungsziele unterliegen genau den gleichen Regeln wie Ermittlungsziele auf Szenenkarten.\n\n### Szenario I: Die Tatterdemalion\n<i>Was geschieht, wenn ich den <b>Lüftungsschacht</b> durch einen erzwungenen Effekt betrete (z.B. durch das Traumtor), mir aber die <agi>-Probe misslingt?</i>\n<vs>\nDu musst einen anderen Ort wählen, an den du dich durch den Erzwungen-Effekt bewegen kannst.\n<lvs>\n<i>Wie funktioniert <b>ULR-A21</b>? Kann ein Ermittler ohne <b>KI</b>-Karten ihn in einen Kampf verwickeln?</i>\n<vs>\nJa. Die Fähigkeit von URL-A21 ist nur aktiv, während dieser Gegner sich bewegt oder Ermittler automatisch in einen Kampf verwickelt. Ermittler ohne <b><i>KI</i></b>-Karten können ihn wie einen Gegner mit Zurückhaltend in einen Kampf verwickeln.\n<lvs>\n<i>Zählt für die Fähigkeit auf <b>Carcosas Erbin</b> ein Ermittler mit 0 seelischen Traumata als der Ermittler mit den wenigsten seelischen Traumata?</i>\n<vs>\nJa. Das bedeutet, dass jeder Ermittler mindestens 1 seelisches Trauma haben muss, damit ein Ermittler zusätzliche Erfahrungspunkte für diese Karte verdient.\n\n<i>Wie funktioniert <b>Szene 3a - Neu Verbunden</b>?</i>\n<vs>\nEin Ermittler, der sich im Kälteschlafquartier befindet, muss eine <b>Scannen</b>-Fähigkeit mit dem abgebildeten Symbol aktivieren, um das Ermittlungsziel zu erreichen. Die Szene rückt vor, nachdem diese Fähigkeit komplett abgehandelt wurde. Beachte, dass es mit der <b>Scannen</b>-Fähigkeit auf der Agenda nicht möglich ist, im Kälteschlafquartier nach diesem Symbol zu scannen. Du musst eine andere Möglichkeit finden, dort nach diesem Symbol zu scannen.\n\n<header>Szenario II: Elektrischer Albtraum</header>\n<size 7.6><i>Wie werde ich mit dem <b>Butzemann</b> fertig?</i>\n<vs>\nDa du ihm nicht entkommen kannst, solltest du deine Hinweise effizient ausgeben, um die Orte zu deinem Vorteil zu vertauschen. Als letzter Ausweg kann dich Majas Fähigkeit retten.\n\n<header>Szenario IIIa: Verlorene Quanten</header>\n<size 7.6><b>Hunde von Tindalos</b>\n<lvs>\n<i>Hab ich das richtig gelesen?</i>\n<vs>\nJa, der Kartentext auf den Hund von Tindalos-Gegnerkarten funktioniert genau so, wie er auf den Karten steht.\n<lvs>\n<i>Gut, aber was genau bedeutet es, wenn ein Hund von Tindalos zählt, als ob er mit mir in einen Kampf verwickelt ist?</i>\n<vs>\nEr unterliegt denselben Regeln wie ein Gewaltig-Gegner an deinem Ort. Solange du eine ungerade Anzahl an Karten auf der Hand hast, provozierst du Gelegenheitsangriffe vom Hund von Tindalos, und du kannst ihn angreifen und ihm entkommen. Solange du eine gerade Anzahl an Karten auf der Hand hast, kannst du nicht viel gegen ihn tun.\n<lvs>\n<i>Greift er alle Ermittler an, mit denen er in einen Kampf verwickelt ist?</i>\n<vs>\nJa, genau wie jeder andere Gewaltig-Gegner auch. Ein Hund von Tindalos greift in der Gegnerphase jeden Ermittler an, der eine ungerade Anzahl an Karten auf der Hand hat.\n<lvs>\n<i>Das ist aber noch nicht der komplizierteste Teil. Was passiert, wenn ich einen Hund von Tindalos angreife, während ich eine ungerade Anzahl an Karten auf der Hand habe, und dann eine meiner Handkarten zur Probe beitrage? Oder noch schlimmer: Was passiert, wenn ich einen Hund von Tindalos mit einem <b>Kampf</b>-Ereignis angreife?</i>\n<vs>\nIn jedem Fall ist nur deine Handkartenzahl zu dem Zeitpunkt wichtig, an dem du die Aktion/den Effekt/die Fähigkeit <b>initiierst</b>. Du kannst einen Hund von Tindalos also mit einem <b>Kampf</b>-Ereignis angreifen, wenn du direkt vor dem Ausspielen der Ereigniskarte eine ungerade Hand-kartenzahl hast. Beachte aber, dass seine Zurückschlagen-Fähigkeit auch wirkt, wenn du nach dem Angriff eine gerade Handkartenzahl hast.\n\n<i>Was passiert, wenn mir ein Angriff gegen einen Hund von Tindalos misslingt, der nicht mit mir in einen Kampf verwickelt ist? Erleidet dann jeder Ermittler, der mit ihm in einen Kampf verwickelt ist, den Schaden des Angriffs?</i>\n<vs>\nNein. Weil der Hund von Tindalos Gewaltig ist, wird dieser Teil der Angriffsregeln ignoriert.\n\n<b>Fragen, die nichts mit Hunden zu tun haben</b>\n<lvs>\n<i>Befinden sich <b>verdeckte Begegnungskarten</b> im Spiel?</i>\n<vs>\nNein. Sie sind nur von Regeln und Effekten betroffen, die sich explizit auf verdeckte Begegnungskarten beziehen.\n<lvs>\n<i>Darf ich mir merken, welche <b>verdeckte Begegnungskarte</b> welche ist?</i>\n<vs>\nJa, solange du nicht dazu aufgefordert wirst, sie zu mischen. In der Praxis macht das aber keinen großen Unterschied.\n<lvs>\n<i>Wie funktioniert der <b>Quantenkollaps</b>?</i>\n<vs>\nWenn du den Quantenkollaps ziehst, prüfst du zunächst, ob sich mindestens eine verdeckte Begegnungskarte in deiner Bedrohungszone befindet. Wenn ja, ziehst du alle verdeckten Begegnungskarte aus deiner Bedrohungszone, eine nach der anderen. Wenn nicht, legst du den Quantenkollaps verdeckt in deine Bedrohungszone. Falls du den Quantenkollaps aus deiner Bedrohungszone gezogen hast, nimmst du außerdem 1 Horror. Wenn du den Quantenkollaps aus deiner Bedrohungs-zone ziehst und er die einzige verdeckte Begegnungskarte in deiner Bedrohungszone war, wird er durch seinen eigenen Enthüllungseffekt wieder verdeckt in deine Bedrohungszone zurückgelegt.\n<lvs>\n<i>Wie funktioniert das <b>Agendadeck</b>?</i>\n<vs>\nDas Agendadeck besteht aus 3 Agendakarten, die während der Vorbereitung gemischt werden. Wenn eine Agenda vorrückt, drehst du die Karte um, handelst den Text auf ihrer Rückseite ab und legst sie zur Seite. Falls das Agendadeck danach leer ist, notierst du im Kampagnen-logbuch 1 Zählstrich unter „Drohendes Unheil“, mischst die Agenda-karten wieder und spielst mit diesem neuen Agendadeck aus drei Karten weiter. Nachdem du das Agendadeck „durchgespielt“ hast, wird es also wie zu Beginn des Szenarios „neu vorbereitet“.\n<lvs>\n<i>Wie platziere ich die <b>Orte</b> am sinnvollsten?</i>\n<vs>\nEs ist nicht Möglich, die Orte in diesem Szenario so auf einer flachen Oberfläche anzuordnen, dass sich die Verbindungen nicht überschneiden. Du musst einfach versuchen, dich nicht zu verlaufen!\n\n<header>Szenario IIIb: Im Schatten der Erde</header>\n<size 7.6><i>Wenn ich durch Szene 2b oder eine Auflösung <b>die Nachbildungen prüfen</b> muss, enthülle ich die Chaosmarker dann gleichzeitig oder nacheinander?</i>\n<vs>\nDu enthüllst die Chaosmarker nacheinander. Lege jeden enthüllten Chaosmarker in den Beutel zurück, bevor du den nächsten Marker enthüllst.\n\n<header>Szenario IIIc: Fremdartige Monde</header>\n<size 7.6><i>Darf der <b>Mi-Go-Wissenschaftler</b> am selben Ort bleiben, wenn er sich durch das Patrouille-Schlüsselwort bewegt?</i>\n<vs>\nNein. Der Mi-Go-Wissenschaftler muss sich während der Gegnerphase an einen anderen Ort bewegen, falls er nicht erschöpft ist.\n<lvs>\n<i>Wie interagieren <b>Gegner, von denen ich mich nicht lösen kann</b>, mit Effekten, die besagen, dass ich mich von Gegnern lösen muss?</i>\n<vs>\nAnweisungen, die etwas verbieten, sind absolut und können nicht von anderen Effekten überschrieben werden. Ignoriere einfach alle Effekte, die etwas anderes besagen.\nFalls du Luke Robinson spielst, bedeutet das, dass du die <i>Schatulle der Tore</i> nicht aktivieren kannst. Wenn du die Karte <i>Von der Realität losgelöst</i> ziehst, ist ihr Enthüllungseffekt wirkungslos.\n<lvs>\n<i>Wenn ich eine kombinierte Probe ablege, in der dieselbe Fertigkeit mehrfach vorkommt (z.B. eine </i><wil>+<wil><i>-Probe), zählen beigetragene Fertigkeitssymbole dann doppelt?</i>\n<vs>\nNein. In diesem Beispiel würde jedes beigetragene <wil>-Symbol den Gesamt-Fertigkeitswert nur um 1 erhöhen.\n\n<header>Szenario IV: Die Maschine in Gelb</header>\n<size 7.6><i>Wie interagieren <b>Gegner, von denen ich mich nicht lösen kann</b>, mit Effekten, die besagen, dass ich mich von Gegnern lösen muss?</i>\n<vs>\nAnweisungen, die etwas verbieten, sind absolut und können nicht von anderen Effekten überschrieben werden. Ignoriere einfach alle Effekte, die etwas anderes besagen.\nFalls du Luke Robinson spielst, bedeutet das, dass du die <i>Schatulle der Tore</i> nicht aktivieren kannst. Wenn du die Karte <i>Von der Realität losgelöst</i> ziehst, ist ihr Enthüllungseffekt wirkungslos.\n<lvs>\n<i>Welcher Ermittler muss den Hinweis ausgeben, um den Schaden der Erzwungen-Fähigkeit auf <b>Dein anderes Selbst</b> zu verhindern?</i>\n<vs>\nDer Ermittler, der den Schaden zufügt, muss den Hinweis ausgeben. (Er muss genug wissen, um zu erkennen, wer dein wahres Selbst ist!)\n\n<header>Szenario V: Bruchstück von Carcosa</header>\n<size 7.6><i>Mein Kopf tut weh. Warum tust du mir das an, Axolotl?</i>\n<vs>\nDas tut mir sehr Leid.\n<lvs>\n<i>Wie kann ich von der <b>Abschwörung des Throns</b> erfahren?</i>\n<vs>\nEs gibt innerhalb der aktuellen Regeln eine Möglichkeit dafür.\n(Tipp: Du musst etwas, das du schon weißt, aus einer anderen Perspektive betrachten.)\n\n<header>Szenario VI: Sternenschauer</header>\n<i>Kann ein <b>Raumschiff</b>-Ort an einen anderen <b>Raumschiff</b>-Ort angehängt werden?</i>\n<vs>\nJa. Die Raumschiffe können aneinander andocken!\n\n##Liste der Erfolge\n\nDie folgende Liste enthält Erfolge, die als zusätzlicher Ansporn für die Kampagne <i>Dunkle Materie</i> gedacht sind. Sobald ein Erfolg erreicht wird, kann dies durch einen Haken im Kästchen daneben gekennzeichnet werden. Es stellt eine wahre Herausforderung dar, all diese Erfolge zu erreichen!\n\n☐ **Die totale Erinnerung:** Gewinne das Szenario <i>Die Tatterdemalion</i>\n     mit leerem Scan-Deck.\n\n☐ <b>Luftschleusensequenz:</b> Besiege in <i>Die Tatterdemalion</i> drei Gegner\n     durch die Fähigkeit der Rettungskapselbucht.\n\n☐ <b>Geistige Stärke:</b> Besiege den Gedankenschatten in <i>Elektrischer\n     Albtraum</i>.\n\n☐     <b>Hochbegabt:</b> Besiege den Butzemann in <i>Elektrischer Albtraum</i>,\n     nachdem du weniger als 6<per_large> Hinweise in diesem Szenario\n     ausgegeben hast.\n\n☐    <b>Zeitlos:</b> Besiege alle drei Hunde von Tindalos in <i>Verlorene Quanten</i>.\n\n☐     <b>Retter der Nostalgia:</b> Rette in <i>Im Schatten der Erde</i> 5 oder mehr\n     <b><i>Crew</i></b>-Storyvorteilskarten und besiege das Wesen.\n\n☐     <b>Neurochirurg:</b> Gewinne <i>Fremdartige Monde</i> mit leerem Scan-Deck\n     und ohne dass einer <b><i>Gehirn</i></b>-Storyvorteilskarte Schaden zugefügt\n     wurde.\n\n☐     <b>Selbsthilfe:</b> Besiege alle Kopien von Dein anderes Selbst in\n     <i>Die Maschine in Gelb</i>, ohne während der letzten Szene\n     Hinweise auszugeben.\n\n☐     <b>Endzeit:</b> Gewinne die Kampagne <i>Dunkle Materie</i>, während sich\n     4 <elder_thing>-Marker, 3 <tablet>-Marker und kein <elder_sign>-Marker im Chaosbeutel\n     befinden.\n\n☐     <b>Zu spät:</b> Gewinne die Kampagne <i>Dunkle Materie</i> mit 12 oder mehr\n     Zählstrichen unter „Drohendes Unheil“.\n\n☐     <b>Mit der Vergangenheit abschließen:</b> Gewinne die Kampagne <i>Dunkle\n     Materie</i> mit mindestens 3 aktiven Ultimaten.\n\n☐    <b>Carcosas Erbin:</b> Gewinne die Kampagne <i>Dunkle Materie</i> auf dem\n     Schwierigkeitsgrad Experte, indem du Tassilda in <i>Sternenschauer</i>\n     besiegst.\n\n####Optionale Variante: Ultimatum\n\nIm Folgenden wird eine optionale Variante beschrieben, die verwendet werden kann, um den Schwierigkeitsgrad und die Spannung eines Szenarios oder der Kampagne noch weiter zu erhöhen. Bevor die Kampagne oder ein Einzelspielszenario vorbereitet wird, dürfen die Ermittler freiwillig so viele der folgenden Ultimaten auswählen, wie sie möchten. Jedes Ultimatum ist eine Einschränkung, eine Beschränkung oder eine zusätzliche Regel, die das Spiel schwerer macht. Man ist nicht gezwungen, bestimmte Ultimaten zu wählen. Alle Ermittler in einer Gruppe müssen sich einig sein, welche Ultimaten gewählt werden. Wenn die Ultimaten einmal gewählt sind, bleiben sie während des gesamten Szenarios (bzw. während der gesamten Kampagne) aktiv.\n\n\nIm Folgenden ist eine Liste von Ultimaten aufgeführt, die wir entwickelt haben. Sie können als Inspirationsquelle verwendet werden, um eigene Ultimaten zu entwerfen.\n\n☐  <b>Ultimatum des Unaussprechlichen Eids:</b> Immer, wenn ein Ermittler\n     während eines Szenarios (oder dessen Vorbereitung) den Namen\n     HASTUR oder den Namen TASSILDA laut ausspricht, nimmt er\n     sofort 1 Horror.\n\n☐     <b>Ultimatum des drohenden Unheils:</b> Beginne jedes Szenario mit so\n     vielen zusätzlichen Verderbensmarkern auf der ersten Agenda, wie\n     sich Zählstriche unter „Drohendes Unheil“ befinden.\n\n☐     <b>Ultimatum des Verschlingers:</b> Mische während der Vorbereitung\n     jedes Szenarios, in dem ein Scan-Deck verwendet wird, zusätzlich die\n     Gegnerkarte Der Verschlinger aus der Ferne in das Scan-Deck.\n\n☐     <b>Ultimatum der Unentrinnbarkeit:</b> Beginne die Kampagne mit\n     3 Zählstrichen unter „Drohendes Unheil“.\n\n☐     <b>Ultimatum der dunklen Vergangenheit:</b> Mische auch in Szenarien,\n     in denen das Begegnungsset Dunkle Vergangenheit normalerweise\n     nicht verwendet wird, während der Vorbereitung alle Karten des\n     Begegnungssets Dunkle Vergangenheit in das Begegnungsdeck. Wenn\n     sich während der Auflösung dieser Szenarien mindestens 1 Kopie der\n     Verratskarte Erinnerung im Siegpunktestapel befindet, wird dem\n     Chaosbeutel für den Rest der Kampagne ein <tablet>-Marker hinzugefügt.\n     Falls du während der Kampagne dem Chaosbeutel einen <tablet>-Marker\n     hinzufügen müsstest, während sich bereits 4 <tablet>-Marker im\n     Chaosbeutel befinden, erleidet stattdessen jeder Ermittler 1 seelisches\n     Trauma.\n\n☐     <b>Ultimatum der Erkundung:</b> Mische nach jedem erfolgreichen Scan\n     die oberste Karte des Begegnungsdecks in das Scan-Deck. Beim\n     Scannen werden Karten ohne Scan-Deck-Rückseite behandelt, als ob\n     sie jedes Symbol hätten. Wenn du bei einem Scan eine Karte\n     ohne Scan-Deck-Rückseite ziehst, gilt der Scan als misslungen.\n\n☐     <b>Ultimatum des Anachronismus:</b> Als zusätzliche Kosten, um eine\n     einzigartige Nicht-Storyvorteilskarte auszuspielen, muss du 1 deiner\n     „Erinnerungen“ durchstreichen.\n\n\n# Credits\n\n<b>Designed by:</b> Axolotl\n**Science Expansion designed by:** Axolotl, Dr. Xavier Bertou, Levi Thornton (The Cardboardnaut) and Mint Tea Fan\n<b>Special thanks (in no particular order):</b> MJGrenier, bluehg (Pat), Ekthelion, Jaxtraxi, Éole, Syndicateassassin, The Beard, Zow Martinez, Spencer Wilkinson, Goober, Knot_I, CSerpentine, DerBK, Dr. Jack Science, Zinjanthr0pus, LordHypnos, toastsushi, HarrsonF, <b>Tofu Mushroom</b> (who played the WIP version over 10 times!), CuddlyZombie, dantrolene, zyloemm, Gold, Curtis, Thoth, Tranman, Iados_Kairon, zzorba, Pax Cecilia, SpiritReacher, Jam, Lew, ArtemisHarp and their stream on twitch, Kodab Games and their stream on twitch, PlayingBoardGames and their youtube channel, the <b>MythosBusters</b>, the SCED developers, Jefferson, bigstupidgrin, TerranChef, Serendipigans, Pugtato, brandonglee123, mnBroncos, AnJoPeC, Argus, hunter5a, socraticmethod, TheBudiez, Bires, <b>Sycopath</b>, Antimarkovnikov, BuertoMateo, BMac, ElseWhere (check out the Strength in Numbers blog!), LuChu, etc. (Hope I didn't forget anyone.)\n\nThanks to those mentioned above for unspeakable help, whether intentionally or through discussion, without them this campaign would not have been possible.\n\nThanks to the amazing design framework created by MJ Newman, Nate French und everyone involved in Arkham Horror: The Card Game at FFG.\n\n<i>This campaign is an unofficial fan creation and in no way endorsed by Fantasy Flight Games. All rights to artwork belong to the relevant artists.</i>\n\n## Deutsche Version</header>\n<b>Lokalisierung:</b> Magnus Upmann"
+        }
+      ]
+    }
+  ]
+}
