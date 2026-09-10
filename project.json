@@ -486,7 +486,19 @@
                 "illustrator": "Illus. Chase Norton"
             },
             "back": {
-                "type": "encounter"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "hourglass",
+                    "triangle",
+                    "clover",
+                    "square",
+                    "double_slash",
+                    "diamond"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "1",
             "project_number": 282,
@@ -676,7 +688,7 @@
                 "index": "1a"
             },
             "back": {
-                "type": "agenda_back",
+                "type": "act_agenda_full_back",
                 "illustration": "./images/explosion.jpg",
                 "illustration_scale": 2.1649,
                 "illustration_pan_x": 72,
@@ -823,7 +835,7 @@
                 "index": "3a"
             },
             "back": {
-                "type": "act_back",
+                "type": "act_agenda_full_back",
                 "illustration": "./images/gate - unknown.jpg",
                 "illustration_scale": 1.25,
                 "illustration_pan_x": -78,
@@ -1162,11 +1174,11 @@
                 "illustration_pan_y": 1036
             },
             "back": {
-                "type": "encounter",
-                "illustration": "./images/Scanning - Cybervirus.png",
-                "illustration_scale": 2,
-                "illustration_pan_x": 72,
-                "illustration_pan_y": 72
+                "type": "fullart_scanning",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "clover"
+                ]
             },
             "encounter_number": "16",
             "project_number": 16,
@@ -1195,11 +1207,15 @@
                 "illustrator": "Illus. Jeff Miller"
             },
             "back": {
-                "type": "story",
-                "illustration": "./images/Scanning - Eva Suit.png",
-                "illustration_scale": 2,
-                "illustration_pan_x": 72,
-                "illustration_pan_y": 72
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "square",
+                    "crescent"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "17",
             "project_number": 17,
@@ -1215,7 +1231,14 @@
                 "level": "None"
             },
             "back": {
-                "type": "story"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "t"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "18",
             "project_number": 18,
@@ -1242,11 +1265,14 @@
                 "illustration_pan_y": 52
             },
             "back": {
-                "type": "story",
-                "illustration": "./images/Scanning - Heir to Carcosa.png",
-                "illustration_scale": 2,
-                "illustration_pan_x": 72,
-                "illustration_pan_y": 72
+                "type": "fullart_scanning",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "double_slash"
+                ],
+                "copyright": " ",
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "19",
             "project_number": 19,
@@ -1262,7 +1288,14 @@
                 "level": "None"
             },
             "back": {
-                "type": "story"
+                "type": "fullart_scanning",
+                "illustration": "./images/scanningBack.png",
+                "copyright": " ",
+                "connections": [
+                    "clover"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "20",
             "project_number": 20,
@@ -1293,11 +1326,14 @@
                 "illustrator": "Illus. GG-arts"
             },
             "back": {
-                "type": "encounter",
-                "illustration": "./images/Scanning - Jenny Voight.png",
-                "illustration_scale": 2,
-                "illustration_pan_x": 72,
-                "illustration_pan_y": 72
+                "type": "fullart_scanning",
+                "illustration": "./images/scanningBack.png",
+                "copyright": " ",
+                "connections": [
+                    "t"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "21",
             "project_number": 21,
@@ -1313,7 +1349,15 @@
                 "level": "None"
             },
             "back": {
-                "type": "story"
+                "type": "fullart_scanning",
+                "illustration": "./images/scanningBack.png",
+                "copyright": " ",
+                "connections": [
+                    "t",
+                    "clover"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "22",
             "project_number": 22,
@@ -1342,11 +1386,16 @@
                 "illustrator": "Illus. Frankie Perez"
             },
             "back": {
-                "type": "encounter",
-                "illustration": "./images/Scanning - LR-02 Hali.png",
-                "illustration_scale": 2,
-                "illustration_pan_x": 72,
-                "illustration_pan_y": 72
+                "type": "fullart_scanning",
+                "illustration": "./images/scanningBack.png",
+                "copyright": " ",
+                "connections": [
+                    "triangle",
+                    "circle",
+                    "cross"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "23",
             "project_number": 23,
@@ -1373,11 +1422,14 @@
                 "illustrator": "Illus. Ivan Robert Vasquez"
             },
             "back": {
-                "type": "story",
-                "illustration": "./images/Scanning - Medical Foam.png",
-                "illustration_scale": 2,
-                "illustration_pan_x": 72,
-                "illustration_pan_y": 72
+                "type": "fullart_scanning",
+                "illustration": "./images/scanningBack.png",
+                "copyright": " ",
+                "connections": [
+                    "heart"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "24",
             "project_number": 24,
@@ -1403,11 +1455,17 @@
                 "illustrator": "Illus. omen2501"
             },
             "back": {
-                "type": "story",
-                "illustration": "./images/Scanning - Mind-Machine Interface.png",
-                "illustration_scale": 2,
-                "illustration_pan_x": 72,
-                "illustration_pan_y": 72
+                "type": "fullart_scanning",
+                "illustration": "./images/scanningBack.png",
+                "copyright": " ",
+                "connections": [
+                    "triangle",
+                    "cross",
+                    "hourglass",
+                    "t"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "25",
             "project_number": 25,
@@ -1433,11 +1491,14 @@
                 "illustrator": "Illus. Margaret Owen"
             },
             "back": {
-                "type": "story",
-                "illustration": "./images/heart.png",
-                "illustration_scale": 2,
-                "illustration_pan_x": 72,
-                "illustration_pan_y": 72
+                "type": "fullart_scanning",
+                "illustration": "./images/scanningBack.png",
+                "copyright": " ",
+                "connections": [
+                    "heart"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "26",
             "project_number": 26,
@@ -1453,7 +1514,15 @@
                 "level": "None"
             },
             "back": {
-                "type": "story"
+                "type": "fullart_scanning",
+                "illustration": "./images/scanningBack.png",
+                "copyright": " ",
+                "text": "\n\n\n\n",
+                "connections": [
+                    "star"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "27",
             "project_number": 27,
@@ -1484,13 +1553,13 @@
                 "illustrator": "Illus.  saratarr2"
             },
             "back": {
-                "type": "location_back",
-                "illustration": "./images/vent - saratarr2.jpg",
-                "illustration_scale": 1.0714,
-                "illustration_pan_x": 72,
-                "illustration_pan_y": 40,
-                "connection": "<copy>",
-                "connections": "<copy>"
+                "type": "fullart_scanning",
+                "illustration": "./images/scanningBack.png",
+                "text": "",
+                "connections": [
+                    "circle",
+                    "cross"
+                ]
             },
             "encounter_number": "28",
             "project_number": 28,
@@ -1506,7 +1575,15 @@
                 "level": "None"
             },
             "back": {
-                "type": "story"
+                "type": "fullart_scanning",
+                "illustration": "./images/scanningBack.png",
+                "copyright": " ",
+                "connections": [
+                    "crescent",
+                    "hourglass"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "29",
             "project_number": 29,
@@ -1522,7 +1599,14 @@
                 "level": "None"
             },
             "back": {
-                "type": "story"
+                "type": "fullart_scanning",
+                "illustration": "./images/scanningBack.png",
+                "copyright": " ",
+                "connections": [
+                    "triangle"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "30",
             "project_number": 30,
@@ -3062,7 +3146,7 @@
                 "illustrator": "Illus. Ben Olson"
             },
             "back": {
-                "type": "player"
+                "type": "encounter"
             },
             "encounter_number": "9",
             "project_number": 77,
@@ -3125,13 +3209,13 @@
                 "illustrator": "Illus. Marton Antal"
             },
             "back": {
-                "type": "location_back",
-                "illustration": "./images/astroilf marton-antal.jpg",
-                "illustration_scale": 0.945,
-                "illustration_pan_x": -85,
-                "illustration_pan_y": 240,
-                "connection": "<copy>",
-                "connections": "<copy>"
+                "type": "fullart_scanning",
+                "illustration": "./images/scanningBack.png",
+                "copyright": " ",
+                "text": "",
+                "connections": "<copy>",
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "11",
             "project_number": 79,
@@ -3162,13 +3246,13 @@
                 "illustrator": "Illus. Dominiquevvelsen"
             },
             "back": {
-                "type": "location_back",
-                "illustration": "./images/thunder_peak - dominiquevvelsen.jpg",
-                "illustration_scale": 1.6393,
-                "illustration_pan_x": -154,
-                "illustration_pan_y": 240,
-                "connection": "<copy>",
-                "connections": "<copy>"
+                "type": "fullart_scanning",
+                "illustration": "./images/scanningBack.png",
+                "copyright": " ",
+                "text": "",
+                "connections": "<copy>",
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "12",
             "project_number": 80,
@@ -3200,13 +3284,14 @@
                 "illustrator": "Illus. Richard Bizley"
             },
             "back": {
-                "type": "location_back",
-                "illustration": "./images/ice spires richard-bizleycallisto.jpg",
-                "illustration_scale": 2.7778,
-                "illustration_pan_x": -10,
-                "illustration_pan_y": 240,
+                "type": "fullart_scanning",
+                "illustration": "./images/scanningBack.png",
+                "copyright": " ",
+                "text": "",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "13",
             "project_number": 81,
@@ -3236,13 +3321,13 @@
                 ]
             },
             "back": {
-                "type": "location_back",
-                "illustration": "./images/landing yong-bin-tan.jpg",
-                "illustration_scale": 1.0185,
-                "illustration_pan_x": -156,
-                "illustration_pan_y": 240,
-                "connection": "<copy>",
-                "connections": "<copy>"
+                "type": "fullart_scanning",
+                "illustration": "./images/scanningBack.png",
+                "copyright": " ",
+                "text": "",
+                "connections": "<copy>",
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "8",
             "project_number": 76,
@@ -3274,13 +3359,13 @@
                 "illustrator": "Illus. Rafal Banasiak"
             },
             "back": {
-                "type": "location_back",
-                "illustration": "./images/facility - rafal-banasiak.jpg",
-                "illustration_scale": 0.96,
-                "illustration_pan_x": -172,
-                "illustration_pan_y": 237,
-                "connection": "<copy>",
-                "connections": "<copy>"
+                "type": "fullart_scanning",
+                "illustration": "./images/scanningBack.png",
+                "copyright": " ",
+                "text": "",
+                "connections": "<copy>",
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "14",
             "project_number": 82,
@@ -3311,13 +3396,13 @@
                 "illustrator": "Illus. Sim Singh"
             },
             "back": {
-                "type": "location_back",
-                "illustration": "./images/station sim-singh .jpg",
-                "illustration_scale": 1.3366,
-                "illustration_pan_x": -834,
-                "illustration_pan_y": 232,
-                "connection": "<copy>",
-                "connections": "<copy>"
+                "type": "fullart_scanning",
+                "illustration": "./images/scanningBack.png",
+                "copyright": " ",
+                "text": "",
+                "connections": "<copy>",
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "15",
             "project_number": 83,
@@ -3349,13 +3434,17 @@
                 "illustrator": "Illus. Shaun Kelly"
             },
             "back": {
-                "type": "location_back",
-                "illustration": "./images/mines - shaun-kelly .jpg",
-                "illustration_scale": 1.26,
-                "illustration_pan_x": -477,
-                "illustration_pan_y": 232,
-                "connection": "<copy>",
-                "connections": "<copy>"
+                "type": "fullart_scanning",
+                "illustration": "./images/scanningBack.png",
+                "copyright": " ",
+                "text": "",
+                "connections": [
+                    "square",
+                    "crescent",
+                    "double_slash"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "16",
             "project_number": 84,
@@ -3385,13 +3474,13 @@
                 "illustrator": "Illus. Brandon Hahn"
             },
             "back": {
-                "type": "location_back",
-                "illustration": "./images/asteroid base brandon-hahn.jpg",
-                "illustration_scale": 0.6517,
-                "illustration_pan_x": -147,
-                "illustration_pan_y": 232,
-                "connection": "<copy>",
-                "connections": "<copy>"
+                "type": "fullart_scanning",
+                "illustration": "./images/scanningBack.png",
+                "copyright": " ",
+                "text": "",
+                "connections": "<copy>",
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "17",
             "project_number": 85,
@@ -4225,7 +4314,15 @@
                 "illustrator": "Illus. Deiv Calviz"
             },
             "back": {
-                "type": "player"
+                "type": "fullart_scanning",
+                "illustration": "./images/scanningBack.png",
+                "copyright": " ",
+                "connections": [
+                    "diamond",
+                    "double_slash"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "19",
             "project_number": 112,
@@ -4255,7 +4352,15 @@
                 "illustrator": "Illus. Sharpwriter"
             },
             "back": {
-                "type": "player"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "t",
+                    "hourglass"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "20",
             "project_number": 113,
@@ -4285,7 +4390,15 @@
                 "illustrator": "Illus. Carolane Bruneau"
             },
             "back": {
-                "type": "player"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "clover",
+                    "diamond"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "21",
             "project_number": 114,
@@ -4315,7 +4428,15 @@
                 "illustrator": "Illus. Deiv Calviz"
             },
             "back": {
-                "type": "player"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "double_slash",
+                    "t"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "22",
             "project_number": 115,
@@ -4344,7 +4465,15 @@
                 "illustration_pan_y": 176
             },
             "back": {
-                "type": "player"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "square",
+                    "clover"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "23",
             "project_number": 116,
@@ -4374,7 +4503,15 @@
                 "illustrator": "Illus. Deiv Calviz"
             },
             "back": {
-                "type": "player"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "hourglass",
+                    "square"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "24",
             "project_number": 117,
@@ -5336,13 +5473,16 @@
                 "illustrator": "Illus. Spiros Karkav"
             },
             "back": {
-                "type": "location_back",
-                "illustration": "./images/school grounds spiros-karkav.jpg",
-                "illustration_scale": 1.3221,
-                "illustration_pan_x": -91,
-                "illustration_pan_y": 232,
-                "connection": "<copy>",
-                "connections": "<copy>"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "text": "",
+                "connections": [
+                    "triangle",
+                    "square"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "18",
             "project_number": 152,
@@ -5373,13 +5513,16 @@
                 ]
             },
             "back": {
-                "type": "location_back",
-                "illustration": "./images/space ship 4.jpg",
-                "illustration_scale": 2.48,
-                "illustration_pan_x": -81,
-                "illustration_pan_y": -467,
-                "connection": "<copy>",
-                "connections": "<copy>"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "text": "",
+                "connections": [
+                    "triangle",
+                    "diamond"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "19",
             "project_number": 153,
@@ -5410,13 +5553,16 @@
                 ]
             },
             "back": {
-                "type": "location_back",
-                "illustration": "./images/Image05-120532-2030205769.jpeg",
-                "illustration_scale": 1.8,
-                "illustration_pan_x": -898,
-                "illustration_pan_y": 231,
-                "connection": "<copy>",
-                "connections": "<copy>"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "text": "",
+                "connections": [
+                    "clover",
+                    "double_slash"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "20",
             "project_number": 154,
@@ -5447,13 +5593,16 @@
                 ]
             },
             "back": {
-                "type": "location_back",
-                "illustration": "./images/86443b70fc08d2aa14468e6d417b75fa.jpg",
-                "illustration_scale": 1.6,
-                "illustration_pan_x": 13,
-                "illustration_pan_y": 247,
-                "connection": "<copy>",
-                "connections": "<copy>"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "text": "",
+                "connections": [
+                    "triangle",
+                    "double_slash"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "21",
             "project_number": 155,
@@ -5485,13 +5634,16 @@
                 "illustrator": "Illus. Frej Agelli"
             },
             "back": {
-                "type": "location_back",
-                "illustration": "./images/frej-agelii-eh07-16855-ulthar-frejagelii.jpg",
-                "illustration_scale": 1.32,
-                "illustration_pan_x": -121,
-                "illustration_pan_y": -457,
-                "connection": "<copy>",
-                "connections": "<copy>"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "text": "",
+                "connections": [
+                    "clover",
+                    "square"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "22",
             "project_number": 156,
@@ -5522,13 +5674,16 @@
                 "illustrator": "Illus. Moksha Marquardt"
             },
             "back": {
-                "type": "location_back",
-                "illustration": "./images/5516607-LESACHQM-7.jpg",
-                "illustration_scale": 1.9481,
-                "illustration_pan_x": 72,
-                "illustration_pan_y": 40,
-                "connection": "<copy>",
-                "connections": "<copy>"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "text": "",
+                "connections": [
+                    "clover",
+                    "diamond"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "23",
             "project_number": 157,
@@ -5544,7 +5699,15 @@
                 "level": "None"
             },
             "back": {
-                "type": "chaos"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "hourglass",
+                    "diamond"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "24",
             "project_number": 158,
@@ -5560,7 +5723,15 @@
                 "level": "None"
             },
             "back": {
-                "type": "chaos"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "hourglass",
+                    "double_slash"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "25",
             "project_number": 159,
@@ -5576,7 +5747,15 @@
                 "level": "None"
             },
             "back": {
-                "type": "chaos"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "hourglass",
+                    "square"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "26",
             "project_number": 160,
@@ -6907,7 +7086,7 @@
                 "level": "None"
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
             "encounter_number": "16",
             "project_number": 203,
@@ -6923,7 +7102,7 @@
                 "level": "None"
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
             "encounter_number": "17",
             "project_number": 204,
@@ -6939,7 +7118,7 @@
                 "level": "None"
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
             "encounter_number": "18",
             "project_number": 205,
@@ -6955,7 +7134,7 @@
                 "level": "None"
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
             "encounter_number": "19",
             "project_number": 206,
@@ -7449,7 +7628,7 @@
                 "index": "3a"
             },
             "back": {
-                "type": "agenda_back",
+                "type": "act_agenda_full_back",
                 "illustration": "./images/supernova.jpg",
                 "illustration_scale": 4,
                 "illustration_pan_x": -926,
@@ -7861,13 +8040,16 @@
                 "connection": "quote"
             },
             "back": {
-                "type": "location_back",
-                "illustration": "./images/endtimes.jpg",
-                "illustration_scale": 0.5093,
-                "illustration_pan_x": -285,
-                "illustration_pan_y": 240,
-                "connection": "<copy>",
-                "connections": "<copy>"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "text": "",
+                "connections": [
+                    "t",
+                    "triangle"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "17",
             "project_number": 238,
@@ -7897,13 +8079,13 @@
                 "illustrator": "Illus. Cristi Balanescu"
             },
             "back": {
-                "type": "location_back",
-                "illustration": "./images/asteroidbase cristi-balanescu .jpg",
-                "illustration_scale": 1.0763,
-                "illustration_pan_x": 50,
-                "illustration_pan_y": 232,
-                "connection": "<copy>",
-                "connections": "<copy>"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "text": "",
+                "connections": "<copy>",
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "18",
             "project_number": 239,
@@ -7929,13 +8111,16 @@
                 "illustrator": "Illus. unknown"
             },
             "back": {
-                "type": "location_back",
-                "illustration": "./images/0_derelict - unknown.jpg",
-                "illustration_scale": 1.375,
-                "illustration_pan_x": -57,
-                "illustration_pan_y": 240,
-                "connection": "<copy>",
-                "connections": "<copy>"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "text": "",
+                "connections": [
+                    "t",
+                    "triangle"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "19",
             "project_number": 240,
@@ -7966,13 +8151,13 @@
                 "illustrator": "Illus. Korl Sollich"
             },
             "back": {
-                "type": "location_back",
-                "illustration": "./images/ruins - korl sollich.jpg",
-                "illustration_scale": 1.1,
-                "illustration_pan_x": -155,
-                "illustration_pan_y": 240,
-                "connection": "<copy>",
-                "connections": "<copy>"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "text": "",
+                "connections": "<copy>",
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "20",
             "project_number": 241,
@@ -8002,13 +8187,13 @@
                 "illustrator": "Illus. Pixoloid Studio"
             },
             "back": {
-                "type": "location_back",
-                "illustration": "./images/underground Pixoloid Studio.jpg",
-                "illustration_scale": 0.88,
-                "illustration_pan_x": -58,
-                "illustration_pan_y": 240,
-                "connection": "<copy>",
-                "connections": "<copy>"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "text": "",
+                "connections": "<copy>",
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "21",
             "project_number": 242,
@@ -8033,13 +8218,17 @@
                 "connection": "double_slash"
             },
             "back": {
-                "type": "location_back",
-                "illustration": "./images/moonbase tuchong.jpg",
-                "illustration_scale": 1.56,
-                "illustration_pan_x": -176,
-                "illustration_pan_y": -195,
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "text": "",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": [
+                    "t",
+                    "triangle"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "22",
             "project_number": 243,
@@ -8069,14 +8258,13 @@
                 "illustrator": "Illus. Paul Siedler"
             },
             "back": {
-                "type": "location_back",
-                "illustration": "./images/portal paul-siedler.jpg",
-                "illustration_scale": 1.3447,
-                "illustration_pan_x": -639,
-                "illustration_pan_y": 224,
-                "illustration_rotation": 0.4,
-                "connection": "<copy>",
-                "connections": "<copy>"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "text": "",
+                "connections": "<copy>",
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "23",
             "project_number": 244,
@@ -8092,7 +8280,15 @@
                 "level": "None"
             },
             "back": {
-                "type": "story"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "text": null,
+                "connections": [
+                    "cross"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "30",
             "project_number": 251,
@@ -8117,7 +8313,14 @@
                 "illustration_pan_y": 198
             },
             "back": {
-                "type": "player"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "diamond"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "25",
             "project_number": 246,
@@ -8143,7 +8346,15 @@
                 "illustrator": "Illus. Robert Murray"
             },
             "back": {
-                "type": "player"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "circle",
+                    "triangle"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "27",
             "project_number": 248,
@@ -8169,7 +8380,14 @@
                 "illustrator": "Illus. Jarling Art"
             },
             "back": {
-                "type": "player"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "clover"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "29",
             "project_number": 250,
@@ -8196,7 +8414,14 @@
                 "illustration_pan_y": 232
             },
             "back": {
-                "type": "player"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "diamond"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "24",
             "project_number": 245,
@@ -8224,7 +8449,15 @@
                 "illustration_pan_y": 17
             },
             "back": {
-                "type": "player"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "circle",
+                    "triangle"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "26",
             "project_number": 247,
@@ -8252,7 +8485,14 @@
                 "illustrator": "Illus. Berulieu"
             },
             "back": {
-                "type": "player"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "clover"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "28",
             "project_number": 249,
@@ -8279,7 +8519,17 @@
                 "illustration_pan_y": 1083
             },
             "back": {
-                "type": "encounter"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "t",
+                    "triangle",
+                    "double_slash",
+                    "hourglass"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "31",
             "project_number": 252,
@@ -8307,7 +8557,15 @@
                 "illustrator": "Illus. Kroatosh"
             },
             "back": {
-                "type": "encounter"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "heart",
+                    "diamond"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "32",
             "project_number": 253,
@@ -8323,7 +8581,14 @@
                 "level": "None"
             },
             "back": {
-                "type": "story"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "hourglass"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "34",
             "project_number": 255,
@@ -8349,7 +8614,15 @@
                 "illustration_pan_y": -164
             },
             "back": {
-                "type": "player"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "quote",
+                    "cross"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "35",
             "project_number": 256,
@@ -8377,7 +8650,16 @@
                 "illustrator": "Illus. Unknown"
             },
             "back": {
-                "type": "encounter"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "circle",
+                    "triangle",
+                    "square"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "33",
             "project_number": 254,
@@ -8403,7 +8685,15 @@
                 "illustrator": "Illus. Soft-h"
             },
             "back": {
-                "type": "player"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "double_slash",
+                    "hourglass"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "36",
             "project_number": 257,
@@ -8430,7 +8720,15 @@
                 "illustration_pan_y": 64
             },
             "back": {
-                "type": "player"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "double_slash",
+                    "diamond"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "37",
             "project_number": 258,
@@ -8457,7 +8755,15 @@
                 "illustration_pan_y": 232
             },
             "back": {
-                "type": "player"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "square",
+                    "quote"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "38",
             "project_number": 259,
@@ -8484,7 +8790,16 @@
                 "illustration_pan_y": -308
             },
             "back": {
-                "type": "player"
+                "type": "fullart_scanning",
+                "copyright": " ",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "crescent",
+                    "clover",
+                    "hourglass"
+                ],
+                "collection_icon": "",
+                "collection_number": ""
             },
             "encounter_number": "39",
             "project_number": 260,
