@@ -9026,8 +9026,7 @@
             "name": "Germanium Detector",
             "front": {
                 "type": "asset",
-                "traits": "Gegenstand. Werkzeug. Wissenschaft.",
-                "text": "Entdeckt (3 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<action> Ersch\u00f6pfe den <name>: W\u00e4hle einen enth\u00fcllten Ort. Bis zum Ende der Runde bekommt der gew\u00e4hlte Ort -2 Schleier, und Ermittler k\u00f6nnen Scannen-F\u00e4higkeiten ausf\u00fchren, als ob sie sich am gew\u00e4hlten Ort bef\u00e4nden.",
+                "text": "Researched (3 experience and 1 \"Memories\").\n<action> Exhaust Germanium Detector: Choose any revealed location. That location gets -2 shroud and investigators may perform <b>Scan</b> abilities as if they were at that location until the end of the round.",
                 "cost": "2",
                 "slot": "1 Hand",
                 "flavor_text": "",
@@ -9044,7 +9043,8 @@
                 ],
                 "collection_icon": "<image color=\"inverted\" src=\"C:/Users/jbalota/Downloads/return_to_curtain_call (1).svg\">",
                 "collection_number": "11",
-                "illustration": "./images/xx/Purchasable Science Cards/3_Germanium_Detector-1.png"
+                "illustration": "./images/xx/Purchasable Science Cards/3_Germanium_Detector-1.png",
+                "traits": "Item. Tool. Science."
             },
             "back": {
                 "type": "player"
@@ -9058,8 +9058,7 @@
             "name": "International Collaboration",
             "front": {
                 "type": "asset",
-                "traits": "Wissenschaft.",
-                "text": "Entdeckt (2 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<reaction> Sobald du durch einen Spielerkarteneffekt Ressourcen erhalten oder Karten ziehen w\u00fcrdest, ersch\u00f6pfe die <name>: Ein anderer Ermittler deiner Wahl erh\u00e4lt stattdessen die Ressourcen bzw. zieht entsprechend viele Karten.",
+                "text": "Researched (2 experience and 1 \"Memories\").\n<reaction> When you would gain resources or draw cards from a player card effect, exhaust International Collaboration: Choose any investigator. That investigator may gain that many resources or draw that many cards instead.",
                 "cost": "0",
                 "flavor_text": "",
                 "classes": [
@@ -9071,7 +9070,8 @@
                 "illustration_pan_x": -214.0,
                 "illustration_pan_y": 231.0,
                 "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
-                "collection_number": "13"
+                "collection_number": "13",
+                "traits": "Science."
             },
             "back": {
                 "type": "player"
@@ -9085,9 +9085,8 @@
             "name": "Nuclear Power Bank",
             "front": {
                 "type": "asset",
-                "subtitle": "Sicher und effizient",
-                "traits": "Wissenschaft.",
-                "text": "Entdeckt (3 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\nJeder Ermittler an deinem Ort kann Ressourcen vom Kern-reaktor ausgeben, um Kosten von Ereigniskarten zu bezahlen.\n<for> Am Ende der Runde: Lege 2 Ressourcen aus dem Markervorrat auf den <name>. Falls danach 5 oder mehr Ressourcen auf dem <name> liegen, lege ihn ab und f\u00fcge jedem Ermittler und jedem Gegner an deinem Ort 2 Schaden zu.",
+                "subtitle": "Safe and Efficient",
+                "text": "Researched (3 experience and 1 \"Memories\").\nResources on Nuclear Power Bank may be spent to pay for events played by any investigator at your location.\n<for> When the round ends: Add 2 resource tokens on this card. If it has 5 or more resources, discard it and deal 2 damage to each enemy and investigator at your location.",
                 "cost": "2",
                 "flavor_text": "",
                 "classes": [
@@ -9097,7 +9096,8 @@
                 "icons": "CC",
                 "illustration": "./images/nuclearPowerBank.jpg",
                 "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
-                "collection_number": "15"
+                "collection_number": "15",
+                "traits": "Science."
             },
             "back": {
                 "type": "player"
@@ -9111,9 +9111,8 @@
             "name": "Machine Learning Algorithm",
             "front": {
                 "type": "asset",
-                "subtitle": "Un\u00fcberwacht",
-                "traits": "Werkzeug. Wissenschaft.",
-                "text": "Entdeckt (2 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<reaction> Nachdem ein Ermittler an deinem Ort eine Fertigkeitsprobe abgeschlossen hat, ersch\u00f6pfe <name>: Bis zum Ende der Runde bekommt jener Ermittler bei allen Fertigkeitsproben derselben Art, die er ablegt, +1 auf seinen Fertigkeits-<br>wert.",
+                "subtitle": "Unsupervised",
+                "text": "Researched (2 experience and 1 \"Memories\").\n<reaction> After an investigator at your location performs a skill test, exhaust Machine Learning Algorithm: That investigator gets +1 to all skill tests of the same type until the end of the round.",
                 "cost": "0",
                 "flavor_text": "",
                 "classes": [
@@ -9123,7 +9122,8 @@
                 "icons": "Q",
                 "illustration": "./images/edited_images/machineLearningAlgorithm.jpg",
                 "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
-                "collection_number": "14"
+                "collection_number": "14",
+                "traits": "Tool. Science."
             },
             "back": {
                 "type": "player"
@@ -9137,8 +9137,7 @@
             "name": "Rational Mind",
             "front": {
                 "type": "asset",
-                "traits": "Wissenschaft.",
-                "text": "Entdeckt (3 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<reaction> Sobald du eine <t>Wissenschaft</t>-Karte ausspielst: Platziere 1 Ressource aus dem Markervorrat als Beweis auf diese Karte.\nSolange <name>\u2026\n<bullet> \u20261 oder mehr Beweise hat, bekommst du +1 <willpower>.\n<bullet> \u20262 oder mehr Beweise hat, bekommst du +1 <intellect>.\n<bullet> \u20263 oder mehr Beweise hat, bekommst du +1 geisitge Gesundheit.",
+                "text": "Researched (3 experience and 1 \"Memories\").\n<reaction> When you play a S<t>cience </t>card: Place 1 resource (from the token pool) on this card, as evidence.<br>While Rational Mind has\u2026\n<bullet> \u20261 or more evidence, you get +1 <willpower>.\n<bullet> \u20262 or more evidence, you get +1 <intellect>.\n<bullet> \u20263 or more evidence, you get +1 sanity.",
                 "cost": "0",
                 "flavor_text": "",
                 "classes": [
@@ -9151,7 +9150,8 @@
                 "illustration_pan_x": 50.0,
                 "illustration_pan_y": 80.0,
                 "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
-                "collection_number": "17"
+                "collection_number": "17",
+                "traits": "Science."
             },
             "back": {
                 "type": "player"
@@ -9166,9 +9166,8 @@
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
-                "subtitle": "Raum und Zeit",
-                "traits": "Buch. Wissenschaft.",
-                "text": "Entdeckt (5 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<action> Nimm 1 direkten Horror: Sieh dir die andere Seite einer Ortskarte im Spiel an. Falls die andere Seite\u2026\n<bullet> \u2026einen enth\u00fcllten Ort zeigt, drehe die Ortskarte auf ihre andere Seite.\n<bullet> \u2026irgendetwas anderes zeigt, bewege dich direkt an den gew\u00e4hlten Ort.",
+                "subtitle": "Space and Time",
+                "text": "Researched (5 experience and 1 \"Memories\").\n<action> Take 1 direct horror: Peek at the other side of any location. If it is\u2026\n<bullet> \u2026a revealed location, flip that location.\n<bullet> \u2026anything else, Move. Move to that location.",
                 "cost": "2",
                 "slot": "1 Hand",
                 "flavor_text": "",
@@ -9183,7 +9182,8 @@
                     "hand"
                 ],
                 "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
-                "collection_number": "19"
+                "collection_number": "19",
+                "traits": "Science. Tome."
             },
             "back": {
                 "type": "player"
@@ -9197,8 +9197,8 @@
             "name": "Science Over Mysticism",
             "front": {
                 "type": "asset",
-                "traits": "Talent. Wissenschaft.",
-                "text": "Entdeckt (3 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<action> Lege eine <t>Zauber</t>- oder <t>Ritual</t>-Karte aus deinem Spielbereich oder von deiner Hand ab: Ziehe 1 Karte und erhalte X Ressourcen. X sind die Ressourcen-<br>kosten der abgelegten Karte.",
+                "traits": "Talent. Science.",
+                "text": "Researched (3 experience and 1 \"Memories\").\n<action> Discard a <t>Spell</t> or <t>Ritual </t>under your control or from your hand: Draw 1 card and gain X resources, where X is the resource cost of the discarded card.",
                 "cost": "1",
                 "flavor_text": "",
                 "classes": [
@@ -9223,8 +9223,7 @@
             "name": "Particle Accelerator",
             "front": {
                 "type": "asset",
-                "traits": "Wissenschaft.",
-                "text": "Entdeckt (5 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<reaction> Nachdem du w\u00e4hrend einer Fertigkeitsprobe einen <tablet>-, <elder_thing>- oder <auto_fail>-Chaosmarker enth\u00fcllt hast, gib 1 Ressource aus und ersch\u00f6pfe den Teilchen-<br>beschleuniger: Du erh\u00e4ltst 1 Hinweis aus dem Marker-<br>vorrat.",
+                "text": "Researched (5 experience and 1 \"Memories\").\n<reaction> After you reveal a <tablet>, <elder_thing> or<auto_fail> during a skill test, spend 1 resource and exhaust Particle Accelerator: Gain 1 clue from the token bank.",
                 "cost": "0",
                 "flavor_text": "",
                 "classes": [
@@ -9236,7 +9235,8 @@
                 "illustration_pan_y": 146.0,
                 "illustration_scale": 1.62,
                 "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
-                "collection_number": "16"
+                "collection_number": "16",
+                "traits": "Science."
             },
             "back": {
                 "type": "player"
@@ -9250,8 +9250,7 @@
             "name": "Sub-electron Noise Sensor",
             "front": {
                 "type": "asset",
-                "traits": "Gegenstand. Werkzeug. Wissenschaft.",
-                "text": "Entdeckt (3 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\n<action>: W\u00e4hle einen enth\u00fcllten Ort, an dem sich genau 1 Hinweis befindet. Du darfst entweder (w\u00e4hle eins):\n<bullet> <b>Ermitteln.</b> Ermittle, als ob du dich am gew\u00e4hlten Ort bef\u00e4ndest. Du bekommst f\u00fcr diese Ermittlung +2 <intellect>.\n<bullet> Aktiviere eine Scannen-F\u00e4higkeit der gew\u00e4hlten Ortskarte.",
+                "text": "Researched (3 experience and 1 \"Memories\").\n<action> Choose any revealed location with exactly 1 clue remaining. You may either (choose one):\n<bullet> <b>Investigate</b>. Investigate with +2 <intellect> as if you were at that location.\n<bullet> Activate a <b>Scan</b> ability at that location.",
                 "cost": "0",
                 "slot": "1 Hand",
                 "flavor_text": "",
@@ -9267,7 +9266,8 @@
                     "hand"
                 ],
                 "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
-                "collection_number": "20"
+                "collection_number": "20",
+                "traits": "Item. Tool. Science."
             },
             "back": {
                 "type": "player"
@@ -9281,8 +9281,7 @@
             "name": "Dimensional Study",
             "front": {
                 "type": "event",
-                "traits": "Erkenntnis. Forschung.",
-                "text": "Nur f\u00fcr das Deck von Kate Winthrop.\n<reaction> Sobald du dein Deck durchsuchst und sich Dimensions-forschung unter den durchsuchten Karten befindet: Ziehe diese Karte. (Max. 1 <t>Forschung</t>-F\u00e4higkeit pro Suche.)\nW\u00e4hle einen Nicht-<t>Elite</t>-Gegner an deinem Ort und lege eine <intellect>-Probe (X) ab. X ist der Kampfwert des Gegners. Falls die Probe gelingt, besiege den Gegner entweder, oder du entkommst ihm automatisch und bewegst dich an einen verbundenen Ort. Diese Aktion provoziert keine <br>Gelegenheitsangriffe.",
+                "text": "Kate Winthrop deck only.\n<reaction> When you search your deck and Dimensional Study is among the searched cards, draw it. (Max one <t>Reasearch</t> ability per search).\nChoose a non-<t>Elite</t> enemy at your location and test <intellect>(X), where X is that enemy's fight value. If you succeed, defeat that enemy, or evade that enemy and move it to a connection location. This action does not provoke attacks of opportunity.",
                 "cost": "2",
                 "level": "None",
                 "flavor_text": "",
@@ -9296,7 +9295,8 @@
                 "illustration_pan_y": -1.0,
                 "illustration_scale": 1.16,
                 "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
-                "collection_number": "3"
+                "collection_number": "3",
+                "traits": "Insight. Research."
             },
             "back": {
                 "type": "player"
@@ -9310,9 +9310,8 @@
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
-                "subtitle": "Dr. Youngs Verm\u00e4chtnis",
-                "traits": "Wissenschaft.",
-                "text": "Dauerhaft. Nur f\u00fcr das Deck von Kate Winthrop. Anwendungen\n(2 Ladungen).\n<reaction> Nachdem dir eine <intellect>-Probe um 2 oder mehr gelungen ist: Platziere 1 Ladung auf den <name>.\n<reaction> Sobald du aufgibst oder das Spiel endet: F\u00fcr jeweils 4 Ladungen auf dem <name> werden die Erfahrungspunktekosten der ersten Erforscht-<br>Karte, die du vor dem n\u00e4chsten Szenario erwirbst, um 1 gesenkt.\n<free> Gib 2 Ladungen aus: Mische die Karte Dimensionsforschung aus deinem Ablagestapel in dein Deck.",
+                "subtitle": "Dr. Young's Legacy",
+                "text": "Permanent. Kate Winthrop deck only. Uses (2 charges).\n<reaction> After you succeed a <intellect> skill test by 2 or more, place 1 charge on Flux Stabilizer.\n<reaction> When you resign or the game ends: For every 4 charges on Flux Stabilizer, reduce the experience cost of the first Researched card you upgrade before the next scenario by 1.\n<free> Spend 2 charges: Shuffle Dimensional Study from your discard pile back into your deck.",
                 "level": "None",
                 "flavor_text": "",
                 "classes": [
@@ -9323,7 +9322,9 @@
                 "illustration_pan_y": 15.0,
                 "illustrator": "Illus. Micah Epstein",
                 "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
-                "collection_number": "2"
+                "collection_number": "2",
+                "traits": "Science.",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "player"
@@ -9337,12 +9338,12 @@
             "front": {
                 "type": "investigator",
                 "title": "<unique><name>",
-                "subtitle": "Die Wissenschaftlerin",
-                "traits": "Miskatonic. Gelehrter.",
-                "text": "Du darfst in deinem Zug eine zus\u00e4tzliche Aktion nehmen, die nur zum Aktivieren einer <action>-F\u00e4higkeit einer Erforscht-Karte oder einer Karte, die eine Erforscht-<br>Verbesserung besitzt, verwendet werden kann.\n<elder_sign>-Effekt: +2. Falls die Probe gelingt, platziere 1 Ladung auf den Fluxstabilisator.",
+                "subtitle": "The Scientist",
+                "traits": "Miskatonic. Scholar.",
+                "text": "You may take an additional action during your turn, which can only be used on <action>-abilities on Researched cards or cards with a Researched upgrade.\n<elder_sign> effect: +2. If you succeed, place 1 charge on Flux Stabilizer.",
                 "health": "5",
                 "sanity": "9",
-                "flavor_text": "\u201eAlles ist einfacher als es scheint. Wenn man danach sucht, findet man die Verbindung immer.\u201c",
+                "flavor_text": "\"Everything is simpler than it seems. The connection is there if you look for it.\"",
                 "classes": [
                     "seeker"
                 ],
@@ -9353,14 +9354,17 @@
                 "illustration_scale": 1.16,
                 "illustrator": "Illus. Cristi Balanescu",
                 "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
-                "collection_number": "1"
+                "collection_number": "1",
+                "intellect": "4",
+                "combat": "1",
+                "agility": "4"
             },
             "back": {
                 "type": "investigator_back",
                 "illustration": "./images/Kate Winthrop - Cristi Balanescu.jpg",
                 "entries": [
                     [
-                        "<b>Deckgr\u00f6\u00dfe:</b>",
+                        "<b>Deck Size:</b>",
                         "30"
                     ],
                     [
@@ -9368,26 +9372,27 @@
                         ""
                     ],
                     [
-                        "<b>Deckbau-Optionen:</b>",
-                        "Sucherkarten (<seeker>) Stufe 0-5, Karten mit dem Wort \u201eermitteln\u201c im Kartentext Stufe 0-5, Neutrale Karten Stufe 0-5, <t>Wissenschaft</t>-Karten Stufe 0-3."
+                        "<b>Deckbuilding Options:</b>",
+                        "Seeker cards (<seeker>) level 0-5, cards with \"investigate\" in its text level 0-5, Neutral cards level 0-5, <t>Science</t> cards level 0-3."
                     ],
                     [
-                        "<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe)<b>:</b>",
-                        "Fluxstabilisator, Dimensions-<br>forschung, Dimensionsspalt, 1 zuf\u00e4llige <br> Grundschw\u00e4che."
+                        "<b>Deckbuilding Requirements</b> (do not count toward deck size)<b>:</b>",
+                        "Flux Stabilizer, Dimensional Study, Dimensional Rift, 1 random basic weakness."
                     ],
                     [
                         "<b>Deckbuilding Restrictions:</b>",
                         ""
                     ]
                 ],
-                "text": "<b>Deckgr\u00f6\u00dfe:</b> 30\n<b>Deckbau-Optionen:</b> Sucherkarten (<seeker>) Stufe 0-5, Karten mit dem Wort \u201eermitteln\u201c im Kartentext Stufe 0-5, Neutrale Karten Stufe 0-5, <t>Wissenschaft</t>-Karten Stufe 0-3.\n<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe)<b>:</b> Fluxstabilisator, Dimensions-<br>forschung, Dimensionsspalt, 1 zuf\u00e4llige <br> Grundschw\u00e4che.",
-                "flavor_text": "\nDie ruhige und findige Kate arbeitete als Forscherin in der Miskatonic-Universit\u00e4t. Sie und ihr Kollege Professor Young waren Pioniere auf dem Gebiet der Dimensions-<br>forschung. Eines Tages \u00f6ffneten sie jedoch bei einem Laborunfall ein Portal in eine andere Dimension. Das Wesen, das durch dieses Portal kam, riss Professor Young in St\u00fccke. Kate \u00fcberlebte, aber die Erinnerungen an diesen Tag verfolgen sie bis heute. Deswegen ist sie fest entschlossen, zu verhindern, dass so etwas jemals wieder geschieht.",
+                "text": "<b>Deck Size:</b> 30\n<b>Deckbuilding Options:</b> Seeker cards (<seeker>) level 0-5, cards with \"investigate\" in its text level 0-5, Neutral cards level 0-5, <t>Science</t> cards level 0-3.\n<b>Deckbuilding Requirements</b> (do not count toward deck size)<b>:</b> Flux Stabilizer, Dimensional Study, Dimensional Rift, 1 random basic weakness.",
+                "flavor_text": "A quiet and resourceful girl, Kate worked as a research scientist at Miskatonic University. She and a fellow scientist, Professor Young, were pioneers in the field of dimensional science. However, a lab accident opened a portal to another dimension and a creature emerged. That creature then proceeded to tear Professor Young to pieces. Kate lived, but the memories of that day still haunt her which is why she's determined to keep that from ever happening again.",
                 "illustration_pan_x": -130.0,
                 "illustration_pan_y": 72.0,
                 "illustration_scale": 0.7,
                 "classes": [
                     "seeker"
-                ]
+                ],
+                "subtitle": "The Scientist"
             },
             "id": "6b8d08d9-df88-4163-89b8-4b54779bbce7",
             "investigator": "Kate Winthrop",
@@ -9399,7 +9404,7 @@
             "name": "A Webb Of Discovery",
             "front": {
                 "type": "story",
-                "text": "<blockquote>Du findest ein Objekt, das aus mehreren makellos gl\u00e4nzenden Sechsecken besteht. Es ist ein altes Teleskop, mit dem die Grenzen des bekannten Universums beobachtet wurden.\n\u201eDas James Webb-Weltraumteleskop (JWST) ist ein Weltraumteleskop, das haupts\u00e4chlich f\u00fcr die Infrarotastronomie entwickelt wurde. Es ist das gr\u00f6\u00dfte optische Teleskop im Weltraum, und seine hohe Infrarotaufl\u00f6sung und Empfindlichkeit machen es m\u00f6glich, Objekte zu sehen, die zu alt, zu weit entfernt oder zu blass f\u00fcr das Hubble-Weltraumteleskop sind. Dadurch erm\u00f6glicht es eine gro\u00dfe Bandbreite an Untersuchungen auf den Gebieten der Astronomie und Kosmologie, wie z.B. die Beobachtung der ersten Sterne und der Entstehung der ersten Galaxien, und die genaue Beschreibung der Atmosph\u00e4ren potenziell bewohnbarer Exoplaneten.\u201c\n<right>-Maja, Informationsarchiv</blockquote>\n\n<left>Falls ein Ermittler an deinem Ort eine <t>Wissenschaft</t>-<br>Karte im Spiel kontrolliert oder besitzt, h\u00e4nge <name> an einen beliebigen Ort an. Entferne diese Karte ansonsten aus dem Spiel. Ermittler d\u00fcrfen den Ort mit dieser Verst\u00e4rkung behandeln, als ob sein aufgedrucktes Textfeld leer w\u00e4re.",
+                "text": "<blockquote>You come across a pristine hexagonal mirror - an old telescope that was used to observe the edges of the universe as we know it.\n\"The James Webb Space Telescope (JWST) is a space telescope designed primarily to conduct infrared astronomy. As the largest optical telescope in space, its high infrared resolution and sensitivity allow it to view objects too early, distant, or faint for the Hubble Space Telescope. This is expected to enable a broad range of investigations across the fields of astronomy and cosmology, such as observation of the first stars and the formation of the first galaxies, and detailed atmospheric characterization of potentially habitable exoplanets.\"\n<right>\u2014 Maja, Information Archives</blockquote>\n\n<left>If an investigator at your location controls or owns a<t> Science</t> card, attach this card to any location. Otherwise, remove this card from the game.<br>You may treat the text box of the attached location as if they were blank.",
                 "collection_icon": "<image src=\"C:/Users/jbalota/Downloads/dm_atom.svg\">",
                 "collection_number": "6"
             },
@@ -9425,7 +9430,7 @@
             "name": "Voyage Beyond Space",
             "front": {
                 "type": "story",
-                "text": "<blockquote>Du kannst ein leises piependes Ger\u00e4usch aus den Weiten des Alls h\u00f6ren.\n\u201eVoyager 1 ist eine Raumsonde, die am 5. September 1977 als Teil des Voyager-Programms der NASA gestartet wurde, um das \u00e4u\u00dfere Sonnensystem und den interstellaren Raum jenseits der Heliosph\u00e4re der Sonne zu erforschen. Voyager 1 entdeckte einen schwach ausgepr\u00e4gten Planetenring um den Jupiter und zwei neue Jupitermonde: Thebe und Metis. Am Saturn entdeckte Voyager 1 f\u00fcnf neue Monde und einen neuen Ring, der als G-Ring bezeichnet wurde. Voyager 1 ist das erste von Menschen gebaute Objekt, das in den interstellaren Raum eintrat, und ist auch heute noch das menschen-gemachte Objekt, das am weitesten von der Erde entfernt ist.\u201c\n<right>-Maja, Informationsarchiv</blockquote>\n\n<left>Jeder Ermittler erh\u00e4lt f\u00fcr jede <t>Wissenschaft</t>-Karte im Spiel, die er kontrolliert oder besitzt, 1 Ressource. Entferne <name> aus dem Spiel.",
+                "text": "<blockquote>A faint beeping noise can be heard from the far reaches of space.\n\"Voyager 1 is a space probe launched by NASA on September 5, 1977, as part of the Voyager program to study the outer Solar System and interstellar space beyond the Sun's heliosphere. Voyager 1 discovered a thin ring around Jupiter and two new Jovian moons: Thebe and Metis. At Saturn, Voyager 1 found five new moons and a new ring called the G-ring. Voyager 1 is the first human-made object to venture into interstellar space, and it is still the most distant human-made object from Earth.\"\n<right>\u2014 Maja, Information Archives</blockquote>\n\n<left>Each investigator gains 1 resource for each <t>Science</t> card they control or own.<br>Remove this card from the game.",
                 "collection_icon": "<image src=\"./images/science.png\">",
                 "collection_number": "9"
             },
@@ -9451,7 +9456,7 @@
             "name": "Curious Discovery",
             "front": {
                 "type": "story",
-                "text": "<blockquote>Du findest eine gl\u00e4serne Vitrine, die eines der wertvollsten Relikte der Mars-Kolonien enth\u00e4lt - einen alten Marsrover.\n\u201eCuriosity ist ein automobilgro\u00dfer Marsrover, der entwickelt wurde, um als Teil der Mars Science Laboratoty (MSL)-Mission der NASA den Gale-Krater auf dem Mars zu erkunden. Curiosity wurde im Jahr 2011 von der CCAFS am Cape Canaveral ins All geschossen und landete 2012 im Aeolis Palus innerhalb des Gale-Kraters auf dem Mars. Zu seinen Missionszielen z\u00e4hlen die Untersuchung des Klimas und der Geologie auf dem Mars, die Pr\u00fcfung, ob Gale jemals g\u00fcnstige Bedingungen f\u00fcr mikrobielles Leben bot (und welche Rolle Wasser bei der Enstehung solchen Lebens spielt) und die Einsch\u00e4tzung der Bewohnbarkeit des Planeten zur Vorbereitung sp\u00e4terer bemannter Missionen.\u201c\n<right>-Maja, Informationsarchiv</blockquote>\n\n<left>Jeder Ermittler zieht f\u00fcr jede <t>Wissenschaft</t>-Karte im Spiel, die er kontrolliert oder besitzt, 1 Karte. (Max. 3 Karten f\u00fcr jeden Ermittler.)\nEntferne <name> aus dem Spiel.",
+                "text": "<blockquote>You come across a glass cube protecting one of the most valuable relics of the Martian colonies - an old Mars rover.\n\"Curiosity is a car-sized Mars rover designed to explore the Gale crater on Mars as part of NASA's Mars Science Laboratory (MSL) mission. Curiosity was launched from Cape Canaveral (CCAFS) in 2011 and landed on Aeolis Palus inside Gale crater on Mars in 2012. Mission goals include an investigation of the Martian climate and geology, assessment of whether the selected field site inside Gale has ever offered environmental conditions favorable for microbial life (including investigation of the role of water), and planetary habitability studies in preparation for human exploration.\"<br><right>\u2014 Maja, Information Archives</blockquote>\n\n<left>Each investigator draws 1 card for each <t>Science</t> card they control or own. (Max 3 cards per investigator)<br>Remove this card from the game.",
                 "collection_icon": "<image src=\"./images/science.png\">",
                 "collection_number": "7"
             },
@@ -9477,7 +9482,7 @@
             "name": "Hidden Signals",
             "front": {
                 "type": "story",
-                "text": "<blockquote>Die Oberfl\u00e4che der Erde ist nur noch ein zerst\u00f6rtes \u00d6dland voller abscheulicher Wesen und unaussprechlicher Sch\u00f6pfungen. Dein Sensor empf\u00e4ngt jedoch ein leises Hoffnungsfl\u00fcstern aus den Tr\u00fcmmern.\nW\u00e4hrend der vielen Jahre des Wohlstands, die die Menschheit vor dem Erscheinen der Gro\u00dfen Alten durchlebte, haben die Menschen zusammengearbeitet und gemeinsam mehrere unterirdische Labore gebaut, um die Wahrheiten des Universums zu ergr\u00fcnden. Was sind Neutrinos? K\u00f6nnen wir die ungreifbare Dunkle Materie finden? Was sind die grundlegenden Kr\u00e4fte, die das Universum zusammenhalten?\nDiese gemeinsamen Forschungsprojekte f\u00fchrten zu neuen Entdeckungen und haben das Wissen der ganzen Menschheit erweitert. Trotz der Schrecken, die \u00fcber ihnen lauern, senden die Labore dieses Wissen immer noch ins All.</blockquote>\nJeder Ermittler erh\u00e4lt f\u00fcr jede <t>Wissenschaft</t>-Karte im Spiel, die er kontrolliert oder besitzt, 1 Hinweis aus dem Markervorrat. (Max. 2 Hinweise f\u00fcr jeden Ermittler.)\nEntferne <name> aus dem Spiel.",
+                "text": "<blockquote>The surface of the Earth is now a scattered wasteland of abominations and unspeakable designs. However, your scanning device detects a faint whisper of hope from beneath the rubble.\nThroughout the many years of prosperity that Earth has lived before the arrival of the Ancient Ones, humans have collaborated and constructed several underground laboratories in search for the truths of the universe. What are neutrinos? Can we detect the elusive dark matter? What are the fundamental forces that are holding the universe together?\nTheir collaborations and research have led to the discovery and overall advancement of scientific knowledge - such knowledge that is still being transmitted underneath the horrors above.</blockquote>\n\nEach investigator gains 1 clue from the token bank for each <t>Science</t> card they control or own. (Max 2 clues per investigator)<br>Remove this card from the game.",
                 "collection_icon": "<image src=\"./images/science.png\">",
                 "collection_number": "8"
             },
@@ -9501,13 +9506,12 @@
             "name": "Rift Walker",
             "front": {
                 "type": "enemy",
-                "traits": "Monster. Au\u00dferdimensional.",
-                "text": "Gebunden (Dimensionsspalt).\n<for> Am Ende der Runde: Bewege alle Schadensmarker vom <name> auf den Dimensionsspalt. Lege das <name> als nicht im Spiel befindlich beiseite (zu deinen gebundenen Karten). ",
+                "traits": "Monster. Extradimensional.",
+                "text": "Bonded (Dimensional Rift, Flux Stabilizer).\n<for> At the end of the round: Set <name> aside, out of play. Move all damage tokens from Rift Walker onto Dimensional Rift.",
                 "evade": "3",
                 "combat": "2",
                 "damage": 1,
                 "horror": 1,
-                "flavor_text": "Der J\u00e4ger aus dem Dimensionsspalt, der Kates Mentor Professor Young zerlegt hat. Als Kate diesem Wesen das letzte Mal begegnet ist, hat es ihre F\u00e4hrte aufgenommen und scheint seitdem immer genau zu wissen, wo es sie finden kann\u2026",
                 "illustration": "./images/shambler.jpg",
                 "classes": [
                     "weakness"
@@ -9515,9 +9519,9 @@
                 "attack": "2",
                 "illustrator": "Illus. Borja Pindado",
                 "illustration_pan_y": 900.0,
-                "subtitle": "SCHW\u00c4CHE",
                 "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
-                "collection_number": "4"
+                "collection_number": "4",
+                "flavor_text": "A dimensional hunt responsible for shredding Kate's mentor, Professor Young. The last time Kate encountered this creature, it scented her and seems to know exactly where to find her..."
             },
             "back": {
                 "type": "player"
@@ -9530,8 +9534,7 @@
             "name": "Dimensional Rift",
             "front": {
                 "type": "treachery",
-                "traits": "Patzer. Endzeit.",
-                "text": "<rev> Bringe den <name> in deiner Bedrohungszone ins Spiel.\n<free> Gib 1 Ladung vom Fluxstabilisator aus: L\u00f6se die \u201eZu Beginn der Gegnerphase\u201c-F\u00e4higkeit dieser Karte aus.\n<for> Zu Beginn der Gegnerphase: Durchsuche deine gebundenen Karten, deinen Ablagestapel und dein Deck nach dem Wesen aus dem Spalt und ziehe es.\n<for> Sobald 2 oder mehr Schaden auf dem Dimensions-\n                   spalt liegen: Lege diese Karte ab.",
+                "text": "<rev> Put <name> into play in your threat area.\n<free> Spend 1 charge from Flux Stabilizer: Search your bonded cards, discard pile, and deck for Rift Walker and draw it.\n<for> At the start of the enemy phase: Search your bonded cards, discard pile, and dec for Rift Walker and draw it.\n<for> If Dimensional Rift has 2 or more damage on it: Discard it",
                 "flavor_text": "",
                 "classes": [
                     "weakness"
@@ -9540,7 +9543,8 @@
                 "illustration_pan_x": -200.0,
                 "illustrator": "Illus. Nele Diel",
                 "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
-                "collection_number": "5"
+                "collection_number": "5",
+                "traits": "Blunder. Endtimes."
             },
             "back": {
                 "type": "player"
@@ -9554,9 +9558,8 @@
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
-                "subtitle": "Grundkr\u00e4fte",
-                "traits": "Buch. Wissenschaft.",
-                "text": "Entdeckt (3 Erfahrungspunkte und 1 \u201eErinnerung\u201c).\nAnwendungen (3 Geheimnisse).\n<free> Gib 1 Geheimnis aus und ersch\u00f6pfe die Gro\u00dfe vereinheitlichte Theorie: Du bekommst f\u00fcr diese Fertigkeitsprobe +X auf deinen Fertigkeitswert. X ist die Anzahl deiner \u201eErinnerungen\u201c.",
+                "subtitle": "Fundamental Forces",
+                "text": "Researched (3 experience and 1 \"Memories\").<br>Uses (3 secrets).\n<free> During a skill test, spend 1 secret and exhaust Grand Unified Theory: You get +1 skill value for each \"Memories\" you have.",
                 "slot": "1 Hand",
                 "flavor_text": "",
                 "icons": "Q",
@@ -9574,7 +9577,8 @@
                     "hand"
                 ],
                 "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
-                "collection_number": "12"
+                "collection_number": "12",
+                "traits": "Tome. Science."
             },
             "back": {
                 "type": "player"
@@ -9589,12 +9593,11 @@
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
-                "subtitle": "Die erste Kosmonautin",
-                "traits": "Verb\u00fcndeter. Kreatur. Wissenschaft.",
-                "text": "<rev> Bringe diese Karte unter der Kontrolle eines Ermittlers an deinem Ort ins Spiel.\nDu bekommst +2 geistige Gesundheit.",
+                "subtitle": "The First Cosmonaut",
+                "text": "<rev> Put this card into play under the control of an investigator at your location.<br>You get +2 sanity.",
                 "health": "1",
                 "sanity": "1",
-                "flavor_text": "Die Mi-Go retteten sie vor den fr\u00fchen unmenschlichen Tierversuchen. Sie hofften, dass die Menschheit danach streben w\u00fcrde, freundlicher zu allen Lebewesen und ihrem eigenen Planeten zu werden.",
+                "flavor_text": "The Mi-Go had saved her from the early inhumane scientific experimentation on animals. They hoped humanity would strive to become more kind to all living creatures, and their own planet.",
                 "classes": [
                     "neutral"
                 ],
@@ -9603,7 +9606,8 @@
                 "level": "None",
                 "illustration_pan_x": -100.0,
                 "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
-                "collection_number": "10"
+                "collection_number": "10",
+                "traits": "Ally. Creature. Science."
             },
             "back": {
                 "type": "fullart_scanning",
